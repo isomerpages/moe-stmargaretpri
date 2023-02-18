@@ -1,6 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: about us
+    collection: about-us
+  - title: school information
+    collection: school-information
+  - title: Learning @SMS(P)
+    collection: learning-at-sms
+  - title: Achievements
+    collection: achievements
+  - title: Partners
+    collection: partners
