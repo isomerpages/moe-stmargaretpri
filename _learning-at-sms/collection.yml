@@ -1,4 +1,5 @@
 collections:
   learning-at-sms:
     output: true
-    order: []
+    order:
+      - Home Based Learning.md
