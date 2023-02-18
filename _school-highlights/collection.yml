@@ -1,0 +1,4 @@
+collections:
+  school-highlights:
+    output: true
+    order: []
