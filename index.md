@@ -20,10 +20,11 @@ sections:
             url: ""
           - title: The Oldest GIrls School
             url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Fundraising
+      subtitle: St margaret's
+      button: find out more
+      url: /files/PUP%20/Fundraising%202021.pdf
+      image: /images/Screenshot (517).png
+      alt: Image alt text
 ---
