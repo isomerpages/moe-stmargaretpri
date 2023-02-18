@@ -23,3 +23,57 @@ More information will be provided at a later date.
 
 
 # video guides to be uploaded on youtube to embed
+
+<br><br>
+## Parents Info Hub
+
+1. [](/files/Resource%20Kit%20-%20HBL.pdf)
+2. [](/files/Resource%20Kit%20-%20HBL%20(Part%202).pdf)
+3. [](/files/Resource%20Kit%20-%20HBL%20(Part%203).pdf)
+
+## HBL Support Information
+
+### 1\. School Operating Hours
+
+During school operating hours, students should contact 6339 4247 for queries related to password reset and unlocking  
+
+of accounts. For queries related to subject matters, kindly email the respective subject teachers.
+
+  
+
+School-based Helpline: 6339 4247
+
+Mondays - Fridays: 8:00 a.m - 4:00 p.m  
+
+  
+
+For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk,
+
+they should include their full name, name of school and form class.
+
+  
+
+### 2\. Non-School Operating Hours
+
+Students can only contact the SLS Helpdesk after the school operating hours.  
+
+  
+
+SLS Helpdesk: 6702 6513
+
+Mondays - Fridays: 4:00 p.m - 9:00 p.m
+
+Saturdays: 9:00 am - 9:00 p.m  
+
+\*Closed on Sundays & Public Holidays
+
+  
+
+Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk,
+
+they should include their full name, name of school and form class.
+
+  
+
+### 3\. User guide for HBL broken link
+
