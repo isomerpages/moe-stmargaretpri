@@ -2,4 +2,5 @@ collections:
   school-highlights:
     output: true
     order:
+      - To Learn and Grow.md
       - P1 Orientation 2023.md
