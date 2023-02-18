@@ -23,7 +23,7 @@ sections:
           - title: Useful Links
             url: /useful-links/resources-for-parents/
           - title: Sexuality Education
-            url: /learning-at-sms-p/student-development/character-and-citizenship-education/2023-moe-sexuality-education/
+            url: /learning-at-sms/student-development/2023-moe-sexuality-education-programme/
   - infopic:
       title: Fundraising
       subtitle: St margaret's
