@@ -2,5 +2,6 @@ collections:
   school-highlights:
     output: true
     order:
+      - The Oldest Girls School.md
       - To Learn and Grow.md
       - P1 Orientation 2023.md
