@@ -21,7 +21,9 @@ sections:
           - title: The Oldest GIrls School
             url: /school-highlights/the-oldest-girls-school/
           - title: Useful Links
-            url: /useful-links/
+            url: /useful-links/resources-for-parents/
+          - title: Sexuality Education
+            url: /sexuality-education/info
   - infopic:
       title: Fundraising
       subtitle: St margaret's
