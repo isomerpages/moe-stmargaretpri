@@ -77,3 +77,177 @@ they should include their full name, name of school and form class.
 
 ### 3\. User guide for HBL broken link
 
+# FAQ
+===
+
+1\. Student Forget Username  
+
+  
+
+Your username is usually the first 5 characters of your full name and last 4 digits of birth cert or NRIC together with the alphabet, e.g. TANAH2345X.
+
+_Note: Usernames will not contain spaces or special characters such as apostrophes (') and hyphens (-)._
+
+  
+
+  
+
+### 2\. Reset password
+
+  
+
+\* If you have forgotten your password, you can reset it by having a password reset email sent to your email address, or by answering a series of security questions.
+
+[](https://stmargaretspri.moe.edu.sg/learning-at-sms-p/home-based-learning/goog_1428196432)
+
+[_https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/student-forgot-password.html_](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/student-forgot-password.html)
+
+  
+
+\* If your teacher is available to reset the password for you, you will be given a one-time password (OTP) to log in, after which you will be prompt to key in a new password.
+
+  
+
+  
+
+### 3\. Find password reset email
+
+When you use the [Forgot Password feature](https://mo.learning.moe.edu.sg/UserGuide/Vle/student/administration/forgot-password.html) to reset your password, an email with a password reset link will be sent to you. If you cannot find the email in your inbox, it may be in the spam folder.
+
+_**Note**: If the link has expired, go to the login page and select **Forgot Password** to request another link._
+
+  
+
+It is also possible that you have not entered and verified your email address. If that's the case, you may either use the security questions or approach a teacher to reset your password. Remember to key in an email address after that for future password reset.
+
+  
+
+If the problem persists, please contact the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) or call 6702 6513.
+
+  
+
+  
+
+### 4\. Adding Email address
+
+You should set a password reset email address in your profile. This will allow you to reset your password through a password reset link if you forget it.
+
+  
+
+To set your password reset email address:
+
+  
+
+![e1.png](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/HBL/e1.png)  
+
+  
+
+1\. On the top right corner of any SLS page, click on the button Set Password Reset Email Address followed by selecting **Edit Profile.**
+
+  
+
+![e2.png](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/HBL/e2.png)  
+
+  
+
+2\. On the **Edit** Profile page, click the **Email Address** tab.
+
+3\. In the "Email Address" field, enter your email address.
+
+4\. Click **Save**.
+
+5\. An email with a verification code will be sent to your email address.
+
+  
+
+6\. Enter the verification code into the pop up box.
+
+  
+
+![e4.png](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/HBL/e4.png)
+
+  
+
+7\. Once verification is successful, a message will appear at the header. The verified email address will also be displayed in the "Email Address" field in subsequent log-ins.
+
+_**Note**: You must verify the email address before you can use it to reset your password._
+
+  
+
+While it is not a must to enter an email address, as this is the easiest and fastest method to reset your SLS password should you forget what it is.
+
+  
+
+  
+
+### 5\. Operating system and browser requirements
+
+  
+
+The Student Learning Space (SLS) is accessible through internet browsers on either Windows PC, Mac, iPad or Android tablets. For a good user experience, tablets should have a screen size of at least 7 inches.
+
+  
+
+The recommended operating systems and browsers are:
+
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6vty{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-mppl{background-color:#EEE;color:#444;text-align:left;vertical-align:top}
+.tg .tg-vlwp{background-color:#EEE;color:#444;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6vty"><span style="color:#333;background-color:#FFF">Operating System</span></th>
+    <th class="tg-6vty"><span style="color:#333;background-color:#FFF">Browser</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vlwp"><span style="color:#444;background-color:#EEE">Microsoft Windows 7 SP1 and Windows 8.1</span></td>
+    <td class="tg-mppl">Google Chrome 66 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-vlwp"><span style="color:#444;background-color:#EEE">Microsoft Windows 10</span></td>
+    <td class="tg-mppl">Google Chrome 66 and later<br>Microsoft Edge 17 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-vlwp"><span style="color:#444;background-color:#EEE">Mac OS 10 and later</span></td>
+    <td class="tg-mppl">Safari 11 and later<br>Google Chrome 66 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-vlwp"><span style="color:#444;background-color:#EEE">iOS 11 and later</span></td>
+    <td class="tg-mppl">Safari 11 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-vlwp"><span style="color:#444;background-color:#EEE">Android 5 and later</span></td>
+    <td class="tg-mppl">Google Chrome 66 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-vlwp"><span style="color:#444;background-color:#EEE">chromeOS 79 and later</span></td>
+    <td class="tg-mppl">Google Chrome 79 and later</td>
+  </tr>
+</tbody>
+</table>
+
+  
+
+### 6\. Web browser troubleshooting tips
+
+[https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/web-browser-troubleshooting.html](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/web-browser-troubleshooting.html)
+
+  
+
+  
+
+### 7\. SLS helpdesk
+
+[  
+](https://stmargaretspri.moe.edu.sg/learning-at-sms-p/home-based-learning/goog_29713546)
+
+[https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/sls-helpdesk.html](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/sls-helpdesk.html)
