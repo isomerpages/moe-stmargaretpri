@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Chaplaincy Contacts.md
       - Parent Teacher Association.md
       - St Margaret's Ex Students Association.md
