@@ -20,6 +20,8 @@ sections:
             url: /school-highlights/to-learn-and-grow/
           - title: The Oldest GIrls School
             url: /school-highlights/the-oldest-girls-school/
+          - title: Useful Links
+            url: /useful-links/
   - infopic:
       title: Fundraising
       subtitle: St margaret's
