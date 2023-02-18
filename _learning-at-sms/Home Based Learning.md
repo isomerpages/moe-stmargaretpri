@@ -138,7 +138,7 @@ To set your password reset email address:
 
   
 
-![e1.png](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/HBL/e1.png)  
+![e1.png](/images/e11.png)  
 
   
 
@@ -146,7 +146,7 @@ To set your password reset email address:
 
   
 
-![e2.png](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/HBL/e2.png)  
+![e2.png](/images/e22.png)  
 
   
 
@@ -164,7 +164,7 @@ To set your password reset email address:
 
   
 
-![e4.png](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/HBL/e4.png)
+![e4.png](/images/e44.png)
 
   
 
