@@ -13,13 +13,13 @@ sections:
         title: Latest Buzz
         options:
           - title: English Language Week 2023
-            url: ""
+            url: /school-highlights/english-language-el-week-2023/
           - title: School HIghlights
-            url: ""
+            url: /school-highlights/appreciation-to-our-peri-partners/
           - title: To Learn and Grow
-            url: ""
+            url: /school-highlights/to-learn-and-grow/
           - title: The Oldest GIrls School
-            url: ""
+            url: /school-highlights/the-oldest-girls-school/
   - infopic:
       title: Fundraising
       subtitle: St margaret's
@@ -28,4 +28,3 @@ sections:
       image: /images/Screenshot (517).png
       alt: Image alt text
 ---
-
