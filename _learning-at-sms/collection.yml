@@ -2,5 +2,6 @@ collections:
   learning-at-sms:
     output: true
     order:
+      - Co Curricular Activities/.keep
       - ALP & LLP.md
       - Home Based Learning.md
