@@ -1,4 +1,5 @@
 collections:
   school-highlights:
     output: true
-    order: []
+    order:
+      - P1 Orientation 2023.md
