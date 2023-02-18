@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Parent Teacher Association.md
       - St Margaret's Ex Students Association.md
