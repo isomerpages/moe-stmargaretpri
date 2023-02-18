@@ -2,4 +2,5 @@ collections:
   learning-at-sms:
     output: true
     order:
+      - ALP & LLP.md
       - Home Based Learning.md
