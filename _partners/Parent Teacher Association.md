@@ -13,7 +13,7 @@ The 2022 EXCO members are as follows:
 
   
 
-![PTA Logo](/images/d1b5216da_u0717.gif)  
+<img src="/images/d1b5216da_u0717.gif" style="width:100px"/>
 
 Please click on the link below to know more about the PTA.  
 
