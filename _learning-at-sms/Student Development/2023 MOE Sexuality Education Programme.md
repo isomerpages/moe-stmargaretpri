@@ -4,10 +4,8 @@ permalink: /learning-at-sms/student-development/2023-moe-sexuality-education-pro
 description: ""
 third_nav_title: Student Development
 ---
-MOE Sexuality Education in Schools
-----------------------------------
+## MOE Sexuality Education in Schools
 
-* * *
 
   
 
@@ -44,10 +42,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
   
   
 
-Overview of Sexuality Education Programme For 2023
---------------------------------------------------
+## Overview of Sexuality Education Programme For 2023
 
-* * *
 
   
 
@@ -74,10 +70,8 @@ Overview of Sexuality Education Programme For 2023
 
   
 
-Growing Years Programme (2023)
-------------------------------
+## Growing Years Programme (2023)
 
-* * *
 
 At St Margaret's School (Primary), the following Sexuality Education lessons will be taught in 2023.
 
