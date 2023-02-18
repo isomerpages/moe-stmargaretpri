@@ -27,4 +27,12 @@ sections:
       url: /files/PUP%20/Fundraising%202021.pdf
       image: /images/Screenshot (517).png
       alt: Image alt text
+  - infopic:
+      title: Orientation Week
+      subtitle: Primary 1
+      description: Welcome the Primary 1s!
+      button: photos
+      url: /school-highlights/p1-orientation-2023/
+      image: /images/p1orientation_thumbnail03.jpg
+      alt: Image alt text
 ---
