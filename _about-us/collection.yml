@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - School Song, Creed & Hymm.md
       - School History.md
       - St Margaret's Film.md
