@@ -2,6 +2,7 @@ collections:
   learning-at-sms:
     output: true
     order:
+      - Fun in Classroom/Physical & Health Education.md
       - Fun in Classroom/Information Communication & Technology (ICT).md
       - Fun in Classroom/.keep
       - Student Development/2023 MOE Sexuality Education Programme.md
