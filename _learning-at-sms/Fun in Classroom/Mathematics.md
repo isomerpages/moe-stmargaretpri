@@ -83,3 +83,41 @@ Mental sums is always a challenge to students! We made it easier with systematic
 We train students to be self-directed and independent learners who pens down her daily learning points, examples and notes. With these, students are able to use them as reference for revision at anytime, anywhere!
 
 # Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bzhr{background-color:#D6E6C7;color:#2A5629;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bzhr"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Title of Competition</span></th>
+    <th class="tg-bzhr"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Winners</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5">National Mathematical Olympiad of Singapore 2022<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver </span><br><span style="color:#000;background-color:#FFF"> 4 Bronze</span><br><span style="color:#000;background-color:#FFF"> 6 Honourable Mention</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Singapore Mathematical Olympiad for Primary Schools 2022</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Bronze</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Singapore and Asian Schools Math<br>Olympiad 2022<br>9 April 2022</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Silver</span><br><span style="font-weight:400;color:#000"> 4 Bronze</span><br><span style="font-weight:400;color:#000"> 1 Honorable Mention</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Singapore Math Kangaroo Contest 2022<br>27 March 2022</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver</span><br> 1 Bronze<br><span style="font-weight:400;color:#000"> 1 Honorable Mention</span></td>
+  </tr>
+</tbody>
+</table>
+
