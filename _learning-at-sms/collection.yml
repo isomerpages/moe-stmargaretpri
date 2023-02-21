@@ -2,6 +2,7 @@ collections:
   learning-at-sms:
     output: true
     order:
+      - Fun in Classroom/Malay Language.md
       - Fun in Classroom/Tamil Language.md
       - Fun in Classroom/Mathematics.md
       - Fun in Classroom/Science.md
