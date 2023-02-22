@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Highlights/P1 Orientation 2023.md
       - School Highlights/National Day 2022.md
       - School Highlights/P4 Sports Education Programme 2022.md
       - School Highlights/P3 Sports Education Programme 2022.md
