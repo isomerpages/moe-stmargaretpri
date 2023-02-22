@@ -93,8 +93,49 @@ Listed below are the opening hours of the various school gates:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YJursYA8ehk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Schol Bus Pick up 
+# School Bus Pick Up 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mYwFH6M2ef8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+# Gates Opening Hours
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Gates</span></th>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Opening Hours</span></th>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Location</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Walk in/out by Gate 1A</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">6.30 a.m. to 7.30 a.m.</span><br><span style="color:#222;background-color:#FBFFFA">1.30 p.m. to 2.00 p.m.</span><br><span style="color:#222;background-color:#FBFFFA">4.10 p.m. to 4.30 p.m.</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Situated next to the Gate 1 along Mattar Road</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Walk in/out by Gate 2</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 6.45 a.m. to 7.30 a.m.</span><br><span style="color:#222;background-color:#FBFFFA">1.30 p.m. to 1.50 p.m.</span><br><span style="color:#222;background-color:#FBFFFA">4.10 p.m. to 4.20 p.m.</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Situated next to the sheltered walkway along Aljunied Road </span></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Walk in/out by Gate 4</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 6.45 a.m. to 7.30 a.m.</span><br><span style="color:#222;background-color:#FBFFFA">1.30 p.m. to 1.50 p.m.</span><br><span style="color:#222;background-color:#FBFFFA">4.10 p.m. to 4.20 p.m.</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Situated near HDB Blk 126 (along Aljunied Road) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Drive in by Gate 1 and Drive out by Gate 3</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">6.45 a.m. to 7.30 a.m.</span><br><span style="color:#222;background-color:#FBFFFA">1.50 p.m. to 2.15 p.m.</span><br><span style="color:#222;background-color:#FBFFFA">4.10 p.m. to 4.40 p.m.</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Gate 1 along Mattar Road.</span><br><span style="color:#222;background-color:#FBFFFA">Gate 3 along Aljunied Road.</span></td>
+  </tr>
+</tbody>
+</table>
