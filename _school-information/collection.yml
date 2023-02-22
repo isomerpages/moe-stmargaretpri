@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Contact Us.md
       - Student Services Information.md
       - School Highlights/Appreciation to our PERI Partners.md
       - School Highlights/English Language (EL) Week 2023.md
