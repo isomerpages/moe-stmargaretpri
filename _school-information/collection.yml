@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Highlights/National Day 2022.md
       - School Highlights/P4 Sports Education Programme 2022.md
       - School Highlights/P3 Sports Education Programme 2022.md
       - School Highlights/180th Anniversary Celebration.md
