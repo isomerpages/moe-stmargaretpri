@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - School Admission.md
       - Traffic Management.md
       - Virtual Tour.md
