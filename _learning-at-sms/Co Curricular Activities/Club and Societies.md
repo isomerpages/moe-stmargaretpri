@@ -68,7 +68,7 @@ To add on to their primary school art education experience, learning journeys ar
 
   
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 880px; height: 154px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 439px;"><img src="/images/2022Clay%20dolls%20for%20180th%20Anniversary.jpg" width="100%" alt="2022_Clay dolls for 180th Anniversary_no name.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 401px; height: 501px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Clay dolls for 180th Anniversary</i></b></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 440px;"><img src="/images/2022Painting%20the%20bases%20for%20180th%20Anniversary%20artworks.jpg" width="100%" alt="2022_Painting the bases for 180th Anniversary artworks.JPG" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 356px; height: 502px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Painting the bases for<br style="margin: 0px; outline: 0px; padding: 0px;">180th Anniversary artworks</i></b></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/2022Exploring%20textures%20with%20twine%20and%20foil.jpg" width="100%" alt="2022_Exploring textures with twine and foil_no name.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 421px; height: 421px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Exploring textures with twine and foil</i></b></div></b></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 880px; height: 154px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 439px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 401px; height: 501px;" class="ive_eobj_left" alt="2022_Clay dolls for 180th Anniversary_no name.jpg" width="100%" src="/images/2022Clay%20dolls%20for%20180th%20Anniversary.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Clay dolls for 180th Anniversary</i></b></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 440px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 356px; height: 502px;" class="ive_eobj_center" alt="2022_Painting the bases for 180th Anniversary artworks.JPG" width="100%" src="/images/2022Painting%20the%20bases%20for%20180th%20Anniversary%20artworks.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Painting the bases for<br style="margin: 0px; outline: 0px; padding: 0px;">180th Anniversary artworks</i></b></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 421px; height: 421px;" class="ive_eobj_center" alt="2022_Exploring textures with twine and foil_no name.jpg" width="100%" src="/images/2022Exploring%20textures%20with%20twine%20and%20foil.jpg"><b style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Exploring textures with twine and foil</i></b></div></b></td></tr></tbody></table>
 
   
   
@@ -159,7 +159,7 @@ The InfoComm Club serves as a platform for pupils to learn more about different 
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; height: 654px; width: 738.345px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 378px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 285px;" class="ive_eobj_center" alt="AV equipment.jpg" width="100%" src="/images/AV%20equipment.jpg"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Juniors having on-the-job training on how to operate AV equipment</b></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 360px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 287px;" class="ive_eobj_center" alt="coaching.jpg" src="/images/coaching.jpg"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Senior coaching juniors how to capture<br style="margin: 0px; outline: 0px; padding: 0px;">the desired shot</i></b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 367px;" class="ive_eobj_center" alt="2021_infocomm01.jpg" width="100%" src="/images/2021infocomm01.jpg"><span style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Instructor coaching students on framing</i></b></span><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 366px;" class="ive_eobj_center" alt="2021_icc 5.jpg" width="100%" src="/images/2021icc%205.jpg"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teacher guiding P3 students on taking<br style="margin: 0px; outline: 0px; padding: 0px;">Perspective shot</b></i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 369px;" class="ive_eobj_center" alt="2021_icc 14.jpg" width="100%" src="/images/2021icc%2014.jpg"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">P3 and P4 student learning how to<br style="margin: 0px; outline: 0px; padding: 0px;">assemble a tripod</b></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 366px;" class="ive_eobj_center" alt="2021_icc 15.jpg" width="100%" src="/images/2021icc%2015.jpg"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Juniors learning how to take photos with<br style="margin: 0px; outline: 0px; padding: 0px;">close up shot</b></i></td></tr></tbody></table>
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; height: 654px; width: 738.345px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 378px;"><img src="/images/AV%20equipment.jpg" width="100%" alt="AV equipment.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 285px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Juniors having on-the-job training on how to operate AV equipment</b></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 360px;"><img src="/images/coaching.jpg" alt="coaching.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 287px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Senior coaching juniors how to capture<br style="margin: 0px; outline: 0px; padding: 0px;">the desired shot</i></b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021infocomm01.jpg" width="100%" alt="2021_infocomm01.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 367px;"><span style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Instructor coaching students on framing</i></b></span><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021icc%205.jpg" width="100%" alt="2021_icc 5.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 366px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teacher guiding P3 students on taking<br style="margin: 0px; outline: 0px; padding: 0px;">Perspective shot</b></i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021icc%2014.jpg" width="100%" alt="2021_icc 14.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 369px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">P3 and P4 student learning how to<br style="margin: 0px; outline: 0px; padding: 0px;">assemble a tripod</b></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021icc%2015.jpg" width="100%" alt="2021_icc 15.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 366px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Juniors learning how to take photos with<br style="margin: 0px; outline: 0px; padding: 0px;">close up shot</b></i></td></tr></tbody></table>
 
   
 
@@ -204,7 +204,7 @@ The InfoComm Club serves as a platform for pupils to learn more about different 
 </table>
 
 
-# Science & Environment Club
+# Science &amp; Environment Club
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -238,9 +238,9 @@ The InfoComm Club serves as a platform for pupils to learn more about different 
 
 ## Introduction
 
-Our mission is to see every member becoming a self-directed learner, an active contributor, a concerned citizen and a confident person as she explores science and the environment around her and comes up with creative and innovative solutions to mitigate the environmental issues raised.  
+Our mission is to see every member becoming&nbsp;a self-directed learner, an&nbsp;active contributor, a concerned citizen and a confident person as she explores science and the environment around her and comes up with creative and innovative solutions to mitigate the environmental issues raised.  
   
-The club provides pupils with opportunities to learn and explore the environment through hands-on activities, research and investigation as well as collaboration with peers.  
+The club provides pupils with opportunities to learn and explore the environment through hands-on activities,&nbsp;research and investigation as well as collaboration with peers.  
 
 ## Objectives
 
@@ -255,33 +255,33 @@ The club provides pupils with opportunities to learn and explore the environment
 ## Activities Outline
 
 
-#### 1.  20 April Morning Assembly Presentation on Earth Day 2022 
+#### 1.&nbsp;&nbsp;20 April Morning Assembly Presentation on Earth Day 2022&nbsp;
 
-Invest in our Planet & launching of SMS(P) 180th Anniversary activity “Let our Light Shine to save our Earth” (A yearly CCA project involving all CCA members to plan and prepare the different components, for example the video script, acting in the short video clip, drawing of the Earth Day posters to share messages on caring for the environment, preparation of level activities).  
+Invest in our Planet &amp; launching of SMS(P) 180th&nbsp;Anniversary activity “Let our Light Shine to save our Earth” (A yearly CCA project involving all CCA members to plan and prepare the different components, for example the video script, acting in the short video clip, drawing of the Earth Day posters to share messages on caring for the environment, preparation of level activities).  
 
   
-#### 2.  20 May 2022
+#### 2.&nbsp; 20 May 2022
 
-Online program for CCA members conducted by Sustainable Singapore Gallery titled “Big Greens” leveraging on simulations and games to enable students better understand abstract environmental issues. 3.  21 September 2022  
+Online&nbsp;program for CCA members conducted by Sustainable Singapore Gallery titled “Big Greens” leveraging on simulations and games to enable students better understand abstract environmental issues.&nbsp;3.&nbsp;&nbsp;21 September 2022  
 
-    Morning Assembly Presentation by SembCorp on "Recycling Right"
+&nbsp; &nbsp;&nbsp;Morning Assembly Presentation by SembCorp on "Recycling Right"
 
-#### 4.  23 September 2022
+#### 4.&nbsp;&nbsp;23 September 2022
 
 Talk conducted in school to CCA members by Sembcorp on “Climate Change”.  
   
 
-#### 5.  14 October 2022 
+#### 5.&nbsp;&nbsp;14 October 2022&nbsp;
 
 Circular Asia “THINK GLOBAL sustainability programme” conducted for CCA members. It is an educational gamified programme to introduce the UN Sustainable Development Goals and Singapore’s approaches to these goals through SG Green Plan.  
   
 
-#### 6.  21 October 2022
+#### 6.&nbsp;&nbsp;21 October 2022
 
 Terrarium making workshop conducted by Grace Mission Agri Pte Lid for CCA members.  
   
 
-#### 7.   4 November 2022  
+#### 7.&nbsp; &nbsp;4 November 2022  
 
 CCA Learning Journey to Gardens by the Bay “The Cool Factor” Program (1 hour) to understand the innovations and technologies adopted by the Gardens to promote conservation and sustainability.
 
@@ -294,13 +294,13 @@ CCA Learning Journey to Gardens by the Bay “The Cool Factor” Program (1 hour
 
   
 
-1)    The 3Rs – Reduce, Reuse, Recycle
+1)&nbsp;&nbsp;&nbsp;&nbsp;The 3Rs – Reduce, Reuse, Recycle
 
-2)    Why are plants important (explore our science garden!)
+2)&nbsp;&nbsp;&nbsp;&nbsp;Why are plants important (explore our science garden!)
 
-3)    Why butterflies and bees are important (Life cycle of bees)
+3)&nbsp;&nbsp;&nbsp;&nbsp;Why butterflies and bees are important (Life cycle of bees)
 
-4)    Plant focus: Let’s explore the Blue Pea flower (Natural blue food dye, use as a health tea, introduce how change in the blue color indicates the acidity or alkalinity of a liquid)
+4)&nbsp;&nbsp;&nbsp;&nbsp;Plant focus: Let’s explore the Blue Pea flower&nbsp;(Natural blue food dye, use as a health tea, introduce how change in the blue color indicates the acidity or alkalinity of a liquid)
 
   
 
@@ -308,11 +308,11 @@ CCA Learning Journey to Gardens by the Bay “The Cool Factor” Program (1 hour
 
   
 
-1)    Participated in the preparation for Earth Day 2022 Assembly program
+1)&nbsp;&nbsp;&nbsp;&nbsp;Participated in the preparation for Earth Day 2022 Assembly program
 
-2)    Participation in Sembcorp Recycling Bin Decal Design Competition (ideation and creation of bin decal design in groups)
+2)&nbsp;&nbsp;&nbsp;&nbsp;Participation in Sembcorp&nbsp;Recycling Bin Decal Design Competition (ideation and creation of bin decal design in groups)
 
-3)    Science activity: Let’s explore the Blue Pea Flower and its uses. (Natural blue food dye, use as a health tea, introduce how change in the blue color indicates the acidity or alkalinity of a liquid)
+3)&nbsp;&nbsp;&nbsp;&nbsp;Science activity: Let’s explore the Blue Pea Flower and its uses. (Natural blue food dye, use as a health tea, introduce how change in the blue color indicates the acidity or alkalinity of a liquid)
 
 ![Earth Day 2022 Assembly - Invest in our Planet.JPG](/images/Earth%20Day%202022%20AssemblyInvest%20in%20our%20Planet.jpg)
 
@@ -322,15 +322,15 @@ CCA Learning Journey to Gardens by the Bay “The Cool Factor” Program (1 hour
 
   
 
-1)    P5s prepared slides to rise awareness on Earth Hour 2022 (last Saturday of March) and share them via school canteen monitors
+1)&nbsp;&nbsp;&nbsp;&nbsp;P5s prepared slides to rise awareness on Earth Hour 2022 (last Saturday of March) and share them via school canteen monitors
 
-2)    P5s planned and prepared farewell gifts for the P6 members by upcycling plastic bottles into paper weights.
+2)&nbsp;&nbsp;&nbsp;&nbsp;P5s planned and prepared farewell gifts for the P6 members by upcycling plastic bottles into paper weights.
 
-3)    Participated via online Young Scientist Badge Program: I am a Young Sustainability Champion (Junior) from the Science Centre
+3)&nbsp;&nbsp;&nbsp;&nbsp;Participated via online Young Scientist Badge Program: I am a Young Sustainability Champion (Junior) from the Science Centre
 
-4)    Importance of Water and the Water cycle (Science activity: How to create a “cloud” in a jar)
+4)&nbsp;&nbsp;&nbsp;&nbsp;Importance of Water and the Water cycle (Science activity: How to create a “cloud” in a jar)
 
-5)    CCA showcase on 26 August: P5s leaders together with the P5 members planned and conducted the CCA showcase activities for the P2s and P3s, and planned and conducted an upcycling activity for the P4 members. The teachers were the advisors.  
+5)&nbsp;&nbsp;&nbsp;&nbsp;CCA showcase on 26 August: P5s leaders together with the P5 members planned and conducted the CCA showcase activities for the P2s and P3s, and planned and conducted an upcycling activity for the P4 members. The teachers were the advisors.  
 
 ![our CCA leaders sharing upcycling activities.JPG](/images/our%20CCA%20leaders%20sharing%20upcycling%20activities.jpg)
 
@@ -342,10 +342,73 @@ CCA Learning Journey to Gardens by the Bay “The Cool Factor” Program (1 hour
 
   
 
-1)    P6s planned with the teachers and participated in the Earth Day 2022 Assembly program. CCA President Alexis and CCA member Janella did the morning assembly presentation on 20 April.
+1)&nbsp;&nbsp;&nbsp;&nbsp;P6s planned with the teachers and participated in the Earth Day 2022 Assembly program. CCA President Alexis and CCA member Janella did the morning assembly presentation on 20 April.
 
-2)    P6s President and members planned and conducted CCA activities for the P3s and P4s to celebrate Earth Day 2022 on 22 April.
+2)&nbsp;&nbsp;&nbsp;&nbsp;P6s President and members planned and conducted CCA activities for the P3s and P4s to celebrate Earth Day 2022 on 22 April.
 
 ![some of our activities.JPG](/images/some%20of%20our%20activities.jpg)
 
 **Some of our activities**
+
+
+
+
+# STAR
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Day</span></th>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teachers-In-Charge</span></th>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Pupils Involved</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2.00 pm -</span><br><span style="color:#222;background-color:#FBFFFA">4.00 pm</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Library</span></td>
+    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mrs Adeline Ang (OIC)</span><br><span style="font-weight:400;color:#000">Mdm Lee Bee Leng</span><br><span style="font-weight:400;color:#000">Ms Angel Chan (Advisor)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P4 - P6</span></td>
+  </tr>
+</tbody>
+</table>
+
+## Introduction
+
+
+**STAR**
+
+S- Speech
+
+T- Theatre
+
+A- Action
+
+R- Recitation
+
+  
+
+STAR’s programme is curated and designed to hone the pupils’ oratorical and interpersonal skills. It allows pupils to showcase their talents in public speaking, acting and poetry recitation. Through the weekly sessions, the pupils will be exposed to different genres and modes of presentations like theatre, poetry, musicals, puppetry, monologues and Reader’s Theatre. These activities provide platforms for pupils to use their creativity and express themselves through their performances.
+
+## Objectives
+
+
+*   To nurture an interest in Language Arts and performances
+*   To develop creativity and self- expression
+*   To hone their skills in public speaking&nbsp;&nbsp;
+*   To nurture in pupils a love of reading and literary works
+*   To nurture girls of character
+
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 746.16px; height: 319px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 376px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 365px;" class="ive_eobj_center" alt="Macbeth.jpg" width="100%" src="/images/Macbeth.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Re-enacting a scene from Macbeth.</b></span></i></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 370px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 361px;" class="ive_eobj_center" alt="star got telent.jpg" width="100%" src="/images/star%20got%20telent.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Preparing for STAR Got Talent Auditions</b></span></i></div></td></tr></tbody></table>
