@@ -18,7 +18,7 @@ sections:
             url: /school-highlights/appreciation-to-our-peri-partners/
           - title: To Learn and Grow
             url: /school-highlights/to-learn-and-grow/
-          - title: The Oldest GIrls School
+          - title: The Oldest Girls School
             url: /school-highlights/the-oldest-girls-school/
           - title: Useful Links
             url: /useful-links/resources-for-parents/
