@@ -39,4 +39,9 @@ sections:
       url: /school-highlights/p1-orientation-2023/
       image: /images/p1orientation_thumbnail03.jpg
       alt: Image alt text
+  - infobar:
+      title: Announcements
+      subtitle: latest updates
+      button: keep informed
+      url: /announcements/update-on-upgrading-plan-for-st-margaret-s-school-primary/
 ---
