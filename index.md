@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: ST. Margaret's Primary
-      background: /images/hero-banner.png
+      background: /images/180th logo_2.png
       dropdown:
         title: Latest Buzz
         options:
