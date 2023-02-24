@@ -1,4 +1,5 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - Update on Upgrading Plan for St Margaret’s School (Primary).md
