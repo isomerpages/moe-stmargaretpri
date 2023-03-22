@@ -10,8 +10,8 @@ Charity, Patience and Devotion
 
 ### Our School Values (L.I.G.H.T)
 
-Lifelong Learning our Journey   
-Integrity our Foundation  
-Graciousness our Way   
-Humility our Virtue  
-Tenacity our Strength
+**L**ifelong Learning our Journey   
+**I**ntegrity our Foundation  
+**G**raciousness our Way   
+**H**umility our Virtue  
+**T**enacity our Strength
