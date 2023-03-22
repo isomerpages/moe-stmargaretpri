@@ -22,8 +22,8 @@ sections:
       button: click here
       url: /announcements/update-on-upgrading-plan-for-st-margaret-s-school-primary/
   - infopic:
-      title: Orientation Week
-      subtitle: Primary 1
+      title: P1 Orientation Week
+      subtitle: School Highlights
       description: Welcome the Primary 1s!
       button: photos
       url: /school-highlights/p1-orientation-2023/
