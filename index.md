@@ -8,24 +8,10 @@ notification: ""
 sections:
   - hero:
       title: ST. Margaret's School (Primary)
-      dropdown:
-        title: Latest Buzz
-        options:
-          - title: English Language Week 2023
-            url: /school-highlights/english-language-el-week-2023/
-          - title: School HIghlights
-            url: /school-highlights/appreciation-to-our-peri-partners/
-          - title: To Learn and Grow
-            url: /school-highlights/to-learn-and-grow/
-          - title: The Oldest Girls School
-            url: /school-highlights/the-oldest-girls-school/
-          - title: Useful Links
-            url: /useful-links/resources-for-parents/
-          - title: Sexuality Education
-            url: /learning-at-sms/student-development/2023-moe-sexuality-education-programme/
+      background: /images/oldbuilding.jpg
   - infopic:
       title: Fundraising
-      subtitle: St margaret's
+      subtitle: St Margaret's School (Primary)
       button: find out more
       url: /files/PUP%20/Fundraising%202021.pdf
       image: /images/Screenshot (517).png
@@ -33,7 +19,7 @@ sections:
   - infobar:
       title: Announcements
       subtitle: latest updates
-      button: keep informed
+      button: click here
       url: /announcements/update-on-upgrading-plan-for-st-margaret-s-school-primary/
   - infopic:
       title: Orientation Week
