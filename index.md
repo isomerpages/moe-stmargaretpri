@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ST. Margaret's Primary
-      background: /images/180th logo_2.png
+      title: ST. Margaret's School (Primary)
       dropdown:
         title: Latest Buzz
         options:
