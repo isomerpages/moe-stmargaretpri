@@ -13,7 +13,7 @@ sections:
       title: Fundraising
       subtitle: St Margaret's School (Primary)
       button: find out more
-      url: /files/PUP%20/Fundraising%202021.pdf
+      url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stmargaretspri.moe.edu.sg/qql/slot/u209/Popup%20Banner/PUP%20Fundraising%202021.pdf
       image: /images/Screenshot (517).png
       alt: Image alt text
   - infopic:
