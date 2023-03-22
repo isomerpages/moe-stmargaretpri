@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: ST. Margaret's School (Primary)
-      background: /images/oldbuilding.jpg
+      background: /images/oldbuildingnarrow.jpg
   - infopic:
       title: Fundraising
       subtitle: St Margaret's School (Primary)
