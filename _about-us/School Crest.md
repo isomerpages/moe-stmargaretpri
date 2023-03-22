@@ -3,7 +3,6 @@ title: School Crest
 permalink: /about-us/school-crest/
 description: ""
 ---
-![SMPS Logo Large 7.jpg]![]
 
 
 ### Green Background
