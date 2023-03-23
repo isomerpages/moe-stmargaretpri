@@ -3,7 +3,7 @@ title: Student Achievements
 permalink: /achievements/student-achievements/
 description: ""
 ---
-# 2022
+## 2022
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -40,7 +40,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br> </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -80,7 +80,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br> </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -112,7 +112,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br> </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -140,8 +140,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
+<br> </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -178,7 +177,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br> </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -210,7 +209,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br> </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -265,8 +264,9 @@ description: ""
   </tr>
 </tbody>
 </table>
+<br> </br>
 
-# 2021
+## 2021
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -294,7 +294,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br> </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -329,7 +329,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br> </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -364,5 +364,5 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br> </br>
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 825.229px; height: 317px;" class="iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 914px;" colspan="3"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Art Department</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Competition Name</strong></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Category</strong></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Award/Position</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" rowspan="3"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);">Singapore Youth Festival (SYF) Art Exhibition 2021</p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);">A</p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);">4 students from P2 received<br style="margin: 0px; outline: 0px; padding: 0px;">Certificate of Recognition&nbsp;</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);">B</p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);">3 students from P4 received<br style="margin: 0px; outline: 0px; padding: 0px;">Certificate of Participation</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);">C</p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);">4 students from P5 received<br style="margin: 0px; outline: 0px; padding: 0px;">Certificate of Recognition</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">&nbsp;Draw My Stamp Story Art Competition 2021</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" colspan="2">&nbsp;1 participant received Silver Award<br style="margin: 0px; outline: 0px; padding: 0px;">2 participants received Bronze Awards&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><p style="margin: 0in 0in 7.5pt; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;" align="center"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt; font-family: &quot;Libre Franklin&quot;; background: yellow;"></span></p></td></tr></tbody></table>
