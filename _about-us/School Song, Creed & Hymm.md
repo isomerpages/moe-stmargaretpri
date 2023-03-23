@@ -24,7 +24,7 @@ Our faith, our hope, our discipline require
 Us to withstand, respond with spirit high,  
 St Margaret's, shall again inspire.
 
-# voice recorder can be converted for embed
+
 
 ### Our School Creed
 
@@ -46,7 +46,8 @@ I would be tuned to hear His slightest whisper; 
 I would have faith, to keep the path Christ trod;  
 I would have faith, to keep the path Christ trod.
 
-# voice recorder can be converted for embed
+
+
 
 ### Our School Hymn
 
@@ -85,6 +86,4 @@ One family unbroken,
 We join with one acclaim;  
 One heart one voice uplifting,  
 To glorify Thy name.
-
-# voice recorder can be converted for embed
 
