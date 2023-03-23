@@ -19,7 +19,7 @@ sections:
       title: P1 Orientation Week
       subtitle: School Highlights
       description: Welcome the Primary 1s!
-      button: photos
+      button: Find out more
       url: /school-highlights/p1-orientation-2023/
       image: /images/p1orientation_thumbnail03.jpg
       alt: Image alt text
