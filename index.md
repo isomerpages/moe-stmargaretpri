@@ -12,7 +12,7 @@ sections:
       title: Fundraising
       subtitle: St Margaret's School (Primary)
       button: find out more
-      url: PUP Fundraising 2021.pdf
+      url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stmargaretspri.moe.edu.sg/qql/slot/u209/Popup%20Banner/PUP%20Fundraising%202021.pdf
       alt: Image alt text
       image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
   - infopic:
