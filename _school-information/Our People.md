@@ -460,33 +460,6 @@ The Functions and Duties of the School Management Committee are found in the Con
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Sharon Simon (Mdm)<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-b4br">Assistant Year Head</td>
-    <td class="tg-fxx4"><span style="color:#222">Christina Yong Yuen Fang (Ms) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-b4br">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo)</span><br></td>
-  </tr>
-</tbody>
-</table>
 
 ## Primary 4 Teachers
 
