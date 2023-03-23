@@ -48,7 +48,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -167,7 +167,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -214,7 +214,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -245,7 +245,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -305,7 +305,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -351,9 +351,13 @@ description: ""
 </table>
 
 ## 2021
+<br>
 
+
+<br>
+<br>
 <table border="1" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); text-align: center; width: 825.229px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 27.2pt;"><td colspan="3" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 914px;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px;">National Day Award</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 27.2pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 152.8pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Name</strong></p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 148.6pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Title</strong></p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 130.25pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Award</strong></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 27.2pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 152.8pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Mr Lee Chee Wai</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 148.6pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Administration Manager</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 130.25pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Commendation Medal</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 26.1pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 152.8pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Ms Sem Sok Hui</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 148.6pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">School Counsellor</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 130.25pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Long Service Medal</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 27.2pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 152.8pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Ms Koo Li Hwa</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 148.6pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Teacher</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 130.25pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Long Service Medal</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 27.2pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 152.8pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Ms Low Pei Lin</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 148.6pt;">Teacher</td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 130.25pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Long Service Medal</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 27.2pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 152.8pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Mr Derek Wong Jyunwei (Huang Junwei)</p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 148.6pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">&nbsp;<span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Teacher</span></p></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 130.25pt;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;">Long Service Medal</p></td></tr></tbody></table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -462,7 +466,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -561,7 +565,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -596,7 +600,7 @@ description: ""
 </tbody>
 </table>
 
-# 2020
+## 2020
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -691,7 +695,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -730,7 +734,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
