@@ -3,7 +3,7 @@ title: Our People
 permalink: /school-information/our-people/
 description: ""
 ---
-## School Management Committee 2023
+### School Management Committee 2023
 
 The Functions and Duties of the School Management Committee are found in the Constitution
 
@@ -108,7 +108,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 </table>
 
 
-## Executive Committee
+### Executive Committee
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -224,7 +224,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 </tbody>
 </table>
 
-## Primary 1 Teachers
+### Primary 1 Teachers
 
 **Year 2023**
 
@@ -304,7 +304,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 </table>
 
 
-## Primary 2 Teachers
+### Primary 2 Teachers
 
 **Year 2023**
 
@@ -385,7 +385,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 
 
-## Primary 3 Teachers
+### Primary 3 Teachers
 
 **Year 2023**
 
@@ -461,7 +461,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 </table>
 
 
-## Primary 4 Teachers
+### Primary 4 Teachers
 
 **Year 2023**
 
@@ -541,7 +541,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 
 
-## Primary 5 Teachers
+### Primary 5 Teachers
 
 **Year 2023**
 
@@ -621,7 +621,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 </table>
 
 
-## Primary 6 Teachers
+### Primary 6 Teachers
 
 **Year 2023**
 
@@ -697,7 +697,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 </table>
 
 
-## Non-Teaching Staff
+### Non-Teaching Staff
 
 **Year 2023**
 
@@ -786,7 +786,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 </tbody>
 </table>
 
-# Support Staff
+### Support Staff
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
