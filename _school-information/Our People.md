@@ -625,7 +625,30 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 **Year 2023**
 
-<table class="iveo_table ives_tab_modern1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border-width: 1px 1px 2px; border-style: solid; border-color: rgb(234, 234, 234) rgb(234, 234, 234) rgb(175, 175, 175); border-image: initial; background-color: rgb(236, 236, 236); color: rgb(0, 0, 0); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 1053.93px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px 4px 4px 8px; text-align: left; color: rgb(34, 34, 34); border-bottom: 1px solid rgb(204, 204, 204); width: 166px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Year Head</strong></td><td style="margin: 0px; outline: 0px; padding: 4px 4px 4px 8px; text-align: left; color: rgb(34, 34, 34); border-bottom: 1px solid rgb(204, 204, 204); width: 278px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Sharon Simon (Mdm)<span>&nbsp;</span></b>&nbsp;<strong style="margin: 0px; outline: 0px; padding: 0px;"></strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 4px 4px 4px 8px; text-align: left; color: rgb(34, 34, 34); border-bottom: 1px solid rgb(204, 204, 204);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Level Manager&nbsp;</strong></td><td style="margin: 0px; outline: 0px; padding: 4px 4px 4px 8px; text-align: left; color: rgb(34, 34, 34); border-bottom: 1px solid rgb(204, 204, 204);">Tan Seow Wee (Mrs Chua)</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
+.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-b4br">Year Head</th>
+    <th class="tg-b4br">Sharon Simon (Mdm)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-emg8">Level Manager </td>
+    <td class="tg-fxx4"><span style="color:#222">Tan Seow Wee (Mrs Chua)</span></td>
+  </tr>
+</tbody>
+</table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
