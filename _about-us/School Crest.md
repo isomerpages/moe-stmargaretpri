@@ -3,8 +3,7 @@ title: School Crest
 permalink: /about-us/school-crest/
 description: ""
 ---
-
-
+![](/images/SMPS%20LOGO%20VECTOR.jpg)
 ### Green Background
 
 *   stands for life and activity, creativity and growth
