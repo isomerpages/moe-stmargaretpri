@@ -3,7 +3,7 @@ title: School History
 permalink: /about-us/school-history/
 description: ""
 ---
-![DSC07566.JPG](/images/DSC07566.jpg)  
+![](/images/oldbuilding_small.jpg)
   
 
 St Margaret’s School is the oldest girls’ school in Singapore and the Far East. It was founded in 1842 by Mrs Maria Dyer, a missionary of the London Missionary Society. She was on her way to China in 1841 and while in Singapore, she saw a pitiful group of young Chinese girls on display for sale in the streets. This was ‘Mui Tsai’ or slavery, which so shocked and horrified her that she resolved to help these poor girls. She obtained permission from the Government to start a home for the homeless girls, regardless of race. In 1842, a tiny house in North Bridge Road became the home and the school of orphan girls who were taught the Christian faith and given an elementary education in English. Above all, the girls were taught how to be good homemakers.  
@@ -33,10 +33,10 @@ In 2000, the school underwent PRIME – Programme for the Rebuilding and Improve
 
 Founded in the spirit of charity, patience and devotion (school motto), our school, with a record of helpfulness good works and dedicated service, is well loved by all who have passed out of her gates and will be loved and honoured by those yet to come. This is our heritage – a girls’ school with a fine tradition of service to our neighbours, our community and our nation, a tradition we can justly be proud of.
 
-# Singapore Women's Hall of fame
+### Singapore Women's Hall of fame
 
 
-### Our Founder
+#### Our Founder
 
 
 St. Margaret's School was founded by Mrs Maria Dyer in 1842, making it the oldest school in Singapore and the Far East. Maria Dyer was a young missionary of the London Missionary Society. **She was inducted to the Singapore Women's Hall of fame in 2014 under the category of Education.** The school was then known as Chinese Girls' School and it was located in a shophouse at North Bridge Road.  
