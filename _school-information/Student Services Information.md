@@ -26,7 +26,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-f4yw">School Dental Clinic<br></td>
-    <td class="tg-zr06">Tel: 6337 6645<br></td>
+    <td class="tg-zr06">Tel: 9838 4078 <br></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> Student Care Centre<br></td>
