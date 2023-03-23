@@ -12,8 +12,9 @@ sections:
       title: Fundraising
       subtitle: St Margaret's School (Primary)
       button: find out more
-      url: PUP%20Fundraising%202021.pdf
+      url: PUP Fundraising 2021.pdf
       alt: Image alt text
+      image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
   - infopic:
       title: P1 Orientation Week
       subtitle: School Highlights
