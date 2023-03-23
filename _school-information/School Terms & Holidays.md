@@ -3,7 +3,7 @@ title: School Terms & Holidays
 permalink: /school-information/school-terms-n-holidays/
 description: ""
 ---
-# School Terms
+### School Terms
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -43,7 +43,7 @@ description: ""
 </tbody>
 </table>
 
-# School Holidays 2023
+### School Holidays 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -84,7 +84,7 @@ description: ""
 </tbody>
 </table>
 
-# Scheduled School Public Holidays
+### Scheduled School Public Holidays
 
 #### Semester 1
 <style type="text/css">
@@ -185,7 +185,7 @@ description: ""
 </tbody>
 </table>
 
-# Public Holidays 2023
+### Public Holidays 2023
 
 #### Semester 1
 
@@ -280,4 +280,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
