@@ -119,7 +119,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 .tg .tg-tojq{background-color:#ECECEC;color:#222;text-align:center;vertical-align:left}
 .tg .tg-580q{background-color:#ECECEC;color:#222;text-align:center;vertical-align:top}
 .tg .tg-mqlv{background-color:#ECECEC;color:#222;text-align:right;vertical-align:top}
-.tg .tg-ltu5{background-color:#ECECEC;color:#222;text-align:right;vertical-align:middle}
+.tg .tg-ltu5{background-color:#ECECEC;color:#222;text-align:right;vertical-align:left}
 </style>
 <table class="tg">
 <thead>
