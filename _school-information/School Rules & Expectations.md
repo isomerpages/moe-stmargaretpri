@@ -3,14 +3,14 @@ title: School Rules & Expectations
 permalink: /school-information/school-rules-n-expectations/
 description: ""
 ---
-## NATIONAL ANTHEM & PLEDGE
+### NATIONAL ANTHEM & PLEDGE
 
 
 *   Students who are Singapore citizens are to sing the National Anthem and take the Pledge.
 *   Students are to take the Pledge with the right fist over the heart.
 *   Students who are not Singapore citizens are to remain silent and stand at attention during the flag-raising ceremony.
 
-## SAFETY AND SECURITY
+### SAFETY AND SECURITY
 
   
 
@@ -50,7 +50,7 @@ description: ""
 *   Students are to use the seat belts if they are provided on the bus.
 
 
-## CONDUCT
+### CONDUCT
 
 
 *   Students are to be obedient, courteous and well-behaved at all times.
@@ -58,7 +58,7 @@ description: ""
 *   Students are to keep the classrooms and surroundings clean and tidy at all times.
 *   Students are to bring all required books/materials for the day and submit homework on time.
 
-## ATTIRE
+### ATTIRE
 
 
 *   Students are to wear the prescribed school uniform and modifications to the uniform is not allowed.
@@ -68,7 +68,7 @@ description: ""
 *   For sports and PE lessons, Students are to wear PE T-shirts tucked into dark green shorts of the school design.
 *   All P3 - P6 Students are to come to school and go home in their school uniform. P1 and P2 Students have the option of coming to school in their PE attire on days when they have PE lessons.\
 
-## HAIR & APPEARANCE
+### HAIR & APPEARANCE
 
 
 *   Hairstyles are to be neat and appropriate.
@@ -83,7 +83,7 @@ description: ""
 *   No jewellery is to be worn by pupils except small ear studs in gold/ silver in simple design.
 
 
-## EXAMINATION / TEST RULES
+### EXAMINATION / TEST RULES
 
 
 *   Students should be punctual for tests and examinations.
@@ -95,7 +95,7 @@ description: ""
 *   Anyone caught cheating will be severely dealt with.
 
 
-## ONLINE LESSONS
+### ONLINE LESSONS
 
 
 **Before the Lesson**
@@ -122,7 +122,7 @@ description: ""
 6.  Do not play with the background, filters or emojis during the lesson.
 7.  No eating.
 
-## USE OF HANDPHONES
+### USE OF HANDPHONES
 
 *   Handphones are to be switched off during lesson time and school activities.
 *   The use of handphones is restricted to the foyer and canteen before and after school hours.
