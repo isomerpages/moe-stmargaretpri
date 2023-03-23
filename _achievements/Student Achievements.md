@@ -36,11 +36,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> ANZA Young Writers’ Competition 2022</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> </span>1st place <span style="color:#000;background-color:#FFF">(11-15 years old category) from 6 Integrity</span><br>3rd place <span style="color:#000;background-color:#FFF">(11-15 years old category) from 5 Integrity</span><br></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> </span>1st place <span style="color:#000;background-color:#FFF">(11-15 years old category) from 6 Integrity</span><br>3rd place <span style="color:#000;background-color:#FFF">(11-15 years old category) from 5 Integrity</span></td>
   </tr>
 </tbody>
 </table>
-<br> </br>
+<br></br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
