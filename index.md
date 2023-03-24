@@ -6,7 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
-  - hero: {}
+  - hero:
+      background: /images/Masterhead_big.jpg
   - infopic:
       title: Fundraising
       subtitle: St Margaret's School (Primary)
