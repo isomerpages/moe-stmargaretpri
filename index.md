@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Masterhead_big.jpg
+      key_highlights:
+        - title: Announcement
+          description: Click here to view all
+          url: /announcements/update-on-upgrading-plan-for-st-margaret-s-school-primary/
+        - title: Calendar
+          description: Click here to view all
+          url: https://stmargaretspri.moe.edu.sg/
   - infopic:
       title: School Highlights
       button: find out more
