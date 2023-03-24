@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: SMSP
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -28,3 +28,4 @@ sections:
       image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
       alt: Image alt text
 ---
+
