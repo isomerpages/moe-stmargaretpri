@@ -9,12 +9,11 @@ sections:
   - hero:
       background: /images/Masterhead_big.jpg
   - infopic:
-      title: Fundraising
-      subtitle: St Margaret's School (Primary)
+      title: School Highlights
       button: find out more
       url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stmargaretspri.moe.edu.sg/qql/slot/u209/Popup%20Banner/PUP%20Fundraising%202021.pdf
       alt: Image alt text
-      image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
+      image: /images/Schl Highlights.jpg
   - infopic:
       title: P1 Orientation Week
       subtitle: School Highlights
