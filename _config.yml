@@ -1,9 +1,9 @@
-title: Title
+title: SMSP
 url: https://stmargaretspri.moe.edu.sg
 favicon: /images/smss_logo.gif
 colors:
-  primary-color: "#9b9b9b"
-  secondary-color: "#4b7220"
+  primary-color: "#5b8b27"
+  secondary-color: "#5b8b27"
   media-colors:
     - title: media-color-one
       color: "#49759a"
