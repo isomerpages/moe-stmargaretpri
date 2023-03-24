@@ -27,14 +27,4 @@ sections:
       url: /school-highlights/p1-orientation-2023/
       image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
       alt: Image alt text
-  - infobar:
-      title: Announcements
-      subtitle: latest updates
-      button: click here
-      url: /announcements/update-on-upgrading-plan-for-st-margaret-s-school-primary/
-  - infobar:
-      title: Calendar 2023
-      description: 20 March  2023 - Start of Term 2
-      button: click here
-      url: https://stmargaretspri.moe.edu.sg/
 ---
