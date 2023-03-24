@@ -18,14 +18,13 @@ sections:
   - infopic:
       title: School Highlights
       button: find out more
-      url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stmargaretspri.moe.edu.sg/qql/slot/u209/Popup%20Banner/PUP%20Fundraising%202021.pdf
+      url: /school-highlights/p1-orientation-2023/
       alt: Image alt text
       image: /images/Schl Highlights.jpg
   - infopic:
       title: Fundraising
       button: Find out more
-      url: /school-highlights/p1-orientation-2023/
+      url: extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stmargaretspri.moe.edu.sg/qql/slot/u209/Popup%20Banner/PUP%20Fundraising%202021.pdf
       image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
       alt: Image alt text
 ---
-
