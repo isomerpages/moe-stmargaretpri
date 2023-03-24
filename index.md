@@ -15,12 +15,10 @@ sections:
       alt: Image alt text
       image: /images/Schl Highlights.jpg
   - infopic:
-      title: P1 Orientation Week
-      subtitle: School Highlights
-      description: Welcome the Primary 1s!
+      title: Fundraising
       button: Find out more
       url: /school-highlights/p1-orientation-2023/
-      image: /images/p1orientation_thumbnail03.jpg
+      image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
       alt: Image alt text
   - infobar:
       title: Announcements
