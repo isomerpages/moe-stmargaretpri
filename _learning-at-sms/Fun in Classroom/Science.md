@@ -72,22 +72,6 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
   <tr>
     <td class="tg-0lax" colspan="2"><img src="/images/2021OurLittleBotanist03.jpg"/></td>
   </tr>
-  <tr>
-    <td class="tg-0lax"><img src="/images/2021FunwithE2K"/></td>
-    <td class="tg-0lax"><img src="/images/2021Funwithcellmodelmaking"/></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:bold">Fun with E2K</span></td>
-    <td class="tg-amwm">Fun with cell model making</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="/images/2021ExplorationofScienceGarden"/></td>
-    <td class="tg-0lax"><img src="/images/2021FunwithFoodTest"/></td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Exploration of Science Garden</td>
-    <td class="tg-amwm">Fun with Food Test</td>
-  </tr>
 </tbody>
 </table>
 
