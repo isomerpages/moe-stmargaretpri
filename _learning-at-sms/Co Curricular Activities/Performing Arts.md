@@ -4,17 +4,16 @@ permalink: /learning-at-sms/co-curricular-activities/performing-arts/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-## Brass Band
+## [Brass Band](/learning-at-sms/co-curricular-activities/brass-band/)
 
 
-## Chinese Dance
+## [Chinese Dance](/learning-at-sms/co-curricular-activities/chinese-dance/)
 
 
-## Choir
+## [Choir](/learning-at-sms/co-curricular-activities/choir/)
 
 
-## International Dance
+## [International Dance](/learning-at-sms/co-curricular-activities/international-dance/)
 
 
-## Guitar Ensemble
-
+## [Guitar Ensemble](/learning-at-sms/co-curricular-activities/guitar-ensemble/)
