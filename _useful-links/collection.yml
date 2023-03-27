@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Announcement.md
       - Resources for Teachers.md
       - Resources for Students.md
       - Resources for Parents.md
