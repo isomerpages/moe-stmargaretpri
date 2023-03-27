@@ -4,12 +4,9 @@ permalink: /learning-at-sms/fun-in-classroom/information-communication-n-technol
 description: ""
 third_nav_title: Fun in Classroom
 ---
-Vision & Goals
---------------
+### Vision & Goals
 
-* * *
-
-### Vision
+#### Vision
 
 Students: Quality learning in the hands of Self-Directed, Collaborative and Responsible digital learners.
 
@@ -17,7 +14,7 @@ Staff: Be the lead learner in the classroom to build quality teaching and learn
 
   
 
-### Goals
+#### Goals
 
 *   Develop students to be responsible digital online citizens when using technology for learning. 
 *   Develop students to become self-directed and collaborative learners using ICT tools for learning. 
@@ -32,7 +29,7 @@ Committee Members
 
   
 
-Programmes
+#### Programmes
 ----------
 
 * * *
@@ -40,55 +37,28 @@ Programmes
 ![ICT Roadmap 2015.png](https://stmargaretspri.moe.edu.sg/qql/slot/u209/Programmes/ICT/ICT%20Roadmap%202015.png)  
   
 
-### Service to the school  
+#### Service to the school  
 
 *   IT/AV Monitresses to serve the classes' AV needs   
 *   Cyberwellness advocates
 
   
 
-Computer Lab and Personal Safety rules
---------------------------------------
-
-* * *
+### Computer Lab and Personal Safety rules
 
 ### 
 
 ![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/ICT%20Dept_thumb01.jpg)
 
-#### ICT Dept thumb01
 
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.ICT%20Dept_thumb01.jpg.jpg)
 
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.thumbnail%20image%20for%20ict%20dpt%2010.jpeg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.thumbnail%20image%20for%20ict%20dpt%202.jpg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.thumbnail%20image%20for%20ict%20dpt%205.jpg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.thumbnail%20image%20for%20ict%20dpt%206.jpg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.thumbnail%20image%20for%20ict%20dpt%208.jpg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.thumbnail%20image%20for%20ict%20dpt%209.jpg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.WhatsApp%20Image%202023-02-18%20at%2023.16.54.jpeg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.WhatsApp%20Image%202023-02-18%20at%2023.16.56%201.jpeg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.WhatsApp%20Image%202023-02-18%20at%2023.16.56.jpeg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/.tn.WhatsApp%20Image%202023-02-18%20at%2023.19.32.jpeg.jpg)
-
-![](https://stmargaretspri.moe.edu.sg/pix/spacer.gif)
-
-### PERMISSION to enter the computer labs
+#### PERMISSION to enter the computer labs
 
 *   Do not enter the computer labs without a teacher. This is for safety reasons.
 
   
 
-### During lessons in the computer labs
+#### During lessons in the computer labs
 
 *   Do not run or play in the laboratory
 *   Do not eat or drink in the laboratory so to prevent water or any other liquid to spill on computers.
@@ -101,7 +71,7 @@ Computer Lab and Personal Safety rules
 
   
 
-### EMERGENCY
+#### EMERGENCY
 
 *   Take note of all the exits in the room, and also take note of the location of fire extinguishers in the room for the sake of fire safety.
 *   Report fires or accidents to your teacher immediately.
