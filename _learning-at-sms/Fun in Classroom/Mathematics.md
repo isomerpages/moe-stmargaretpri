@@ -4,16 +4,16 @@ permalink: /learning-at-sms/fun-in-classroom/mathematics/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-# Vision & Goals
+### Vision & Goals
 
 
-### Vision
+#### Vision
 
 Every staff and student to be an analytical and creative mathematical problem solver.
 
   
 
-### Goals
+#### Goals
 
 The goals of SMS(P) Mathematics Department are to guide students and teachers to exhibit the value of PACE.
 
@@ -26,7 +26,7 @@ The goals of SMS(P) Mathematics Department are to guide students and teachers to
 
   
 
-# Approach
+### Approach
 
 
 In order to develop our staff and students towards values of PACE, SMS(P) adopts the use of PACE Strategy.
@@ -41,10 +41,10 @@ At SMS(P), we also strive to build confidence and foster interest in Mathematics
 
   
 
-# Programmes
+### Programmes
 
 
-### 1\. Hands-on activities on daily lesson
+#### 1. Hands-on activities on daily lesson
 
 ![maths.jpg](/images/maths.jpg)
 
@@ -56,7 +56,7 @@ At Upper Primary, lessons are also planned via CPA approach but a greater emphas
 
   
 
-### 2\. Math Recess Play Programme (Learn and Play Beyond Classrooms)
+#### 2. Math Recess Play Programme (Learn and Play Beyond Classrooms)
 
 Beyond the usual Mathematics lessons in classrooms, the school continued to cultivate students’ love for Mathematics through “Math Recess Play” programme. 
 
@@ -72,17 +72,17 @@ Students are invited to play and enjoy the Mathematical games that focus on logi
 
   
 
-3\. Fast & Furious Math Challenge (Mental Sums)  
+#### 3. Fast & Furious Math Challenge (Mental Sums)  
 
 Mental sums is always a challenge to students! We made it easier with systematic and progressive learning from Primary 1 to 5 via mental sum booklets and challenges. We hope to train our students to calculate fast and accurate!
 
   
 
-### 4\. Math Journal
+#### 4. Math Journal
 
 We train students to be self-directed and independent learners who pens down her daily learning points, examples and notes. With these, students are able to use them as reference for revision at anytime, anywhere!
 
-# Achievements
+### Achievements
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -120,4 +120,3 @@ We train students to be self-directed and independent learners who pens down her
   </tr>
 </tbody>
 </table>
-
