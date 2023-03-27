@@ -8,6 +8,6 @@ third_nav_title: Co Curricular Activities
 
 ### [Infocomm Club](/subfolders/Co%20Curricular%20Activities/editPage/Infocomm%20Club.md)
 
-### [Science and Environmental Cub]
+### [Science and Environmental Cub](/folders/learning-at-sms/subfolders/Co%20Curricular%20Activities/editPage/Science%20and%20Environmental%20Club.md)
 
-### [STAR] 
+### [STAR] ()
