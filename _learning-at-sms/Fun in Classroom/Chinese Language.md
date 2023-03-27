@@ -61,7 +61,12 @@ The school celebrated Chinese New Year on 20th of January 2023. Students celebr
 
 We ended the Chinese New Year celebrations with a concert. Students sang and danced along to the Chinese New Year songs. It was a memorable day for all the students.
 
+![](/images/CL%20Dpt%202022/IMG_0066.jpg)**Classroom Activities**
 
+![](/images/CL%20Dpt%202022/IMG_0021.jpg)**Dancing during Concert**
+
+![](/images/CL%20Dpt%202022/IMG_9697.jpg)
+**Fashion Show during Concert**
 
 
 #### 4) Level Competitions - P1 to P6
