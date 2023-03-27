@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Fun in Classroom
 ---
 ### Vision & Goals
+__________________________________________________________
 
 #### Vision
 
@@ -20,8 +21,9 @@ Staff: Be the lead learner in the classroom to build quality teaching and learn
 *   Develop students to become self-directed and collaborative learners using ICT tools for learning. 
 *   Develop staff and students competency in the use of technology for teaching and learning. 
 
-Committee Members
------------------
+### Committee Members
+__________________________________________________________
+
 
 * * *
 
@@ -30,7 +32,7 @@ Committee Members
   
 
 #### Programmes
-----------
+__________________________________________________________
 
 * * *
 
@@ -45,6 +47,7 @@ Committee Members
   
 
 ### Computer Lab and Personal Safety rules
+__________________________________________________________
 
 ### 
 
