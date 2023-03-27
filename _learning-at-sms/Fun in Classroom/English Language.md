@@ -4,35 +4,35 @@ permalink: /learning-at-sms/fun-in-classroom/english-language/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-# Vision &amp; Goals
+### Vision &amp; Goals
 
 
-### Vision
+#### Vision
 
 English Rocks@SMS(P)!
 
 Creating a vibrant atmosphere for the teaching and learning of the English Language.
 
-### Goals
+#### Goals
 
-Engagement in class
+* Engagement in class
 
-Experiences in authentic learning
+* Experiences in authentic learning
 
-Exposure to competitions and challenges&nbsp;
+* Exposure to competitions and challenges&nbsp;
 
   
 
-# Programmes
+### Programmes
 
 
-### 1\. Let's have TEA! (Theatre Exposure and Appreciation)
+#### 1\. Let's have TEA! (Theatre Exposure and Appreciation)
 
 *   All P1, P2 and P3 will attend a theatre performance catered to their level.
 
   
 
-### 2\. Literature @ Primary 3, 4 and 5
+#### 2. Literature @ Primary 3, 4 and 5
 
 &nbsp;Use of literacy text to:
 
@@ -48,19 +48,19 @@ Exposure to competitions and challenges&nbsp;
   
    
 
-### 3\. Extensive Reading Programme (ERP)
+#### 3. Extensive Reading Programme (ERP)
 
 To encourage a love for reading in the girls:
 
 <table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 664px; height: 108px;" class="iveo_table ives_tab_dark ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(42, 42, 42); color: rgb(238, 238, 238); border: 1px solid rgb(42, 42, 42); width: 185px;">Activities</th><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 87px;"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;P1</b></td><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(42, 42, 42); color: rgb(238, 238, 238); border: 1px solid rgb(42, 42, 42); width: 73px;">P2</th><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 85px;"><b style="margin: 0px; outline: 0px; padding: 0px;">P3&nbsp;</b></td><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(42, 42, 42); color: rgb(238, 238, 238); border: 1px solid rgb(42, 42, 42); width: 74px;">P4</th><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 85px;"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;P5</b></td><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(42, 42, 42); color: rgb(238, 238, 238); border: 1px solid rgb(42, 42, 42); width: 74px;">P6</th></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Little Red Dot Newspaper</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 60px;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;No</b></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">No</b></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">No</b><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Yes</b></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);">&nbsp;<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">Whole School Reading Programme</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Yes</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Yes</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Yes</b></td></tr></tbody></table>
 
-# Author’s Talk
+### Author’s Talk
 We invite authors to our school to share their passion for writing and their stories with our students. This way, we get our students excited about reading and inspired for writing!  
 
-# Media Resource Library (MRL)
+### Media Resource Library (MRL)
 
 
-### Opening Hours
+#### Opening Hours
 
 7.30 am to 4.30 pm
 
@@ -107,10 +107,10 @@ We invite authors to our school to share their passion for writing and their sto
 *   Digits (0-9);
 *   Special Characters (!, $, #, %, etc)
 
-# Activities
+### Activities
   
 
-### EL Week 2023 - Book Character Day
+#### EL Week 2023 - Book Character Day
    
 
 EL Week is an annual school event in St Margaret’s School (Primary) planned by the English Language Department for our students and teachers. Activities during the week aim to promote a love for English Language, and to celebrate creativity in the use of the medium through enriched experiences beyond the textbooks.
@@ -121,7 +121,7 @@ Back for the third year, EL Week 2023 was held from 25 to 27 January. Our studen
 
 
 
-## Achievements
+### Achievements
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
