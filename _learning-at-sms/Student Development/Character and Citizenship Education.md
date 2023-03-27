@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Student Development
 ---
 ### Vision, Mission and Goals
+__________________________________________________________
 
 
 #### Vision
@@ -27,6 +28,7 @@ Train up a&nbsp;child in the way he should go and when he is old, he will not de
 
 
 ### Goals of CCE
+__________________________________________________________
 
 CCE 2021 aims to develop in our students:&nbsp;
 
@@ -47,6 +49,7 @@ CCE 2021 aims to develop in our students:&nbsp;
 _(Source: CCE Teaching and Learning Syllabus (Primary) 2021)_
 
 #### Overview of CCE@SMS(P)
+__________________________________________________________
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -76,6 +79,7 @@ _(Source: CCE Teaching and Learning Syllabus (Primary) 2021)_
 </table>
 
 ### Teaching and Learning
+__________________________________________________________
 
 *   Lessons will provide for the explicit teaching of the values, knowledge, skills and competencies that are critical for character and citizenship development. These lessons include the lessons for CCE (Form Teacher Guidance Period - FTGP) and \*CCE (Mother Tongue Languages - MT).
 
@@ -101,6 +105,7 @@ _(Source: CCE Teaching and Learning Syllabus (Primary) 2021)_
 
 
 ### Student Development Experiences
+__________________________________________________________
 
 Student Development experiences, through various platforms, reinforce and support student's learning in CCE.  
 
@@ -136,6 +141,7 @@ Student Development experiences, through various platforms, reinforce and suppor
 
 
 ### Support Structures
+__________________________________________________________
 
 *   **Morning Devotion**, based on the school values and anchored on the school's Christian tradition, helps staff and students start the day with timely reminders of what is at the core of CCE.&nbsp;
 
@@ -156,6 +162,7 @@ Student Development experiences, through various platforms, reinforce and suppor
 *   **Partnerships**&nbsp;with parents and other organisations help the school to provide the learning experiences that support CCE.
 
 ### Education Character Award (ECHA)
+__________________________________________________________
 
 MOE introduced the Edusave Character Award (ECHA) in 2012 to enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports our continuing efforts in nurturing pupils of good values and character, who are active contributors and concerned citizens.  
   
