@@ -27,4 +27,4 @@ Pri 3 & Pri 6 : 10.30 am - 11.00 am
 
 ### CCA Schedule
 
-Click [here](https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities) to refer to respective CCA pages.
+Click [here](/learning-at-sms/co-curricular-activities/cca-framework-and-policies/) to refer to respective CCA pages.
