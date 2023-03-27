@@ -4,18 +4,18 @@ permalink: /learning-at-sms/fun-in-classroom/science/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-## Vision & Goals  
+### Vision & Goals  
 
 
 
 
-## Vision
+#### Vision
 
 A passion for Science for service
 
   
 
-### Goals (ACE)
+#### Goals (ACE)
 
 **A** rouse our girls' curiosity for Science
 
@@ -34,8 +34,7 @@ The Science department adopts an inquiry-based approach in the teaching and lear
 Science in St Margaret’s School (Primary) is also celebrated through the multi-faceted activities at different levels. The learning of Science is extended beyond the classrooms to enrich students’ experiences and to support their mastery in the subject by allowing them to relate and apply their knowledge in the real-world context.
 
   
-
-Learning Experience/ Programme includes:
+**Learning Experience/ Programme** includes:
 
 *   Authentic Tasks
 
@@ -51,7 +50,7 @@ Learning Experience/ Programme includes:
 *   Assembly Talks
 *   E2K
 
-## Programmes
+### Programmes
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -93,7 +92,7 @@ Learning Experience/ Programme includes:
 </table>
 
 
-## Achievements
+### Achievements
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
