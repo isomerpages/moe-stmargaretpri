@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Fundraising
       button: Find out more
-      url: extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stmargaretspri.moe.edu.sg/qql/slot/u209/Popup%20Banner/PUP%20Fundraising%202021.pdf
+      url: /files/PUP Fundraising 2021.pdf
       image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
       alt: Image alt text
 ---
