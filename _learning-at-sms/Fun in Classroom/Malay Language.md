@@ -4,7 +4,6 @@ permalink: /learning-at-sms/fun-in-classroom/malay-language/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-
 ## Malay Language
 __________________________________________________________
 
@@ -79,4 +78,4 @@ __________________________________________________________
 ### Achievements
 __________________________________________________________
 
-![](/images/ML%20Dpt%2020222/ML%20Dpt%20Achievement.jpg)
+![](/images/ML%20Dpt%202022/ML%20Dpt%20Achievement.jpg)
