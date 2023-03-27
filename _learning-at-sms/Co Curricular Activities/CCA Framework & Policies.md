@@ -36,7 +36,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
 
 ### Co-Curricular Schedule for 2023
 
-<style type="text/css">
+<style type="text/rolandcss">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -119,7 +119,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/modular-sports"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Modular Sports</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Fridays </span></td>
-    <td class="tg-ktyi">Ms Gwee Hui Jun<br><span style="background-color:initial">Roland Neo (Advisor)</span></td>
+    <td class="tg-ktyi">Ms Gwee Hui Jun<br><span style="background-color:initial">Mr Roland Neo (Advisor)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Playground Behind canteen </span></td>
   </tr>
   <tr>
