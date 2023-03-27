@@ -4,7 +4,9 @@ permalink: /learning-at-sms/co-curricular-activities/girls-brigade/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-# Girls Brigade
+## Girls Brigade
+___________________________________________________________
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -36,6 +38,7 @@ third_nav_title: Co Curricular Activities
 </table>
 
 ## Introduction
+___________________________________________________________
 
 Girls' Brigade 25th Company is a Christian uniformed-group organisation with a high enrolment in St. Margaret's School (Primary). We believe in developing every girl to their fullest potential by equipping, empowering and enabling-&nbsp;_Every Girl Becoming a Leader, Every Officer a Servant Leader_&nbsp;. The Girls' Brigade acknowledges Jesus Christ as Saviour and Lord according to the Scriptures, and seeks to help girls find true enrichment of life through self-control, reverence and a sense of responsibility.&nbsp;![Untitled3.jpg](/images/Untitled3.jpg)
 
@@ -46,6 +49,7 @@ We aim to offer our girls a holistic, all-rounded, four-fold programme.&nbsp;The
 <table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/IMG20190602WA0006.jpg" width="100%" alt="IMG-20190602-WA0006.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 308px; height: 410px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/Untitled4.jpg" width="100%" alt="Untitled4.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 472px;"></td></tr></tbody></table>
 
 ### Four-Fold Programme
+___________________________________________________________
 
 
 **Educational:**&nbsp;The educational aspect of this programme involves widening interests, cultivating meaningful pursuits and improving the knowledge and skills of the girls. This aspect is seen most commonly through our Badge Work sessions. During the&nbsp;Badge Work sessions, girls are required to accomplish a great variety of tasks in order to earn their badges.&nbsp;
@@ -73,6 +77,7 @@ We aim to offer our girls a holistic, all-rounded, four-fold programme.&nbsp;The
 ![20190301_144317.jpg](/images/20190301144317.jpg)  
 
 ## Annual Camp
+___________________________________________________________
 
 
 <table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 570.417px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;">Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as baking/cooking, self-defence and making craft work etc.&nbsp; &nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;">The focus of our 2019 camp was ‘Growing in Graciousness’. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls worked together and learnt to communicate better through various activities such as laser tag and a trip to Bounce. The girls also learnt the art of paper quilling to make an art card for their loved ones.</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244.146px;"><img src="/images/IMG20190602WA0007.jpg" width="100%" alt="IMG-20190602-WA0007.jpg" class="ive_eobj_right" style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: right; width: 183px;"></td></tr></tbody></table>
@@ -98,7 +103,8 @@ All-in, the girls have gained valuable experiences, made good friends and develo
 
 ![IMG-20190601-WA0253.jpeg](/images/IMG20190601WA0253.jpg)
 
-## Highlights for 2021
+## Highlights for 2022
+___________________________________________________________
 
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;" class="ives_tab_kosong" border="1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Junior Leadership Training Camp (JLTC)</li><li style="margin: 0px; outline: 0px; padding: 0px;">Dr. Low Guat Tin Challenge</li><li style="margin: 0px; outline: 0px; padding: 0px;">GB Friendship Day</li><li style="margin: 0px; outline: 0px; padding: 0px;">GB Fortnight</li><li style="margin: 0px; outline: 0px; padding: 0px;">Fast Food &amp; Fuzz Camp</li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">GB Enrollment Service</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Online Learning Journeys</span></li></ul></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: right; width: 407.281px;" class="ive_eobj_right" alt="Untitled11.jpg" width="100%" src="/images/Untitled11.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
