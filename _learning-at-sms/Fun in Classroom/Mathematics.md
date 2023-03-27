@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Fun in Classroom
 ---
 ### Vision & Goals
+__________________________________________________________
 
 
 #### Vision
@@ -27,6 +28,7 @@ The goals of SMS(P) Mathematics Department are to guide students and teachers to
   
 
 ### Approach
+__________________________________________________________
 
 
 In order to develop our staff and students towards values of PACE, SMS(P) adopts the use of PACE Strategy.
@@ -42,6 +44,7 @@ At SMS(P), we also strive to build confidence and foster interest in Mathematics
   
 
 ### Programmes
+__________________________________________________________
 
 
 #### 1. Hands-on activities on daily lesson
@@ -83,6 +86,7 @@ Mental sums is always a challenge to students! We made it easier with systematic
 We train students to be self-directed and independent learners who pens down her daily learning points, examples and notes. With these, students are able to use them as reference for revision at anytime, anywhere!
 
 ### Achievements
+__________________________________________________________
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
