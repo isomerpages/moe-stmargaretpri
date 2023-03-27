@@ -4,7 +4,7 @@ permalink: /learning-at-sms/co-curricular-activities/netball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-# Netball
+## Netball
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -65,26 +65,26 @@ third_nav_title: Co Curricular Activities
 </tbody>
 </table>
 
-## Introduction
+### Introduction
 
 
 <table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; text-align: justify; width: 907.218px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 907px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 883.222px; height: 101px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 429px;">Netball is a popular sporting CCA in St. Margaret’s School (Primary). We strive to develop the necessary skills and attitudes in our pupils to play the game competently, displaying the school values of Life-long learning, Integrity, Graciousness, Humility and Tenacity (LIGHT).</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 454px;"><img src="/images/IMG6506.jpg" alt="IMG_6506 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;"></td></tr></tbody></table><h3 style="margin: 0px 0px 8px; outline: 0px; padding: 0px; min-height: 1em; color: rgb(134, 172, 81); font-size: 20px; font-family: Oswald, sans-serif; font-weight: 700; line-height: 26px; text-align: left;">Some facts about NETBALL</h3><table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 885.222px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 431px;"><img src="/images/IMG6484.jpg" alt="IMG_6484 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 454px;">Netball is a fast and skillful team sport that fosters team-spirit and trains agility, endurance and perseverance. Speed, strategy, team work and co-ordination are essential skills for netball. Teams may include up to 12 players but only 7 may take the court at any one time. A game consists of 4 x 10 minutes quarters with an interval of 3 minutes after the first and third quarters and a 5-minute half-time interval. The major aim of the game is to score as many goals as possible from within an area called the Goal Circle.</td></tr></tbody></table><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
-## Vision
+### Vision
 
 
 To nurture netball players who will eventually become sportswomen to shine for the God.  
 
   
 
-## Mission
+### Mission
 
 
 Every Netball Player, An Active Thinker and Problem-Solver
 
 ![IMG_6492 JPEG.jpg](/images/IMG6492.jpg)
 
-## Objectives
+### Objectives
 
 
 *   To encourage and promote the game of netball through the teaching of skills and concepts in netball
@@ -93,26 +93,26 @@ Every Netball Player, An Active Thinker and Problem-Solver
 
   
 
-## Targets
+### Targets
 
 
-### 1\. Junior &amp; Senior Training TEAMS:
+#### 1. Junior &amp; Senior Training TEAMS:
 
 *   To achieve Top 4 in the South Zone Primary Schools Netball Championships for both Junior and Senior Division
 
   
 
-### 2\. Developmental TEAMS:
+#### 2. Developmental TEAMS:
 
 *   To acquire the skills, concepts and attitudes to play a game of Netball confidently
 *   To be able to play at least 2 positions recreationally
 
   
 
-## Activities&nbsp;
+### Activities&nbsp;
 
 
-### &nbsp;1. Junior &amp; Senior Training TEAMs
+#### &nbsp;1. Junior &amp; Senior Training TEAMs
 
 The junior and senior training teams train twice a week to prepare for the annual South Zone and National Primary Schools Netball Championships. The teams undergo rigorous physical training which develops competent netball skills, fine strategy planning and keen mental skills. Through the training sessions, the players' character is also strengthened with sound values aligned to our school's vision and motto.
 
@@ -142,7 +142,7 @@ The development teams train once a week. During the trainings, members are taugh
 
   
 
-## Highlights &amp; Achievements
+### Highlights &amp; Achievements
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
