@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: School Highlights
       button: find out more
-      url: /school-highlights/p1-orientation-2023/
+      url: /school-information/school-highlights/permalink/
       alt: Image alt text
       image: /images/Schl Highlights.jpg
   - infopic:
