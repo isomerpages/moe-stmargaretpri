@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Fun in Classroom
 ---
 ### Vision & Goals
+__________________________________________________________
 
 
 #### Vision
@@ -26,6 +27,7 @@ Every girl is Physically Educated & leads an active lifestyle.
     
 
 ### Department Members
+__________________________________________________________
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -63,6 +65,7 @@ Every girl is Physically Educated & leads an active lifestyle.
 </table>
 
 ### Programmes
+__________________________________________________________
 
 Physical Education (PE) plays an important role in the physical growth and development of pupils. Through PE, pupils acquire the knowledge, skills, right attitude and values towards the pursuit of a lifelong physically active and healthy lifestyle. It also provides an avenue for pupils to express themselves through movement and physical activity.
 
@@ -97,6 +100,7 @@ Fundamental Movement
 *   Swimming
 
 ### Useful Links
+__________________________________________________________
 
 
 [ActiveSg](https://www.myactivesg.com/)
