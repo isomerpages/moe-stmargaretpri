@@ -3,8 +3,7 @@ title: ALP & LLP
 permalink: /learning-at-sms/alp-llp/
 description: ""
 ---
-  
-# LLP Learning Outcome
+### LLP Learning Outcome
 
 
 > *   Acquisition of skills
@@ -21,7 +20,7 @@ description: ""
 
   
 
-# SMS(P) ALP Framework
+### SMS(P) ALP Framework
   
 
 At St Margaret’s School (Primary), our Applied Learning Programme focuses on our students’ application of their communication skills from their day to day interactions in the classrooms to the ability to speak confidently to a larger audience in school and at public platforms. 
