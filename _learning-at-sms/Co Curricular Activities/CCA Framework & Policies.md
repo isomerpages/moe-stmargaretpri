@@ -4,9 +4,7 @@ permalink: /learning-at-sms/co-curricular-activities/cca-framework-and-policies/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-#### 
-
-**1\. OBJECTIVES OF CCA AT SMS(P)**
+#### **1. OBJECTIVES OF CCA AT SMS(P)**
 
   
 
@@ -14,11 +12,7 @@ At SMS(P), CCA is an integral part of the holistic education that we seek to pro
 
   
 
-#### 
-
-  
-
-**2\. OUR CCA PROGRAMME**
+#### **2. OUR CCA PROGRAMME**
 
   
 
@@ -30,11 +24,7 @@ Physical sports develop robustness, fair play and team spirit in students. The V
 
   
 
-#### 
-
-  
-
-**3\. P3 MODULAR CCA PROGRAMME**
+#### **3\. P3 MODULAR CCA PROGRAMME**
 
   
 
@@ -44,7 +34,7 @@ At the end of Primary 2, students will attend the CCA Open House. They will be i
 
 The aim of the Primary 3 modular programme is to expose students to the breadth of CCA choices and encourage them to explore their interests. The students will experience 2 different CCAs within the year so as to allow them to make a more informed decision on their CCA choice when they are in Primary 4.
 
-## Co-Curricular Schedule for 2023
+### Co-Curricular Schedule for 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
