@@ -30,7 +30,7 @@ third_nav_title: Co Curricular Activities
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mondays</span><br><span style="color:#222;background-color:#FBFFFA">(school team players)</span><br><span style="color:#222;background-color:#FBFFFA">&amp; Fridays</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">1.50 pm - 4.00 pm</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">External venue / outside library / 5H, 5T and 6C classroom</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Miss Low Pei Lin (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Abigail Henry</span><br><span style="color:#222;background-color:#FBFFFA">Ms Dinah Chan</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Miss Low Pei Lin (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Abigail Henry</span><br><span style="color:#222;background-color:#FBFFFA">Ms Dinah</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span><br></td>
   </tr>
 </tbody>
