@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Fun in Classroom
 ---
 ### Vision & Goals  
-
-
+__________________________________________________________
 
 
 #### Vision
@@ -51,6 +50,7 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 *   E2K
 
 ### Programmes
+__________________________________________________________
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -77,6 +77,7 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 
 
 ### Achievements
+__________________________________________________________
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
