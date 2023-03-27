@@ -4,16 +4,16 @@ permalink: /learning-at-sms/fun-in-classroom/physical-n-health-education/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-## Vision & Goals
+### Vision & Goals
 
 
-### Vision
+#### Vision
 
 Every girl is Physically Educated & leads an active lifestyle.
 
   
 
-### Goals
+#### Goals
 
 *   To develop pupils' physical robustness
 *   To develop pupils' motor and games skills and equip them with the knowledge, skills and attitudes to pursue and enjoy a physically active and healthy lifestyle
@@ -25,7 +25,7 @@ Every girl is Physically Educated & leads an active lifestyle.
 *   Acquire safe practices during physical activities  
     
 
-## Department Members
+### Department Members
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -62,7 +62,7 @@ Every girl is Physically Educated & leads an active lifestyle.
 </tbody>
 </table>
 
-## Programmes
+### Programmes
 
 Physical Education (PE) plays an important role in the physical growth and development of pupils. Through PE, pupils acquire the knowledge, skills, right attitude and values towards the pursuit of a lifelong physically active and healthy lifestyle. It also provides an avenue for pupils to express themselves through movement and physical activity.
 
@@ -96,7 +96,7 @@ Fundamental Movement
 *   Outdoor Education
 *   Swimming
 
-## Useful Links
+### Useful Links
 
 
 [ActiveSg](https://www.myactivesg.com/)
