@@ -4,6 +4,10 @@ permalink: /learning-at-sms/fun-in-classroom/malay-language/
 description: ""
 third_nav_title: Fun in Classroom
 ---
+
+## Malay Language
+__________________________________________________________
+
 The school's Malay department aims to develop students to be able to use the language fluently and confidently in formal and informal context.  
 
   
@@ -13,6 +17,7 @@ Besides developing students to become passionate Malay Language learners, we als
   
 
 ### Key Programmes and Activities
+__________________________________________________________
 
 #### 1. Mother Tongue Language Fortnight
 
@@ -62,6 +67,7 @@ This story telling competition was held via online and aimed to provide opportun
 
 
 ### Useful Malay Websites
+__________________________________________________________
 
 
 1) Kamus Dewan Online  
@@ -71,5 +77,6 @@ This story telling competition was held via online and aimed to provide opportun
 [https://www.beritaharian.sg/](https://www.beritaharian.sg/)
 
 ### Achievements
+__________________________________________________________
 
 ![](/images/ML%20Dpt%2020222/ML%20Dpt%20Achievement.jpg)
