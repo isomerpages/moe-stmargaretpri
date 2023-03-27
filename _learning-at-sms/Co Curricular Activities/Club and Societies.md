@@ -10,4 +10,4 @@ third_nav_title: Co Curricular Activities
 
 ### [Science and Environmental Cub](/folders/learning-at-sms/subfolders/Co%20Curricular%20Activities/editPage/Science%20and%20Environmental%20Club.md)
 
-### [STAR] ()
+### [STAR](/subfolders/Co%20Curricular%20Activities/editPage/STAR.md)
