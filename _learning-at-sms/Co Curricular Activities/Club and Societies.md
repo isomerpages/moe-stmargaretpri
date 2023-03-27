@@ -4,7 +4,7 @@ permalink: /learning-at-sms/co-curricular-activities/clubs-and-societies/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-# Art Club
+### Art Club
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -39,14 +39,14 @@ third_nav_title: Co Curricular Activities
 </table>
 
 
-## Introduction  
+### Introduction  
 
 
 The Art Club allows pupils with a shared interest in art to gather and create art. Through the weekly sessions, the pupils explore different media such as clay, paint, watercolour, ink, and mixed media. These art projects&nbsp;provide platforms for pupils to&nbsp;enhance their creativity and self-expression, and&nbsp;to gain a greater understanding of concepts, artists, their life histories, and artworks.  
 
 To add on to their primary school art education experience, learning journeys are organised to raise pupils’ awareness about art around Singapore.&nbsp;In addition, they get to view original artworks up close as they acquire art vocabulary to express their opinions on art.
 
-## Objectives  
+### Objectives  
 
 
 *   To nurture an interest in art&nbsp;
@@ -55,7 +55,7 @@ To add on to their primary school art education experience, learning journeys ar
 *   To nurture girls of character anchored in the values of Lifelong Learner, Integrity, Graciousness, Humility and Tenacity (LIGHT)
 
 
-## Key Programmes  
+### Key Programmes  
 
 
 *   Study of renowned artists and their artworks
