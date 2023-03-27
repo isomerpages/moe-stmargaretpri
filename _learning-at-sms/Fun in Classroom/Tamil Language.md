@@ -4,6 +4,9 @@ permalink: /learning-at-sms/fun-in-classroom/tamil-language/
 description: ""
 third_nav_title: Fun in Classroom
 ---
+## Tamil Language
+__________________________________________________________
+
 The school's Tamil department aims to develop pupils to be able to use the language fluently and confidently in formal and informal contexts.  
 
   
@@ -17,6 +20,7 @@ Many programs and activities are planned and carried out in order to achieve the
   
 
 ### Key Programs and Activities:
+__________________________________________________________
 
 
 
@@ -87,6 +91,7 @@ At the end of the lesson, the lesson-based program has met its objective to a ce
   
 
 ### Useful Tamil Websites
+__________________________________________________________
 
 
 1) IMTL Portal  
@@ -100,6 +105,7 @@ At the end of the lesson, the lesson-based program has met its objective to a ce
   
 
 ### Achievements
+__________________________________________________________
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
