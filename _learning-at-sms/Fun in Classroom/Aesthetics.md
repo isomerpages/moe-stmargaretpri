@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Fun in Classroom
 ---
 ### Vision &amp; Goal
+__________________________________________________________
 
 
 #### Vision
@@ -18,6 +19,7 @@ To create opportunities for students to discover their personal voice and be emp
   
 
 ### Department members
+__________________________________________________________
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -62,6 +64,7 @@ To create opportunities for students to discover their personal voice and be emp
 </table>
 
 ### Art
+__________________________________________________________
 
 
 The Art Department aims to nurture in pupils a love for the visual arts by developing their art-making skills and enabling them to creatively express their ideas in visual form. In understanding themselves and appreciating the diversity around them, pupils learn to create meaningful artworks.
@@ -117,11 +120,13 @@ P6 Graduation Art Project</td>
 
 
 #### Use Of Sketchbooks
+__________________________________________________________
 
 
 Starting 2016, all pupils are expected to use a sketchbook as part of their art experience. The sketchbooks serve as a platform for pupils to record information, generate ideas, explore different techniques and reflect.
 
 ### Music
+__________________________________________________________
 
 
 The Music Curriculum incorporates both experiential learning and visible thinking routines,&nbsp;to create a culture of positive musicianship. Using both formal and informal learning pedagogies, students are given a variety of platforms including musical instruments and electronic music devices, to create and perform music. As students develop an appreciation for music and the world around them, they also develop character, values and leadership skills. In the spiral curriculum, they engage in song-writing modules that provide spaces for creative lyric writing. &nbsp;
@@ -150,6 +155,7 @@ One of the signature programmes in the school is the djembe performance workshop
   
 
 ### Achievements
+__________________________________________________________
 
 
 #### Singapore Youth Festival (SYF) Art Exhibition 2021
