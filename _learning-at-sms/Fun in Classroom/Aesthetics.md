@@ -11,8 +11,6 @@ third_nav_title: Fun in Classroom
 
 At the end of every student's journey at SMS(P), we hope to see each child graduating with an open and critical mind, ready for the lifelong involvement in aesthetics. Filled with curiosity (head), and confidence to explore and learn from mistakes (hands), anchored with empathy (heart).
 
-  
-
 #### Goal
 
 To create opportunities for students to discover their personal voice and be empowered to explore ideas and meanings in different contexts while deepening their understanding of the world and society.
@@ -221,3 +219,7 @@ Please scan the codes or click the links below to view the SYF exhibitions.
 *  Note: The PDF is too big [SYF e-Catalogue](https://www.syf.gov.sg/syf/slot/u737/AE/2021/SYF2021AE_E-catalogue.pdf)
 *   [SYF Virtual Art Exhibition](https://www.syf.gov.sg/syf/virtualexhibition/)
 *   [SYF School-based Online Art Exhibition](https://youtu.be/NkkqzonxMVM)
+
+### Achievements
+
+![](/images/Aesthetic%20Achievement.jpg)
