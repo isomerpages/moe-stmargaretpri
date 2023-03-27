@@ -16,11 +16,11 @@ Many programs and activities are planned and carried out in order to achieve the
 
   
 
-## Key Programs and Activities:
+### Key Programs and Activities:
 
 
 
-### 1) Pongal Learning Journey 2023
+#### 1) Pongal Learning Journey 2023
 
 
 
@@ -36,7 +36,7 @@ tie flowers. Students participated actively by listening and engaging themselves
 ![4_recess play_1.jpg](/images/4recess%20play1.jpg)    
 ![5_recess play_2.jpg](/images/5recess%20play2.jpg)
 
-### 2) Seithi Pongalo Pongal Contest 2023
+#### 2) Seithi Pongalo Pongal Contest 2023
 
 Tamil girls from different levels participated in SEITHI PONGALO PONGAL CONTEST 2023 organised by the Seithi Mediacorp. Two girls, one from primary 1 and one from primary 3, placed top 6 in the drawing and greeting card making contest respectively.
 
@@ -51,7 +51,7 @@ Tamil girls from different levels participated in SEITHI PONGALO PONGAL CONTEST 
 **P3 Winner**
 
 
-### 3) MTL Fortnight&nbsp;  
+#### 3. MTL Fortnight&nbsp;  
 
 In alignment with the objectives of MOE, our SMS(P) Tamil Language teachers organised the following activities to expose our students to appreciate the richness of the Indian culture. Activities such as “Agal Vilakku Painting” , “Kolam”, “Kolattam” and Flower Tying were conducted across the levels during the week of MT Fortnight.
 
@@ -64,7 +64,7 @@ In alignment with the objectives of MOE, our SMS(P) Tamil Language teachers orga
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 731px; height: 518px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 327px; height: 233px;" class="ive_eobj_center" alt="Agal vilakku painting.jpeg" src="/images/Agal%20vilakku%20painting.jpeg"><b style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Agal vilakku painting</i></b></div></b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 313px; height: 234px;" class="ive_eobj_center" alt="Flower tying.jpg" width="100%" src="/images/Flower%20tying.jpg"><b style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Flower tying</i></b></div></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="Kolam activity.jpeg" width="100%" src="/images/Kolam%20activity.jpeg"><b style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Kolam activity</i></b></div></b></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 370px; height: 205px;" class="ive_eobj_center" alt="Kolattam dance.jpeg" width="100%" src="/images/Kolattam%20dance.jpeg"><b style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Kolattam dance</i></b></div></b></td></tr></tbody></table>
 
 
-### 4) P1 and P2 speech and Drama
+#### 4) P1 and P2 speech and Drama
 
 Tamil speech and drama for the lower primary students have helped them to gain confidence articulating in Tamil language with confidence over the span of six lessons. Lesson based activities have also provided an interest in learning Tamil language through story songs. These story songs taught, focused more in a variety of warm up activities, voice and speech exercises, facial expressions and body movements. Student showed their involvement and participation with deep interest and passion. The six lessons taught has rather explicitly improved their:
 
