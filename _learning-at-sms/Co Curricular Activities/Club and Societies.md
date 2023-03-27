@@ -10,4 +10,4 @@ third_nav_title: Co Curricular Activities
 
 ### [Science and Environmental Cub](/learning-at-sms/co-curricular-activities/science-and-environmental-club/)
 
-### [STAR](//learning-at-sms/co-curricular-activities/star/)
+### [STAR](/learning-at-sms/co-curricular-activities/star/)
