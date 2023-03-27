@@ -4,29 +4,29 @@ permalink: /learning-at-sms/student-development/character-and-citizenship-educat
 description: ""
 third_nav_title: Student Development
 ---
-# Vision, Mission and Goals
+### Vision, Mission and Goals
 
 
-### Vision
+#### Vision
 
 SMS(P) students will be servant leaders who display the spirit of excellence and good character.
 
   
 
-### Mission
+#### Mission
 
 Train up a&nbsp;child in the way he should go and when he is old, he will not depart from it. (Proverbs 22:6)
 
   
 
-### Goals
+#### Goals
 
 1\. To develop girls who are grounded in L.I.G.H.T.&nbsp;&nbsp;(Lifelong Learning, Integrity, Graciousness, Humility, Tenacity).
 
 2\. To influence girls to be active citizens who contribute to society.
 
 
-Goals of CCE
+### Goals of CCE
 
 CCE 2021 aims to develop in our students:&nbsp;
 
@@ -46,7 +46,7 @@ CCE 2021 aims to develop in our students:&nbsp;
 
 _(Source: CCE Teaching and Learning Syllabus (Primary) 2021)_
 
-### Overview of CCE@SMS(P)
+#### Overview of CCE@SMS(P)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -75,7 +75,7 @@ _(Source: CCE Teaching and Learning Syllabus (Primary) 2021)_
 </tbody>
 </table>
 
-# Teaching and Learning
+### Teaching and Learning
 
 *   Lessons will provide for the explicit teaching of the values, knowledge, skills and competencies that are critical for character and citizenship development. These lessons include the lessons for CCE (Form Teacher Guidance Period - FTGP) and \*CCE (Mother Tongue Languages - MT).
 
@@ -100,7 +100,7 @@ _(Source: CCE Teaching and Learning Syllabus (Primary) 2021)_
 *   **Assemblies**&nbsp;in school are also used as a teaching platform for school values and other CCE LOs.
 
 
-# Student Development Experiences
+### Student Development Experiences
 
 Student Development experiences, through various platforms, reinforce and support student's learning in CCE.  
 
@@ -135,7 +135,7 @@ Student Development experiences, through various platforms, reinforce and suppor
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 830.025px; height: 493px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 262px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 252px; height: 186px;" class="ive_eobj_center" alt="Student Learning Festival P1.JPG" width="100%" src="/images/Student%20Learning%20Festival%20P1.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Learning Festival P1</b></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 254px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 271px; height: 203px;" class="ive_eobj_left" alt="Student Learning Festival P2.jpeg" width="100%" src="/images/Student%20Learning%20Festival%20P2.jpeg"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Student Learning Festival P2</b><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 314px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="Student Learning Festival P3.JPG" width="100%" src="/images/Student%20Learning%20Festival%20P3.jpg"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Learning Festival P3</b></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 294px; height: 236px;" class="ive_eobj_center" alt="Student Learning Festival P4.JPG" width="100%" src="/images/Student%20Learning%20Festival%20P4.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Learning Festival P4</b></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 289px; height: 237px;" class="ive_eobj_center" alt="Student Learning Festival P5.jpg" width="100%" src="/images/Student%20Learning%20Festival%20P5.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Learning Festival P5</b></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 293px; height: 238px;" class="ive_eobj_center" alt="Student Learning Festival P6.JPG" width="100%" src="/images/Student%20Learning%20Festival%20P6.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Learning Festival P6</b></div></td></tr></tbody></table>
 
 
-# Support Structures
+### Support Structures
 
 *   **Morning Devotion**, based on the school values and anchored on the school's Christian tradition, helps staff and students start the day with timely reminders of what is at the core of CCE.&nbsp;
 
@@ -155,7 +155,7 @@ Student Development experiences, through various platforms, reinforce and suppor
 
 *   **Partnerships**&nbsp;with parents and other organisations help the school to provide the learning experiences that support CCE.
 
-# Education Character Award (ECHA)
+### Education Character Award (ECHA)
 
 MOE introduced the Edusave Character Award (ECHA) in 2012 to enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports our continuing efforts in nurturing pupils of good values and character, who are active contributors and concerned citizens.  
   
@@ -168,7 +168,7 @@ The objectives of the ECHA are:
 
   
 
-### Eligibility Criteria
+#### Eligibility Criteria
 
 
 
@@ -197,7 +197,7 @@ The objectives of the ECHA are:
 
   
 
-### Nomination
+#### Nomination
 
 
 The nomination period starts on 13 July 2022. Students can be nominated by staff, parents, coaches and other partners using the prescribed nomination form. In addition, they can be nominated by their peers (only P3-6). The forms can be obtained&nbsp;[here](/files/Annex%20A%20ECHA%20nomination%20form%202022.pdf)&nbsp;and P3-6 Form Teachers.  
@@ -218,7 +218,7 @@ The selection will be conducted by a panel comprising school staff, student lead
 
   
 
-### Form of Award
+#### Form of Award
 
 Similar to the practice for other Edusave awards, the ECHA awardees will receive a certificate and an award voucher. The ECHA award quanta are as follows:  
 
