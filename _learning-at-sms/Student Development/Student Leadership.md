@@ -4,14 +4,14 @@ permalink: /learning-at-sms/student-development/student-leadership/
 description: ""
 third_nav_title: Student Development
 ---
-## Vision
+### Vision
 
 
 SMS(P) students will be servant leaders who display the spirit of excellence and good character.
 
   
 
-## Underlying Beliefs
+### Underlying Beliefs
 
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All students can be developed to be servant leaders  
@@ -24,7 +24,7 @@ SMS(P) students will be servant leaders who display the spirit of excellence and
 
 ![Servant Leadership.jpg](/images/Servant%20Leadership.jpg)  
 
-## Student Leaders' Investiture 2022  
+### Student Leaders' Investiture 2022  
 
 
 
@@ -38,10 +38,7 @@ With the changes in the Safe Management Measures, the P6 Student Leaders were ab
 
 First, the P6 CCA Leaders were each introduced to the school. Next, the Primary 4, 5 and 6 Prefects, as well as the members of the Prefect Captain Team were each introduced to the school. They were all officially appointed by our Principal, Mrs Ko. This was followed by the Head and Assistant Head Prefects leading the P6 CCA Leaders and Prefects in reciting the Student Leaders' Pledge, witnessed by everyone in school. It was a proud moment for the student leaders as they pledged their commitment and loyalty as student leaders of the school. After a prayer of blessing upon the student leaders by our Chaplain's Assistant, Mdm Wang Kar Foon, The Head Prefect shared about her role and aspirations as she traced her leadership journey.
 
-# Slideshow to be uploaded on flickr/youtube for embed on isomer
-  https://stmargaretspri.moe.edu.sg/learning-at-sms-p/student-development/student-leadership/student-leadership
-
-## Student Leaders' Pledge
+### Student Leaders' Pledge
 
 
 
@@ -57,11 +54,11 @@ As we serve our school, we serve heartily as unto God.&nbsp;&nbsp;
 
   
 
-## Events
+### Events
 
   
 
-### Student Leaders’ Training
+#### Student Leaders’ Training
 
 During these monthly meetings, the prefects come together to learn about what it means to be a servant leader through team-building games and group discussions. They are also given the opportunity to work in teams to initiate, design and execute projects that aim to serve their fellow school mates and meet specific areas of need in the school or larger community.  
 
