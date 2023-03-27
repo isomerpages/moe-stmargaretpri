@@ -14,7 +14,7 @@ sections:
           url: /announcements/update-on-upgrading-plan-for-st-margaret-s-school-primary/
         - title: Calendar
           description: Click here to view all
-          url: https://stmargaretspri.moe.edu.sg/
+          url: /sites/moe-stmargaretpri/folders/useful-links/editPage/Calendar.md
   - infopic:
       title: School Highlights
       button: find out more
