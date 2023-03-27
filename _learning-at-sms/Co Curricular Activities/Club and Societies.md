@@ -5,3 +5,4 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ### [Art Club](/folders/learning-at-sms/subfolders/Co%20Curricular%20Activities/editPage/Art%20Club.md)
+
