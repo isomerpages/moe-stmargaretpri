@@ -182,4 +182,4 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
 </table>
 
 
-      _\* is the Overall-in-charge_
+ ######     * is the Overall-in-charge*
