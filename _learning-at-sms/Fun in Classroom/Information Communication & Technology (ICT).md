@@ -31,8 +31,6 @@ __________________________________________________________
 #### Programmes
 __________________________________________________________
 
-* * *
-
 ![ICT Roadmap 2015.png](https://stmargaretspri.moe.edu.sg/qql/slot/u209/Programmes/ICT/ICT%20Roadmap%202015.png)  
   
 
@@ -45,8 +43,6 @@ __________________________________________________________
 
 ### Computer Lab and Personal Safety rules
 __________________________________________________________
-
-### 
 
 ![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/ICT%20Dept_thumb01.jpg)
 
