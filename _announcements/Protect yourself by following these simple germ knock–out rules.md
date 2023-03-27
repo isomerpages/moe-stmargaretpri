@@ -9,7 +9,7 @@ Germs and viruses may not be visible, but you can protect yourself by following 
 
 ### 2\. Advisory on Seeing a Doctor and Public Hygiene during Covid-19
 
-(/images/Advisory on See a Doctor and Public hygiene_27Feb2020.jpg)
+![](/images/Advisory%20on%20See%20a%20Doctor%20and%20Public%20hygiene_27Feb2020.jpg)
 
 _27 Feb 2020_  
   
