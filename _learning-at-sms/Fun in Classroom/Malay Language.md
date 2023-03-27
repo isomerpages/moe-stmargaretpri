@@ -72,3 +72,4 @@ This story telling competition was held via online and aimed to provide opportun
 
 ### Achievements
 
+![](/images/ML%20Dpt%2020222/ML%20Dpt%20Achievement.jpg)
