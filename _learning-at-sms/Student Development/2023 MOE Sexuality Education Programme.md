@@ -4,7 +4,7 @@ permalink: /learning-at-sms/student-development/2023-moe-sexuality-education-pro
 description: ""
 third_nav_title: Student Development
 ---
-## MOE Sexuality Education in Schools
+### MOE Sexuality Education in Schools
 
 
   
@@ -42,7 +42,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
   
   
 
-## Overview of Sexuality Education Programme For 2023
+### Overview of Sexuality Education Programme For 2023
 
 
   
@@ -51,31 +51,27 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
   
 
-5\.  The subjects that incorporate topics on sexuality include:
+5. The subjects that incorporate topics on sexuality include:
 
     (a) Science  
     (b) Character and Citizenship Education (CCE)  
   
 **Sexuality Education Lessons**  
 
-  
 
 6.  The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
 
-  
-
-  
-
+ 
 7.   Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
   
 
-## Growing Years Programme (2023)
+### Growing Years Programme (2023)
 
 
 At St Margaret's School (Primary), the following Sexuality Education lessons will be taught in 2023.
 
-###   Primary 5
+####   Primary 5
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -116,7 +112,7 @@ At St Margaret's School (Primary), the following Sexuality Education lessons wil
 </tbody>
 </table>
 
-### Primary 6
+#### Primary 6
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -159,7 +155,7 @@ At St Margaret's School (Primary), the following Sexuality Education lessons wil
 </tbody>
 </table>
 
-### Information for Parents
+#### Information for Parents
 
 8.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
