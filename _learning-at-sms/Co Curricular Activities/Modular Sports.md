@@ -46,7 +46,8 @@ The Modular Sports CCA provides a platform for the students to hone and improve 
 
 The students will learn the fundamental volleyball skills which consist of athletic stance, footwork, forearm passing (also known as bumping/digging) and volleying. In floorball, students will learn the fundamental skills of dribbling, passing and shooting. In addition, students will learn the rules and gameplay of both sports.
 
-Objectives  
+### Objectives  
+__________________________________________________________
 
 1.&nbsp;To provide opportunities for students to discover their sporting strength and passion.
 
