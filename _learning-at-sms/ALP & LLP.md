@@ -33,5 +33,8 @@ Our programme focuses on the 4 key aspects of communication skills which  are p
 
 ![ALP diagram.jpg](/images/ALP%20diagram.jpg)  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4PKP0e2z0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 _\*ALP = Applied Learning Programme  
 \*LLP =  Learning for Life Programme_
