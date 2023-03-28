@@ -33,7 +33,7 @@ third_nav_title: School Highlights
 
 
 #### Chinese New Year 2022
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NDteHE3IKw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 #### P1 Orientation 2022
