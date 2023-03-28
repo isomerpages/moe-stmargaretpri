@@ -4,8 +4,7 @@ permalink: /school-highlights/national-day-2022/
 description: ""
 third_nav_title: School Highlights
 ---
-
-## 26 photos can be uploaded on external: flickr slideshow  or youtube to embed in isomer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I2iQRbuM0IM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **National Day 2022** \- Our country’s **57th year** of independence was marked with great enthusiasm and joy! This year, our school came together and celebrated in the hall with our very own performers. Colourful flags and buntings for the school’s 180th Anniversary decorated our school walls. The display of our girls’ creative and authentic work made the occasion extra special!
 
