@@ -5,7 +5,7 @@ description: ""
 ---
 ## St. Margaret's Story: Blessed to be a Blessing
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GjZ1x1SSObw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mbh2zqinjmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 A short film to celebrate the 170th Anniversary of St. Margaret's School in Singapore.
   
