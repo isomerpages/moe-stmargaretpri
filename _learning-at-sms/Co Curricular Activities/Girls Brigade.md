@@ -99,9 +99,6 @@ Many of the activities organised by the Girls’ Brigade Headquarters have also 
 
 All-in, the girls have gained valuable experiences, made good friends and developed leadership skills through their four years in the company. We pray that the girls learn to Seek, Serve and Follow Christ as a guide in all that they do.
 
-  
-
-![IMG-20190601-WA0253.jpeg](/images/IMG20190601WA0253.jpg)
 
 ## Highlights for 2022
 ___________________________________________________________
