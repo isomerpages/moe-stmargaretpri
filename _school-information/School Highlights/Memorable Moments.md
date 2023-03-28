@@ -5,15 +5,15 @@ description: ""
 third_nav_title: School Highlights
 ---
 #### National Day 2022
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I2iQRbuM0IM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 #### P3 Sports Education Programme 2022
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJwTUf8GPgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 #### P4 Sports Education Programme 2022
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YHpZJvrfmnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 #### P3 Cultural Camp 2022
@@ -21,7 +21,7 @@ third_nav_title: School Highlights
 
 
 #### Student Leaders Investiture 2022
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZ2ztthLvaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 #### P2 Math Trail 2022
