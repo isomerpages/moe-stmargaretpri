@@ -3,7 +3,7 @@ title: School Crest
 permalink: /about-us/school-crest/
 description: ""
 ---
-![](/images/SMPS%20LOGO%20VECTOR_small.jpg)
+<img src="/images/SMPS%20LOGO%20VECTOR_small.jpg" alt="" style="width:170px;height:200px;">
 
 ### Green Background
 
