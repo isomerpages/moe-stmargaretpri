@@ -1,0 +1,10 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Mission, Vision.md
+      - School Motto, Values.md
+      - School Crest.md
+      - School Song, Creed & Hymm.md
+      - School History.md
+      - St Margaret's Film.md

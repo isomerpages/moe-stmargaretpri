@@ -1,0 +1,24 @@
+collections:
+  school-information:
+    output: true
+    order:
+      - Our People.md
+      - School Rules & Expectations.md
+      - Operating Hours.md
+      - Contact Us.md
+      - Student Services Information.md
+      - School Highlights/School Highlights.md
+      - School Highlights/.keep
+      - School Highlights/The Oldest Girls School.md
+      - School Highlights/Appreciation to our PERI Partners.md
+      - School Highlights/To Learn and Grow.md
+      - School Highlights/English Language (EL) Week 2023.md
+      - School Highlights/P1 Orientation 2023.md
+      - School Highlights/National Day 2022.md
+      - School Highlights/P4 Sports Education Programme 2022.md
+      - School Highlights/P3 Sports Education Programme 2022.md
+      - School Highlights/Memorable Moments.md
+      - School Terms & Holidays.md
+      - School Admission.md
+      - Traffic Management.md
+      - Virtual Tour.md
