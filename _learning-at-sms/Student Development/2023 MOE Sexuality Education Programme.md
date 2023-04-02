@@ -165,7 +165,7 @@ __________________________________________________________
 
   
 
-9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form can be obtained through the Form Teacher and is also downloadable&nbsp;[here](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2023/Department/Student%20Development/SMPS_GYS%20opt%20out%20form%202023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the Form Teacher by 17/02/2023.
+9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form can be obtained through the Form Teacher and is also downloadable&nbsp;[here](/learning-at-sms/student-development/2023-moe-sexuality-education-programme/SMPS_GYS-opt-out-form-2023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the Form Teacher by 17/02/2023.
 
   
 
