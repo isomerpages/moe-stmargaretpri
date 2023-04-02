@@ -26,7 +26,7 @@ Thank you for visiting stmargaretspri.moe.edu.sg. By accessing and using this we
 
 5\. Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of St Margaret's School (Primary).
 
-6\. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of St Margaret's School's (Primary) copyright and other intellectual property rights. Graphics and img on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of St Margaret's School (Primary).
+6\. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of St Margaret's School's (Primary) copyright and other intellectual property rights. Graphics and image on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of St Margaret's School (Primary).
 
 **Disclaimer of Warranties and Liability**
 
