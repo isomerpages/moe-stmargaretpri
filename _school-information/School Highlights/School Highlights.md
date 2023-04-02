@@ -8,4 +8,6 @@ third_nav_title: School Highlights
 
 These are the activities that the students participated for holistic learning.
 
-### [To Learn and Grow : Term 1 Montage 2023](/school-highlights/to-learn-and-grow/)
+![](/images/Montages/t1montage_01.jpg)
+
+#### [To Learn and Grow : Term 1 Montage 2023](/school-highlights/to-learn-and-grow/)
