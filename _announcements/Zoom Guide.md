@@ -8,16 +8,14 @@ description: ""
 
 Dear Parents,
 
-  
 
-Please click [here](/files/Zoom%20Guide%20for%20Parents_2021.pdf) to view the Zoom guide.
+Please click <a href="/files/Zoom Guide for Parents_2021.pdf" target="_blank">here</a>&nbsp;to view the Zoom guide.
 
 
 ### Zoom Guide for Students
 
 
-Dear students, 
+Dear students,&nbsp;
 
-  
 
-Please click [here](/files/Zoom%20Guide%20for%20students.pdf) to view the Zoom Guide.
+Please click <a href="/files/Zoom Guide for students.pdf" target="_blank">here</a>&nbsp;to view the Zoom Guide.
