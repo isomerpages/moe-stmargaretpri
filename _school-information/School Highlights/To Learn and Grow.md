@@ -4,6 +4,9 @@ permalink: /school-highlights/to-learn-and-grow/
 description: ""
 third_nav_title: School Highlights
 ---
+Term 1 Montage 2023
+-------------------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CwdL6QIZzIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 2022 Montage
@@ -31,4 +34,3 @@ End of Year Montage 2021
 ------------------------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i6MEQCQGvlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
