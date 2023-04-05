@@ -104,7 +104,8 @@ __________________________________________________________
 **Online Library System (OPAC):**
 
 
-1.  Pupils will be able to view their borrowers’ status by accessing the online library system (OPAC) at:&nbsp;[https://schoolibrary.moe.edu.sg/stmargaretspri/](https://schoolibrary.moe.edu.sg/stmargaretspri/)
+1.  Pupils will be able to view their borrowers’ status by accessing the online library system (OPAC) at:<a href="https://schoolibrary.moe.edu.sg/stmargaretspri" target="_blank">https://schoolibrary.moe.edu.sg/stmargaretspri</a>
+
 2.  **Default&nbsp;OPAC&nbsp;password for all patrons (Students).**&nbsp;&nbsp;Please be advised the current password using NRIC will be changed to Moe@DDMMYYYY&nbsp;(DDMMYYYY is the DOB of the student) as a default password for all users.&nbsp;&nbsp;**Upon login, all patrons are required to change the password under “My Account” page.&nbsp; The new password will have be made up of at least 12 characters and should contain characters&nbsp;from at least two of the following four&nbsp;categories:**
 
 *   Upper case (A through Z);
