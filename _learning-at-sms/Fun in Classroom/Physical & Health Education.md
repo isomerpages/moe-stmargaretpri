@@ -1,16 +1,16 @@
 ---
-title: Physical & Health Education
+title: Physical &amp; Health Education
 permalink: /learning-at-sms/fun-in-classroom/physical-n-health-education/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-### Vision & Goals
+### Vision &amp; Goals
 __________________________________________________________
 
 
 #### Vision
 
-Every girl is Physically Educated & leads an active lifestyle.
+Every girl is Physically Educated &amp; leads an active lifestyle.
 
   
 
@@ -87,14 +87,14 @@ On top of the scheduled PE lessons during curriculum time, we also schedule morn
 
   
 
-As part of the PE Programme, every pupil from P1-P6 goes through these learning areas:
+As part&nbsp;of the PE Programme, every pupil from P1-P6 goes through these learning areas:
 
 Fundamental Movement
 
-*   Games & Sports
+*   Games &amp; Sports
 *   Gymnastics
 *   Dance
-*   Physical Health & Fitness
+*   Physical Health &amp; Fitness
 *   Athletics
 *   Outdoor Education
 *   Swimming
@@ -102,9 +102,6 @@ Fundamental Movement
 ### Useful Links
 __________________________________________________________
 
-
-[ActiveSg](https://www.myactivesg.com/)
-
+##### <a href="https://www.myactivesg.com/" target="_blank">ActiveSG</a>
   
-
-[Sport Singapore](https://www.sportsingapore.gov.sg/)
+##### <a href="https://www.sportsingapore.gov.sg/" target="_blank">Sport Singapore</a>
