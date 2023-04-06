@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: Click here to view all
-          url: /announcements/update-on-upgrading-plan-for-st-margaret-s-school-primary/
+          url: /announcements/inspiring-teacher-of-english-award-2023/
         - title: Calendar
           description: Click here to view all
           url: /useful-links/permalink/
