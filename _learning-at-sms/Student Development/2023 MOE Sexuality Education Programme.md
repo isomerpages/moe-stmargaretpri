@@ -39,7 +39,7 @@ __________________________________________________________
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.  
   
   
-You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.  
+You may click&nbsp; <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a> for more information on MOE Sexuality Education.  
   
   
 
@@ -49,7 +49,7 @@ __________________________________________________________
 
   
 
-4.&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.&nbsp;
+4.&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.&nbsp;
 
   
 
@@ -165,7 +165,7 @@ __________________________________________________________
 
   
 
-9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form can be obtained through the Form Teacher and is also downloadable&nbsp;[here](/learning-at-sms/student-development/2023-moe-sexuality-education-programme/SMPS_GYS-opt-out-form-2023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the Form Teacher by 17/02/2023.
+9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form can be obtained through the Form Teacher and is also downloadable <a href="/files/SMPS_GYS-opt-out-form-2023.pdf" target="_blank">here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the Form Teacher by 17/02/2023.
 
   
 

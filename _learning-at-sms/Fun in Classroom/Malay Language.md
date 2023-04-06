@@ -70,10 +70,11 @@ __________________________________________________________
 
 
 1) Kamus Dewan Online  
-[http://prpm.dbp.gov.my/](http://prpm.dbp.gov.my/)  
-  
+<a href="http://prpm.dbp.gov.my/" target="_blank">http://prpm.dbp.gov.my/</a>
+ 
+ 
 2) Berita Harian SG  
-[https://www.beritaharian.sg/](https://www.beritaharian.sg/)
+<a href="https://www.beritaharian.sg/" target="_blank">https://www.beritaharian.sg/</a>
 
 ### Achievements
 __________________________________________________________

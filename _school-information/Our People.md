@@ -732,7 +732,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Operations Manager </span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Syafawati Binte Roslan</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Nur Syafawati Binte Roslan</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
   <tr>
@@ -740,11 +740,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Chuan Yiun Mean</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Binte Johari</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
   <tr>
