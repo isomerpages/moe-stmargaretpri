@@ -27,4 +27,14 @@ sections:
       url: /files/PUP Fundraising 2021.pdf
       image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
       alt: Image alt text
+  - infobar:
+      title: Infobar Title
+      subtitle: Test
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Learning@SMSP
+      button: FIND OUT MORE
+      url: awdad
+      alt: Image alt text
 ---
