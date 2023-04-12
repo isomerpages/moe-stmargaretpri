@@ -21,6 +21,7 @@ sections:
       url: /school-information/school-highlights/permalink/
       alt: Image alt text
       image: /images/Schl Highlights.jpg
+      description: Our Featured Events
   - infopic:
       title: Learning@SMSP
       button: FIND OUT MORE
