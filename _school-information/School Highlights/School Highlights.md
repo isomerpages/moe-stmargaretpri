@@ -39,9 +39,9 @@ These are the activities that the students participated for holistic learning.
 		<th><center> P1 Level Camp 2023 </center></th> 
 </tr>
 <tr>
-			<td><img alt="p1orientation.jpg" src="/images/Thumbnails/p1orientation_thumb01.jpg"> </td>
-	<td><img alt="p1p2tea" src="/images/Thumbnails/p1 p2 tea_thumb01.jpeg"> </td>
-			<td><img alt="elweek.jpg" src="/images/Thumbnails/el wk thumb_01.jpeg"> </td>
+			<td><a href="/school-highlights/p1-orientation-2023/"><img alt="p1orientation.jpg" src="/images/Thumbnails/p1orientation_thumb01.jpg"> </a></td>
+	<td><a href="/school-highlights/p1-p2-tea-2023/"><img alt="p1p2tea" src="/images/Thumbnails/p1 p2 tea_thumb01.jpeg"> </a></td>
+			<td><a href="/school-highlights/english-language-el-week-2023/"><img alt="elweek.jpg" src="/images/Thumbnails/el wk thumb_01.jpeg"> </a></td>
 </tr>			
 		<tr>
 		<th><center> P1 Orientation 2023 </center></th> 
