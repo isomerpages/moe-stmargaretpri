@@ -12,3 +12,30 @@ These are the activities that the students participated for holistic learning.
 
 #### To Learn and Grow : 
 1. ##### [Term 1 Montage 2023](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<table>
+	<tbody><tr>
+		<th> P2 Level Camp 2023 </th> 
+		<th> P4 Learning Journey to Kreta Ayer 2023 </th> 
+		<th> Sports Jamboree 2023 </th> 
+</tr>
+		<tr>
+		<th> Total Defence 2023 </th> 
+		<th> P3 SEP 2023 </th> 
+		<th> P1 Level Camp 2023 </th> 
+</tr>
+		<tr>
+		<th> P1 Orientation 2023 </th> 
+		<th> EL Week 2023 </th> 
+		<th> P1 P2 TEA 2023 </th> 
+</tr>
+</tbody></table>
