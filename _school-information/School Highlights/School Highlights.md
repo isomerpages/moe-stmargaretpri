@@ -40,8 +40,8 @@ totaldefence_thumb01.jpg"> </td>
 		<th><center> P1 Level Camp 2023 </center></th> 
 </tr>
 		<tr>
-		<th> P1 Orientation 2023 </th> 
-		<th> EL Week 2023 </th> 
-		<th> P1 P2 TEA 2023 </th> 
+		<th><center> P1 Orientation 2023 </center></th> 
+		<th><center>  EL Week 2023 </center></th> 
+		<th><center>  P1 P2 TEA 2023 </center></th> 
 </tr>
 </tbody></table>
