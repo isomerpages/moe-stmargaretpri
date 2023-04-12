@@ -19,8 +19,18 @@ description: ""
 
 
 #### **18 - 20 April 2023**
-##### P5 Level Camp
-__________________________________________________________
+
+<table>
+	<tbody><tr>
+		<th><font size="4">  
+     Tuesday - Thursday
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="5" color="maroon"><b>P5 Level Camp</b></font></td>
+</tr>
+</tbody></table>
+
 
 #### **21 April 2023**
 ##### Early Dismissal for Muslim staff and students  (Early dismissal at 10am)
