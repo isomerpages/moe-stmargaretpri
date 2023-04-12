@@ -21,7 +21,7 @@ These are the activities that the students participated for holistic learning.
 		<tr>
 			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
 			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
-			<td><a href="www.google.com"><img alt="sports jamboree" src="/images/Thumbnails/sportsjamboree_thumb_01.jpeg"> </a></td>
+			<td><a href="/school-highlights/sports-jamboree-2023/"><img alt="sports jamboree" src="/images/Thumbnails/sportsjamboree_thumb_01.jpeg"> </a></td>
 </tr>	
 		<tr>
 		<th><center>P2 Level Camp 2023 </center></th> 
