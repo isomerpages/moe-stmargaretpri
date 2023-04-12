@@ -16,4 +16,4 @@ To further engage students in the commemoration of Total Defence, activities wer
  
 The P6 students also went on a learning journey to the Singapore Discovery Centre and learnt of ways to protect and defend Singapore through a series of activities organised for them. May they not forget the key lessons learnt and always remember they have a part to play in Total Defence. 
 
-Putting the fun aside, students and staff must take the defence of Singapore seriously and pledge to do what we can because Together, We Keep Singapore Strong. 
+Putting the fun aside, students and staff must take the defence of Singapore seriously and pledge to do what we can because Together, We Keep Singapore Strong.
