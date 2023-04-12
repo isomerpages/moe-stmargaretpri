@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Learning@SMSP
       button: FIND OUT MORE
-      url: /learning-at-sms/fun-in-classroom/english-language/permalink/
+      url: /learning-at-sms/fun-in-classroom/english-language/
       alt: Image alt text
       image: /images/Thumbnails/masterhead for learning smps.JPG
   - infopic:
