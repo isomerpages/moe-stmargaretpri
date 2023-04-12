@@ -27,7 +27,7 @@ These are the activities that the students participated for holistic learning.
 		<tr>
 			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
 			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
-			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
+			<td><img alt="sports jamboree" src="/images/Thumbnails/sportsjamboree_thumb_01.jpg"> </td>
 			
 	
 </tr>	
