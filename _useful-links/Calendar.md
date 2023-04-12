@@ -4,6 +4,7 @@ permalink: /useful-links/permalink/
 description: ""
 ---
 #### **14 April 2023**
+###### *Friday*
 ##### P2 Level Camp
 __________________________________________________________
 
