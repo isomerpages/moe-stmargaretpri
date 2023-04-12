@@ -39,6 +39,12 @@ totaldefence_thumb01.jpg"> </td>
 		<th><center>P3 SEP 2023 </center></th> 
 		<th><center> P1 Level Camp 2023 </center></th> 
 </tr>
+<tr>
+			<td><img alt="totaldefence" src="/images/Thumbnails/
+totaldefence_thumb01.jpg"> </td>
+			<td><img alt="p3sep" src="/images/Thumbnails/p3sep_thumb01.jpg"> </td>
+			<td><img alt="p1levelcamp" src="/images/Thumbnails/p1camp_thumb01.jpg"> </td>
+</tr>			
 		<tr>
 		<th><center> P1 Orientation 2023 </center></th> 
 		<th><center>  EL Week 2023 </center></th> 
