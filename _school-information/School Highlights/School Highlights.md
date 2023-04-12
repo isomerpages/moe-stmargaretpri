@@ -35,9 +35,9 @@ totaldefence_thumb01.jpg"> </td>
 			<td><img alt="p1levelcamp" src="/images/Thumbnails/p1camp_thumb01.jpg"> </td>
 </tr>	
 		<tr>
-		<th> Total Defence 2023 </th> 
-		<th> P3 SEP 2023 </th> 
-		<th> P1 Level Camp 2023 </th> 
+		<th><center> Total Defence 2023 </center></th> 
+		<th><center>P3 SEP 2023 </center></th> 
+		<th><center> P1 Level Camp 2023 </center></th> 
 </tr>
 		<tr>
 		<th> P1 Orientation 2023 </th> 
