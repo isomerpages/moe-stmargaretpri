@@ -42,7 +42,7 @@ totaldefence_thumb01.jpg"> </td>
 <tr>
 			<td><img alt="p1orientation.jpg" src="/images/Thumbnails/p1orientation_thumb01.jpg"> </td>
 			<td><img alt="elweek.jpg" src="/images/Thumbnails/el wk thumb_01.jpeg"> </td>
-			<td><img alt="p1levelcamp" src="/images/Thumbnails/el wk thumb_01.jpg"> </td>
+			<td><img alt="p1p2tea" src="/images/Thumbnails/el wk thumb_01.jpg"> </td>
 </tr>			
 		<tr>
 		<th><center> P1 Orientation 2023 </center></th> 
