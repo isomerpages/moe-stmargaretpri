@@ -11,7 +11,7 @@ These are the activities that the students participated for holistic learning.
 ![](/images/Montages/t1montage_01.jpg)
 
 #### To Learn and Grow : 
-1. ##### [Term 1 Montage 2023](/school-highlights/to-learn-and-grow/) <font color="red" size="3"> (NEW) </font>
+1. ##### [Term 1 Montage 2023](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
 
 <br>
 <br>
@@ -19,9 +19,9 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 		<tr>
-			<td><img src="/images/Thumbnails/comingsoon01.jpg" alt="coming soon"> </td>
-			<td><img src="/images/Thumbnails/comingsoon01.jpg" alt="coming soon"> </td>
-			<td><img src="/images/Thumbnails/sportsjamboree_thumb_01.jpeg" alt="sports jamboree"> </td>
+			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
+			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
+			<td><img alt="sports jamboree" src="/images/Thumbnails/sportsjamboree_thumb_01.jpeg"> </td>
 </tr>	
 		<tr>
 		<th><center>P2 Level Camp 2023 </center></th> 
@@ -29,9 +29,10 @@ These are the activities that the students participated for holistic learning.
 		<th><center> Sports Jamboree 2023 </center></th> 
 </tr>
 <tr>
-			<td><img src="/images/Thumbnails/comingsoon01.jpg" alt="totaldefence"> </td>
-			<td><img src="/images/Thumbnails/comingsoon01.jpg" alt="p3sep"> </td>
-			<td><img src="/images/Thumbnails/sportsjamboree_thumb_01.jpeg" alt="p1levelcamp"> </td>
+			<td><img alt="totaldefence" src="/images/Thumbnails/
+totaldefence_thumb01.jpg"> </td>
+			<td><img alt="p3sep" src="/images/Thumbnails/p3sep_thumb01.jpg"> </td>
+			<td><img alt="p1levelcamp" src="/images/Thumbnails/p1camp_thumb01.jpg"> </td>
 </tr>	
 		<tr>
 		<th> Total Defence 2023 </th> 
