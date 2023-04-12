@@ -33,6 +33,7 @@ sections:
       button: FIND OUT MORE
       url: /useful-links/resources-for-teachers/permalink
       image: /images/Thumbnails/masterhead for resources.JPG
+      alt: masterhead for resources
   - infopic:
       title: Fundraising
       button: Find out more
