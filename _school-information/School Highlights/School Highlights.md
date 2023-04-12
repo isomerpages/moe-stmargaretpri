@@ -15,12 +15,6 @@ These are the activities that the students participated for holistic learning.
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 <table>
 	<tbody>
@@ -34,6 +28,11 @@ These are the activities that the students participated for holistic learning.
 		<th><center> P4 Learning Journey to Kreta Ayer 2023 </center></th> 
 		<th><center> Sports Jamboree 2023 </center></th> 
 </tr>
+<tr>
+			<td><img src="/images/Thumbnails/comingsoon01.jpg" alt="totaldefence"> </td>
+			<td><img src="/images/Thumbnails/comingsoon01.jpg" alt="p3sep"> </td>
+			<td><img src="/images/Thumbnails/sportsjamboree_thumb_01.jpeg" alt="p1levelcamp"> </td>
+</tr>	
 		<tr>
 		<th> Total Defence 2023 </th> 
 		<th> P3 SEP 2023 </th> 
