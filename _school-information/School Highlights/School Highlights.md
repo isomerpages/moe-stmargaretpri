@@ -23,7 +23,15 @@ These are the activities that the students participated for holistic learning.
 
 
 <table>
-	<tbody><tr>
+	<tbody>
+		<tr>
+			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
+			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
+			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
+			
+	
+</tr>	
+		<tr>
 		<th> P2 Level Camp 2023 </th> 
 		<th> P4 Learning Journey to Kreta Ayer 2023 </th> 
 		<th> Sports Jamboree 2023 </th> 
