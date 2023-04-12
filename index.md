@@ -31,7 +31,7 @@ sections:
       title: Resources
       description: Resources for Students, Teachers and Parents
       button: FIND OUT MORE
-      url: /useful-links/permalink/
+      url: /useful-links/resources-for-teachers/
       image: /images/Thumbnails/masterhead for resources.JPG
       alt: masterhead for resources
   - infopic:
