@@ -4,8 +4,18 @@ permalink: /useful-links/permalink/
 description: ""
 ---
 #### **14 April 2023**
-###### *Friday*
-##### P2 Level Camp
+
+<table>
+	<tbody><tr>
+		<th><font size="4">  
+     Friday
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="5" color="maroon"><b>P2 Level Camp</b></font></td>
+</tr>
+</tbody></table>
+
 __________________________________________________________
 
 #### **18 - 20 April 2023**
