@@ -30,9 +30,9 @@ These are the activities that the students participated for holistic learning.
 			<td><img src="/images/Thumbnails/sportsjamboree_thumb_01.jpeg" alt="sports jamboree"> </td>
 </tr>	
 		<tr>
-		<th> P2 Level Camp 2023 </th> 
-		<th> P4 Learning Journey to Kreta Ayer 2023 </th> 
-		<th> Sports Jamboree 2023 </th> 
+		<th><center>P2 Level Camp 2023 </center></th> 
+		<th><center> P4 Learning Journey to Kreta Ayer 2023 </center></th> 
+		<th><center> Sports Jamboree 2023 </center></th> 
 </tr>
 		<tr>
 		<th> Total Defence 2023 </th> 
