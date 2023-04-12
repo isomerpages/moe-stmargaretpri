@@ -41,12 +41,12 @@ totaldefence_thumb01.jpg"> </td>
 </tr>
 <tr>
 			<td><img alt="p1orientation.jpg" src="/images/Thumbnails/p1orientation_thumb01.jpg"> </td>
+	<td><img alt="p1p2tea" src="/images/Thumbnails/p1 p2 tea_thumb01.jpeg"> </td>
 			<td><img alt="elweek.jpg" src="/images/Thumbnails/el wk thumb_01.jpeg"> </td>
-			<td><img alt="p1p2tea" src="/images/Thumbnails/p1 p2 tea_thumb01.jpeg"> </td>
 </tr>			
 		<tr>
 		<th><center> P1 Orientation 2023 </center></th> 
-		<th><center>  EL Week 2023 </center></th> 
-		<th><center>  P1 P2 TEA 2023 </center></th> 
+		<th><center>  P1 P2 TEA 2023</center></th> 
+		<th><center>  EL Week 2023  </center></th> 
 </tr>
 </tbody></table>
