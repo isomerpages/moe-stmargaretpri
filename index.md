@@ -32,7 +32,7 @@ sections:
       description: Resources for Students, Teachers and Parents
       button: FIND OUT MORE
       url: /useful-links/resources-for-teachers/permalink
-      alt: Image alt text
+      image: /images/Thumbnails/masterhead for resources.JPG
   - infopic:
       title: Fundraising
       button: Find out more
