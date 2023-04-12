@@ -28,6 +28,7 @@ sections:
       url: /learning-at-sms/fun-in-classroom/english-language/
       alt: Image alt text
       image: /images/Thumbnails/masterhead for learning smps.JPG
+      description: Fun in Classroom
   - infopic:
       title: Resources
       description: Resources for Students, Teachers and Parents
