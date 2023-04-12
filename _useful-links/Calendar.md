@@ -13,7 +13,7 @@ __________________________________________________________
 __________________________________________________________
 
 #### **21 April 2023**
-##### Early Dismissal for Muslim staff and students 
+##### Early Dismissal for Muslim staff and students  (Early dismissal at 10am)
 __________________________________________________________
 
 #### **22 April 2023**
