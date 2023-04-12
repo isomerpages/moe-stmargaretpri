@@ -28,6 +28,12 @@ sections:
       alt: Image alt text
       image: /images/Thumbnails/masterhead for learning smps.JPG
   - infopic:
+      title: Resources
+      description: Resources for Students, Teachers and Parents
+      button: FIND OUT MORE
+      url: /useful-links/resources-for-teachers/permalink
+      alt: Image alt text
+  - infopic:
       title: Fundraising
       button: Find out more
       url: /files/PUP Fundraising 2021.pdf
