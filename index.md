@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: Click here to view all
-          url: /announcements/inspiring-teacher-of-english-award-2023/
+          url: /announcements/invitation-to-parents-gateway/
         - title: Calendar
           description: Click here to view all
           url: /useful-links/permalink/
