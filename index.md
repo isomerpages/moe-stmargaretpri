@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: Click here to view all
-          url: /announcements/inspiring-teacher-of-english-award-2023/
+          url: /announcements/invitation-to-parents-gateway/
         - title: Calendar
           description: Click here to view all
           url: /useful-links/permalink/
@@ -21,6 +21,21 @@ sections:
       url: /school-information/school-highlights/permalink/
       alt: Image alt text
       image: /images/Schl Highlights.jpg
+      description: Our Featured Events
+  - infopic:
+      title: Learning@SMSP
+      button: FIND OUT MORE
+      url: /learning-at-sms/fun-in-classroom/english-language/
+      alt: Image alt text
+      image: /images/Thumbnails/masterhead for learning smps.JPG
+      description: Fun in Classroom
+  - infopic:
+      title: Resources
+      description: Resources for Students, Teachers and Parents
+      button: FIND OUT MORE
+      url: /useful-links/resources-for-teachers/
+      image: /images/Thumbnails/masterhead for resources.JPG
+      alt: masterhead for resources
   - infopic:
       title: Fundraising
       button: Find out more

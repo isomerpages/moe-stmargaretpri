@@ -10,4 +10,42 @@ These are the activities that the students participated for holistic learning.
 
 ![](/images/Montages/t1montage_01.jpg)
 
-#### [To Learn and Grow : Term 1 Montage 2023](/school-highlights/to-learn-and-grow/)
+#### To Learn and Grow : 
+1. ##### [Term 1 Montage 2023](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
+
+<br>
+<br>
+
+<table>
+	<tbody>
+		<tr>
+			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
+			<td><img alt="coming soon" src="/images/Thumbnails/comingsoon01.jpg"> </td>
+			<td><a href="/school-highlights/sports-jamboree-2023/"><img alt="sports jamboree" src="/images/Thumbnails/sportsjamboree_thumb_01.jpeg"> </a></td>
+</tr>	
+		<tr>
+		<th><center>P2 Level Camp 2023 </center></th> 
+		<th><center> P4 Learning Journey to Kreta Ayer 2023 </center></th> 
+		<th><center> Sports Jamboree 2023 </center></th> 
+</tr>
+<tr>
+			<td><a href="/school-highlights/total-defence-day-2023/"><img alt="totaldefence" src="/images/Thumbnails/totaldefence_thumb01.jpg"></a></td>
+			<td><a href="/school-highlights/p3-sports-education-programme-2023/"><img alt="p3sep" src="/images/Thumbnails/p3sep_thumb01.jpg"> </a></td>
+			<td><a href="/school-highlights/p1-level-camp-2023/"><img alt="p1levelcamp" src="/images/Thumbnails/p1camp_thumb01.jpg"> </a></td>
+</tr>	
+		<tr>
+		<th><center> Total Defence 2023 </center></th> 
+		<th><center>P3 SEP 2023 </center></th> 
+		<th><center> P1 Level Camp 2023 </center></th> 
+</tr>
+<tr>
+			<td><a href="/school-highlights/p1-orientation-2023/"><img alt="p1orientation.jpg" src="/images/Thumbnails/p1orientation_thumb01.jpg"> </a></td>
+	<td><a href="/school-highlights/p1-p2-tea-2023/"><img alt="p1p2tea" src="/images/Thumbnails/p1 p2 tea_thumb01.jpeg"> </a></td>
+			<td><a href="/school-highlights/english-language-el-week-2023/"><img alt="elweek.jpg" src="/images/Thumbnails/el wk thumb_01.jpeg"> </a></td>
+</tr>			
+		<tr>
+		<th><center> P1 Orientation 2023 </center></th> 
+		<th><center>  P1 P2 TEA 2023</center></th> 
+		<th><center>  EL Week 2023  </center></th> 
+</tr>
+</tbody></table>
