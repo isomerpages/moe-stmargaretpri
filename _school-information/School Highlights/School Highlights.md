@@ -20,9 +20,9 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 		<tr>
-			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:240px;height:200px;"></td>
-			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:240px;height:200px;"> </td>
-			<td><a href="/school-highlights/sports-jamboree-2023/"><img src="/images/Thumbnails/sportsjamboree_thumb.jpg" alt="sports jamboree" style="width:240px;height:200px;"> </a></td>
+			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:270px;height:200px;"></td>
+			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:270px;height:200px;"> </td>
+			<td><a href="/school-highlights/sports-jamboree-2023/"><img src="/images/Thumbnails/sportsjamboree_thumb.jpg" alt="sports jamboree" style="width:270px;height:200px;"> </a></td>
 </tr>	
 		<tr>
 		<th><center>P2 Level Camp 2023 </center></th> 
@@ -30,9 +30,9 @@ These are the activities that the students participated for holistic learning.
 		<th><center> Sports Jamboree 2023 </center></th> 
 </tr>
 <tr>
-			<td><a href="/school-highlights/total-defence-day-2023/"><img alt="totaldefence" src="/images/Thumbnails/totaldefence_thumb.jpg" style="width:240px;height:200px;"></a></td>
-			<td><a href="/school-highlights/p3-sports-education-programme-2023/"><img alt="p3sep" src="/images/Thumbnails/p3sep_thumb.jpg" style="width:240px;height:200px;"> </a></td>
-			<td><a href="/school-highlights/p1-level-camp-2023/"><img alt="p1levelcamp" src="/images/Thumbnails/p1camp_thumb.jpg" style="width:240px;height:200px;"> </a></td>
+			<td><a href="/school-highlights/total-defence-day-2023/"><img alt="totaldefence" src="/images/Thumbnails/totaldefence_thumb.jpg" style="width:270px;height:200px;"></a></td>
+			<td><a href="/school-highlights/p3-sports-education-programme-2023/"><img alt="p3sep" src="/images/Thumbnails/p3sep_thumb.jpg" style="width:270px;height:200px;"> </a></td>
+			<td><a href="/school-highlights/p1-level-camp-2023/"><img alt="p1levelcamp" src="/images/Thumbnails/p1camp_thumb.jpg" style="width:270px;height:200px;"> </a></td>
 </tr>	
 		<tr>
 		<th><center> Total Defence 2023 </center></th> 
@@ -40,9 +40,9 @@ These are the activities that the students participated for holistic learning.
 		<th><center> P1 Level Camp 2023 </center></th> 
 </tr>
 <tr>
-			<td><a href="/school-highlights/p1-orientation-2023/"><img alt="p1orientation.jpg" src="/images/Thumbnails/p1orientation_thumb01.jpg"> </a></td>
-	<td><a href="/school-highlights/p1-p2-tea-2023/"><img alt="p1p2tea" src="/images/Thumbnails/p1 p2 tea_thumb01.jpeg"> </a></td>
-			<td><a href="/school-highlights/english-language-el-week-2023/"><img alt="elweek.jpg" src="/images/Thumbnails/el wk thumb_01.jpeg"> </a></td>
+			<td><a href="/school-highlights/p1-orientation-2023/"><img alt="p1orientation.jpg" src="/images/Thumbnails/p1orientation_thumb.jpg" style="width:270px;height:200px;"> </a></td>
+	<td><a href="/school-highlights/p1-p2-tea-2023/"><img alt="p1p2tea" src="/images/Thumbnails/p1 p2 tea_thumb.jpeg" style="width:270px;height:200px;"> </a></td>
+			<td><a href="/school-highlights/english-language-el-week-2023/"><img alt="elweek.jpg" src="/images/Thumbnails/el wk thumb.jpeg" style="width:270px;height:200px;"> </a></td>
 </tr>			
 		<tr>
 		<th><center> P1 Orientation 2023 </center></th> 
