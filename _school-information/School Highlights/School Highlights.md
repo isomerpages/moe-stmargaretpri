@@ -30,9 +30,9 @@ These are the activities that the students participated for holistic learning.
 		<th><center> Sports Jamboree 2023 </center></th> 
 </tr>
 <tr>
-			<td><a href="/school-highlights/total-defence-day-2023/"><img alt="totaldefence" src="/images/Thumbnails/totaldefence_thumb01.jpg"></a></td>
-			<td><a href="/school-highlights/p3-sports-education-programme-2023/"><img alt="p3sep" src="/images/Thumbnails/p3sep_thumb01.jpg"> </a></td>
-			<td><a href="/school-highlights/p1-level-camp-2023/"><img alt="p1levelcamp" src="/images/Thumbnails/p1camp_thumb01.jpg"> </a></td>
+			<td><a href="/school-highlights/total-defence-day-2023/"><img alt="totaldefence" src="/images/Thumbnails/totaldefence_thumb.jpg" style="width:280px;height:200px;"></a></td>
+			<td><a href="/school-highlights/p3-sports-education-programme-2023/"><img alt="p3sep" src="/images/Thumbnails/p3sep_thumb.jpg" style="width:280px;height:200px;"> </a></td>
+			<td><a href="/school-highlights/p1-level-camp-2023/"><img alt="p1levelcamp" src="/images/Thumbnails/p1camp_thumb.jpg" style="width:280px;height:200px;"> </a></td>
 </tr>	
 		<tr>
 		<th><center> Total Defence 2023 </center></th> 
