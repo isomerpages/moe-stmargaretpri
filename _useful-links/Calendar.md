@@ -73,4 +73,10 @@ description: ""
 </tr>
 </tbody></table>
 
+##### **St. Margaret’s School (Primary)**
+##### **Calendar of Events (Term 2, 2023)**
 ![](/images/Calendar%202023/term2%20for%20website_2023.jpg)
+
+###### * Parents/Guardians will be notified of the details or any changes closer to the date of the event.
+
+###### * Updated as of 17 April 2023
