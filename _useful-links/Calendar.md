@@ -72,3 +72,5 @@ description: ""
 		<td><font size="5" color="maroon"><b> School Holiday in lieu of Hari Raya Puasa </b></font></td>
 </tr>
 </tbody></table>
+
+![](/images/Calendar%202023/term2%20for%20website_2023.jpg)
