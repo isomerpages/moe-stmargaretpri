@@ -3,7 +3,7 @@ title: Calendar
 permalink: /useful-links/permalink/
 description: ""
 ---
-#### **Calendar of Events **
+#### Calendar of Events
 
 <table>
 	<tbody><tr>
