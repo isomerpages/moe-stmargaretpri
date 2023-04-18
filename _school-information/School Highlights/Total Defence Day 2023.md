@@ -20,4 +20,4 @@ The P6 students also went on a learning journey to the Singapore Discovery Centr
 
 Putting the fun aside, students and staff must take the defence of Singapore seriously and pledge to do what we can because Together, We Keep Singapore Strong.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zwqhWcD7uL0" height="315" width="800"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zwqhWcD7uL0" height="415" width="700"></iframe>
