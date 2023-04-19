@@ -50,10 +50,28 @@ In the choir, members sing as a group and learn to blend with one another. As a 
 
 **Performed at 180th St Margaret's Founder Day Service at St Andrew's Cathedral**
 
-  
-  
+#### Vision
+___________________________________________________________
+Every Girl, A Shining Star on Stage
+
+#### Mission
+___________________________________________________________
+To be a children’s choir of excellence and one of the best school choirs in Singapore.
+
+#### Objectives
+___________________________________________________________
+1.  To nurture the pupils' vocal talents, each to their fullest potential
+2.  To instill discipline, build confidence in our young singers and put their artistic skills into practice
+3.  To nurture girls of the character anchored on the values of  Life-long learner, Integrity, Graciousness, Humility and  Tenacity (LIGHT).
 
 
+#### Activities Outline
+__________________________________________________________
+The Choir has weekly practices where they do voice exercises to increase their vocal range and strengthen their vocal chords.
+
+They learn to use the different voice registers, pitch accurately and have clear diction in singing. They also learn to listen to one another, blend their voices and harmonise as a group.
+
+They are exposed to a wide repertoire of songs. Interpretation of songs is also part of the training as members sing them in different styles.
 
   
 
