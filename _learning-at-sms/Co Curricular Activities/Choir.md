@@ -83,7 +83,14 @@ __________________________________________________________
 2.	To improve on the choir members' singing techniques.
 3.	To be performance ready with a repertoire of songs.
 
-
+<table>
+	<tbody><tr><td>
+		
+</td>
+	<td>
+		
+</td>
+</tr></tbody></table>
 
 
 #### Highlights Achievements
