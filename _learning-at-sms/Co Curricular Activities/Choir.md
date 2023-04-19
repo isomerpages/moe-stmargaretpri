@@ -45,7 +45,7 @@ The Choir is one of the performing arts groups in St. Margaret’s School (Prima
 
 In the choir, members sing as a group and learn to blend with one another. As a performing choir, members also learn to execute movements and exhibit good showmanship on stage.
   
-<img style="width:700px;height:400px;" alt="" src="/images/CCAs/Choir/performing%20at%20180th%20founder's%20day%20service.jpg">
+<img src="/images/CCAs/Choir/performing%20at%20180th%20founder's%20day%20service.jpg" alt="" style="width:700px;height:400px;">
 
 ###### **Performed at 180th St Margaret's Founder Day Service at St Andrew's Cathedral**
 
@@ -72,7 +72,7 @@ They learn to use the different voice registers, pitch accurately and have clear
 
 They are exposed to a wide repertoire of songs. Interpretation of songs is also part of the training as members sing them in different styles.
 
-<img style="width:700px;height:400px;" alt="" src="/images/CCAs/Choir/singapore%20youth%20festival%20arts%20presentation.jpg">
+<img src="/images/CCAs/Choir/singapore%20youth%20festival%20arts%20presentation.jpg" alt="" style="width:700px;height:400px;">
 **Performance at Singapore Youth Festival Arts Presentation (Choir) 2022**
 
 #### Target
@@ -82,11 +82,11 @@ __________________________________________________________
 2.	To improve on the choir members' singing techniques.
 3.	To be performance ready with a repertoire of songs.
 
-<img src="/images/CCAs/Choir/practising%20during%20a%20choir%20sesssion.jpeg" alt="" style="width:400px;height:300px;">
+<img style="width:400px;height:300px;" alt="" src="/images/CCAs/Choir/practising%20during%20a%20choir%20sesssion.jpeg">
 
 ###### **Practising during a choir session**
 
-<img src="/images/CCAs/Choir/students%20sharing%20and%20reflecting%20on%20their%20syf%20journey.jfif" alt="" style="width:400px;height:300px;">
+<img style="width:400px;height:300px;" alt="" src="/images/CCAs/Choir/students%20sharing%20and%20reflecting%20on%20their%20syf%20journey.jfif">
 
 ###### **Sharing and reflection session**
 
