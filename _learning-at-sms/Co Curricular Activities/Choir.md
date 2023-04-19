@@ -45,8 +45,8 @@ The Choir is one of the performing arts groups in St. Margaret’s School (Prima
 
 In the choir, members sing as a group and learn to blend with one another. As a performing choir, members also learn to execute movements and exhibit good showmanship on stage.
   
-![](/images/CCAs/Choir/performing%20at%20180th%20founder's%20day%20service.jpg)
-**Performed at 180th St Margaret's Founder Day Service at St Andrew's Cathedral**
+![]<img style="width:400px;height:300px;" alt="" src="/images/CCAs/Choir/performing%20at%20180th%20founder's%20day%20service.jpg">
+###### **Performed at 180th St Margaret's Founder Day Service at St Andrew's Cathedral**
 
 #### Vision
 ___________________________________________________________
