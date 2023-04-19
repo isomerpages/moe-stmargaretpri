@@ -76,6 +76,16 @@ They are exposed to a wide repertoire of songs. Interpretation of songs is also 
 
 **Performance at Singapore Youth Festival Arts Presentation (Choir) 2022**
 
+#### Target
+__________________________________________________________
+
+1.	Build a strong CCA culture of friendship and teamwork.
+2.	To improve on the choir members' singing techniques.
+3.	To be performance ready with a repertoire of songs.
+
+
+
+
 #### Highlights Achievements
 ___________________________________________________________
 
