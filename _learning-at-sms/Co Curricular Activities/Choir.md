@@ -31,7 +31,7 @@ ___________________________________________________________
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Monday</span><br><span style="color:#222;background-color:#FBFFFA">&amp;</span><br><span style="color:#222;background-color:#FBFFFA">Friday</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 pm - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Band room</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Music Room 2</span><br></td>
     <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mrs Lim Mei Sze (OIC)</span><br><br><span style="font-weight:400;color:#000">Mdm Rozita Sulaiman</span><br><span style="font-weight:400;color:#000">Mrs Mandy Teo</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span><br></td>
   </tr>
