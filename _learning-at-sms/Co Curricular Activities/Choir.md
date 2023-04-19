@@ -81,11 +81,13 @@ __________________________________________________________
 2.	To improve on the choir members' singing techniques.
 3.	To be performance ready with a repertoire of songs.
 
-![](/images/CCAs/Choir/practising%20during%20a%20choir%20sesssion.jpeg)
-**Practising during a choir session**
+<img style="width:400px;height:300px;" alt="" src="/images/CCAs/Choir/practising%20during%20a%20choir%20sesssion.jpeg">
 
-![](/images/CCAs/Choir/students%20sharing%20and%20reflecting%20on%20their%20syf%20journey.jfif)
-**Sharing and reflection session**
+###### **Practising during a choir session**
+
+<img style="width:400px;height:300px;" alt="" src="/images/CCAs/Choir/students%20sharing%20and%20reflecting%20on%20their%20syf%20journey.jfif">
+
+###### **Sharing and reflection session**
 
 #### Highlights Achievements
 ___________________________________________________________
