@@ -13,8 +13,8 @@ Our P3 students participated in the P3 SEP on 2 March 2023. The objective of thi
 
 <table>
 <tbody><tr>
-		<td><img alt="p3sep01" src="/images/P3%20SEP%202023/p3sep01.JPG" style="width:500px;height:300px;"> </td>
-		<td><img alt="p3sep02" src="/images/P3%20SEP%202023/p3sep02.JPG" style="width:200px;height:400px;"> </td>
+		<td><img alt="p3sep01" src="/images/P3%20SEP%202023/p3sep01.JPG" style="width:450px;height:300px;"> </td>
+		<td><img alt="p3sep02" src="/images/P3%20SEP%202023/p3sep02.JPG" style="width:280px;height:300px;"> </td>
 </tr></tbody></table>	
 
 All P3 students had a 1-hour session learning rebounding from an SEP accredited instructor.  Rebounding is a type of aerobic exercise that is performed while jumping on a mini-trampoline. The students had a fun-filled time working out to improve their balance, coordination, and overall motor skills.
