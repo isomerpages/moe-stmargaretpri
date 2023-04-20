@@ -18,4 +18,6 @@ Our new P1 students and their parents joined us on 3 Jan 2023 for the P1 Orienta
 
 To help them settle down, the P4 students were assigned as Big Sisters to buddy the P1 students during the first two weeks of recess. The P4 students guided them in buying food from the canteen, finding their way around the school and playing with them. They enjoyed each other’s company and looked forward to their time together. The P4 students were happy to be given the opportunity to display the school motto of Charity, Patience and Devotion through their interactions with the little ones.
 
+<center>
 <iframe width="700" height="415" src="https://www.youtube.com/embed/2gdlmg9q1jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</center>
