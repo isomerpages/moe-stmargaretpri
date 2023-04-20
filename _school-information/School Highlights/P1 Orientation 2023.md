@@ -11,13 +11,9 @@ third_nav_title: School Highlights
 Our new P1 students and their parents joined us on 3 Jan 2023 for the P1 Orientation. All the staff were there to welcome them to the St Margaret’s family. After the briefing by the School Leaders, Year Head and Key Personnel, the parents were introduced to the Form Teachers and had a session with them. The parents were also shown the arrival and dismissal points so that they could be familiar with the traffic flow and safety management plan of the school. The P1 students were eager to make friends and had fun playing games with the teachers and classmates. They were later orientated to the important venues in the school.  
 
 <table>
-<tbody>
-<tr>
-
+<tbody><tr>
 <td><img alt="p1or02" src="/images/Thumbnails/p1or_01.jpg" style="width:250px;height:170px;"> </td>
-
 <td><img alt="p1or02" src="/images/Thumbnails/p1or_02.jpg" style="width:250px;height:170px;"> </td>
-
 </tr></tbody></table>	
  
 
