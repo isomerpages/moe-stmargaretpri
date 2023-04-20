@@ -12,8 +12,8 @@ Our new P1 students and their parents joined us on 3 Jan 2023 for the P1 Orienta
 
 <table>
 <tbody><tr>
-<td><img alt="p1or02" src="/images/p1 orientation 2023/p1or_01.jpg" style="width:250px;height:170px;"> </td>
-<td><img alt="p1or02" src="/images/p1 orientation 2023/p1or_02.jpg" style="width:250px;height:170px;"> </td>
+<td><img alt="p1or01" src="/images/P1 Orientation 2023/p1or_01.jpg" style="width:250px;height:170px;"> </td>
+<td><img alt="p1or02" src="/images/P1 Orientation  2023/p1or_02.jpg" style="width:250px;height:170px;"> </td>
 </tr></tbody></table>	
  
 
