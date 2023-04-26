@@ -23,4 +23,4 @@ The teachers and girls demonstrated the school value of tenacity and lifelong le
 
 As the saying goes, when the going gets tough, the tough gets going! Go, St Marg’s, Go!
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/doWHPRSUeAQ" height="315" width="560"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/doWHPRSUeAQ" height="415" width="700"></iframe></center>
