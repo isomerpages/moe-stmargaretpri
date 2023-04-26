@@ -19,3 +19,7 @@ International Friendship Day (IFD) is commemorated on the third working Friday o
 Apart from classroom lessons and activities on ASEAN, students were also treated to live performances during assembly. The students enjoyed the play titled ‘The Wind, the Sun, the Traveller and the Plane Tree' put up by The Learning Connections.  Our International Dance CCA students also put up a lovely dance item. Interesting facts on ASEAN schools were also on display in the school to further engage the students.
 
 The highlight to many students during our International Friendship Day programme was making a friendship bracelet for a friend. The CCE and Art Department collaborated and organised a friendship-bracelet-making activity using recycled materials with the help of parent volunteers during recesses. Many friendships were forged as students showed their appreciation for their friends when they gave one another friendship bracelets.
+
+
+
+
