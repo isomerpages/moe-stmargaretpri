@@ -21,7 +21,7 @@ These are the activities that the students participated for holistic learning.
 	<tbody>
 		<tr>
 			<td><img src="/images/Thumbnails/ifd_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></td>
-			<td><img src="/images/Thumbnails/p4ljka_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"> </td>
+			<td><a href="/school-highlights/p4-learning-journey-2023/"><img src="/images/Thumbnails/p4ljka_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"> </a></td>
 			<td><a href="/school-highlights/sports-jamboree-2023/"><img src="/images/Thumbnails/sportsjamboree_thumb.jpg" alt="sports jamboree" style="width:250px;height:170px;"> </a></td>
 </tr>	
 		<tr>
