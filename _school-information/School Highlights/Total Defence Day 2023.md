@@ -6,7 +6,7 @@ third_nav_title: School Highlights
 ---
 ### Commemoration of Total Defence Day 2023
 
-##### 15 February 2023
+##### 15 Feb 2023
 
 In the lead-up to the commemoration of Total Defence Day, the six pillars of Total Defence were shared with the school.  After National Pledge-Taking, Alexandra (5H) and Cecil (5H) spoke to staff and students over six mornings, elaborating on a pillar of Total Defence each time and pointed out to students how they could play their part.
 
