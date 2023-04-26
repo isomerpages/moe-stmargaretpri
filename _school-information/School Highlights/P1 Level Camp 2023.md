@@ -13,7 +13,7 @@ Aside from the physical skills it takes to stunt, jump and tumble, cheerleading 
 
 <table>
 <tbody><tr>
-		<td><img alt="p1camp01" src="/images/P1 Level Camp 2023/p1camp01.jpg" style="width:500px;height:300px;"> </td>
+		<td><img alt="p1camp01" src="/images/P1 Level Camp 2023/p1camp01.jpg" style="width:400px;height:300px;"> </td>
 		<td><img alt="p1camp02" src="/images/P1 Level Camp 2023/p1camp02.JPG" style="width:280px;height:300px;"> </td>
 </tr></tbody></table>	
 
