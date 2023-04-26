@@ -1,8 +1,8 @@
 logo: /images/smss_logo.gif
 links:
-  - title: about us
+  - title: About Us
     collection: about-us
-  - title: school information
+  - title: School Information
     collection: school-information
   - title: Learning @SMS(P)
     collection: learning-at-sms

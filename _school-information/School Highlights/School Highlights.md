@@ -20,12 +20,12 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 		<tr>
-			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></td>
-			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"> </td>
+			<td><a href="/school-highlights/international-friendship-day-2023/"><img src="/images/Thumbnails/ifd_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-highlights/p4-learning-journey-2023/"><img src="/images/Thumbnails/p4ljka_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"> </a></td>
 			<td><a href="/school-highlights/sports-jamboree-2023/"><img src="/images/Thumbnails/sportsjamboree_thumb.jpg" alt="sports jamboree" style="width:250px;height:170px;"> </a></td>
 </tr>	
 		<tr>
-		<th><center>P2 Level Camp 2023 </center></th> 
+		<th><center>International Friendship Day 2023</center></th> 
 		<th><center> P4 Learning Journey to Kreta Ayer 2023 </center></th> 
 		<th><center> Sports Jamboree 2023 </center></th> 
 </tr>
