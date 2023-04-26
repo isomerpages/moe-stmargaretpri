@@ -22,3 +22,5 @@ Continuing with the theme of Celebrating Creativity and Sustainability from the 
 The teachers and girls demonstrated the school value of tenacity and lifelong learning as they put their heads, hearts and hands into the Primary 1 Level Camp programme. 
 
 As the saying goes, when the going gets tough, the tough gets going! Go, St Marg’s, Go!
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/doWHPRSUeAQ" height="315" width="560"></iframe></center>
