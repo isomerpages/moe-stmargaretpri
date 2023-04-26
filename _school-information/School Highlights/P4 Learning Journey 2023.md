@@ -22,3 +22,5 @@ While they were there, the students explored features of five Chinese cultural a
 They also went on a precinct walk in the wider Kreta Ayer area. The students were intrigued to learn about the stories behind some of the places in the area, such as the Jinrikisha Station and Sago Lane. 
 
 From this learning journey, students learnt more about the contributions made by the Chinese community in the development of Singapore. It was indeed a fruitful experience!
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/69pzQ3ORrno" height="415" width="700"></iframe></center>
