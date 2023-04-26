@@ -12,7 +12,7 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 
 <table>
 <tbody><tr>
-		<td><img alt="elweek01" src="/images/EL%20Week%202023/elweek_01.jpeg" style="width:350px;height:300px;"> </td>
+		<td><img alt="elweek01" src="/images/EL%20Week%202023/elweek_01.jpeg" style="width:330px;height:300px;"> </td>
 		<td><img alt="elweek02" src="/images/EL%20Week%202023/elweek_02.jpeg" style="width:500px;height:300px;"> </td>
 </tr></tbody></table>
   
