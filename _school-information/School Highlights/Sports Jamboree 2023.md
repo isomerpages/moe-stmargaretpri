@@ -19,4 +19,3 @@ This year the PE Team is organising ‘Sports Jamboree 2023’ to encourage heal
 During the preparation, organising games as well as managing the game stations, the leaders will gain confidence as they hone their leadership abilities and stretch themselves to be effective leaders taking initiatives to trouble-shoot in various scenarios. The PE Team are delighted that the students had a rolling good time participating in this Jamboree.
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vpHFdNIKgoE" height="415" width="700"></iframe></center>
-
