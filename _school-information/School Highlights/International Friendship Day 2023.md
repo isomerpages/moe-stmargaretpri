@@ -12,8 +12,8 @@ International Friendship Day (IFD) is commemorated on the third working Friday o
 
 <table>
 <tbody><tr>
-		<td><img alt="IFDay01" src="/images/IFD 2023/IFDay01.jpeg" style="width:500px;height:300px;"> </td>
-		<td><img alt="IFDay02" src="/images/IFD 2023/IFDay02.jpeg" style="width:500px;height:300px;"> </td>
+		<td><img alt="IFDay01" src="/images/IFD 2023/ifday01.jpg" style="width:500px;height:300px;"> </td>
+		<td><img alt="IFDay02" src="/images/IFD 2023/ifday02.jpg" style="width:500px;height:300px;"> </td>
 </tr></tbody></table>	
 
 Apart from classroom lessons and activities on ASEAN, students were also treated to live performances during assembly. The students enjoyed the play titled ‘The Wind, the Sun, the Traveller and the Plane Tree' put up by The Learning Connections.  Our International Dance CCA students also put up a lovely dance item. Interesting facts on ASEAN schools were also on display in the school to further engage the students.
