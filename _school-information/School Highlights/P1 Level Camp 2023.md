@@ -14,7 +14,7 @@ Aside from the physical skills it takes to stunt, jump and tumble, cheerleading 
 <table>
 <tbody><tr>
 		<td><img alt="p1camp01" src="/images/P1 Level Camp 2023/p1camp01.jpg" style="width:500px;height:300px;"> </td>
-		<td><img alt="p1camp02" src="/images/P1 Level Camp 2023/p1camp02.JPG" style="width:300px;height:300px;"> </td>
+		<td><img alt="p1camp02" src="/images/P1 Level Camp 2023/p1camp02.JPG" style="width:280px;height:300px;"> </td>
 </tr></tbody></table>	
 
 Continuing with the theme of Celebrating Creativity and Sustainability from the EL Week 2023, our P1 teachers and girls used recycled papers to make their pom-poms. Through this fun activity, the girls picked up useful vocabulary and acquired sequential skills in a procedural text. Besides using their hands, the girls learnt to project their voices and articulate their cheers to the audience.
