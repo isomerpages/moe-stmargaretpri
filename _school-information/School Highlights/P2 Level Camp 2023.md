@@ -18,4 +18,4 @@ The objectives of the trail are:
 Each learning station had a different Mathematical focus and the topics included pattern, length, speed, time, addition, multiplication and visualization. To complete each station task, the girls were also required to jump, throw, balance and run. As the Primary 2 Camp drew to a close, the girls not only had a fun day of learning, but they had also learnt to collaborate with their team members while demonstrating the school values of charity, patience, lifelong learning, integrity, graciousness, humility and tenacity. 
 
 <center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1TDybWXOSnY" height="315" width="560"></iframe></center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1TDybWXOSnY" height="415" width="700"></iframe></center>
