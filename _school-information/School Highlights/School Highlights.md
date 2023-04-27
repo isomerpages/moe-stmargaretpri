@@ -20,8 +20,19 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 		<tr>
-			<td><a href="/school-highlights/international-friendship-day-2023/"><img src="/images/Thumbnails/ifd_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-highlights/p4-learning-journey-2023/"><img src="/images/Thumbnails/p4ljka_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"> </a></td>
+			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></td>
+			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"> </td>
+			<td><a href="/school-highlights/p2-level-camp-2023/"><img src="/images/Thumbnails/p2camp_thumb.jpg" alt="p2camp2023" style="width:250px;height:170px;"> </a></td>
+			
+</tr>
+		<tr>
+			<th><center>Hari Raya Celebrations</center></th> 
+		<th><center> P5 Level Camp 2023</center></th> 
+		<th><center> P2 Level Camp 2023 </center></th> 
+</tr>
+		<tr>
+			<td><a href="/school-highlights/international-friendship-day-2023/"><img src="/images/Thumbnails/ifd_thumb.jpg" alt="ifd2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-highlights/p4-learning-journey-2023/"><img src="/images/Thumbnails/p4ljka_thumb.jpg" alt="p4LJKA2023" style="width:250px;height:170px;"> </a></td>
 			<td><a href="/school-highlights/sports-jamboree-2023/"><img src="/images/Thumbnails/sportsjamboree_thumb.jpg" alt="sports jamboree" style="width:250px;height:170px;"> </a></td>
 </tr>	
 		<tr>
