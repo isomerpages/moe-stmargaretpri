@@ -8,8 +8,8 @@ description: ""
 <table>
 	<tbody>
 	<tr>
-	<td><img src="/images/parent volunteers 2023/
-volunteering for recess ministry 20 april 2023.jpg" alt="volunteer recess ministry" style="width:300px;height:300px;"></td>
+	<td><img src="/images/parent volunteers/
+volunteering for recess ministry 20 april 2023.JPG" alt="volunteer recess ministry" style="width:300px;height:300px;"></td>
 </tr>
 	<tr>
 	<th><center>Volunteering for Recess Ministry (20 April 2023) </center></th> 
