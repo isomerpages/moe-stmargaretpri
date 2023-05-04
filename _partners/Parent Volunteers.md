@@ -25,4 +25,18 @@ description: ""
 </tr>
 	<tr>
 	<th><center>P2 Math Camp (14 March 2023) </center></th> 
-</tr></tbody></table>
+</tr>
+	<tr>
+	<td><img src="/images/Parent%20Volunteers/sports%20jamboree%20pv%202023.jpeg" alt="sports jamboree pv" style="width:300px;height:300px;"></td>
+</tr>
+	<tr>
+	<th><center>Sports Jamboree (10 March 2023) </center></th> 
+</tr>
+		<tr>
+	<td><img src="/images/Parent%20Volunteers/total%20defence%20day%20pv%202023.gif" alt="tdd pv" style="width:300px;height:300px;"></td>
+</tr>
+	<tr>
+	<th><center>Total Defence Day (15 Feb 2023) </center></th> 
+</tr>
+	</tbody></table>
+	
