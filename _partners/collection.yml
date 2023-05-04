@@ -2,8 +2,8 @@ collections:
   partners:
     output: true
     order:
-      - Parent Volunteers.md
       - Anglican Schools.md
       - Chaplaincy Contacts.md
       - Parent Teacher Association.md
       - St Margaret's Ex Students Association.md
+      - Parent Volunteers.md
