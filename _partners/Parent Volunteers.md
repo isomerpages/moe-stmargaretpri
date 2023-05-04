@@ -6,13 +6,13 @@ description: ""
 ### Parent Volunteers - In Appreciation
 
 
-<table>
+&gt;
+	<table>
 	<tbody>
 	<tr>
 	<td><img src="/images/Parent%20Volunteers/volunteering%20for%20recess%20ministry%2020%20april%202023.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></td>
 </tr>
-	<tr align="center" width="10 px" height="10 px">
-	<td><font size="4"><b>Volunteering for Recess Ministry (20 April 2023) </b></font></td> 
+	<tr width="10 px" height="10 px"><td><font align="center" size="4"><b>Volunteering for Recess Ministry (20 April 2023) </b></font></td> 
 </tr>
 			<tr>
 	<td><img src="/images/Parent%20Volunteers/international%20friendship%20day%20pv%202023.jpeg" alt="ifd pv" style="width:400px;height:300px;"></td>
