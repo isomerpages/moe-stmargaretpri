@@ -11,8 +11,8 @@ description: ""
 	<tr>
 	<td><img src="/images/Parent%20Volunteers/volunteering%20for%20recess%20ministry%2020%20april%202023.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></td>
 </tr>
-	<tr width="5 px" height="10 px">
-	<td><center><font size="4"><b>Volunteering for Recess Ministry (20 April 2023) </b></font></center></td> 
+	<tr>
+	<td align="center" width="" height="10 px"><font size="4"><b>Volunteering for Recess Ministry (20 April 2023) </b></font></td> 
 </tr>
 			<tr>
 	<td><img src="/images/Parent%20Volunteers/international%20friendship%20day%20pv%202023.jpeg" alt="ifd pv" style="width:400px;height:300px;"></td>
