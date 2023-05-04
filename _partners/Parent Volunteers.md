@@ -38,5 +38,16 @@ description: ""
 	<tr>
 	<th><center>Total Defence Day (15 Feb 2023) </center></th> 
 </tr>
+				<tr>
+	<td><img src="/images/Parent%20Volunteers/p1_p2%20tea%20appreciation%20pv%202023.jpeg" alt="p1 p2 tea pv" style="width:300px;height:300px;"></td>
+</tr>
+	<tr>
+	<th><center>P1 &amp; P2 T.E.A Appreciation (10 &amp; 16 Feb 2023) </center></th> 
+</tr>
+						<tr>
+	<td><img src="/images/Parent%20Volunteers/praying%20parents%20meeting%205%20feb%202023.jpeg" alt="praying parents meeting pv" style="width:300px;height:300px;"></td>
+</tr>
+	<tr>
+	<th><center>Praying Parents Meeting (5 Feb 2023) </center></th> 
+</tr>
 	</tbody></table>
-	
