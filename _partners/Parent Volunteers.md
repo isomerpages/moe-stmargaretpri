@@ -6,10 +6,6 @@ description: ""
 ### Parent Volunteers - In Appreciation
 
 
-		
-		![](/images/Parent%20Volunteers/p2%20math%20camp%20pv%202023.jpeg)
-		
-		
 <table>
 	<tbody>
 	<tr>
