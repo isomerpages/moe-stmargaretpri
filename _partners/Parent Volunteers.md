@@ -21,7 +21,7 @@ description: ""
 	<th><center>International Friendship Day 2023 (5 - 10 April 2023) </center></th> 
 </tr>
 <tr>
-	<td><img src="/images/Parent%20Volunteers/p2%20math%20camp%20pv%202023.jpeg" alt="p2 math camp pv" style="width:300px;height:330px;"></td>
+	<td><img src="/images/Parent%20Volunteers/p2%20math%20camp%20pv%202023.jpeg" alt="p2 math camp pv" style="width:300px;height:340px;"></td>
 </tr>
 	<tr>
 	<th><center>P2 Math Camp (14 March 2023) </center></th> 
