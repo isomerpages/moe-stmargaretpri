@@ -17,8 +17,8 @@ description: ""
 </td>
 </tr>
 <tr>
-	<td><img src="/images/Parent%20Volunteers/p2 math camp pv 2023.gif" alt="p2 math camp pv" style="width:400px;height:300px;"></td>
-		<td><img src="/images/Parent%20Volunteers/sports jamboree pv 2023.gif" alt="sports jamboree pv" style="width:400px;height:300px;"></td>
+	<td><img src="/images/Parent%20Volunteers/p2 math camp pv 2023.gif" alt="p2 math camp pv" style="width:450px;height:300px;"></td>
+		<td><img src="/images/Parent%20Volunteers/sports jamboree pv 2023.gif" alt="sports jamboree pv" style="width:450px;height:300px;"></td>
 </tr>
 	<tr align="center" width="10 px" height="10 px">
 	<td><font align="center" size="4"><b>P2 Math Camp <br>(14 March 2023) </b></font></td> 
