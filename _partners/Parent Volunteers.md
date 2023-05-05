@@ -17,7 +17,7 @@ description: ""
 </td>
 </tr>
 <tr>
-	<td><img src="/images/Parent%20Volunteers/p2 math camp pv 2023.gif" alt="p2 math camp pv" style="width:260px;height:350px;"></td>
+	<td><img src="/images/Parent%20Volunteers/p2 math camp pv 2023.gif" alt="p2 math camp pv" style="width:400px;height:300px;"></td>
 		<td><img src="/images/Parent%20Volunteers/sports jamboree pv 2023.gif" alt="sports jamboree pv" style="width:400px;height:300px;"></td>
 </tr>
 	<tr width="10 px" height="10 px">
