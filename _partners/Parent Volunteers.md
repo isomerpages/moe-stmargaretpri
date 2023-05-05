@@ -17,8 +17,8 @@ description: ""
 </td>
 </tr>
 <tr>
-	<td><img src="/images/Parent%20Volunteers/p2%20math%20camp%20pv%202023.jpeg" alt="p2 math camp pv" style="width:260px;height:350px;"></td>
-		<td><img src="/images/Parent%20Volunteers/sports%20jamboree%20pv%202023.jpeg" alt="sports jamboree pv" style="width:400px;height:300px;"></td>
+	<td><img src="/images/Parent%20Volunteers/p2 math camp pv 2023.gif" alt="p2 math camp pv" style="width:260px;height:350px;"></td>
+		<td><img src="/images/Parent%20Volunteers/sports jamboree pv 2023.gif" alt="sports jamboree pv" style="width:400px;height:300px;"></td>
 </tr>
 	<tr width="10 px" height="10 px">
 	<td><font align="center" size="4"><b>P2 Math Camp <br>(14 March 2023) </b></font></td> 
@@ -26,7 +26,7 @@ description: ""
 </td>
 </tr>
 		<tr>
-	<td><img src="/images/Parent%20Volunteers/total%20defence%20day%20pv%202023.gif" alt="tdd pv" style="width:400px;height:300px;"></td>
+	<td><img src="/images/Parent%20Volunteers/tdd pv 2023.gif" alt="tdd pv" style="width:400px;height:300px;"></td>
 				<td><img src="/images/Parent%20Volunteers/p1_p2%20tea%20appreciation%20pv%202023.jpeg" alt="p1 p2 tea pv" style="width:400px;height:300px;"></td>
 </tr>
 <tr width="10 px" height="10 px"><td><font align="center" size="4"><b>Total Defence Day <br>(15 Feb 2023) </b></font></td> 
