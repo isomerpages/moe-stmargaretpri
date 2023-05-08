@@ -9,11 +9,11 @@ description: ""
 		<td><img alt="standrew logo" src="/images/Partners%20Anglican%20Schools/st%20andrews%20sec_logo.jpg" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
-<td><b><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></b></td>
-<td><a href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
+<td><center><b><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></b></center></td>
+<td><center><a href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
 <a href="https://www.standrewssec.moe.edu.sg/">St Andrew's Secondary School</a><br>
 <a href="https://www.standrewsjc.moe.edu.sg/">St Andrew's Junior College</a>
-</td>
+</center></td>
 </tr>
 	<tr>
 		<td><img alt="hilda pri logo" src="/images/Partners%20Anglican%20Schools/hilda%20primary%20school_logo.png" style="width:200px;height:200px;"> </td>
