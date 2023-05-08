@@ -16,8 +16,8 @@ description: ""
 </td>
 </tr>
 	<tr>
-		<td><img alt="hilda pri logo" src="/images/Partners%20Anglican%20Schools/hilda%20primary%20school_logo.png" style="width:900px;height:300px;"> </td>
-		<td><img alt="hilda sec logo" src="/images/Partners%20Anglican%20Schools/qb_school_logo.png" style="width:900px;height:300px;"> </td>
+		<td><img alt="hilda pri logo" src="/images/Partners%20Anglican%20Schools/hilda%20primary%20school_logo.png" style="width:200px;height:200px;"> </td>
+		<td><img alt="hilda sec logo" src="/images/Partners%20Anglican%20Schools/qb_school_logo.png" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
 <td><a href="https://www.shps.moe.edu.sg/"> St Hilda Primary School </a></td>
@@ -25,8 +25,8 @@ description: ""
 </td>
 </tr>
 	<tr>
-		<td><img alt="smss logo" src="/images/Partners%20Anglican%20Schools/smss_logo.png" style="width:900px;height:300px;"> </td>
-		<td><img alt="anglican logo" src="/images/Partners%20Anglican%20Schools/anglican_high_school_logo.png" style="width:900px;height:300px;"> </td>
+		<td><img alt="smss logo" src="/images/Partners%20Anglican%20Schools/smss_logo.png" style="width:200px;height:200px;"> </td>
+		<td><img alt="anglican logo" src="/images/Partners%20Anglican%20Schools/anglican_high_school_logo.png" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
 <td><a href="https://www.stmargaretssec.moe.edu.sg/"> St Margaret's School (Secondary)</a></td>
