@@ -26,6 +26,13 @@ description: ""
 <td><a href="https://www.sthildassec.moe.edu.sg/">St Hilda Secondary School</a>
 </td>
 </tr>
+	<tr>
+		<td><img alt="chr logo" src="/images/Partners%20Anglican%20Schools/chr_logo.png" style="width:900px;height:300px;"> </td>
+		<td><img alt="standrew logo" src="/images/Partners%20Anglican%20Schools/st%20andrews%20sec_logo.jpg" style="width:900px;height:300px;"> </td>
+</tr>
+<tr>
+<td><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></td>
+<td><a href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
+</td></tr>
 
 </tbody></table>
-
