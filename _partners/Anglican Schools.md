@@ -31,7 +31,7 @@ description: ""
 		<td><img alt="anglican logo" src="/images/Partners%20Anglican%20Schools/anglican_high_school_logo.png" style="width:900px;height:300px;"> </td>
 </tr>
 <tr>
-<td><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></td>
-<td><a href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
+<td><a href="https://www.stmargaretssec.moe.edu.sg/"> St Margaret's School (Secondary)</a></td>
+<td><a href="https://www.anglicanhigh.moe.edu.sg/">Anglican High School</a><br>
 	</td></tr>
 </tbody></table>
