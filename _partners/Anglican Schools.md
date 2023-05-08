@@ -3,7 +3,7 @@ title: Anglican Schools
 permalink: /partners/anglican-schools/
 description: ""
 ---
-<font size="5"></font><table>
+<font size="5"><table>
 <tbody><tr>
 		<td><img alt="chr logo" src="/images/Partners%20Anglican%20Schools/chr_logo.png" style="width:200px;height:200px;"> </td>
 		<td><img alt="standrew logo" src="/images/Partners%20Anglican%20Schools/st%20andrews%20sec_logo.jpg" style="width:200px;height:200px;"> </td>
@@ -32,4 +32,4 @@ description: ""
 <td><a href="https://www.stmargaretssec.moe.edu.sg/"> St Margaret's School (Secondary)</a></td>
 <td><a href="https://www.anglicanhigh.moe.edu.sg/">Anglican High School</a><br>
 	</td></tr>
-</tbody></table>
+</tbody></table></font>
