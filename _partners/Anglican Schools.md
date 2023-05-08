@@ -5,8 +5,8 @@ description: ""
 ---
 <table>
 <tbody><tr>
-		<td><img alt="chr logo" src="/images/Partners%20Anglican%20Schools/chr_logo.png" style="width:500px;height:200px;"> </td>
-		<td><img alt="standrew logo" src="/images/Partners%20Anglican%20Schools/st%20andrews%20sec_logo.jpg" style="width:500px;height:200px;"> </td>
+		<td><img alt="chr logo" src="/images/Partners%20Anglican%20Schools/chr_logo.png" style="width:200px;height:200px;"> </td>
+		<td><img alt="standrew logo" src="/images/Partners%20Anglican%20Schools/st%20andrews%20sec_logo.jpg" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
 <td><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></td>
