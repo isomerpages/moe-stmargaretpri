@@ -3,13 +3,13 @@ title: Anglican Schools
 permalink: /partners/anglican-schools/
 description: ""
 ---
-<table>
+<font size="5"></font><table>
 <tbody><tr>
 		<td><img alt="chr logo" src="/images/Partners%20Anglican%20Schools/chr_logo.png" style="width:200px;height:200px;"> </td>
 		<td><img alt="standrew logo" src="/images/Partners%20Anglican%20Schools/st%20andrews%20sec_logo.jpg" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
-<td><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></td>
+<td><b><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></b></td>
 <td><a href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
 <a href="https://www.standrewssec.moe.edu.sg/">St Andrew's Secondary School</a><br>
 <a href="https://www.standrewsjc.moe.edu.sg/">St Andrew's Junior College</a>
