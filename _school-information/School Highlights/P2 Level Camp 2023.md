@@ -15,6 +15,13 @@ The objectives of the trail are:<br>
 2)	To build on students’ teamwork and foster stronger bonds through them completing the station tasks as a team.<br>
 3)	To get students to engage in physical activities and apply skills that they have learnt in PE.
 
+<table>
+<tbody><tr>
+		<td><img alt="jamboree01" src="/images/P2 Level Camp 2023/p2camp_01.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="jamboree02" src="/images/P2 Level Camp 2023/p2camp_02.JPG" style="width:500px;height:300px;"> </td>
+</tr></tbody></table>
+
+
 Each learning station had a different Mathematical focus and the topics included pattern, length, speed, time, addition, multiplication and visualization. To complete each station task, the girls were also required to jump, throw, balance and run. As the Primary 2 Camp drew to a close, the girls not only had a fun day of learning, but they had also learnt to collaborate with their team members while demonstrating the school values of charity, patience, lifelong learning, integrity, graciousness, humility and tenacity. 
 
 <center>
