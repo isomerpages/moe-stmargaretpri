@@ -17,4 +17,15 @@ description: ""
 <a href="https://www.standrewsjc.moe.edu.sg/">St Andrew's Junior College</a>
 </td>
 </tr>
+	<tr>
+		<td><img alt="hilda pri logo" src="/images/Partners%20Anglican%20Schools/hilda%20primary%20school_logo.png" style="width:900px;height:300px;"> </td>
+		<td><img alt="hilda sec logo" src="/images/Partners%20Anglican%20Schools/qb_school_logo.png" style="width:900px;height:300px;"> </td>
+</tr>
+<tr>
+<td><a href="https://www.shps.moe.edu.sg/"> St Hilda Primary School </a></td>
+<td><a href="https://www.sthildassec.moe.edu.sg/">St Hilda Secondary School</a>
+</td>
+</tr>
+
 </tbody></table>
+
