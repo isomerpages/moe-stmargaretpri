@@ -20,8 +20,8 @@ description: ""
 		<td><img alt="hilda sec logo" src="/images/Partners%20Anglican%20Schools/qb_school_logo.png" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
-<td><a href="https://www.shps.moe.edu.sg/"> St Hilda Primary School </a></td>
-<td><a href="https://www.sthildassec.moe.edu.sg/">St Hilda Secondary School</a>
+<td><a href="https://www.shps.moe.edu.sg/"> St Hilda's Primary School </a></td>
+<td><a href="https://www.sthildassec.moe.edu.sg/">St Hilda's Secondary School</a>
 </td>
 </tr>
 	<tr>
