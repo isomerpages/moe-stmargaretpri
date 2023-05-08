@@ -5,7 +5,7 @@ description: ""
 ---
 <font size="4"><table>
 <tbody><tr>
-		<td><img alt="chr logo" src="/images/Partners%20Anglican%20Schools/chr_logo.png" style="width:200px;height:200px;"> </td>
+		<td><img alt="chr logo" src="/images/Partners%20Anglican%20Schools/chr_logo.png" style="width:180px;height:200px;"> </td>
 		<td><img alt="standrew logo" src="/images/Partners%20Anglican%20Schools/st%20andrews%20sec_logo.jpg" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ description: ""
 </b></center></td>
 </tr>
 	<tr>
-		<td><img alt="smss logo" src="/images/Partners%20Anglican%20Schools/smss_logo.png" style="width:200px;height:200px;"> </td>
+		<td><img alt="smss logo" src="/images/Partners%20Anglican%20Schools/smss_logo.png" style="width:180px;height:200px;"> </td>
 		<td><img alt="anglican logo" src="/images/Partners%20Anglican%20Schools/anglican_high_school_logo.png" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
