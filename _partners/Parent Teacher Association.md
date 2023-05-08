@@ -15,3 +15,5 @@ Please click on the link below to know more about the PTA.
 <br>
 [Parent Teacher Association](https://www.greendotpta.sg/) (PTA)
 </center>
+
+[PTA](https://www.greendotpta.sg/)
