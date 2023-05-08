@@ -10,10 +10,10 @@ description: ""
 </tr>
 <tr>
 <td><center><b><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></b></center></td>
-<td><center><a href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
+<td><center><b><a href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
 <a href="https://www.standrewssec.moe.edu.sg/">St Andrew's Secondary School</a><br>
 <a href="https://www.standrewsjc.moe.edu.sg/">St Andrew's Junior College</a>
-</center></td>
+</b></center></td>
 </tr>
 	<tr>
 		<td><img alt="hilda pri logo" src="/images/Partners%20Anglican%20Schools/hilda%20primary%20school_logo.png" style="width:200px;height:200px;"> </td>
