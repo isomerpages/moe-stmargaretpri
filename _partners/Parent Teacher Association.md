@@ -13,4 +13,5 @@ description: ""
 
 Please click on the link below to know more about the PTA.  
 <br>
-[[Parent Teacher Association (PTA)](https://www.greendotpta.sg/)](https://www.greendotpta.sg/)</center>
+[Parent Teacher Association](https://www.greendotpta.sg/) (PTA)
+</center>
