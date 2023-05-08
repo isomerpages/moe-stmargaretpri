@@ -7,12 +7,11 @@ description: ""
 
 <table>
 <tbody><tr>
-		<td><img alt="chr logo" src="/images/Partners Anglican Schools/CHR_logo.png" style="width:700px;height:300px;"> </td>
-		<td><img alt="standrew logo" src="/images/Partners Anglican Schools/st andrews sec_logo.jpeg" style="width:700px;height:300px;"> </td>
+		<td><img alt="chr logo" src="/images/Partners%20Anglican%20Schools/chr_logo.png" style="width:900px;height:300px;"> </td>
+		<td><img alt="standrew logo" src="/images/Partners%20Anglican%20Schools/st%20andrews%20sec_logo.jpg" style="width:900px;height:300px;"> </td>
 </tr>
 <tr>
 <td><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></td>
-</tr><tr>
 <td><a href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
 <a href="https://www.standrewssec.moe.edu.sg/">St Andrew's Secondary School</a><br>
 <a href="https://www.standrewsjc.moe.edu.sg/">St Andrew's Junior College</a>
