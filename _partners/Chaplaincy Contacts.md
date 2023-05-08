@@ -25,4 +25,3 @@ description: ""
 		<tr><td><font size="3"><center>Please click <b><a target="_blank" href="https://anglican.org.sg/">here</a></b> to access The Diocese of Singapore.
 	</center></font></td></tr>
 </tbody></table>
-
