@@ -9,10 +9,10 @@ description: ""
 		<td><img alt="standrew logo" src="/images/Partners%20Anglican%20Schools/st%20andrews%20sec_logo.jpg" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
-<td><center><b><a href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></b></center></td>
-<td><center><b><a href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
-<a href="https://www.standrewssec.moe.edu.sg/">St Andrew's Secondary School</a><br>
-<a href="https://www.standrewsjc.moe.edu.sg/">St Andrew's Junior College</a>
+<td><center><b><a target="_blank" href="https://www.christchurchsec.moe.edu.sg/"> Christ Church Secondary School </a></b></center></td>
+<td><center><b><a target="_blank" href="https://www.saintandrewsjunior.moe.edu.sg/">St Andrew's Junior School</a><br>
+<a target="_blank" href="https://www.standrewssec.moe.edu.sg/">St Andrew's Secondary School</a><br>
+<a target="_blank" href="https://www.standrewsjc.moe.edu.sg/">St Andrew's Junior College</a>
 </b></center></td>
 </tr>
 	<tr>
@@ -20,8 +20,8 @@ description: ""
 		<td><img alt="hilda sec logo" src="/images/Partners%20Anglican%20Schools/qb_school_logo.png" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
-<td><center><b><a href="https://www.shps.moe.edu.sg/"> St Hilda's Primary School </a></b></center></td>
-<td><center><b><a href="https://www.sthildassec.moe.edu.sg/">St Hilda's Secondary School</a>
+<td><center><b><a target="_blank" href="https://www.shps.moe.edu.sg/"> St Hilda's Primary School </a></b></center></td>
+<td><center><b><a target="_blank" href="https://www.sthildassec.moe.edu.sg/">St Hilda's Secondary School</a>
 </b></center></td>
 </tr>
 	<tr>
@@ -29,7 +29,7 @@ description: ""
 		<td><img alt="anglican logo" src="/images/Partners%20Anglican%20Schools/anglican_high_school_logo.png" style="width:200px;height:200px;"> </td>
 </tr>
 <tr>
-<td><center><b><a href="https://www.stmargaretssec.moe.edu.sg/"> St Margaret's School (Secondary)</a></b></center></td>
-<td><center><b><a href="https://www.anglicanhigh.moe.edu.sg/">Anglican High School</a><br>
+<td><center><b><a target="_blank" href="https://www.stmargaretssec.moe.edu.sg/"> St Margaret's School (Secondary)</a></b></center></td>
+<td><center><b><a target="_blank" href="https://www.anglicanhigh.moe.edu.sg/">Anglican High School</a><br>
 	</b></center></td></tr>
 </tbody></table></font>
