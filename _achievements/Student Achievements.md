@@ -14,11 +14,11 @@ description: ""
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
-
 	<tr>
 		<td><font size="4">SOTA Primary 6 Creative Writing Competition 2023</font></td>
 		<td><font size="4">Top 50 Finalists</font></td>
 </tr></tbody></table>
+<br>
 <table>
 	<tbody><tr>
 		<th><font size="5" color="maroon">
@@ -29,11 +29,11 @@ description: ""
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
-
 	<tr>
 		<td><font size="4">National YMCA Mandarin Speaking Competition 2023</font></td>
 		<td><font size="4">Semi-Finalist</font></td>
 </tr></tbody></table>
+<br>
 <table>
 	<tbody><tr>
 		<th><font size="5" color="maroon">
@@ -44,7 +44,6 @@ description: ""
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
-
 	<tr>
 		<td><font size="4">Tirukkural Vizha 2023 Tamil Literarcy Competition</font></td>
 		<td><font size="4">Overall 3rd prize</font></td>
@@ -54,7 +53,7 @@ description: ""
 		<td><font size="4">Top 6 Award</font></td>
 </tr>
 </tbody></table>
-
+<br>
 <table>
 	<tbody><tr>
 		<th><font size="5" color="maroon">
@@ -65,7 +64,6 @@ description: ""
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
-
 	<tr>
 		<td><font size="4">ViaRT Award, a Children's Upcycled Art Competition
 </font></td>
@@ -84,6 +82,7 @@ description: ""
 				       7 other Art works showcased digitally at the SOTA exhibition on 24 to 28 March 2023 at SOTA Gallery Level 2 
 </font></td>
 </tr></tbody></table>
+<br>
 
 
 
