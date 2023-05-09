@@ -339,6 +339,34 @@ Championships 2022</font></td>
 	</tbody></table>
 <br>
 
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Science Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Primary Science Olympiad 2021</font></td>
+		<td><font size="4">3 participants received Bronze Awards  
+4 participants received Merit Awards  
+16 participants received Participation recognition</font></td>
+</tr>
+	<tr>
+		<td><font size="4"><b>Singapore Youth Science Fair 2021</b></font></td>
+		<td><font size="4"><b>Distinction Award</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4"><b>Mcurie Programme and Da Vinci Programme By  
+NUS High School of Mathematics and Science 2021</b></font></td>
+		<td><font size="4"><b>2 participants received the Mcurie Excellence Award  
+2 participants received the Da Vinci Excellence Award</b></font></td>
+</tr>
+	</tbody></table>
+<br>
 
 
 
