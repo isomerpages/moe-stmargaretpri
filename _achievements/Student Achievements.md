@@ -370,139 +370,29 @@ NUS High School of Mathematics and Science 2021</b></font></td>
 
 
 
-
-
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb" colspan="2">Tamil Department</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Competition Name</td>
-    <td class="tg-9hzb">Award/Position</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Inter-School Virtual Tamil Language Competition 2021 </span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">3rd in Role Play Category</span></td>
-  </tr>
-</tbody>
-</table>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Art Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Youth Festival (SYF) Art Exhibition 2021</font></td>
+		<td><font size="4">Category A - 4 students from P2 received Certificate of Recognition  
+Category B - 3 students from P4 received Certificate of Participation  
+Category C - 4 students from P5 received Certificate of Recognition</font></td>
+</tr>
+	<tr>
+		<td><font size="4"><b>Draw My Stamp Story Art Competition 2021</b></font></td>
+		<td><font size="4"><b>1 participant received Silver Award  
+2 participants received Bronze Awards</b></font></td>
+</tr>
+	</tbody></table>
 <br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb" colspan="2">Mathematics Department</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Competition Name</td>
-    <td class="tg-9hzb">Award/Position</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">National Mathematical Olympiad of Singapore (NMOS) 2021</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">4 participants received Bronze Awards</span><br><span style="font-weight:400;color:#000">17 participants received an Honourable Mention</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Singapore Mathematical Olympiad for Primary School (SMOPS) 2021</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">3 participants received Silver Awards </span><br><span style="font-weight:400;color:#000">3 participants received Bronze Awards</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">River Valley High School's Mathematics Challenge 2021</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Certificate of Participation</span></td>
-  </tr>
-</tbody>
-</table>
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb" colspan="2">Science Department</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Competition Name</td>
-    <td class="tg-9hzb">Award/Position</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Singapore Primary Science Olympiad 2021</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">3 participants received Bronze Awards </span><br><span style="font-weight:400;color:#000">4 participants received Merit Awards </span><br><span style="font-weight:400;color:#000">16 participants received Participation recognition</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Singapore Youth Science Fair 2021</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Distinction Award</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Mcurie Programme and Da Vinci Programme By</span><br><span style="font-weight:400;color:#000">NUS High School of Mathematics and Science 2021</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">2 participants received the Mcurie Excellence Award </span><br><span style="font-weight:400;color:#000">2 participants received the Da Vinci Excellence Award</span></td>
-  </tr>
-</tbody>
-</table>
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb" colspan="2">Art Department</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Competition Name</td>
-    <td class="tg-9hzb">Award/Position</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Singapore Youth Festival (SYF) Art Exhibition 2021</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Category A - 4 students from P2 received  
-Certificate of Recognition </span><br><span style="font-weight:400;color:#000">Category B - 3 students from P4 received  
-Certificate of Participation</span><br><span style="font-weight:400;color:#000">Category C - 4 students from P5 received  
-Certificate of Recognition</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Draw My Stamp Story Art Competition 2021</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">1 participant received Silver Award <br>
-2 participants received Bronze Awards</span></td>
-  </tr>
-</tbody>
-</table>
+
+
+
