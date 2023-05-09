@@ -117,8 +117,39 @@ Haiku Contest 2022</font></td>
 3rd place&nbsp;(11-15 years old category) from 5 Integrity</font></td>
 </tr>
 	</tbody></table>
-
 <br>
+<table>
+	<tbody><tr>
+		<th><font size="5" color="maroon">
+     Mathematics Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Public Transport Workers’ Appreciation 2022 Slogan Contest</font></td>
+		<td><font size="4">4 students are shortlisted for Public Voting<br>Lower Primary Category:  
+1 student from 1 Integrity received&nbsp;2nd prize</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Japan Airlines (JAL) 17th World Children's  
+Haiku Contest 2022</font></td>
+		<td><font size="4">2 students received JAL Grand Prize<br>5 students received&nbsp;JAL Prize  <br>
+1 student received&nbsp;Regional Manager Prize</font></td>
+</tr>
+	<tr>
+		<td><font size="4">ANZA Young Writers’ Competition 2022</font></td>
+		<td><font size="4">1st place&nbsp;(11-15 years old category) from 6 Integrity <br> 
+3rd place&nbsp;(11-15 years old category) from 5 Integrity</font></td>
+</tr>
+	</tbody></table>
+
+
+
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
