@@ -152,41 +152,39 @@ Haiku Contest 2022</font></td>
 1 participant received&nbsp;Honourable Mention<br></font></td>
 </tr>
 		</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Malay Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Penterjemah Pintar 2022  
+(Rakan Bahasa Translation Competition 2022)</font></td>
+		<td><font size="4">2nd place</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Bacalah Adikku 2022 (S5 Cluster)</font></td>
+		<td><font size="4">Primary 1 Category :<br>  
+Our Primary 1 students won&nbsp;1st&nbsp;and&nbsp;2nd places. <br> 
+They also won the&nbsp;Best Props,&nbsp;Best Script&nbsp;and&nbsp;Best Costume&nbsp;awards. <br> 
+  
+Primary 2 Category : <br>
+Our Primary 2 students won&nbsp;1st&nbsp;and&nbsp;2nd places. <br> 
+They also won the&nbsp;Best Props&nbsp;and&nbsp;Best Script&nbsp;awards.<br></font></td>
+</tr>
+	</tbody></table>
 
 
 
 
 
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2g1l" colspan="2"><span style="color:#000;background-color:#FFF">Mathematics Department</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2g1l"><span style="color:#000;background-color:#FFF"> Competition Name</span></td>
-    <td class="tg-2g1l"><span style="color:#000;background-color:#FFF"> Award/Position</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:normal">National Mathematical Olympiad of Singapore</span><br></td>
-    <td class="tg-7yig"><span style="font-weight:normal">1 participants received</span> <span style="color:#000;background-color:#FFF">Silver Award</span><br><span style="font-weight:normal">4 participants received</span> <span style="color:#000;background-color:#FFF">Bronze Award</span><br><span style="font-weight:normal">6 participants received</span> <span style="color:#000;background-color:#FFF">Honourable Mention</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:normal"> Singapore Mathematical Olympiad for Primary Schools</span><br><span style="font-weight:400">(SMOPS)</span></td>
-    <td class="tg-7yig"><span style="font-weight:400"> 2 participants received</span> <span style="color:#000;background-color:#FFF">Bronze Award </span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">  </span><span style="font-weight:normal">Singapore and Asian Schools Math Olympiad</span><br><span style="font-weight:normal">(SASMO)</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000"> 2 participants received</span> Silver Award                  4 participants received Bronze Award<span style="font-weight:normal">           1 participant received</span> Honourable Mentio<span style="color:#000;background-color:#FFF">n </span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">  </span><span style="font-weight:normal">Singapore Math Kangaroo Contest</span><br><span style="font-weight:400">(SMKC)</span></td>
-    <td class="tg-7yig"><span style="font-weight:400">1 participant received</span> <span style="color:#000;background-color:#FFF">Silver Award</span><span style="font-weight:400"> </span><br><span style="font-weight:400">1 participant received</span> <span style="color:#000;background-color:#FFF">Bronze Award</span><br><span style="font-weight:400">1 participant received</span> <span style="color:#000;background-color:#FFF">Honourable Mention </span></td>
-  </tr>
-</tbody>
-</table>
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -198,27 +196,7 @@ Haiku Contest 2022</font></td>
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2g1l" colspan="2"><span style="color:#000;background-color:#FFF">Malay Department</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2g1l"><span style="color:#000;background-color:#FFF"> Competition Name</span></td>
-    <td class="tg-2g1l"><span style="color:#000;background-color:#FFF"> Award/Position</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400">Penterjemah Pintar 2022 </span><br>(Rakan Bahasa Translation Competition 2022)<br></td>
-    <td class="tg-9hzb">2nd place<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:normal"> </span><span style="font-weight:400">Bacalah Adikku 2022 (S5 Cluster) </span></td>
-    <td class="tg-7yig"><span style="font-weight:400"> </span>Primary 1 Category :<br><span style="color:#000;background-color:#FFF">Our Primary 1 students won </span>1st<span style="font-weight:400"> and </span>2nd places<span style="font-weight:400">.</span><br><span style="font-weight:400">They also won the</span> Best Props<span style="font-weight:400">, </span>Best Script<span style="font-weight:400"> and </span>Best Costume <span style="font-weight:400">awards.</span><br><br>Primary 2 Category :<br><span style="font-weight:400"> </span><span style="color:#000;background-color:#FFF">Our Primary 2 students won </span>1st <span style="font-weight:400">and </span>2nd places<span style="font-weight:400">.</span><br><span style="font-weight:400">They also won the </span>Best Props<span style="font-weight:400"> and </span>Best Script<span style="font-weight:400"> awards.</span></td>
-  </tr>
-</tbody>
-</table>
+
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
