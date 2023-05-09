@@ -180,8 +180,48 @@ They also won the&nbsp;Best Props&nbsp;and&nbsp;Best Script&nbsp;awards.<br></fo
 </tr>
 	</tbody></table>
 
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Tamil Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Poetry Competition 2022</font></td>
+		<td><font size="4">1 student from 4 Charity won&nbsp;1st place</font></td>
+</tr></tbody></table>
+<br>
 
-
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Science Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Da Vinci Juniour Excellence Award by NUS High School of Math and Science</font></td>
+		<td><font size="4">2 students from 5 Integrity won Junior Excellence Award</font></td>
+</tr>
+		<tr>
+		<td><font size="4">MCurie2 Excellence Award by NUS High School of Math and Science</font></td>
+		<td><font size="4">2 students from 5 Integrity &amp; 5 Tenacity won  
+Excellence Award</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Singapore Primary Science Olympiad</font></td>
+		<td><font size="4">3 Bronze<br>  
+2 Merit</font></td>
+</tr>	
+	</tbody></table>
+<br>
 
 
 
