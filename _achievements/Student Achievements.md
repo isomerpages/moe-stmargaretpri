@@ -3,7 +3,7 @@ title: Student Achievements
 permalink: /achievements/student-achievements/
 description: ""
 ---
-#### 2023 Achievements
+### 2023 Achievements
 <table>
 	<tbody><tr>
 		<th><font size="5" color="maroon">
