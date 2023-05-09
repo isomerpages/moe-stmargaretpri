@@ -6,7 +6,7 @@ description: ""
 ### 2023 Achievements
 <table>
 	<tbody><tr>
-		<th><font size="5" color="maroon">
+		<th><font color="maroon" size="5">
      English Department
  </font></th>
 </tr>
@@ -21,7 +21,7 @@ description: ""
 <br>
 <table>
 	<tbody><tr>
-		<th><font size="5" color="maroon">
+		<th><font color="maroon" size="5">
      Chinese Department
  </font></th>
 </tr>
@@ -36,7 +36,7 @@ description: ""
 <br>
 <table>
 	<tbody><tr>
-		<th><font size="5" color="maroon">
+		<th><font color="maroon" size="5">
      Tamil Department
  </font></th>
 </tr>
@@ -56,7 +56,7 @@ description: ""
 <br>
 <table>
 	<tbody><tr>
-		<th><font size="5" color="maroon">
+		<th><font color="maroon" size="5">
      Art Department
  </font></th>
 </tr>
@@ -92,7 +92,7 @@ description: ""
 
 <table>
 	<tbody><tr>
-		<th><font size="5" color="maroon">
+		<th><font color="maroon" size="5">
      English Department
  </font></th>
 </tr>
@@ -120,7 +120,7 @@ Haiku Contest 2022</font></td>
 <br>
 <table>
 	<tbody><tr>
-		<th><font size="5" color="maroon">
+		<th><font color="maroon" size="5">
      Mathematics Department
  </font></th>
 </tr>
@@ -129,78 +129,39 @@ Haiku Contest 2022</font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">Public Transport Workers’ Appreciation 2022 Slogan Contest</font></td>
-		<td><font size="4">4 students are shortlisted for Public Voting<br>Lower Primary Category:  
-1 student from 1 Integrity received&nbsp;2nd prize</font></td>
+		<td><font size="4">National Mathematical Olympiad of Singapore</font></td>
+		<td><font size="4">1 participants received&nbsp;Silver Award<br>  
+4 participants received&nbsp;Bronze Award<br>  
+6 participants received&nbsp;Honourable Mention<br></font></td>
 </tr>
 	<tr>
-		<td><font size="4">Japan Airlines (JAL) 17th World Children's  
-Haiku Contest 2022</font></td>
-		<td><font size="4">2 students received JAL Grand Prize<br>5 students received&nbsp;JAL Prize  <br>
-1 student received&nbsp;Regional Manager Prize</font></td>
+		<td><font size="4">Singapore Mathematical Olympiad for Primary Schools  
+(SMOPS)</font></td>
+		<td><font size="4">2 participants received&nbsp;Bronze Award</font></td>
 </tr>
 	<tr>
-		<td><font size="4">ANZA Young Writers’ Competition 2022</font></td>
-		<td><font size="4">1st place&nbsp;(11-15 years old category) from 6 Integrity <br> 
-3rd place&nbsp;(11-15 years old category) from 5 Integrity</font></td>
+		<td><font size="4">Singapore and Asian Schools Math Olympiad  
+(SASMO)</font></td>
+		<td><font size="4">2 participants received&nbsp;Silver Award<br> 4 participants received Bronze Award<br>&nbsp;1 participant received&nbsp;Honourable Mention</font></td>
 </tr>
-	</tbody></table>
+<tr>
+		<td><font size="4">Singapore Math Kangaroo Contest  
+(SMKC)</font></td>
+		<td><font size="4">1 participant received&nbsp;Silver Award<br>  
+1 participant received&nbsp;Bronze Award<br>  
+1 participant received&nbsp;Honourable Mention<br></font></td>
+</tr>
+		</tbody></table>
 
 
 
 
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-9hzb">English Department<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Competition Name</td>
-    <td class="tg-9hzb">Award/Position</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Public Transport Workers’ Appreciation 2022 Slogan Contest</span><br></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">4 students are shortlisted for Public Voting</span><br><br>Lower Primary Category:<br><span style="font-weight:400;color:#000">1 student from 1 Integrity received</span> 2nd prize</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">  Japan Airlines (JAL) 17th World Children's</span><br><span style="font-weight:400;color:#000">Haiku Contest 2022</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> </span>2 students received JAL Grand Prize<span style="font-weight:400;color:#000">5 students received</span> JAL Prize<br><span style="font-weight:400;color:#000">1 student received</span> Regional Manager Prize</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> ANZA Young Writers’ Competition 2022</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> </span>1st place <span style="color:#000;background-color:#FFF">(11-15 years old category) from 6 Integrity</span><br>3rd place <span style="color:#000;background-color:#FFF">(11-15 years old category) from 5 Integrity</span></td>
-  </tr>
-</tbody>
-</table>
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="2" class="tg-2g1l"><span style="color:#000;background-color:#FFF">Mathematics Department</span></th>
+    <th class="tg-2g1l" colspan="2"><span style="color:#000;background-color:#FFF">Mathematics Department</span></th>
   </tr>
 </thead>
 <tbody>
@@ -240,7 +201,7 @@ Haiku Contest 2022</font></td>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-2g1l"><span style="color:#000;background-color:#FFF">Malay Department</span></th>
+    <th class="tg-2g1l" colspan="2"><span style="color:#000;background-color:#FFF">Malay Department</span></th>
   </tr>
 </thead>
 <tbody>
@@ -272,7 +233,7 @@ Haiku Contest 2022</font></td>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-2g1l"><span style="color:#000;background-color:#FFF">Tamil Department</span></th>
+    <th class="tg-2g1l" colspan="2"><span style="color:#000;background-color:#FFF">Tamil Department</span></th>
   </tr>
 </thead>
 <tbody>
@@ -301,7 +262,7 @@ Haiku Contest 2022</font></td>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-9hzb">Science Department<br></th>
+    <th class="tg-9hzb" colspan="2">Science Department<br></th>
   </tr>
 </thead>
 <tbody>
@@ -337,7 +298,7 @@ Haiku Contest 2022</font></td>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-9hzb">Aesthetic Department<br></th>
+    <th class="tg-9hzb" colspan="2">Aesthetic Department<br></th>
   </tr>
 </thead>
 <tbody>
@@ -372,7 +333,7 @@ Haiku Contest 2022</font></td>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-2g1l">National School Games Competition  <br></th>
+    <th class="tg-2g1l" colspan="2">National School Games Competition  <br></th>
   </tr>
 </thead>
 <tbody>
@@ -426,7 +387,7 @@ Haiku Contest 2022</font></td>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-9hzb">Tamil Department</th>
+    <th class="tg-9hzb" colspan="2">Tamil Department</th>
   </tr>
 </thead>
 <tbody>
@@ -453,7 +414,7 @@ Haiku Contest 2022</font></td>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-9hzb">Mathematics Department</th>
+    <th class="tg-9hzb" colspan="2">Mathematics Department</th>
   </tr>
 </thead>
 <tbody>
@@ -488,7 +449,7 @@ Haiku Contest 2022</font></td>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-9hzb">Science Department</th>
+    <th class="tg-9hzb" colspan="2">Science Department</th>
   </tr>
 </thead>
 <tbody>
@@ -523,7 +484,7 @@ Haiku Contest 2022</font></td>
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-9hzb">Art Department</th>
+    <th class="tg-9hzb" colspan="2">Art Department</th>
   </tr>
 </thead>
 <tbody>
