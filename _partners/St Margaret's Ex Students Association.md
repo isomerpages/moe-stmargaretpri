@@ -4,7 +4,6 @@ permalink: /partners/st-margarets-ex-students-association/
 description: ""
 ---
 <img src="/images/08e0c3bc5_u6572.gif" style="width:200px">
-<br>
 
 ## St Margaret's Ex-Students Association
 
