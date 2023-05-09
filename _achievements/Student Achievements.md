@@ -297,6 +297,56 @@ Championships 2022</font></td>
 
 ### 2021 Achievements
 
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Tamil Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Inter-School Virtual Tamil Language Competition 2021</font></td>
+		<td><font size="4">3rd in Role Play Category</font></td>
+</tr></tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Mathematics Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Mathematical Olympiad of Singapore (NMOS) 2021</font></td>
+		<td><font size="4">4 participants received Bronze Awards  
+17 participants received an Honourable Mention</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Mathematical Olympiad for Primary School (SMOPS) 2021</font></td>
+		<td><font size="4">3 participants received Silver Awards  
+3 participants received Bronze Awards</font></td>
+</tr>
+			<tr>
+		<td><font size="4">River Valley High School's Mathematics Challenge 2021</font></td>
+		<td><font size="4">Certificate of Participation</font></td>
+</tr>
+	</tbody></table>
+<br>
+
+
+
+
+
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
