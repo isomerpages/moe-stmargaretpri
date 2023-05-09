@@ -273,133 +273,26 @@ Floor:&nbsp;Bronze<br>
 100m - 50m Backstroke/50m Freestyle:&nbsp;Bronze<br>
 			</b></font></td>
 </tr>
-			
+			<tr>
+		<td><font size="4"><b>South Zone Primary Schools Senior Netball Championships 2022</b></font></td>
+		<td><font size="4"><b>4th in position</b></font></td>
+</tr>
+					<tr>
+		<td><font size="4"><b>National School Games Rhythmic Gymnastic 2022</b></font></td>
+		<td><font size="4"><b>6th – Senior Elite Freehand7th&nbsp;– Senior Elite Clubs</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4"><b>National School Games Bowling  
+Championships 2022</b></font></td>
+		<td><font size="4"><b>3rd – Senior Division Overall  
+6th – Doubles  
+4th &amp; 7th – Quartets7th&nbsp;– All events</b></font></td>
+</tr>
+				<tr>
+		<td><font size="4"><b>National School Games Wushu 2022</b></font></td>
+		<td><font size="4"><b>1st – Spear2nd&nbsp;– Dian Changqua</b></font></td>
+</tr>
 	</tbody></table>
-
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb" colspan="2">Aesthetic Department<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Competition Name</td>
-    <td class="tg-9hzb">Award/Position</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">SYFgoesOnline! 2022 – Design Challenge<br></td>
-    <td class="tg-ktyi"> 1 student from 5 Graciousness was selected for<br>Design Challenge Finalist<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">  </span>Draw My Stamp Story Art Competition 2022</td>
-    <td class="tg-9hzb"> 3 Silver Award<br> 3 Bronze Award</td>
-  </tr>
-</tbody>
-</table>
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cj27{background-color:#FFF;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-if35{text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2g1l" colspan="2">National School Games Competition  <br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2g1l">Competition Name</td>
-    <td class="tg-2g1l">Award/Position</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:normal">Golf Open Division Girls  </span><br></td>
-    <td class="tg-7yig"><span style="font-weight:normal">1 student from 5 Tenacity won </span>2nd Position<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:normal">Gymnastics</span></td>
-    <td class="tg-cj27">Artistic Gymnastics (Junior 3 Division Girls)<span style="font-weight:normal"> </span><br><br><span style="font-weight:normal">1 student from 2 Patience</span><br><span style="font-weight:400">Balancing Beam:</span> Bronze<br><span style="font-weight:normal">Floor:</span> Bronze<br><br><span style="font-weight:normal">1 student from 2 Charity</span><br><span style="font-weight:normal">Balancing Beam:</span> Green Pin<br><span style="font-weight:normal">Bars:</span> Yellow Pin<br><span style="font-weight:normal">Floor:</span> Red Pin<br><br>1 student from 2 Integrity<br><span style="font-weight:normal">Balancing Beam:</span> Green Pin<br><span style="font-weight:normal">Bars:</span> Yellow Pin<br><span style="font-weight:normal">Floor:</span> Bronze<br>All Around: Bronze<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:normal"> Swimming</span></td>
-    <td class="tg-if35">Swimming (Junior 2 Division Girls)<br><br><span style="font-weight:normal">1 student from 5 Graciousness</span><br><span style="font-weight:normal">50m &amp; 100m Backstroke:</span> Bronze<br><span style="font-weight:normal"> 100m - 50m Backstroke/50m Freestyle:</span> Bronze<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:normal">  South Zone Primary Schools Senior Netball Championships 2022</span></td>
-    <td class="tg-nrix">4th in position  </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> <span style="font-weight:normal">National School Games Bowling</span><br><span style="font-weight:normal">Championships 2022</span></td>
-    <td class="tg-baqh"><br>3rd  – Senior Division Overall<br>6th – Doubles<br>4th &amp; 7th – Quartets7th <span style="font-weight:normal">– All events </span></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:normal"> National School Games Rhythmic Gymnastic 2022</span></td>
-    <td class="tg-baqh"><br>6th – Senior Elite Freehand7th <span style="font-weight:normal">– Senior Elite Clubs </span></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> <span style="font-weight:normal">National School Games Wushu 2022</span></td>
-    <td class="tg-baqh"><br>1st – Spear2nd <span style="font-weight:normal">– Dian Changquan </span></td>
-  </tr>
-</tbody>
-</table>
 <br>
 
 ### 2021 Achievements
