@@ -145,9 +145,9 @@ Mageshwari</font></td>
 		<td><font size="4">School Attendant</font></td>
 <td><font size="4">5 years Award</font></td>
 </tr>
-
-
-</tbody></table><table>
+</tbody></table>
+<br>
+<table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
      MOE Special Appreciation Award
