@@ -266,31 +266,31 @@ Floor:&nbsp;Bronze<br>
 			1 student from 2 Integrity Balancing Beam:&nbsp;Green Pin  Bars:&nbsp;Yellow Pin Floor:&nbsp;Bronze  All Around: Bronze<br>
 			</font></td>
 			</tr><tr>
-		<td><font size="4"><b>Swimming</b></font></td>
-		<td><font size="4"><b>Swimming (Junior 2 Division Girls)<br>
+		<td><font size="4">Swimming</font></td>
+		<td><font size="4">Swimming (Junior 2 Division Girls)<br>
 			1 student from 5 Graciousness  
 50m &amp; 100m Backstroke:&nbsp;Bronze  
 100m - 50m Backstroke/50m Freestyle:&nbsp;Bronze<br>
-			</b></font></td>
+			</font></td>
 </tr>
 			<tr>
-		<td><font size="4"><b>South Zone Primary Schools Senior Netball Championships 2022</b></font></td>
-		<td><font size="4"><b>4th in position</b></font></td>
+		<td><font size="4">South Zone Primary Schools Senior Netball Championships 2022</font></td>
+		<td><font size="4">4th in position</font></td>
 </tr>
 					<tr>
-		<td><font size="4"><b>National School Games Rhythmic Gymnastic 2022</b></font></td>
-		<td><font size="4"><b>6th – Senior Elite Freehand7th&nbsp;– Senior Elite Clubs</b></font></td>
+		<td><font size="4">National School Games Rhythmic Gymnastic 2022</font></td>
+		<td><font size="4">6th – Senior Elite Freehand7th&nbsp;– Senior Elite Clubs</font></td>
 </tr>
 		<tr>
-		<td><font size="4"><b>National School Games Bowling  
-Championships 2022</b></font></td>
-		<td><font size="4"><b>3rd – Senior Division Overall  
+		<td><font size="4">National School Games Bowling  
+Championships 2022</font></td>
+		<td><font size="4">3rd – Senior Division Overall  
 6th – Doubles  
-4th &amp; 7th – Quartets7th&nbsp;– All events</b></font></td>
+4th &amp; 7th – Quartets7th&nbsp;– All events</font></td>
 </tr>
 				<tr>
-		<td><font size="4"><b>National School Games Wushu 2022</b></font></td>
-		<td><font size="4"><b>1st – Spear2nd&nbsp;– Dian Changqua</b></font></td>
+		<td><font size="4">National School Games Wushu 2022</font></td>
+		<td><font size="4">1st – Spear2nd&nbsp;– Dian Changqua</font></td>
 </tr>
 	</tbody></table>
 <br>
