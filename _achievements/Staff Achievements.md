@@ -244,9 +244,9 @@ Theme : Together we can do IcT (Innovative &amp; Creative Teaching)<br></font></
  </font></th>
 </tr>
 	<tr>
-		<td><font size="4">Name</font></td>
-		<td><font size="4">Title</font></td>
-<td><font size="4">Award</font></td>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
 </tr>
 	<tr>
 		<td><font size="4">Mdm Poh Siok Kheng</font></td>
