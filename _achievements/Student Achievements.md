@@ -3,6 +3,92 @@ title: Student Achievements
 permalink: /achievements/student-achievements/
 description: ""
 ---
+#### 2023 Achievements
+<table>
+	<tbody><tr>
+		<th><font size="5" color="maroon">
+     English Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+
+	<tr>
+		<td><font size="4">SOTA Primary 6 Creative Writing Competition 2023</font></td>
+		<td><font size="4">Top 50 Finalists</font></td>
+</tr></tbody></table>
+<table>
+	<tbody><tr>
+		<th><font size="5" color="maroon">
+     Chinese Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+
+	<tr>
+		<td><font size="4">National YMCA Mandarin Speaking Competition 2023</font></td>
+		<td><font size="4">Semi-Finalist</font></td>
+</tr></tbody></table>
+<table>
+	<tbody><tr>
+		<th><font size="5" color="maroon">
+     Tamil Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+
+	<tr>
+		<td><font size="4">Tirukkural Vizha 2023 Tamil Literarcy Competition</font></td>
+		<td><font size="4">Overall 3rd prize</font></td>
+</tr>
+<tr>
+		<td><font size="4">Seithi Pongalo Pongal Contest 2023 (By MediaCorp)</font></td>
+		<td><font size="4">Top 6 Award</font></td>
+</tr>
+</tbody></table>
+
+<table>
+	<tbody><tr>
+		<th><font size="5" color="maroon">
+     Art Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+
+	<tr>
+		<td><font size="4">ViaRT Award, a Children's Upcycled Art Competition
+</font></td>
+		<td><font size="4">Naomi Chu of 6 Tenacity (1st in the Most Artistic Award)
+</font></td>
+</tr>
+<tr>
+		<td><font size="4">UBS Art of Trash competition 
+</font></td>
+		<td><font size="4">Naomi Chu of 6 Tenacity (1st prize in the Primary Category)
+</font></td>
+</tr>
+<tr>
+		<td><font size="4">P6 SOTA Art Competition</font></td>
+		<td><font size="4">Naomi Chu of 6 Tenacity (Top 50 Finalists &amp; Top 10 Winner) <br>
+				       7 other Art works showcased digitally at the SOTA exhibition on 24 to 28 March 2023 at SOTA Gallery Level 2 
+</font></td>
+</tr></tbody></table>
+
+
+
+
+
 ## 2022
 
 <style type="text/css">
