@@ -222,7 +222,27 @@ Excellence Award</font></td>
 </tr>	
 	</tbody></table>
 <br>
-
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Aesthetic Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">SYFgoesOnline! 2022 – Design Challenge</font></td>
+		<td><font size="4">1 student from 5 Graciousness was selected for  
+Design Challenge Finalist</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Draw My Stamp Story Art Competition 2022</font></td>
+		<td><font size="4">3 Silver Award<br>  
+3 Bronze Award</font></td>
+	</tr></tbody></table>
+<br>
 
 
 <br>
@@ -248,23 +268,7 @@ Excellence Award</font></td>
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2g1l" colspan="2"><span style="color:#000;background-color:#FFF">Tamil Department</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-2g1l"><span style="color:#000;background-color:#FFF"> Competition Name</span></td>
-    <td class="tg-2g1l"><span style="color:#000;background-color:#FFF"> Award/Position</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal">National Poetry Competition 2022</span></td>
-    <td class="tg-7yig"><span style="font-weight:normal">1 student from 4 Charity won</span><span style="color:#000;background-color:#FFF"> </span>1st place<br></td>
-  </tr>
-</tbody>
-</table>
+
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -277,31 +281,7 @@ Excellence Award</font></td>
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb" colspan="2">Science Department<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Competition Name</td>
-    <td class="tg-9hzb">Award/Position</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Da Vinci Juniour Excellence Award by NUS High School of Math and Science<br></td>
-    <td class="tg-ktyi">2 students from 5 Integrity won Junior Excellence Award</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000"> </span> MCurie2 Excellence Award by NUS High School of Math and Science</td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> 2 students from 5 Integrity &amp; 5 Tenacity won </span><br>Excellence Award</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> </span>Singapore Primary Science Olympiad</td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> </span>3 Bronze<br> 2 Merit</td>
-  </tr>
-</tbody>
-</table>
+
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
