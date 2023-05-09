@@ -193,25 +193,10 @@ description: ""
     <td class="tg-f4yw">Teacher</td>
   </tr>
   <tr>
-    <td class="tg-f4yw"> Mdm Poh Siok Kheng</td>
-    <td class="tg-f4yw">HOD Science</td>
+    <td class="tg-f4yw"> Mdm Jamilah Bee</td>
+    <td class="tg-f4yw">Teacher</td>
   </tr>
-  <tr>
-    <td class="tg-f4yw"> Mrs Ganesh</td>
-    <td class="tg-f4yw"> Teacher</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"> Mrs Charise Tan</td>
-    <td class="tg-f4yw"> Teacher</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"> Mrs Mandy Teo </td>
-    <td class="tg-f4yw"> Teacher</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"> Mrs Lim Mei Sze</td>
-    <td class="tg-f4yw"> Teacher</td>
-  </tr>
+ 
 </tbody>
 </table>
 <br>
