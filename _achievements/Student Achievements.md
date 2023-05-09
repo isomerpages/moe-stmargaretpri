@@ -243,7 +243,38 @@ Design Challenge Finalist</font></td>
 3 Bronze Award</font></td>
 	</tr></tbody></table>
 <br>
-
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     National School Games Competition
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Golf Open Division Girls</font></td>
+		<td><font size="4">1 student from 5 Tenacity won&nbsp;2nd Positiont</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Gymnastics</font></td>
+		<td><font size="4">Artistic Gymnastics (Junior 3 Division Girls)<br>
+			1 student from 2 Patience Balancing Beam:&nbsp;Bronze  
+Floor:&nbsp;Bronze<br>
+			1 student from 2 Charity  Balancing Beam:&nbsp;Green Pin Bars:&nbsp;Yellow Pin  Floor:&nbsp;Red Pin <br>
+			1 student from 2 Integrity Balancing Beam:&nbsp;Green Pin  Bars:&nbsp;Yellow Pin Floor:&nbsp;Bronze  All Around: Bronze<br>
+			</font></td>
+			</tr><tr>
+		<td><font size="4"><b>Swimming</b></font></td>
+		<td><font size="4"><b>Swimming (Junior 2 Division Girls)<br>
+			1 student from 5 Graciousness  
+50m &amp; 100m Backstroke:&nbsp;Bronze  
+100m - 50m Backstroke/50m Freestyle:&nbsp;Bronze<br>
+			</b></font></td>
+</tr>
+			
+	</tbody></table>
 
 <br>
 <style type="text/css">
