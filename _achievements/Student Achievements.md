@@ -255,21 +255,21 @@ Design Challenge Finalist</font></td>
 </tr>
 	<tr>
 		<td><font size="4">Golf Open Division Girls</font></td>
-		<td><font size="4">1 student from 5 Tenacity won&nbsp;2nd Positiont</font></td>
+		<td><font size="4">1 student from 5 Tenacity won&nbsp;2nd Position</font></td>
 </tr>
 		<tr>
 		<td><font size="4">Gymnastics</font></td>
 		<td><font size="4">Artistic Gymnastics (Junior 3 Division Girls)<br>
-			1 student from 2 Patience Balancing Beam:&nbsp;Bronze  
+			1 student from 2 Patience Balancing Beam:&nbsp;Bronze <br> 
 Floor:&nbsp;Bronze<br>
-			1 student from 2 Charity  Balancing Beam:&nbsp;Green Pin Bars:&nbsp;Yellow Pin  Floor:&nbsp;Red Pin <br>
-			1 student from 2 Integrity Balancing Beam:&nbsp;Green Pin  Bars:&nbsp;Yellow Pin Floor:&nbsp;Bronze  All Around: Bronze<br>
+			1 student from 2 Charity  Balancing Beam:&nbsp;<br>Green Pin Bars:&nbsp;<br>Yellow Pin  Floor:&nbsp;Red Pin <br>
+			1 student from 2 Integrity Balancing Beam:&nbsp;<br>Green Pin  Bars:&nbsp;Yellow Pin<br> Floor:&nbsp;Bronze <br> All Around: Bronze<br>
 			</font></td>
 			</tr><tr>
 		<td><font size="4">Swimming</font></td>
 		<td><font size="4">Swimming (Junior 2 Division Girls)<br>
-			1 student from 5 Graciousness  
-50m &amp; 100m Backstroke:&nbsp;Bronze  
+			1 student from 5 Graciousness  <br>
+50m &amp; 100m Backstroke:&nbsp;Bronze<br>  
 100m - 50m Backstroke/50m Freestyle:&nbsp;Bronze<br>
 			</font></td>
 </tr>
@@ -279,18 +279,18 @@ Floor:&nbsp;Bronze<br>
 </tr>
 					<tr>
 		<td><font size="4">National School Games Rhythmic Gymnastic 2022</font></td>
-		<td><font size="4">6th – Senior Elite Freehand7th&nbsp;– Senior Elite Clubs</font></td>
+		<td><font size="4">6th – Senior Elite Freehand <br>7th&nbsp;– Senior Elite Clubs</font></td>
 </tr>
 		<tr>
 		<td><font size="4">National School Games Bowling  
 Championships 2022</font></td>
-		<td><font size="4">3rd – Senior Division Overall  
+		<td><font size="4">3rd – Senior Division Overall <br> 
 6th – Doubles  
-4th &amp; 7th – Quartets7th&nbsp;– All events</font></td>
+<br>4th &amp; 7th – Quartets<br>7th&nbsp;– All events</font></td>
 </tr>
 				<tr>
 		<td><font size="4">National School Games Wushu 2022</font></td>
-		<td><font size="4">1st – Spear2nd&nbsp;– Dian Changqua</font></td>
+		<td><font size="4">1st – Spear<br>2nd&nbsp;– Dian Changqua</font></td>
 </tr>
 	</tbody></table>
 <br>
