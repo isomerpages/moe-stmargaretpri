@@ -15,7 +15,7 @@ Safety and security of our students are of utmost importance, it is therefore ne
 
   
 
-**Dismissal Pick up**&nbsp;– For the usual afternoon dismissal, parents/guardians who drive will have access to school compound from 1.50 pm onwards or after the school buses have vacated the compound to pick up your child/ward from the parade square. For late afternoon pickup after supplementary, remedial and CCA; the pick-up points will be at foyer from 4.10 pm. The exit point will be by Gate 3.
+**Dismissal Pick up**&nbsp;– For the usual afternoon dismissal, parents/guardians who drive will have access to school compound from 1.50 pm onwards or after the school buses have vacated the compound to pick up your child/ward from the foyer. For late afternoon pickup after supplementary, remedial and CCA; the pick-up points will be at foyer from 4.10 pm. The exit point will be by Gate 3.
 
   
 
