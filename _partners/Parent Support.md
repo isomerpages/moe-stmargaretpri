@@ -3,7 +3,7 @@ title: Parent Support
 permalink: /partners/permalink/
 description: ""
 ---
-### Parent Volunteers - In Appreciation
+### In Appreciation for your support
 
 <table>
 	<tbody>
@@ -36,7 +36,7 @@ description: ""
 						<tr>
 	<td><img src="/images/Parent%20Volunteers/praying%20parents%20meeting%205%20feb%202023.jpeg" alt="praying parents meeting pv" style="width:400px;height:300px;"></td>
 </tr>
-	<tr align="center" width="10 px" height="10 px"><td><center><font size="4"><b>Praying Parents Meeting <br> (5 Feb 2023) </b></font>
+	<tr align="center" width="10 px" height="10 px"><td><center><font size="4"><b>Praying Parents Meeting <br> (2023) </b></font>
 </center></td>
 </tr>
 	</tbody></table>
