@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/08e0c3bc5_u6572.gif" style="width:200px">
 
-## St Margaret's Ex-Students Association
-
+<center><font color="light blue" size="6"><b>St Margaret's Ex-Students Association </b></font></center>
+<br>
 <center>Please click on the link <a target="_blank" href="http://www.smesa.org.sg"><b>here</b></a> to know more about SMESA.  
 </center>
