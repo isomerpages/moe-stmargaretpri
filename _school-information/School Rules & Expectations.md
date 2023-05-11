@@ -66,7 +66,7 @@ description: ""
 *   Students are to wear their name tags every day.
 *   Students are to wear plain white canvas/sports shoes with plain white socks that reach just above the ankles.
 *   For sports and PE lessons, Students are to wear PE T-shirts tucked into dark green shorts of the school design.
-*   All P3 - P6 Students are to come to school and go home in their school uniform. P1 and P2 Students have the option of coming to school in their PE attire on days when they have PE lessons.\
+*   All P3 - P6 Students are to come to school and go home in their school uniform. P1 and P2 Students have the option of coming to school in their PE attire on days when they have PE lessons.
 
 ### HAIR & APPEARANCE
 

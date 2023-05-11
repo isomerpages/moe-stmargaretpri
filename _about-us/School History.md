@@ -39,6 +39,6 @@ Founded in the spirit of charity, patience and devotion (school motto), our scho
 #### Our Founder
 
 
-St. Margaret's School was founded by Mrs Maria Dyer in 1842, making it the oldest school in Singapore and the Far East. Maria Dyer was a young missionary of the London Missionary Society. **She was inducted to the Singapore Women's Hall of fame in 2014 under the category of Education.** The school was then known as Chinese Girls' School and it was located in a shophouse at North Bridge Road.  
+St. Margaret's School was founded by Mrs Maria Dyer in 1842, making it the oldest school in Singapore and the Far East. Maria Dyer was a young missionary of the London Missionary Society.&nbsp;**She was inducted to the Singapore Women's Hall of fame in 2014 under the category of Education.**&nbsp;The school was then known as Chinese Girls' School and it was located in a shophouse at North Bridge Road.  
   
-Read [here](https://www.swhf.sg/?s=Maria+Dyer) for more details.
+Read&nbsp;<a target="_blank" href="https://www.swhf.sg/?s=Maria+Dyer">here</a>&nbsp;for more details.

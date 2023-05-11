@@ -18,8 +18,8 @@ description: ""
 
 <font size="3">  
       * Parents/Guardians will be notified of the details or any changes closer to the date of the event.
-</font><font size="3"><br><br>
-		</font><font size="3">
+</font><font size="3"><br>
+</font><font size="3">
 			* Updated as of 5 May 2023
 </font><table>
 	<tbody>

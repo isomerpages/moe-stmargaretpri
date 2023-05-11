@@ -116,10 +116,10 @@ The Functions and Duties of the School Management Committee are found in the Con
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tojq{background-color:#ECECEC;color:#222;text-align:center;vertical-align:left}
-.tg .tg-580q{background-color:#ECECEC;color:#222;text-align:center;vertical-align:top}
-.tg .tg-mqlv{background-color:#ECECEC;color:#222;text-align:right;vertical-align:top}
-.tg .tg-ltu5{background-color:#ECECEC;color:#222;text-align:right;vertical-align:left}
+.tg .tg-tojq{background-color:#ECECEC;color:#222;text-align:left;vertical-align:left}
+.tg .tg-580q{background-color:#ECECEC;color:#222;text-align:left;vertical-align:left}
+.tg .tg-mqlv{background-color:#ECECEC;color:#222;text-align:left;vertical-align:left}
+.tg .tg-ltu5{background-color:#ECECEC;color:#222;text-align:left;vertical-align:left}
 </style>
 <table class="tg">
 <thead>
