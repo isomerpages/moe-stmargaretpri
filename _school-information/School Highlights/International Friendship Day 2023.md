@@ -20,4 +20,4 @@ Apart from classroom lessons and activities on ASEAN, students were also treated
 
 The highlight to many students during our International Friendship Day programme was making a friendship bracelet for a friend. The CCE and Art Department collaborated and organised a friendship-bracelet-making activity using recycled materials with the help of parent volunteers during recesses. Many friendships were forged as students showed their appreciation for their friends when they gave one another friendship bracelets.
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tZ3kOnjnSow" height="415" width="700"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vDz0iWN0wLo" height="415" width="700"></iframe></center>
