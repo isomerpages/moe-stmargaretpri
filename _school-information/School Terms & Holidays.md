@@ -95,13 +95,13 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-o3c1{background-color:#FFF;text-align:right;vertical-align:middle}
 .tg .tg-eelb{background-color:#FFF;text-align:right;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-7yig{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-7yig"><span style="font-weight:400;color:#000">New Year’s Day</span></th>
+  <tr align="left">
+    <th align="left" class="tg-7yig"><span style="font-weight:400;color:#000">New Year’s Day</span></th>
     <th class="tg-eelb"><span style="font-weight:400;color:#000">Sunday, 1 Jan 2023</span></th>
   </tr>
 </thead>
@@ -119,8 +119,8 @@ description: ""
     <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 7 April 2023</span></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">      Hari Raya Puasa</td>
-    <td class="tg-o3c1">      Saturday, 22 April 2023</td>
+    <td class="tg-f4yw">Hari Raya Puasa</td>
+    <td class="tg-o3c1">Saturday, 22 April 2023</td>
   </tr>
   <tr>
     <td class="tg-7yig"><span style="font-weight:400;color:#000">Labour Day</span></td>
