@@ -20,7 +20,7 @@ description: ""
 
 <table>
 	<tbody><tr>
-		<td><center><img alt="diocese logo" src="/images/Partners%20Anglican%20Schools/diocese.png" style="width:500px;height:100px;"> </center></td>
+		<td><center><img alt="diocese logo" src="/images/Partners%20Anglican%20Schools/diocese.png" style="width:600px;height:100px;"> </center></td>
 		</tr>
 		<tr><td><font size="3"><center>Please click <b><a target="_blank" href="https://anglican.org.sg/">here</a></b> to access The Diocese of Singapore.
 	</center></font></td></tr>
