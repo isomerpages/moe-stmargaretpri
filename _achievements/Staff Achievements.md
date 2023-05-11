@@ -522,3 +522,173 @@ Theme : Together we can do IcT (Innovative &amp; Creative Teaching)<br></font></
 </tbody></table>
 
 ### 2020 Achievements
+
+
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+MOE Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Names</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award/Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Malathi d/o Velu</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">30 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Endang Ingriani</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">25 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Alison Ang Siok Phing</font></td>
+		<td><font size="4">Vice Principal</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Amelia Leong Seok Ling</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mr Neo Kian Chye Roland</font></td>
+		<td><font size="4">HOD PE</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Loh Wei Tiang</font></td>
+		<td><font size="4">Admin Manager</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Ng Ley Tin</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">15 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Ngoh Moon Geok</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Nur A’zzah</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Wang Woon Yeng</font></td>
+		<td><font size="4">AED</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Wang Way Lin</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Gwee Hui Jun</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">5 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Mimi Nur HIdayah</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">5 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Jill Tan</font></td>
+		<td><font size="4">AED</font></td>
+<td><font size="4">5 years Award</font></td>
+</tr>
+</tbody></table>
+
+
+
+
+
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+SMC Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Names</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award/Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Low Yen Ling</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Ngoh Moon Geok</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Rajeswari Mogan</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+</tbody></table>
+
+
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+MOE Service Excellence Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Names</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award/Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Nur Syafawati</font></td>
+		<td><font size="4">CSO</font></td>
+<td><font size="4">Gold</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Ng Xing Hwee</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Jill Tan</font></td>
+		<td><font size="4">AED</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Esther Lee Hwee Peng</font></td>
+		<td><font size="4">CSO</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Alijah Bte Ahmad</font></td>
+		<td><font size="4">OSO</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mr Johar Bin Jaafar</font></td>
+		<td><font size="4">OSO</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mr Lee Siong Kit</font></td>
+		<td><font size="4">OSO</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mr Munthaha Bin Snib</font></td>
+		<td><font size="4">OSO</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+</tbody></table>
