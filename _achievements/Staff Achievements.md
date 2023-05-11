@@ -607,9 +607,7 @@ MOE Long Service Award
 </tr>
 </tbody></table>
 
-
-
-
+<br>
 
 <table>
 	<tbody><tr>
@@ -638,7 +636,7 @@ SMC Long Service Award
 <td><font size="4">10 years Award</font></td>
 </tr>
 </tbody></table>
-
+<br>
 
 <table>
 	<tbody><tr>
@@ -692,3 +690,4 @@ MOE Service Excellence Award
 <td><font size="4">Silver</font></td>
 </tr>
 </tbody></table>
+<br>
