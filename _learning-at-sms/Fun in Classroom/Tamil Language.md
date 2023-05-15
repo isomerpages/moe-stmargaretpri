@@ -43,13 +43,16 @@ The upper primary students embarked on a Learning Journey to Little India during
 
 tie flowers. Students participated actively by listening and engaging themselves in the activities.  
 
-  
-
-![3_Pongal LJ.jpeg](/images/3Pongal%20LJ.jpeg)    
-![1_Pongal LJ.jpeg](/images/1Pongal%20LJ.jpeg)    
-![2_Pongal LJ.jpg](/images/2Pongal%20LJ.jpg) 
-![4_recess play_1.jpg](/images/4recess%20play1.jpg)    
-![5_recess play_2.jpg](/images/5recess%20play2.jpg)
+![](/images/1Pongal%20LJ.jpeg)
+<table>
+	<tbody>
+<tr><td><center><font size="3"><img src="/images/3Pongal%20LJ.jpeg" alt="volunteer recess ministry pv" style="width:520px;height:400px;"></font></center></td>
+	<td><center><font size="3"><img src="/images/2Pongal%20LJ.jpg" alt="volunteer recess ministry pv" style="width:520px;height:400px;"></font></center></td>
+</tr>
+		<tr><td><center><font size="3"><img src="/images/4recess%20play1.jpg" alt="volunteer recess ministry pv" style="width:520px;height:400px;"></font></center></td>
+	<td><center><font size="3"><img src="/images/5recess%20play2.jpg" alt="volunteer recess ministry pv" style="width:520px;height:400px;"></font></center></td>
+</tr>
+</tbody></table>
 
 #### **2) Seithi Pongalo Pongal Contest 2023**
 
