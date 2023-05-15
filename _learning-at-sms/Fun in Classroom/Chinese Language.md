@@ -71,7 +71,7 @@ This year all the students in P3 participated in the P3 MTL Cultural Camp on&nbs
 
 
 
-### **3) Chinese New Year Celebrations 2023**  
+#### **3) Chinese New Year Celebrations 2023**  
 
 The school celebrated Chinese New Year on 20th&nbsp;of January 2023. Students celebrated Chinese New Year with exciting recess activities such as Song Dedication and Writing Well Wishes to their family members. Students also designed their own red packets and created their own rabbit origami in class.
 
@@ -85,7 +85,7 @@ We ended the Chinese New Year celebrations with a concert. Students sang and dan
 **Fashion Show during Concert**
 
 
-#### 4) Level Competitions - P1 to P6
+#### **4) Level Competitions - P1 to P6**
 
 To create a vibrant MTL learning environment in school, level competitions are organised for all levels, such as story-telling, creative writing, language quizzes, etc. Besides aiming to raise pupils' Mother Tongue proficiency, the level competitions also serve as platforms for pupils to showcase their skills and talents.
 
@@ -100,12 +100,10 @@ To create a vibrant MTL learning environment in school, level competitions are o
 </tbody></table>
 
 1.  知识网
-
-##### <a href="https://www.ezhishi.net" target="_blank">www.ezhishi.net</a>
+###### <a href="https://www.ezhishi.net" target="_blank">www.ezhishi.net</a>
     
 2.  早报网
-
-##### <a href="https://www.zaobao.com.sg" target="_blank">www.zaobao.com.sg</a>
+###### <a href="https://www.zaobao.com.sg" target="_blank">www.zaobao.com.sg</a>
 
 <br>
 <table>
