@@ -83,10 +83,8 @@ At Upper Primary, lessons are also planned via CPA approach but a greater emphas
 
 Beyond the usual Mathematics lessons in classrooms, the school continued to cultivate students’ love for Mathematics through “Math Recess Play” programme.&nbsp;
 
-  
 
 Students are invited to play and enjoy the Mathematical games that focus on logical thinking skills and problem solving skills.&nbsp; Through these activities, students get the opportunity to think out-of-the-box and test their strategies till they derive at the solution in a stress-free environment. These skills are essential and beneficial to the children’s development.&nbsp;&nbsp;
-
 <center>
  <center>
 </center><table>
@@ -94,7 +92,6 @@ Students are invited to play and enjoy the Mathematical games that focus on logi
 </tr>
 </tbody></table></center>
 
-  
 #### 3. Fast &amp; Furious Math Challenge (Mental Sums)  
 
 Mental sums is always a challenge to students! We made it easier with systematic and progressive learning from Primary 1 to 5 via mental sum booklets and challenges. We hope to train our students to calculate fast and accurate!
