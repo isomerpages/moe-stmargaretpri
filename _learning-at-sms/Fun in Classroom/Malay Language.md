@@ -121,4 +121,35 @@ This story telling competition was held via online and aimed to provide opportun
 </tr>
 </tbody></table>
 
-![](/images/ML%20Dpt%202022/ML%20Dpt%20Achievement.jpg)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bzhr{background-color:#D6E6C7;color:#2A5629;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bzhr"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Title of Competition</span></th>
+    <th class="tg-bzhr"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Winners</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5">Penterjemah Pintar 2022 <br>(Rakan Bahasa Transalation Competition 2022)</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2nd place</span></td>
+  </tr>
+   <tr>
+    <td class="tg-dgl5">Bacalah Adikku 2022 (S5 Cluster)</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"><b>Primary 1 Category</b><br>Our P1 students won 1st and 2nd places. <br>They also won the Best Props, Best Script and Best Costume.</span></td>
+  </tr>
+	   <tr>
+    <td class="tg-dgl5"></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"><b>Primary 2 Category</b><br>Our P2 students won 1st and 2nd places. <br>They also won the Best Props and Best Script.</span></td>
+  </tr>
+</tbody>
+</table>
