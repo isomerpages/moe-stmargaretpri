@@ -80,7 +80,7 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 
 <tbody>
   <tr>
-    <td><img src="/images/2021OurLittleBotanist03.jpg" style="width:480px;height:600px;"></td>
+    <td><img src="/images/2021OurLittleBotanist03.jpg" style="width:480px;height:580px;"></td>
   </tr>
 </tbody>
 </table>
