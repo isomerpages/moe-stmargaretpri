@@ -140,7 +140,7 @@ This story telling competition was held via online and aimed to provide opportun
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">Penterjemah Pintar 2022 <br>(Rakan Bahasa Transalation Competition 2022)</td>
+    <td class="tg-dgl5">Penterjemah Pintar 2022 <br>(Rakan Bahasa Translation Competition 2022)</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2nd place</span></td>
   </tr>
    <tr>
