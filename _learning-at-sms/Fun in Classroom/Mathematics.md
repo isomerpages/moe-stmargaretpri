@@ -135,6 +135,10 @@ We train students to be self-directed and independent learners who pens down her
     <td class="tg-dgl5">Asia Pacific Mathematical Olympiad for Primary Schools 2023<br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver </span><br><span style="color:#000;background-color:#FFF"> 1 Bronze</span><br><span style="color:#000;background-color:#FFF"></span><br></td>
   </tr>
+		<tr>
+    <td class="tg-dgl5">Raffles Institution Primary Mathematics World Competition 2023<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Distinction </span><br><span style="color:#000;background-color:#FFF"> 1 Merit</span><br><span style="color:#000;background-color:#FFF"></span><br></td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Singapore and Asian Schools Math Olympiad 2023<br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 5 Silver </span><br><span style="color:#000;background-color:#FFF"> 1 Bronze</span><br><span style="color:#000;background-color:#FFF">4 Honourable Mention</span><br></td>
