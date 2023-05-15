@@ -88,13 +88,13 @@ Beyond the usual Mathematics lessons in classrooms, the school continued to cult
 Students are invited to play and enjoy the Mathematical games that focus on logical thinking skills and problem solving skills.&nbsp; Through these activities, students get the opportunity to think out-of-the-box and test their strategies till they derive at the solution in a stress-free environment. These skills are essential and beneficial to the children’s development.&nbsp;&nbsp;
 
 <center>
- <table>
-	<tbody><tr>
-<td><img src="/images/MathCorner_01.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+ <center>
+</center><table>
+	<tbody><tr><td><img src="/images/MathCorner_01.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 </tr>
-	<tr><td>
+	<tr><td><center>
 		<b>How many cans are used to build the structure?</b>
-</td></tr>
+</center></td></tr>
 </tbody></table></center>
 
   
