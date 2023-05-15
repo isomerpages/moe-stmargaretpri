@@ -81,7 +81,7 @@ This year all the students in P3 participated in the P3 MTL Cultural Camp on&nbs
 	<tr>
 <td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20concentrating%20on%20making%20Chinese%20fan.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Student concentrating on making Chinese fan</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Here%20comes%20the%20team%20work%20for%20our%20Rangoli%20making.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>ere comes the team work for our Rangoli making</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Here%20comes%20the%20team%20work%20for%20our%20Rangoli%20making.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Here comes the team work for our Rangoli making</b></font></center>
 </td>
 </tr>
 </tbody></table>
