@@ -55,16 +55,12 @@ tie flowers. Students participated actively by listening and engaging themselves
 
 Tamil girls from different levels participated in SEITHI PONGALO PONGAL CONTEST 2023 organised by the Seithi Mediacorp. Two girls, one from primary 1 and one from primary 3, placed top 6 in the drawing and greeting card making contest respectively.
 
-  
-
-
-![P1 winner.jpg](/images/P1%20winner.jpg)
-**P1 Winner**
-
-![P3 winner.jpg](/images/P3%20winner.jpg)
-
-**P3 Winner**
-
+<table>
+	<tbody><tr><td><center><font size="3"><img src="/images/P1%20winner.jpg" alt="volunteer recess ministry pv" style="width:300px;height:400px;"><b>P1 Winner</b></font></center></td>
+		<td><center><font size="3"><img src="/images/P3%20winner.jpg" alt="volunteer recess ministry pv" style="width:300px;height:400px;"><b>P3 Winner</b></font></center></td>
+</tr>
+</tbody>
+</table>
 
 #### **3. MTL Fortnight 2022**
 
