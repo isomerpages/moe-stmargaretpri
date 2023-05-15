@@ -4,8 +4,15 @@ permalink: /learning-at-sms/fun-in-classroom/mathematics/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-### Vision & Goals
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Vision &amp; Goals
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 
 #### Vision
@@ -20,16 +27,22 @@ The goals of SMS(P) Mathematics Department are to guide students and teachers to
 
   
 
-*   **P** ersevere when faced with a challenging problem
-*   **A** ctively seek to learn the concept and explore deeper
-*   **C** reatively and flexibly think of varied solutions to solve Mathematical problems
-*   **E** xcel in the subject area of Mathematics
+*   **P**&nbsp;ersevere when faced with a challenging problem
+*   **A**&nbsp;ctively seek to learn the concept and explore deeper
+*   **C**&nbsp;reatively and flexibly think of varied solutions to solve Mathematical problems
+*   **E**&nbsp;xcel in the subject area of Mathematics
 
   
 
-### Approach
-__________________________________________________________
-
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Approach
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 In order to develop our staff and students towards values of PACE, SMS(P) adopts the use of PACE Strategy.
 
@@ -39,13 +52,20 @@ In order to develop our staff and students towards values of PACE, SMS(P) adopts
 
   
 
-At SMS(P), we also strive to build confidence and foster interest in Mathematics through meaningful learning experiences. Maths comes ALIVE at St Margaret's through Maths Trails, hands-on activities and games. 
+At SMS(P), we also strive to build confidence and foster interest in Mathematics through meaningful learning experiences. Maths comes ALIVE at St Margaret's through Maths Trails, hands-on activities and games.&nbsp;
 
   
 
-### Programmes
-__________________________________________________________
 
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Programmes
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 #### 1. Hands-on activities on daily lesson
 
@@ -61,13 +81,18 @@ At Upper Primary, lessons are also planned via CPA approach but a greater emphas
 
 #### 2. Math Recess Play Programme (Learn and Play Beyond Classrooms)
 
-Beyond the usual Mathematics lessons in classrooms, the school continued to cultivate students’ love for Mathematics through “Math Recess Play” programme. 
+Beyond the usual Mathematics lessons in classrooms, the school continued to cultivate students’ love for Mathematics through “Math Recess Play” programme.&nbsp;
 
   
 
-Students are invited to play and enjoy the Mathematical games that focus on logical thinking skills and problem solving skills.  Through these activities, students get the opportunity to think out-of-the-box and test their strategies till they derive at the solution in a stress-free environment. These skills are essential and beneficial to the children’s development.  
+Students are invited to play and enjoy the Mathematical games that focus on logical thinking skills and problem solving skills.&nbsp; Through these activities, students get the opportunity to think out-of-the-box and test their strategies till they derive at the solution in a stress-free environment. These skills are essential and beneficial to the children’s development.&nbsp;&nbsp;
 
-  
+ <table>
+	<tbody><tr>
+		<td>"/images/MathCorner_01.jpg"</td>
+</tr>
+	
+</tbody></table>
 
 ![MathCorner_01.jpg](/images/MathCorner_01.jpg)
 
@@ -75,7 +100,7 @@ Students are invited to play and enjoy the Mathematical games that focus on logi
 
   
 
-#### 3. Fast & Furious Math Challenge (Mental Sums)  
+#### 3. Fast &amp; Furious Math Challenge (Mental Sums)  
 
 Mental sums is always a challenge to students! We made it easier with systematic and progressive learning from Primary 1 to 5 via mental sum booklets and challenges. We hope to train our students to calculate fast and accurate!
 
@@ -85,8 +110,16 @@ Mental sums is always a challenge to students! We made it easier with systematic
 
 We train students to be self-directed and independent learners who pens down her daily learning points, examples and notes. With these, students are able to use them as reference for revision at anytime, anywhere!
 
-### Achievements
-__________________________________________________________
+
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Programmes
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
