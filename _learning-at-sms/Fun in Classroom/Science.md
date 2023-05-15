@@ -4,9 +4,15 @@ permalink: /learning-at-sms/fun-in-classroom/science/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-### Vision & Goals  
-__________________________________________________________
-
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Vision &amp; Goals
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 #### Vision
 
@@ -16,15 +22,15 @@ A passion for Science for service
 
 #### Goals (ACE)
 
-**A** rouse our girls' curiosity for Science
+**A**&nbsp;rouse our girls' curiosity for Science
 
   
 
-**C** ultivate confidence and critical thinking in our girls
+**C**&nbsp;ultivate confidence and critical thinking in our girls
 
   
 
-**E** quip our girls with Science knowledge and skills imbibed with attitudes and ethics
+**E**&nbsp;quip our girls with Science knowledge and skills imbibed with attitudes and ethics
 
 The Science department adopts an inquiry-based approach in the teaching and learning of Science. This pedagogy enables our students to acquire knowledge and skills and understanding of Science through active learning with their friends and teachers.
 
@@ -49,8 +55,16 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 *   Assembly Talks
 *   E2K
 
-### Programmes
-__________________________________________________________
+
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Programmes
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -63,21 +77,24 @@ __________________________________________________________
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm" colspan="2">Our Little Botanist</th>
-  </tr>
-</thead>
+
 <tbody>
   <tr>
-    <td class="tg-0lax" colspan="2"><img src="/images/2021OurLittleBotanist03.jpg"/></td>
+    <td class="tg-0lax" colspan="2"><img src="/images/2021OurLittleBotanist03.jpg"></td>
   </tr>
 </tbody>
 </table>
 
 
-### Achievements
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+    Achievements
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
