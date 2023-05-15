@@ -48,7 +48,7 @@ Students were then engaged with the Paper Doll activity. P1 to P3 students get t
 The&nbsp;**Mother Tongue Reading Fiesta 2022**&nbsp;is&nbsp;organised&nbsp;to&nbsp;encourage students to read story books from their respective Mother Tongue Language, as well as to increase their confidence in using their own Mother Tongue&nbsp;Language.&nbsp;&nbsp;Interactive and fun activities were planned to encourage students to read Malay&nbsp;story books.&nbsp;
 
 <table>
-	<tbody><tr><td><center><font size="3"><img src="/images/IMG20221107WA0036.jpg" alt="reading e-books ML" style="width:520px;height:400px;"><b>Reading e-story book using iPads</b></font></center></td>
+	<tbody><tr><td><center><font size="3"><img src="/images/IMG20221107WA0036.jpg" alt="reading e-books ML" style="width:500px;height:350px;"><b>Reading e-story book using iPads</b></font></center></td>
 </tr>
 </tbody></table>
 
