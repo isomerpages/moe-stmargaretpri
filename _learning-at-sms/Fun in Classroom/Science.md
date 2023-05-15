@@ -14,13 +14,13 @@ third_nav_title: Fun in Classroom
 </tr>
 </tbody></table>
 
-#### Vision
+#### **Vision**
 
 A passion for Science for service
 
   
 
-#### Goals (ACE)
+#### **Goals (ACE)**
 
 **A**&nbsp;rouse our girls' curiosity for Science
 
