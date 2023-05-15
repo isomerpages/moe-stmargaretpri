@@ -67,21 +67,21 @@ This year all the students in P3 participated in the P3 MTL Cultural Camp on&nbs
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20is%20doing%20great%20for%20her%20Rangoli%20Making.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student is doing great for her Rangoli Making</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20is%20doing%20great%20for%20her%20Rangoli%20Making.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Student is doing great for her Rangoli Making</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20presenting%20her%20work%20proudly.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student presenting her work proudly</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20presenting%20her%20work%20proudly.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Student presenting her work proudly</b></font></center>
 </td>
 </tr>
 	<tr>
 <td><center><font size="3"><img src="/images/CL%20Dpt%202022/A%20wonderful%20piece%20of%20Wayang%20Kulit.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>A wonderful piece of Wayang Kulit</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20is%20coloring%20her%20Wayang%20Kulit%20before%20cutting%20and%20assembling%20the%20components.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student is coloring her Wayang Kulit before cutting and assembling the components</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20is%20coloring%20her%20Wayang%20Kulit%20before%20cutting%20and%20assembling%20the%20components.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Student is coloring her Wayang Kulit before cutting and assembling the components</b></font></center>
 </td>
 </tr>
 	<tr>
 <td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20concentrating%20on%20making%20Chinese%20fan.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Student concentrating on making Chinese fan</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Here%20comes%20the%20team%20work%20for%20our%20Rangoli%20making.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>ere comes the team work for our Rangoli making</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Here%20comes%20the%20team%20work%20for%20our%20Rangoli%20making.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>ere comes the team work for our Rangoli making</b></font></center>
 </td>
 </tr>
 </tbody></table>
