@@ -90,7 +90,7 @@ Students are invited to play and enjoy the Mathematical games that focus on logi
 <center>
  <center>
 </center><table>
-	<tbody><tr><td><center><img src="/images/MathCorner_01.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"><b>How many cans are used to build the structure?</b></center></td>
+	<tbody><tr><td><center><font size="3"><img src="/images/MathCorner_01.jpg" alt="volunteer recess ministry pv" style="width:520px;height:400px;"><b>How many cans are used to build the structure?</b></font></center></td>
 </tr>
 </tbody></table></center>
 
