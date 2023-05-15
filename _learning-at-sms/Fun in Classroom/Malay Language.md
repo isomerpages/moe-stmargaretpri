@@ -83,9 +83,16 @@ This story telling competition was held via online and aimed to provide opportun
 	<tbody><tr><td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca05.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>Our Primary 1 and 2 won 1st and 2nd places</b></font></center></td>
 </tr>
 </tbody></table></center>
-
-
-
+<center>
+ <center>
+</center><table>
+	<tbody><tr><td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca01.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b></b></font></center></td>
+		<td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca02.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b></b></font></center></td>
+</tr>
+		<tr><td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca03.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b></b></font></center></td>
+		<td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca04.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b></b></font></center></td>
+</tr>
+</tbody></table></center>
 
 <table>
 	<tbody><tr>
