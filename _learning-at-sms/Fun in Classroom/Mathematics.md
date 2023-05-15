@@ -90,15 +90,11 @@ Students are invited to play and enjoy the Mathematical games that focus on logi
 <center>
  <center>
 </center><table>
-	<tbody><tr><td><img src="/images/MathCorner_01.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+	<tbody><tr><td><center><img src="/images/MathCorner_01.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"><b>How many cans are used to build the structure?</b></center></td>
 </tr>
-	<tr><td><center>
-		<b>How many cans are used to build the structure?</b>
-</center></td></tr>
 </tbody></table></center>
 
   
-
 #### 3. Fast &amp; Furious Math Challenge (Mental Sums)  
 
 Mental sums is always a challenge to students! We made it easier with systematic and progressive learning from Primary 1 to 5 via mental sum booklets and challenges. We hope to train our students to calculate fast and accurate!
