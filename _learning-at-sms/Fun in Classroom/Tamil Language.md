@@ -107,13 +107,13 @@ At the end of the lesson, the lesson-based program has met its objective to a ce
 </tr>
 </tbody></table>
 
-1) **IMTL Portal  **
+1) **IMTL Portal**
 <a href="https://imtl.sg/login/index.php" target="_blank">https://imtl.sg/login/index.php</a>
   
-2) **Nam Naadi  **
+2) **Nam Naadi**
 <a href="http://sangamam.moe.edu.sg/namnaadi/slot/u105/archives/2011/may/index.htm" target="_blank">http://sangamam.moe.edu.sg/namnaadi/slot/u105/archives/2011/may/index.htm</a>
   
-3) **Parents In Education ** 
+3) **Parents In Education** 
 <a href="http://parents-in-education.moe.gov.sg/primary-education/learning-resources-pri/tamil-language-learning-resources" target="_blank">http://parents-in-education.moe.gov.sg/primary-education/learning-resources-pri/tamil-language-learning-resources</a>
   
 <table>
