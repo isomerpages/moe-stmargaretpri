@@ -99,7 +99,7 @@ To create a vibrant MTL learning environment in school, level competitions are o
 </tr>
 </tbody></table>
 
-1.**知识网**
+1. **知识网**
 <br><a href="https://www.ezhishi.net" target="_blank">www.ezhishi.net</a>
     
 2.  **早报网**
