@@ -4,9 +4,15 @@ permalink: /learning-at-sms/fun-in-classroom/english-language/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-### **Vision &amp; Goals**
-__________________________________________________________
-
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Vision &amp; Goals
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 #### **Vision**
 
@@ -23,10 +29,15 @@ Creating a vibrant atmosphere for the teaching and learning of the English Langu
 * Exposure to competitions and challenges&nbsp;
 
   
-
-### **Programmes**
-__________________________________________________________
-
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Programmes
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 #### **1\. Let's have TEA! (Theatre Exposure and Appreciation)**
 
