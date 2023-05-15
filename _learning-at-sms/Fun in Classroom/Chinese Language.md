@@ -4,18 +4,30 @@ permalink: /learning-at-sms/fun-in-classroom/chinese-language/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-## Chinese Language
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Chinese Language
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 The school aims to cultivate pupils' interest in Chinese Language and further develop their listening, speaking, reading and writing skills through various platforms.
 
 Programmes are organised to engage pupils and support learning. These programmes include the Mother Tongue Language Fortnight programmes, language and cultural camps, enrichment classes and Chinese theatre exposure programme.
 
-  
 
-### **Key Programmes and Activities**
-__________________________________________________________
-
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+  Key Programmes and Activities
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 #### **1) Mother Tongue Language Fortnight 2022**
 
@@ -77,8 +89,15 @@ We ended the Chinese New Year celebrations with a concert. Students sang and dan
 
 To create a vibrant MTL learning environment in school, level competitions are organised for all levels, such as story-telling, creative writing, language quizzes, etc. Besides aiming to raise pupils' Mother Tongue proficiency, the level competitions also serve as platforms for pupils to showcase their skills and talents.
 
-### Useful Chinese Websites
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+  Useful Chinese Websites
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 1.  知识网
 
