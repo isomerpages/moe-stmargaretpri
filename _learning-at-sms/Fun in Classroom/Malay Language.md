@@ -61,11 +61,13 @@ Apart from being role models, the two Rakan Bahasa had to complete the Kembara R
 
 In July, our two Rakan Bahasa also participated in the&nbsp;**Penterjemah Pintar Competition**, which is a translation competition. After the preliminary round, they qualified for the grand finals in August. With their tenacious effort, they emerged as the first runners-up.&nbsp; &nbsp; &nbsp; &nbsp;
 
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 604.016px; height: 284px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 363px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 350px; height: 261px;" class="ive_eobj_center" alt="Rakan Bahasa 2022.jpeg" width="100%" src="/images/Rakan%20Bahasa%202022.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 241px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 219px; height: 290px;" class="ive_eobj_center" alt="Rakan Bahasa 01.jpg" src="/images/Rakan%20Bahasa%2001.jpg"></td></tr></tbody></table>
-
-  
+<center>
+ <center>
+</center><table>
+	<tbody><tr><td><center><font size="3"><img src="/images/Rakan%20Bahasa%202022.jpeg" alt="volunteer recess ministry pv" style="width:500px;height:400px;"><b></b></font></center></td>
+		<td><center><font size="3"><img src="/images/Rakan%20Bahasa%2001.jpg" alt="volunteer recess ministry pv" style="width:400px;height:450px;"><b></b></font></center></td>
+</tr>
+</tbody></table></center>
 
 #### **4. S5 Cluster Storytelling Competition - Bacalah Adikku 2022**
 
