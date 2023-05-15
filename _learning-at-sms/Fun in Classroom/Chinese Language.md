@@ -102,7 +102,8 @@ We ended the Chinese New Year celebrations with a concert. Students sang and dan
 	<tr>
 <td><center><font size="3"><img src="/images/CL%20Dpt%202022/IMG_9697.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Fashion Show during Concert</b></font></center>
 </td>
-
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/recessactivity.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Recess Activities</b></font></center>
+</td>
 </tr>
 </tbody></table>
 
