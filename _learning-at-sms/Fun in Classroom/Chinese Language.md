@@ -92,13 +92,19 @@ The school celebrated Chinese New Year on 20th&nbsp;of January 2023. Students ce
 
 We ended the Chinese New Year celebrations with a concert. Students sang and danced along to the Chinese New Year songs. It was a memorable day for all the students.
 
-![](/images/CL%20Dpt%202022/IMG_0066.jpg)**Classroom Activities**
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/IMG_0066.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Classroom Actvities</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/IMG_0021.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Dancing during Concert</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/IMG_9697.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Fashion Show during Concert</b></font></center>
+</td>
 
-![](/images/CL%20Dpt%202022/IMG_0021.jpg)**Dancing during Concert**
-
-![](/images/CL%20Dpt%202022/IMG_9697.jpg)
-**Fashion Show during Concert**
-
+</tr>
+</tbody></table>
 
 #### **4) Level Competitions - P1 to P6**
 
