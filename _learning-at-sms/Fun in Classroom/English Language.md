@@ -178,7 +178,7 @@ Back for the third year, EL Week 2023 was held from 25 to 27 January. Our studen
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:2px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -197,6 +197,10 @@ Back for the third year, EL Week 2023 was held from 25 to 27 January. Our studen
 </thead>
 <tbody>
   <tr>
+    <td class="tg-pdeq">SOTA Primary 6 Creative Writing Competition 2023<br>14 Jan 2023 <br></td>
+    <td class="tg-jxgv">Top 50 Finalists<br></td>
+  </tr>
+	  <tr>
     <td class="tg-pdeq">Public Transport Workers’ Appreciation 2022 Slogan Contest<br>12 August - 12 September <br></td>
     <td class="tg-jxgv"> 4 students are shortlisted for Public Voting<br></td>
   </tr>
