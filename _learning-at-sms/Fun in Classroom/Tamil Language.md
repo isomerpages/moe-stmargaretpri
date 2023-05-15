@@ -39,9 +39,7 @@ Many programs and activities are planned and carried out in order to achieve the
 #### **1) Pongal Learning Journey 2023**
 
 
-The upper primary students embarked on a Learning Journey to Little India during the Pongal Festival Celebration week. Students engaged themselves in different activities conducted at the premise. They had their first-hand experiences with the props and instruments which provided them with great experience and rich knowledge. The TL Department extended the cultural experience and knowledge of Pongal festival by conducting recess play for all levels in school. The Tamil students facilitated these activities and shared the significance of Pongal. They also taught the students on how to&nbsp;
-
-tie flowers. Students participated actively by listening and engaging themselves in the activities.  
+The upper primary students embarked on a Learning Journey to Little India during the Pongal Festival Celebration week. Students engaged themselves in different activities conducted at the premise. They had their first-hand experiences with the props and instruments which provided them with great experience and rich knowledge. The TL Department extended the cultural experience and knowledge of Pongal festival by conducting recess play for all levels in school. The Tamil students facilitated these activities and shared the significance of Pongal. They also taught the students on how to tie flowers. Students participated actively by listening and engaging themselves in the activities.  
 
 ![](/images/1Pongal%20LJ.jpeg)
 <table>
