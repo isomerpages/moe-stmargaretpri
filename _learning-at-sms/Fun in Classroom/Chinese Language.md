@@ -53,7 +53,7 @@ The Mid-Autumn Celebration has showcased the creativity of the students, allowin
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Design%20your%20own%20lantern%20activity.jpeg" alt="volunteer recess ministry pv" style="width:300px;height:320px;"><b>Design your own lantern activity</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Design%20your%20own%20lantern%20activity.jpeg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Design your own lantern activity</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/CL%20Dpt%202022/Knowing%20more%20about%20Mid%20Autumn%20Festival.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Knowing more about Mid Autumn Festival</b></font></center>
 </td>
