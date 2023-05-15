@@ -75,7 +75,7 @@ This year all the students in P3 participated in the P3 MTL Cultural Camp on&nbs
 	<tr>
 <td><center><font size="3"><img src="/images/CL%20Dpt%202022/A%20wonderful%20piece%20of%20Wayang%20Kulit.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>A wonderful piece of Wayang Kulit</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20is%20coloring%20her%20Wayang%20Kulit%20before%20cutting%20and%20assembling%20the%20components.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Student is coloring her Wayang Kulit before cutting and assembling the components</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20is%20coloring%20her%20Wayang%20Kulit%20before%20cutting%20and%20assembling%20the%20components.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Student is coloring her Wayang Kulit before cutting <br>and assembling the components</b></font></center>
 </td>
 </tr>
 	<tr>
