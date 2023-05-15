@@ -47,15 +47,15 @@ The Mid-Autumn Celebration has showcased the creativity of the students, allowin
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Comics%20drawing%20activity.jpeg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"><b>Comics drawing activity</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Comics%20drawing%20activity.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Comics drawing activity</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Guessing%20the%20riddles.jpeg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"><b>Guessing the riddles</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Guessing%20the%20riddles.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Guessing the riddles</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Design%20your%20own%20lantern%20activity.jpeg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"><b>Design your own lantern activity</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Design%20your%20own%20lantern%20activity.jpeg" alt="volunteer recess ministry pv" style="width:300px;height:320px;"><b>Design your own lantern activity</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Knowing%20more%20about%20Mid%20Autumn%20Festival.jpeg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"><b>Knowing more about Mid Autumn Festival</b></font></center>
+<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Knowing%20more%20about%20Mid%20Autumn%20Festival.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Knowing more about Mid Autumn Festival</b></font></center>
 </td>
 </tr>
 </tbody></table>
