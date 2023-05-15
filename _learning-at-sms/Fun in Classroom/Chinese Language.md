@@ -65,6 +65,10 @@ The Mid-Autumn Celebration has showcased the creativity of the students, allowin
 
 This year all the students in P3 participated in the P3 MTL Cultural Camp on&nbsp;**24 May 2022**. The objective of this Cultural Camp is to encourage the appreciation of different cultures that students are exposed to in school and to educate them to welcome diversity and appreciate different cultures. The three fun and interactive activities that we arranged for our students during the camp are Chinese fan making, Malay Wayang Kulit making and Rangoli making. All the P3 pupils has learnt more about each other’s respective traditions and customs through the Cultural Camp.  
 
+
+
+
+
 ![](/images/CL%20Dpt%202022/Student%20is%20doing%20great%20for%20her%20Rangoli%20Making.jpg)**Student is doing great for her**&nbsp;**Rangoli Making**
 
 ![](/images/CL%20Dpt%202022/Student%20presenting%20her%20work%20proudly.jpg)**Student presenting her work proudly**
