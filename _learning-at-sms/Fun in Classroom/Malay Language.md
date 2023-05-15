@@ -64,8 +64,8 @@ In July, our two Rakan Bahasa also participated in the&nbsp;**Penterjemah Pintar
 <center>
  <center>
 </center><table>
-	<tbody><tr><td><center><font size="3"><img src="/images/Rakan%20Bahasa%202022.jpeg" alt="volunteer recess ministry pv" style="width:500px;height:400px;"><b></b></font></center></td>
-		<td><center><font size="3"><img src="/images/Rakan%20Bahasa%2001.jpg" alt="volunteer recess ministry pv" style="width:400px;height:450px;"><b></b></font></center></td>
+	<tbody><tr><td><center><font size="3"><img src="/images/Rakan%20Bahasa%202022.jpeg" alt="volunteer recess ministry pv" style="width:500px;height:370px;"><b></b></font></center></td>
+		<td><center><font size="3"><img src="/images/Rakan%20Bahasa%2001.jpg" alt="volunteer recess ministry pv" style="width:370px;height:420px;"><b></b></font></center></td>
 </tr>
 </tbody></table></center>
 
@@ -86,11 +86,11 @@ This story telling competition was held via online and aimed to provide opportun
 <center>
  <center>
 </center><table>
-	<tbody><tr><td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca01.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b></b></font></center></td>
-		<td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca02.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b></b></font></center></td>
+	<tbody><tr><td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca01.jpeg" alt="bacalah adikku 2022" style="width:300px;height:300px;"><b></b></font></center></td>
+		<td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca02.jpeg" alt="bacalah adikku 2022" style="width:300px;height:300px;"><b></b></font></center></td>
 </tr>
-		<tr><td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca03.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b></b></font></center></td>
-		<td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca04.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b></b></font></center></td>
+		<tr><td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca03.jpeg" alt="bacalah adikku 2022" style="width:300px;height:300px;"><b></b></font></center></td>
+		<td><center><font size="3"><img src="/images/ML%20Dpt%202022/baca04.jpeg" alt="bacalah adikku 2022" style="width:300px;height:300px;"><b></b></font></center></td>
 </tr>
 </tbody></table></center>
 
