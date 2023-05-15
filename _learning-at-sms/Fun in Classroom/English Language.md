@@ -199,13 +199,13 @@ Back for the third year, EL Week 2023 was held from 25 to 27 January. Our studen
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pdeq">SOTA Primary 6 Creative Writing Competition 2023<br>14 Jan 2023 <br></td>
+    <td class="tg-pdeq">SOTA Primary 6 Creative Writing Competition 2023<br>(14 Jan 2023)<br></td>
     <td class="tg-jxgv">Top 50 Finalists<br>
 (1 student from 6 Integrity &amp; <br>1 student from 6 Tenacity)
 </td>
   </tr>
 	  <tr>
-    <td class="tg-pdeq">Public Transport Workers’ Appreciation 2022 Slogan Contest<br>12 Aug - 12 Sep 2022 <br></td>
+    <td class="tg-pdeq">Public Transport Workers’ Appreciation 2022 Slogan Contest<br>(12 Aug - 12 Sep 2022)<br></td>
     <td class="tg-jxgv"> 4 students are shortlisted for Public Voting<br></td>
   </tr>
   <tr>
@@ -213,7 +213,7 @@ Back for the third year, EL Week 2023 was held from 25 to 27 January. Our studen
     <td class="tg-jxgv"> 2 students received JAL Grand Prize<br> 5 students received JAL Prize<br> 1 student received Regional Manager Prize</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">ANZA Young Writers’ Competition 2022 <br>1 Mar - 28 Apr 2022<br></td>
+    <td class="tg-dgl5">ANZA Young Writers’ Competition 2022 <br>(1 Mar - 28 Apr 2022)<br></td>
     <td class="tg-ktyi"> 1 student from 6 Integrity won 1st place<br> 1 student from 5 Integrity won 3rd place <br></td>
   </tr>
 </tbody>
