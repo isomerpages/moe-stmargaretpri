@@ -148,11 +148,11 @@ We train students to be self-directed and independent learners who pens down her
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Bronze</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Singapore and Asian Schools Math<br>Olympiad 2022<br>9 April 2022</td>
+    <td class="tg-dgl5">Singapore and Asian Schools Math<br>Olympiad 2022<br>(9 April 2022)</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Silver</span><br><span style="font-weight:400;color:#000"> 4 Bronze</span><br><span style="font-weight:400;color:#000"> 1 Honorable Mention</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Singapore Math Kangaroo Contest 2022<br>27 March 2022</td>
+    <td class="tg-dgl5">Singapore Math Kangaroo Contest 2022<br>(27 March 2022)</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver</span><br> 1 Bronze<br><span style="font-weight:400;color:#000"> 1 Honorable Mention</span></td>
   </tr>
 </tbody>
