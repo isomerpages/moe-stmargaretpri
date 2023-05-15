@@ -148,15 +148,15 @@ At the end of the lesson, the lesson-based program has met its objective to a ce
 </thead>
 <tbody>
   <tr>
-   <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span>Seithi Pongalo Pongal Contest 2023 (by Mediacorp)<br></td>
+   <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><b>Seithi Pongalo Pongal Contest 2023 (by Mediacorp)</b><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Pri 1 &amp; Pri 3 in</span> Top 6 Awards</td>
   </tr>
 	 <tr>
-   <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span>Tirukkural Vizha 2023 <br>Tamil Literarcy Competition<br></td>
+   <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><b>Tirukkural Vizha 2023 <br>Tamil Literarcy Competition</b><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Overall 3rd prize</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span>National Poetry Competition 2022<br>(30 July 2022)</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><b>National Poetry Competition 2022<br>(30 July 2022)</b></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 student from 4 Charity won </span>1st place</td>
   </tr>
 </tbody>
