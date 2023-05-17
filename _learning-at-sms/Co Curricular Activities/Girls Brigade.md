@@ -89,13 +89,9 @@ ___________________________________________________________
 
 ![20190602_110444.jpg](/images/20190602110444.jpg)
 
-Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as baking/cooking, self-defence and making craft work etc. &nbsp;Sadly, we were unable to continue with our physical camps in 2020 and 2021 due to the current COVID situation.
 
-  
+Some activities organised by the Girls’ Brigade Headquarters were conducted online, for instance, the Junior Leader Training Camp and the Fast, Food and Fuzz Camp 2022. Through these events, our girls get the opportunity to interact with GB members from the other primary companies and learn new things.&nbsp; &nbsp;
 
-Many of the activities organised by the Girls’ Brigade Headquarters have also moved online, for instance, the Junior Leadership Training Camp and the Fast, Food and Fuzz Camp 2021. During such camps organised on a national level, our girls get opportunities to interact with GB members from the other primary companies and learn new things.&nbsp; &nbsp;
-
-  
 
 All-in, the girls have gained valuable experiences, made good friends and developed leadership skills through their four years in the company. We pray that the girls learn to Seek, Serve and Follow Christ as a guide in all that they do.
 
