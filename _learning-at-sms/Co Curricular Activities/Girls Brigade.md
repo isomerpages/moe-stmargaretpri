@@ -40,13 +40,13 @@ ___________________________________________________________
 ## Introduction
 ___________________________________________________________
 
-Girls' Brigade 25th Company is a Christian uniformed-group organisation. We believe in developing every girl to their fullest potential by equipping, empowering and enabling-&nbsp;_Every Girl Becoming a Leader, Every Officer a Servant Leader_&nbsp;. The Girls' Brigade acknowledges Jesus Christ as Saviour and Lord according to the Scriptures, and seeks to help girls find true enrichment of life through self-control, reverence and a sense of responsibility.&nbsp;![Untitled3.jpg](/images/Untitled3.jpg)
+Girls' Brigade 25th Company is a Christian uniformed-group organisation. We believe in developing every girl to their fullest potential by equipping, empowering and enabling-&nbsp;_Every Girl Becoming a Leader, Every Officer a Servant Leader_&nbsp;. The Girls' Brigade acknowledges Jesus Christ as Saviour and Lord according to the Scriptures, and seeks to help girls find true enrichment of life through self-control, reverence and a sense of responsibility.
 
-  
+![](/images/CCAs/Girls%20Brigade/gb%20pic%201.jpg)
 
 We aim to offer our girls a holistic, all-rounded, four-fold programme.&nbsp;The programme is concerned with the SPIRITUAL, PHYSICAL, EDUCATIONAL and SOCIAL development of the girls. Each meeting starts with praise and worship and devotion.&nbsp;Thereafter, there will be badgework activities, squad time, station games and even foot drill. The girls are given opportunities during GB meetings, school and national events to love, lead and serve people around them.
 
-<table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/IMG20190602WA0006.jpg" width="100%" alt="IMG-20190602-WA0006.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 308px; height: 410px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/Untitled4.jpg" width="100%" alt="Untitled4.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 472px;"></td></tr></tbody></table>
+![](/images/CCAs/Girls%20Brigade/gb%20pic%202.jpg)
 
 ### Four-Fold Programme
 ___________________________________________________________
@@ -54,10 +54,17 @@ ___________________________________________________________
 
 **Educational:**&nbsp;The educational aspect of this programme involves widening interests, cultivating meaningful pursuits and improving the knowledge and skills of the girls. This aspect is seen most commonly through our Badge Work sessions. During the&nbsp;Badge Work sessions, girls are required to accomplish a great variety of tasks in order to earn their badges.&nbsp;
 
-<table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/Untitled14.jpg" width="100%" alt="Untitled14.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 360px; height: 211px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/Untitled13.jpg" width="100%" alt="Untitled13.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 270px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/Untitled5.jpg" width="100%" alt="Untitled5.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 364px; height: 195px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/Untitled6.jpg" width="100%" alt="Untitled6.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 297px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/Untitled10.jpg" width="90%" alt="Untitled10.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/Untitled8.jpg" width="100%" alt="Untitled8.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 325px; height: 320px;"></td></tr></tbody></table>
 
-  
-  
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%203.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td>
+<td>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%204.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%205.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td>
+</tr></tbody></table>
 
 **Physical:**&nbsp;The physical aspect of this programme helps to develop the physical skills of the girls. They participate actively in physical activities and learn to care for themselves and develop important character traits such as discipline. Discipline is cultivated through drill which is one of the more prominent areas under this aspect. Time is set aside for the girls to engage in drill. However, drill is not the only component of the physical aspect of GB. Weekly games are often planned and led by the girls to develop their leadership qualities.&nbsp;&nbsp;
 
