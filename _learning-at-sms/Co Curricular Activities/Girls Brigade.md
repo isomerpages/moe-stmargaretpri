@@ -120,7 +120,19 @@ All-in, the girls have gained valuable experiences, made good friends and develo
 ## Highlights for 2022
 ___________________________________________________________
 
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;" class="ives_tab_kosong" border="1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 370px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Junior Leadership Training Camp (JLTC)</li><li style="margin: 0px; outline: 0px; padding: 0px;">Dr. Low Guat Tin Challenge</li><li style="margin: 0px; outline: 0px; padding: 0px;">GB Friendship Day</li><li style="margin: 0px; outline: 0px; padding: 0px;">GB Fortnight</li><li style="margin: 0px; outline: 0px; padding: 0px;">Fast Food &amp; Fuzz Camp</li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Online Learning Journeys</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">SMS(P) Annual Camp 2022</span></li></ul></td>
-	
-<td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 380px;"><img style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none; max-width: 90%; float: right; width: 380px;" class="ive_eobj_right" alt="Untitled11.jpg" width="90%" src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<table>
+<tbody><tr>
+<td><center><font size="4">
+	- Junior Leadership Training Camp (JLTC)<br>
+	-  Dr. Low Guat Tin Challenge<br>
+-  GB Friendship Day<br>
+-  GB Fortnight<br>
+-  Fast Food &amp; Fuzz Camp<br>
+-  Online Learning Journeys<br>
+-  SMS(P) Annual Camp 2022<br>
+</font></center>
+</td>
+<td>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"></font></center>
+</td>
+</tr></tbody></table>
