@@ -321,12 +321,30 @@ Please scan the codes or click the links below to view the SYF exhibitions.
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-pdeq">ViaRT Award, a Children's Upcycled Art Competition 2023</td>
+<td class="tg-jxgv">Naomi Chu of 6 Tenacity <br>(1st in the Most Artistic Award)
+</td>
+ </tr>
+<tr>
+    <td class="tg-pdeq">UBS Art of Trash competition 2023</td>
+<td class="tg-jxgv">Naomi Chu of 6 Tenacity <br>(1st prize in the Primary Category)<br>
+</td>
+ </tr>
+	
   <tr>
+    <td class="tg-pdeq">P6 SOTA Art Competition 2023</td>
+<td class="tg-jxgv">Naomi Chu of 6 Tenacity <br>(Top 50 Finalists &amp; Top 10 Winner)  
+<br>7 other Art works showcased digitally at the <b>SOTA exhibition on 24 to 28 March 2023</b> at SOTA Gallery Level 2<br>
+</td>
+  </tr>
+ <tr>
     <td class="tg-pdeq">SYFgoesOnline! 2022<br>(Design Challenge)<br></td>
 <td class="tg-jxgv">1 student from 5 Graciousness selected for <b>Design Challenge Finalist</b><br>
 </td>
   </tr>
-	  <tr>
+	
+<tr>
     <td class="tg-pdeq">Draw My Stamp Story Art Competition 2022</td>
     <td class="tg-jxgv"> 3 Silver Award<br>3 Bronze Award</td>
   </tr>
