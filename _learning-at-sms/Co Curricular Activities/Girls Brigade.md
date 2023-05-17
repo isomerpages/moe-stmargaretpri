@@ -75,20 +75,17 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%203.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
 </td>
 <td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%204.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td></tr><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%205.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%208.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
 </td>
-	<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%205.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+	<td>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%209.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
 </td>
 </tr></tbody></table>
-
-
-
-  
+![](/images/CCAs/Girls%20Brigade/gb%20pic%2010.jpg)
+	
 
 **Spiritual:**&nbsp;With Christ at the heart of The Girls’ Brigade, He plays a central role in this programme. Worship and devotions are held during every meeting and&nbsp;camp. The girls learn and understand Christ’s way of life during devotions and praise and worship so that they would be able to strive towards leading a similar one in their everyday&nbsp;life. As the sessions are on a Friday, it is a wonderful time for the girls to conclude their school week with the Lord.
 
