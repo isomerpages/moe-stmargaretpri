@@ -123,13 +123,13 @@ ___________________________________________________________
 <table>
 <tbody><tr>
 <td><font size="4">
-	- Junior Leadership Training Camp (JLTC)<br>
-	-  Dr. Low Guat Tin Challenge<br>
--  GB Friendship Day<br>
--  GB Fortnight<br>
--  Fast Food &amp; Fuzz Camp<br>
--  Online Learning Journeys<br>
--  SMS(P) Annual Camp 2022<br>
+	- Junior Leadership Training Camp (JLTC)<br><br>
+	-  Dr. Low Guat Tin Challenge<br><br>
+-  GB Friendship Day<br><br>
+-  GB Fortnight<br><br>
+-  Fast Food &amp; Fuzz Camp<br><br>
+-  Online Learning Journeys<br><br>
+-  SMS(P) Annual Camp 2022<br><br>
 </font>
 </td>
 <td><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
