@@ -75,16 +75,25 @@ To add on to their primary school art education experience, learning journeys ar
   
 
 ![2021_Completing SYF project.jpg](/images/2021Completing%20SYF%20project.jpg)
-**_Completing SYF Project_**
+**Completing SYF Project**
 
 ![2021_Watercolour collage photos.jpg](/images/2021Watercolour%20collage%20photos.jpg)
+**Watercolour Activity**
 
-**_Watercolour Activity_**
-
-
-![2021_Watercolour Photo 1.jpg](/images/2021Watercolour%20Photo%201.jpg) 
-![2021_Watercolour 2.jpg](/images/2021Watercolour%202.jpg)
-![2021_Watercolour 3.jpg](/images/2021Watercolour%203.jpg)
-![2021_Watercolour 4.jpg](/images/2021Watercolour%204.jpg)
-
-_**Art Club students having fun doing watercolour activity**_
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/2021Watercolour%20Photo%201.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td>
+<td><center><font size="3"><img src="/images/2021Watercolour%202.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+</font></center>
+</td>
+	</tr><tr>
+	<td><center><font size="3"><img src="/images/2021Watercolour%203.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+</font></center>
+</td>
+			<td><center><font size="3"><img src="/images/2021Watercolour%204.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+</font></center>
+</td>
+</tr>
+</tbody></table>
+**Art Club students having fun doing watercolour activity**
