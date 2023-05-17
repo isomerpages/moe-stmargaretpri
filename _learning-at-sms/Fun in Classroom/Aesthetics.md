@@ -184,30 +184,30 @@ One of the signature programmes in the school is the djembe performance workshop
 <td><center><font size="3"><img src="/images/Caribbean%20Music%20and%20Calypso.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Music Recess Play:<br> Caribbean Music and Calypso</b>
 </font></center>
 </td>
-<td><center><font size="3"><img src="/images/Tapping%20away%20on%20the%20Djembe.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Boom Pa-ta Pa-ta Boom, <br>tapping away on the Djembe</b>
+<td><center><font size="3"><img src="/images/Tapping%20away%20on%20the%20Djembe.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b>Boom Pa-ta Pa-ta Boom, <br>tapping away on the Djembe</b>
 </font></center>
 </td>
 </tr>
 
 <tr>
-<td><center><font size="3"><img src="/images/Music%20Recess%20Play%20Discovering%20Local%20Artistes.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Music Recess Play - <br>Discovering Local Artist</b>
+<td><center><font size="3"><img src="/images/Music%20Recess%20Play%20Discovering%20Local%20Artistes.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b>Music Recess Play - <br>Discovering Local Artist</b>
 </font></center>
 </td>
-<td><center><font size="3"><img src="/images/Dancing%20and%20Singing%20for%20National%20Day.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b> Dancing and Singing for <br>National Day</b>
+<td><center><font size="3"><img src="/images/Dancing%20and%20Singing%20for%20National%20Day.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b> Dancing and Singing for <br>National Day</b>
 </font></center>
 </td>
-<td><center><font size="3"><img src="/images/Cajon%20Workshop.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Cajon Workshop</b>
+<td><center><font size="3"><img src="/images/Cajon%20Workshop.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b>Cajon Workshop</b>
 </font></center>
 </td>
 </tr>
 <tr>
-<td><center><font size="3"><img src="/images/Experiencing%20rhythms%20through%20magnets.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Experiencing rhythms through magnet</b>
+<td><center><font size="3"><img src="/images/Experiencing%20rhythms%20through%20magnets.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b>Experiencing rhythms through magnet</b>
 </font></center>
 </td>
-<td><center><font size="3"><img src="/images/Music%20and%20the%20Keyboard.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b> Music and the Keyboard</b>
+<td><center><font size="3"><img src="/images/Music%20and%20the%20Keyboard.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b> Music and the Keyboard</b>
 </font></center>
 </td>
-<td><center><font size="3"><img src="/images/Performing%20what%20we%20created.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Performing what we created!</b>
+<td><center><font size="3"><img src="/images/Performing%20what%20we%20created.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b>Performing what we created!</b>
 </font></center>
 </td>
 </tr>
