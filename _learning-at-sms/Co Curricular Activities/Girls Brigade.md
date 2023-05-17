@@ -95,18 +95,19 @@ ___________________________________________________________
 ## Annual Camp
 ___________________________________________________________
 
+Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as baking/cooking, self-defence and making craft work etc.   
 
-<table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 570.417px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;">Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as baking/cooking, self-defence and making craft work etc.&nbsp; &nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;">The theme of our 2022 camp was ‘Joyful'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about fire safety at Marine Parade Fire Station, how to be of service to one another through serving and cleaning up during meals. Their bonds were strengthened through teamwork during the role play activity.</div></td>
-</tr></tbody></table>
+The theme of our 2022 camp was ‘Joyful'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about fire safety at Marine Parade Fire Station, how to be of service to one another through serving and cleaning up during meals. Their bonds were strengthened through teamwork during the role play activity.
+
 
 ![](/images/CCAs/Girls%20Brigade/gb%20pic%2012.jpg)
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2013.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2013.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
 </td>
 <td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2014.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2014.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
 </td>
 </tr></tbody></table>
 
@@ -122,4 +123,4 @@ ___________________________________________________________
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;" class="ives_tab_kosong" border="1"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Junior Leadership Training Camp (JLTC)</li><li style="margin: 0px; outline: 0px; padding: 0px;">Dr. Low Guat Tin Challenge</li><li style="margin: 0px; outline: 0px; padding: 0px;">GB Friendship Day</li><li style="margin: 0px; outline: 0px; padding: 0px;">GB Fortnight</li><li style="margin: 0px; outline: 0px; padding: 0px;">Fast Food &amp; Fuzz Camp</li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Online Learning Journeys</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">SMS(P) Annual Camp 2022</span></li></ul></td>
 	
-<td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: right; width: 407.281px;" class="ive_eobj_right" alt="Untitled11.jpg" width="100%" src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 380px;"><img style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: right; width: 380px;" class="ive_eobj_right" alt="Untitled11.jpg" width="100%" src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
