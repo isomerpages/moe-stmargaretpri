@@ -204,9 +204,9 @@ These participants will be receiving their certificates in August.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2y7x{background-color:#D6E6C7;color:#2A5629;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-7dbo{background-color:#D6E6C7;border-color:inherit;color:#2A5629;font-weight:bold;text-align:left;vertical-align:middle}
@@ -224,7 +224,7 @@ These participants will be receiving their certificates in August.
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">A</span></td>
     <td class="tg-7yig"><span style="font-weight:400;color:#000">4 P2 students received</span>Certificate of Recognition</td>
-  </tr>
+	</tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">B</span></td>
     <td class="tg-7yig"><span style="font-weight:400;color:#000">3 P4 students received</span>Certificate of Participation</td>
