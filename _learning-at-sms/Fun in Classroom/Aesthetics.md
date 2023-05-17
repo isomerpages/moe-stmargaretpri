@@ -15,11 +15,11 @@ third_nav_title: Fun in Classroom
 </tbody></table>
 
 
-#### Vision
+#### **Vision**
 
 At the end of every student's journey at SMS(P), we hope to see each child graduating with an open and critical mind, ready for the lifelong involvement in aesthetics. Filled with curiosity (head), and confidence to explore and learn from mistakes (hands), anchored with empathy (heart).
 
-#### Goal
+#### **Goal**
 
 To create opportunities for students to discover their personal voice and be empowered to explore ideas and meanings in different contexts while deepening their understanding of the world and society.
 
@@ -89,7 +89,7 @@ To create opportunities for students to discover their personal voice and be emp
 The Art Department aims to nurture in pupils a love for the visual arts by developing their art-making skills and enabling them to creatively express their ideas in visual form. In understanding themselves and appreciating the diversity around them, pupils learn to create meaningful artworks.
 
   
-#### Learning Experience Includes:
+##### **Learning Experience Includes:**
 
 *   Drawing&nbsp;
 *   Mixed media art&nbsp;&nbsp;
@@ -167,7 +167,7 @@ One of the signature programmes in the school is the djembe performance workshop
 
   
 
-#### Learning experience includes:
+##### **Learning experience includes:**
 
 *   Xylophones
 *   Handchimes
@@ -194,7 +194,7 @@ One of the signature programmes in the school is the djembe performance workshop
 </tr>
 </tbody></table>
 
-#### Singapore Youth Festival (SYF) Art Exhibition 2021
+#### **Singapore Youth Festival (SYF) Art Exhibition 2021**
 
 We are proud to announce that three artworks by our students that were submitted for the SYF Art Exhibition 2021 can be viewed at the SYF Online Art Gallery.  
 
