@@ -132,6 +132,6 @@ ___________________________________________________________
 -  SMS(P) Annual Camp 2022<br>
 </font>
 </td>
-<td><center><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></center>
+<td><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
 </td>
 </tr></tbody></table>
