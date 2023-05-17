@@ -14,7 +14,7 @@ third_nav_title: Fun in Classroom
 </tr>
 </tbody></table>
 
-#### Vision
+#### **Vision**
 
 Students: Quality learning in the hands of Self-Directed, Collaborative and Responsible digital learners.
 
@@ -22,7 +22,7 @@ Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and l
 
   
 
-#### Goals
+#### **Goals**
 
 *   Develop students to be responsible digital online citizens when using technology for learning.&nbsp;
 *   Develop students&nbsp;to become self-directed and collaborative learners using ICT tools for learning.&nbsp;
@@ -54,7 +54,7 @@ Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and l
 ![](/images/smps_ict_roadmap_2015_02.jpg)
 
 
-#### Service to the school  
+#### **Service to the school ** 
 
 *   IT/AV Monitresses to serve the classes' AV needs&nbsp;&nbsp;&nbsp;
 *   Cyberwellness advocates
@@ -76,13 +76,13 @@ Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and l
 
 
 
-#### PERMISSION to enter the computer labs
+#### **PERMISSION to enter the computer labs**
 
 *   Do not enter the computer labs without a teacher. This is for safety reasons.
 
   
 
-#### During lessons in the computer labs
+#### **During lessons in the computer labs**
 
 *   Do not run or play in the laboratory
 *   Do not eat or drink in the laboratory so to prevent water or any other liquid to spill on computers.
@@ -95,7 +95,7 @@ Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and l
 
   
 
-#### EMERGENCY
+#### **EMERGENCY**
 
 *   Take note of all the exits in the room, and also take note of the location of fire extinguishers in the room for the sake of fire safety.
 *   Report fires or accidents to your teacher immediately.
