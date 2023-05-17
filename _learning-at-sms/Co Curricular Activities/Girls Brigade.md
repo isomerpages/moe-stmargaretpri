@@ -30,7 +30,7 @@ ___________________________________________________________
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">5G, 5I, 5P and 5C classroom</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">5T, 5I and 5H classroom</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Melody Soh (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Grace Tang</span><br><span style="color:#222;background-color:#FBFFFA">Mrs Chua Seow Wee</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Chua Sue Ann</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span><br></td>
   </tr>
@@ -40,7 +40,7 @@ ___________________________________________________________
 ## Introduction
 ___________________________________________________________
 
-Girls' Brigade 25th Company is a Christian uniformed-group organisation with a high enrolment in St. Margaret's School (Primary). We believe in developing every girl to their fullest potential by equipping, empowering and enabling-&nbsp;_Every Girl Becoming a Leader, Every Officer a Servant Leader_&nbsp;. The Girls' Brigade acknowledges Jesus Christ as Saviour and Lord according to the Scriptures, and seeks to help girls find true enrichment of life through self-control, reverence and a sense of responsibility.&nbsp;![Untitled3.jpg](/images/Untitled3.jpg)
+Girls' Brigade 25th Company is a Christian uniformed-group organisation. We believe in developing every girl to their fullest potential by equipping, empowering and enabling-&nbsp;_Every Girl Becoming a Leader, Every Officer a Servant Leader_&nbsp;. The Girls' Brigade acknowledges Jesus Christ as Saviour and Lord according to the Scriptures, and seeks to help girls find true enrichment of life through self-control, reverence and a sense of responsibility.&nbsp;![Untitled3.jpg](/images/Untitled3.jpg)
 
   
 
