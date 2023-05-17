@@ -15,13 +15,13 @@ third_nav_title: Fun in Classroom
 </tbody></table>
 
 
-#### Vision
+#### **Vision**
 
 Every girl is Physically Educated &amp; leads an active lifestyle.
 
   
 
-#### Goals
+#### **Goals**
 
 *   To develop pupils' physical robustness
 *   To develop pupils' motor and games skills and equip them with the knowledge, skills and attitudes to pursue and enjoy a physically active and healthy lifestyle
