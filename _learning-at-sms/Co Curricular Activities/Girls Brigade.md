@@ -84,26 +84,31 @@ ___________________________________________________________
 <center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%209.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
 </td>
 </tr></tbody></table>
+
 ![](/images/CCAs/Girls%20Brigade/gb%20pic%2010.jpg)
 	
 
 **Spiritual:**&nbsp;With Christ at the heart of The Girls’ Brigade, He plays a central role in this programme. Worship and devotions are held during every meeting and&nbsp;camp. The girls learn and understand Christ’s way of life during devotions and praise and worship so that they would be able to strive towards leading a similar one in their everyday&nbsp;life. As the sessions are on a Friday, it is a wonderful time for the girls to conclude their school week with the Lord.
 
-![20190301_144317.jpg](/images/20190301144317.jpg)  
+![](/images/CCAs/Girls%20Brigade/gb%20pic%2011.jpg)
 
 ## Annual Camp
 ___________________________________________________________
 
 
-<table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 570.417px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;">Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as baking/cooking, self-defence and making craft work etc.&nbsp; &nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;">The theme of our 2022 camp was ‘Joyful'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about fire safety at Marine Parade Fire Station, how to be of service to one another through serving and cleaning up during meals. Their bonds were strengthened through teamwork during the role play activity.</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 244.146px;"><img src="/images/IMG20190602WA0007.jpg" width="100%" alt="IMG-20190602-WA0007.jpg" class="ive_eobj_right" style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: right; width: 183px;"></td></tr></tbody></table>
+<table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 570.417px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;">Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as baking/cooking, self-defence and making craft work etc.&nbsp; &nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;">The theme of our 2022 camp was ‘Joyful'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about fire safety at Marine Parade Fire Station, how to be of service to one another through serving and cleaning up during meals. Their bonds were strengthened through teamwork during the role play activity.</div></td>
+</tr></tbody></table>
 
-  
+![](/images/CCAs/Girls%20Brigade/gb%20pic%2012.jpg)
 
-![20190601_174020.jpg](/images/20190601174020.jpg)  
-  
-
-![20190602_110444.jpg](/images/20190602110444.jpg)
-
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2013.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td>
+<td>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2014.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td>
+</tr></tbody></table>
 
 Some activities organised by the Girls’ Brigade Headquarters were conducted online, for instance, the Junior Leader Training Camp and the Fast, Food and Fuzz Camp 2022. Through these events, our girls get the opportunity to interact with GB members from the other primary companies and learn new things.&nbsp; &nbsp;
 
