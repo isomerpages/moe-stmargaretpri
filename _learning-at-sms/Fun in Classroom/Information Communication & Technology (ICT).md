@@ -70,7 +70,9 @@ Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and l
 </tr>
 </tbody></table>
 
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/ICT%20Dept_thumb01.jpg)
+  <center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TfcdP-iBl9o" height="415" width="700"></iframe>
+</center>
 
 
 
