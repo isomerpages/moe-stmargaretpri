@@ -34,17 +34,17 @@ To create opportunities for students to discover their personal voice and be emp
 </tbody></table>
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg  {border-collapse:collapse;border-spacing:0;font-family:Arial, sans-serif;font-size:17px}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;font-family:Arial, sans-serif;font-size:17px}
+.tg .tg-cly1{text-align:left;vertical-align:middle:font-family:Arial, sans-serif;font-size:17px}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top:font-family:Arial, sans-serif;font-size:17px}
+.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top:font-family:Arial, sans-serif;font-size:17px}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top:font-family:Arial, sans-serif;font-size:17px}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle:font-family:Arial, sans-serif;font-size:17px}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top:font-family:Arial, sans-serif;font-size:17px}
 </style>
 <table class="tg">
 <thead>
@@ -55,7 +55,7 @@ To create opportunities for students to discover their personal voice and be emp
 <tbody>
   <tr>
     <td colspan="2" class="tg-dgl5">Art Teachers:</td>
-    <td colspan="2" class="tg-1wig"> Music Teachers:</td>
+		<td colspan="2" class="tg-1wig"> Music Teachers:</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-zr06">Mrs Fam Way Lin</td>
