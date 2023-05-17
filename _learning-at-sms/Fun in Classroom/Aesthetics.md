@@ -272,4 +272,50 @@ Please scan the codes or click the links below to view the SYF exhibitions.
 </tr>
 </tbody></table>
 
-![](/images/Aesthetic%20Achievement.jpg)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:2px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sb4k{background-color:#D6E6C7;border-color:inherit;color:#2A5629;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sb4k">Title of Competition</th>
+    <th class="tg-sb4k">Winners<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pdeq">SYFgoesOnline! 2022<br>(Design Challenge)<br></td>
+<td class="tg-jxgv">1 student from 5 Graciousness selected for <b>Design Challenge Finalist</b><br>
+</td>
+  </tr>
+	  <tr>
+    <td class="tg-pdeq">Draw My Stamp Story Art Competition 2022</td>
+    <td class="tg-jxgv"> 3 Silver Award<br>3 Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Singapore Youth Festival (SYF) Art Exhibition 2021</td>
+<td class="tg-jxgv"> 4 student from P2 received <b>Certificate of Recognition</b><br>
+3 students from P4 received <b>Certificate of Participation</b><br>
+4 students from P5 received <b>Certificate of Recognition</b>
+</td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Draw my Stamp Story Art Competition 2020 <br></td>
+    <td class="tg-jxgv"> 2 Silver <br>5 Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq">Safra LIL’ Stars 2020 – Visual Arts Competition <br></td>
+    <td class="tg-jxgv"> 1st Runner Up <br> 2nd Runner Up<br> 2 Featured in <b>SAFRA National Day Celebrations Video</b></td>
+  </tr>
+
+</tbody>
+</table>
