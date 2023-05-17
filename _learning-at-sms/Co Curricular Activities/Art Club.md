@@ -82,16 +82,16 @@ To add on to their primary school art education experience, learning journeys ar
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/2021Watercolour%20Photo%201.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+<td><center><font size="3"><img src="/images/2021Watercolour%20Photo%201.jpg" alt="volunteer recess ministry pv" style="width:200px;height:300px;"></font></center>
 </td>
-<td><center><font size="3"><img src="/images/2021Watercolour%202.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+<td><center><font size="3"><img src="/images/2021Watercolour%202.jpg" alt="volunteer recess ministry pv" style="width:200px;height:300px;">
 </font></center>
 </td>
 	</tr><tr>
-	<td><center><font size="3"><img src="/images/2021Watercolour%203.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+	<td><center><font size="3"><img src="/images/2021Watercolour%203.jpg" alt="volunteer recess ministry pv" style="width:200px;height:300px;">
 </font></center>
 </td>
-			<td><center><font size="3"><img src="/images/2021Watercolour%204.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+			<td><center><font size="3"><img src="/images/2021Watercolour%204.jpg" alt="volunteer recess ministry pv" style="width:200px;height:300px;">
 </font></center>
 </td>
 </tr>
