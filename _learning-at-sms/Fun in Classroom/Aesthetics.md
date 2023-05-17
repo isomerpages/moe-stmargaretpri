@@ -187,7 +187,7 @@ One of the signature programmes in the school is the djembe performance workshop
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
-     Achievements
+     Awards
  </font></th>
 </tr>
 	<tr>
