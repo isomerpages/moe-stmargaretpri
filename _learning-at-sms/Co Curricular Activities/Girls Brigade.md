@@ -122,7 +122,7 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="4">
+<td><font size="4">
 	- Junior Leadership Training Camp (JLTC)<br>
 	-  Dr. Low Guat Tin Challenge<br>
 -  GB Friendship Day<br>
@@ -130,9 +130,8 @@ ___________________________________________________________
 -  Fast Food &amp; Fuzz Camp<br>
 -  Online Learning Journeys<br>
 -  SMS(P) Annual Camp 2022<br>
-</font></center>
+</font>
 </td>
-<td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"></font></center>
 </td>
 </tr></tbody></table>
