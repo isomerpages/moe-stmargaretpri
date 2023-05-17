@@ -68,14 +68,25 @@ ___________________________________________________________
 
 **Physical:**&nbsp;The physical aspect of this programme helps to develop the physical skills of the girls. They participate actively in physical activities and learn to care for themselves and develop important character traits such as discipline. Discipline is cultivated through drill which is one of the more prominent areas under this aspect. Time is set aside for the girls to engage in drill. However, drill is not the only component of the physical aspect of GB. Weekly games are often planned and led by the girls to develop their leadership qualities.&nbsp;&nbsp;
 
-<table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; width: 846.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/IMG20190602WA0062.jpeg" width="100%" alt="IMG-20190602-WA0062.jpeg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 339px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.281px;"><img src="/images/Untitled7.jpg" width="100%" alt="Untitled7.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 336px; height: 192px;"></td></tr></tbody></table>
-
-  
+![](/images/CCAs/Girls%20Brigade/gb%20pic%206.jpg)
   
 
 **Social:**&nbsp;&nbsp;All the girls are put into squads which contain girls from Primary 3 all the way to Primary 6. The girls are given the opportunity to fellowship with others across all levels. With the interaction, stronger ties are forged between the girls and they become like family to one another. The younger girls look up to the older ones while the older ones learn to be responsible and to set a good example to their juniors. There are opportunities to fellowship every week but most especially during camps. The girls also learn through badges and activities to be of service to their Home, Church, Community, Country and the World.
 
-<table border="1" class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; font-weight: bold; width: 846.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 406.833px;"><img src="/images/Jan1.jpg" width="100%" alt="Jan1.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 303px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 407.729px;"><img src="/images/20190524145338.jpg" width="100%" alt="20190524_145338.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 406px; height: 196px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 830.229px;"><img src="/images/IMG20190602WA0122.jpeg" width="100%" alt="IMG-20190602-WA0122.jpeg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 652px; height: 366px;"></td></tr></tbody></table>
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%203.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td>
+<td>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%204.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td></tr><tr>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%205.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td>
+	<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%205.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+</td>
+</tr></tbody></table>
+
+
 
   
 
