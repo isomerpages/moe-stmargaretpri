@@ -38,7 +38,6 @@ third_nav_title: Co Curricular Activities
 
 ### Introduction
 
-
 Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from P3 - P6 taking part in this sport.  
   
 
@@ -53,10 +52,15 @@ Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from 
 
 ### Activities Outline
 
+The students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train in the school team in preparation for the National Inter-Primary Schools Bowling Championships.
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1075.6px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 521.966px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px;">The students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train in the school team in preparation for the National Inter-Primary Schools Bowling Championships.</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 521.966px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 521.966px;" class="ive_eobj_center" alt="Picture (1).jpg" width="100%" src="/images/Picture%201.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"></div></td></tr></tbody></table>
+<table><tbody><tr><td>
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%201.jpeg">
+</td>
+		<td><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%202.jpeg">
+</td></tr>
+</tbody></table>
 
-  
 
 ### Target
 

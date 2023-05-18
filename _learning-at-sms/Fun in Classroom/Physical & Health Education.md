@@ -1,20 +1,27 @@
 ---
-title: Physical &amp; Health Education
+title: Physical & Health Education
 permalink: /learning-at-sms/fun-in-classroom/physical-n-health-education/
 description: ""
 third_nav_title: Fun in Classroom
 ---
-### Vision &amp; Goals
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Vision &amp; Goals
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 
-#### Vision
+#### **Vision**
 
 Every girl is Physically Educated &amp; leads an active lifestyle.
 
   
 
-#### Goals
+#### **Goals**
 
 *   To develop pupils' physical robustness
 *   To develop pupils' motor and games skills and equip them with the knowledge, skills and attitudes to pursue and enjoy a physically active and healthy lifestyle
@@ -24,16 +31,22 @@ Every girl is Physically Educated &amp; leads an active lifestyle.
 *   Understand and apply thinking skills to PE
 *   Demonstrate the spirit of fair play, teamwork and sportsmanship
 *   Acquire safe practices during physical activities  
-    
 
-### Department Members
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Department Members
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
@@ -64,8 +77,16 @@ __________________________________________________________
 </tbody>
 </table>
 
-### Programmes
-__________________________________________________________
+
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Programmes
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 Physical Education (PE) plays an important role in the physical growth and development of pupils. Through PE, pupils acquire the knowledge, skills, right attitude and values towards the pursuit of a lifelong physically active and healthy lifestyle. It also provides an avenue for pupils to express themselves through movement and physical activity.
 
@@ -89,7 +110,7 @@ On top of the scheduled PE lessons during curriculum time, we also schedule morn
 
 As part&nbsp;of the PE Programme, every pupil from P1-P6 goes through these learning areas:
 
-Fundamental Movement
+**Fundamental Movement**
 
 *   Games &amp; Sports
 *   Gymnastics
@@ -99,9 +120,16 @@ Fundamental Movement
 *   Outdoor Education
 *   Swimming
 
-### Useful Links
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Useful Links
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
 ##### <a href="https://www.myactivesg.com/" target="_blank">ActiveSG</a>
-  
+
 ##### <a href="https://www.sportsingapore.gov.sg/" target="_blank">Sport Singapore</a>

@@ -4,57 +4,85 @@ permalink: /learning-at-sms/fun-in-classroom/information-communication-n-technol
 description: ""
 third_nav_title: Fun in Classroom
 ---
-### Vision & Goals
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Vision &amp; Goals
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
-#### Vision
+#### **Vision**
 
 Students: Quality learning in the hands of Self-Directed, Collaborative and Responsible digital learners.
 
-Staff: Be the lead learner in the classroom to build quality teaching and learning resources and lessons with ICT.
+Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and learning resources and lessons with ICT.
 
   
 
-#### Goals
+#### **Goals**
 
-*   Develop students to be responsible digital online citizens when using technology for learning. 
-*   Develop students to become self-directed and collaborative learners using ICT tools for learning. 
-*   Develop staff and students competency in the use of technology for teaching and learning. 
+*   Develop students to be responsible digital online citizens when using technology for learning.&nbsp;
+*   Develop students&nbsp;to become self-directed and collaborative learners using ICT tools for learning.&nbsp;
+*   Develop staff and students competency in the use of technology for teaching and learning.&nbsp;
 
-### Committee Members
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Committee Members
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(207, 207, 207); border-collapse: collapse; width: 487px; height: 317px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207); width: 486px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Nur A'zzah Noh (LH/ICT)</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207); width: 60px;">Mrs Madelin Ang<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207); width: 60px;">Mdm Daphne Cheng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mrs Pamela Yeow<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mdm Lin Linli<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mrs Kanimozhi Ganesh<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mdm Rachelle Ching</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Ms Anna Lau&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mrs Chua Seow Wee</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mdm Esther James</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mrs Ng Wei Wen</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mr Wu Shao Hai</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mdm Rajkumar Geetha</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Ms Ong Cheng Bing<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Ms Siti Nur Hidayah<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(207, 207, 207); border-collapse: collapse; width: 487px; height: 317px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207); width: 486px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ms Nur A'zzah Noh (LH/ICT)</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207); width: 60px;">Mrs Madelin Ang<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207); width: 60px;">Mdm Daphne Cheng</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mrs Pamela Yeow<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mdm Lin Linli<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mrs Kanimozhi Ganesh<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mdm Rachelle Ching</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Ms Anna Lau&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mrs Chua Seow Wee</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mdm Esther James</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mrs Ng Wei Wen</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mr Wu Shao Hai</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Mdm Rajkumar Geetha</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Ms Ong Cheng Bing<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(207, 207, 207);">Ms Siti Nur Hidayah <br>(ICT Associate)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
-  
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+     Programmes
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
-#### Programmes
-__________________________________________________________
 
-![ICT Roadmap 2015.png](https://stmargaretspri.moe.edu.sg/qql/slot/u209/Programmes/ICT/ICT%20Roadmap%202015.png)  
-  
+![](/images/smps_ict_roadmap_2015_02.jpg)
 
-#### Service to the school  
 
-*   IT/AV Monitresses to serve the classes' AV needs   
+#### **Service to the school ** 
+
+*   IT/AV Monitresses to serve the classes' AV needs&nbsp;&nbsp;&nbsp;
 *   Cyberwellness advocates
 
-  
 
-### Computer Lab and Personal Safety rules
-__________________________________________________________
+<table>
+	<tbody><tr>
+		<th><font size="6" color="maroon">
+    Computer Lab and Personal Safety Rules
+ </font></th>
+</tr>
+	<tr>
+</tr>
+</tbody></table>
 
-![](https://stmargaretspri.moe.edu.sg/qql/slot/u209/2021/Learning@SMPS/ICT/ICT%20Dept_thumb01.jpg)
+  <center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TfcdP-iBl9o" height="415" width="700"></iframe>
+</center>
 
 
 
-#### PERMISSION to enter the computer labs
+#### **PERMISSION to enter the computer labs**
 
 *   Do not enter the computer labs without a teacher. This is for safety reasons.
 
   
 
-#### During lessons in the computer labs
+#### **During lessons in the computer labs**
 
 *   Do not run or play in the laboratory
 *   Do not eat or drink in the laboratory so to prevent water or any other liquid to spill on computers.
@@ -63,11 +91,11 @@ __________________________________________________________
 *   Do not insert metal objects such as clips, pins and needles into the computer casings. This may cause fire.
 *   Do not touch, connect or disconnect any plug or cable without your teacher's permission.
 *   Report any broken plugs or exposed electrical wires to your teacher immediately.
-*   Avoid stepping on electrical wires or any other computer cables. Do not touch any exposed wires or sockets.
+*   Avoid stepping on electrical wires or any other computer cables.&nbsp;Do not touch any exposed wires or sockets.
 
   
 
-#### EMERGENCY
+#### **EMERGENCY**
 
 *   Take note of all the exits in the room, and also take note of the location of fire extinguishers in the room for the sake of fire safety.
 *   Report fires or accidents to your teacher immediately.
