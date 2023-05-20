@@ -27,7 +27,7 @@ ___________________________________________________________
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bnp4"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Playground</span><br><span style="color:#222;background-color:#FBFFFA">Behind canteen</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Gwee Hui Jun</span><br><span style="color:#222;background-color:#FBFFFA"> Mr Roland Neo (Advisor)</span></td>
