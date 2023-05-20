@@ -34,7 +34,7 @@ ____________________________________________________________
 <tbody>
   <tr>
     <td class="tg-3dle">Mondays<br>&amp; Fridays</td>
-    <td class="tg-jwaj">2 - 4 pm</td>
+    <td class="tg-3dle">2 - 4 pm</td>
     <td class="tg-3dle"> Dance studio</td>
     <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok (OIC)</span><br>Mrs Heng Siqiao<br>Ms Ong Cheng Bing</td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span></td>
