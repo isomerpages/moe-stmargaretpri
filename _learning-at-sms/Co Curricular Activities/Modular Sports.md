@@ -40,7 +40,7 @@ ___________________________________________________________
 
 
 
-The Modular Sports CCA provides a platform for the students to hone and improve on their sports movement and manipulative skills. The students will be learning Volleyball in Semester 1 and Floorball in Semester 2.
+The Modular Sports CCA provides a platform for the students to hone and improve on their sports movement and manipulative skills. The students will be learning Football in Semester 1 and Floorball in Semester 2.
 
   
 
