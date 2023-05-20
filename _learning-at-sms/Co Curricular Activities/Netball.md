@@ -133,13 +133,6 @@ The junior and senior training teams train twice a week to prepare for the annua
 
 The development teams train once a week. During the trainings, members are taught the concepts and rules of netball. They also fine-tune their fundamental skills and strategies through drills and modified games.
 
-
-  
-
-  
-
-#### 3\. E-CCA (Zoom Sessions)
-
   
 
 ### Highlights &amp; Achievements
@@ -163,6 +156,11 @@ The development teams train once a week. During the trainings, members are taugh
 </thead>
 <tbody>
   <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2023</span></td>
+    <td class="tg-ktyi">South Zone Primary Schools Netball Championships 2023</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">NIL</span></td>
+  </tr>
+	<tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2022</span></td>
     <td class="tg-ktyi">South Zone Primary Schools Netball Championships 2022</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Senior Team - 4th position</span></td>
@@ -170,24 +168,10 @@ The development teams train once a week. During the trainings, members are taugh
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2020</span></td>
     <td class="tg-ktyi">South Zone Netball Championships 2020<br>Nationals Netball Championships 2020</td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">NA</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">2019 <span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-ktyi">Singapore Sports School Carnival 2019<br><br>South Zone Netball Championships 2019<br><br>Nationals Netball Championships 2019<span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-ktyi">Senior Team 1 - 1st position<br>Senior Team 2 - 3rd position<br>Senior Team - 1st position<br>Junior Team - 4th position<br>Senior Team - 1st position <br><span style="color:#000;background-color:#FFF"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2018</span></td>
-    <td class="tg-ktyi">Blaze Carnival 2018<br><br><br>Singapore Sports School Carnival 2018<br><br><br><br><span style="background-color:initial">    </span><br>       South Zone Netball Championships 2018<br><br>National Primary Schools Netball Championships 2018<br></td>
-    <td class="tg-ktyi">Junior Team - 2nd position<br>Senior Team - 2nd Position <br><br><span style="background-color:initial">Junior Team - 3rd position</span><br><br>      Senior Team  <span style="background-color:initial">- 2nd position</span><br><br>     <span style="background-color:initial"> </span> Junior Team  <span style="background-color:initial">- 1st position</span><br>     <span style="background-color:initial">  </span> <span style="background-color:initial">Senior Team </span> <span style="background-color:initial">- 1st position</span><br><br>       <span style="background-color:initial">Junior Team</span>  - Champions<br>     <span style="background-color:initial">  </span> <span style="background-color:initial">Senior Team </span> - Top 8</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2017</span></td>
-    <td class="tg-ktyi">Singapore Sports School Carnival 2017<br><br>South Zone Netball Championships 2017<br></td>
-    <td class="tg-ktyi">Junior Team  <span style="background-color:initial">- 2nd position</span><br>Junior Team - 4th position<br>Senior Team <span style="background-color:initial"> </span> <span style="background-color:initial">- 4th position</span></td>
-  </tr>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">NIL</span><br></td>
+	</tr>
 </tbody>
 </table>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wqqZFSwGBB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<center>
+<iframe width="700" height="415" src="https://www.youtube.com/embed/wqqZFSwGBB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
