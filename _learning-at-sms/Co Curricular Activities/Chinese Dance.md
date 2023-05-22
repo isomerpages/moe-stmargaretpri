@@ -34,7 +34,7 @@ ____________________________________________________________
 <tbody>
   <tr>
     <td class="tg-3dle">Mondays<br>&amp; Fridays</td>
-    <td class="tg-jwaj">2 - 4 pm</td>
+    <td class="tg-3dle">2 - 4 pm</td>
     <td class="tg-3dle"> Dance studio</td>
     <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok (OIC)</span><br>Mrs Heng Siqiao<br>Ms Ong Cheng Bing</td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span></td>
@@ -45,7 +45,7 @@ ____________________________________________________________
 ### Introduction
 ____________________________________________________________
 
-The Chinese Dance is one of the performing arts group in St. Margaret’s School (Primary). The Chinese Dance Club started back in 1985 and it has been 35 years since its inauguration. Our instructors are Miss Wang Xiao Ming and Miss Zhang Xiao Qi.
+The Chinese Dance is one of the performing arts group in St. Margaret’s School (Primary). The Chinese Dance Club started back in 1985 and it has been 35 years since its inauguration. Our instructors are Miss Yan Xiang Yi and Miss Zhang Xiao Qi.
 
 Students who have chosen to join Chinese Dance out of their love for dancing are also learning more about the Chinese Dance culture. We want to nurture their God-given talent through dance training so that they can each reach their fullest potential in this area.&nbsp;
 
