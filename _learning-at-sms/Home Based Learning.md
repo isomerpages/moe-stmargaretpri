@@ -10,7 +10,8 @@ Your teachers will email your parents the Home Based Learning (HBL) Timetable at
 More information will be provided at a later date.
   
 
-[Home-based Learning (HBL) Support Information](https://stmargaretspri.moe.edu.sg/learning-at-smps/home-based-learning/hbl-support-information)
+<a href="/files/hbl support 2023_t1wk10.pdf" target="_blank">Home Based Learning (HBL) Support Information 2023</a>
+
 
 #### Guides for Students
 
@@ -60,11 +61,11 @@ Mondays - Fridays: 4:00 p.m - 9:00 p.m
 
 Saturdays: 9:00 am - 9:00 p.m  
 
-\*Closed on Sundays & Public Holidays
+\*Closed on Sundays &amp; Public Holidays
 
   
 
-Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk,
+Alternatively, students can email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk,
 
 they should include their full name, name of school and form class.
 
@@ -105,9 +106,9 @@ _Note: Usernames will not contain spaces or special characters such as apostroph
 
 ##### 3. Find password reset email
 
-When you use the [Forgot Password feature](https://mo.learning.moe.edu.sg/UserGuide/Vle/student/administration/forgot-password.html) to reset your password, an email with a password reset link will be sent to you. If you cannot find the email in your inbox, it may be in the spam folder.
+When you use the&nbsp;[Forgot Password feature](https://mo.learning.moe.edu.sg/UserGuide/Vle/student/administration/forgot-password.html)&nbsp;to reset your password, an email with a password reset link will be sent to you. If you cannot find the email in your inbox, it may be in the spam folder.
 
-_**Note**: If the link has expired, go to the login page and select **Forgot Password** to request another link._
+_**Note**: If the link has expired, go to the login page and select&nbsp;**Forgot Password**&nbsp;to request another link._
 
   
 
@@ -115,7 +116,7 @@ It is also possible that you have not entered and verified your email address. I
 
   
 
-If the problem persists, please contact the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) or call 6702 6513.
+If the problem persists, please contact the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)&nbsp;or call 6702 6513.
 
   
 
@@ -134,7 +135,7 @@ To set your password reset email address:
 
   
 
-1\. On the top right corner of any SLS page, click on the button Set Password Reset Email Address followed by selecting **Edit Profile.**
+1\. On the top right corner of any SLS page, click on the button Set Password Reset Email Address followed by selecting&nbsp;**Edit Profile.**
 
   
 
@@ -142,11 +143,11 @@ To set your password reset email address:
 
   
 
-2\. On the **Edit** Profile page, click the **Email Address** tab.
+2\. On the&nbsp;**Edit**&nbsp;Profile page, click the&nbsp;**Email Address**&nbsp;tab.
 
 3\. In the "Email Address" field, enter your email address.
 
-4\. Click **Save**.
+4\. Click&nbsp;**Save**.
 
 5\. An email with a verification code will be sent to your email address.
 
