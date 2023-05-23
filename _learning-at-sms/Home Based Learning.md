@@ -70,17 +70,13 @@ _Note: Usernames will not contain spaces or special characters such as apostroph
 
 \* If you have forgotten your password, you can reset it by having a password reset email sent to your email address, or by answering a series of security questions.
 
-[](https://stmargaretspri.moe.edu.sg/learning-at-sms-p/home-based-learning/goog_1428196432)
-
-[_https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/student-forgot-password.html_](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/student-forgot-password.html)
-
   
 \* If your teacher is available to reset the password for you, you will be given a one-time password (OTP) to log in, after which you will be prompt to key in a new password.
 
 
 ##### 3. Find password reset email
 
-When you use the&nbsp;[Forgot Password feature](https://mo.learning.moe.edu.sg/UserGuide/Vle/student/administration/forgot-password.html)&nbsp;to reset your password, an email with a password reset link will be sent to you. If you cannot find the email in your inbox, it may be in the spam folder.
+When you use the Forgot Password feature to reset your password, an email with a password reset link will be sent to you. If you cannot find the email in your inbox, it may be in the spam folder.
 
 _**Note**: If the link has expired, go to the login page and select&nbsp;**Forgot Password**&nbsp;to request another link._
 
