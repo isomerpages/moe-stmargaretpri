@@ -32,9 +32,9 @@ More information will be provided at a later date.
 
 During school operating hours, students should contact 6339 4247 for queries related to password reset and unlocking of accounts. For queries related to subject matters, kindly email the respective subject teachers.  
 
-School-based Helpline: 6339 4247
+School-based Helpline: **6339 4247**
 
-Mondays - Fridays: 8:00 a.m - 4:00 p.m  
+Mondays - Fridays: **8:00 a.m - 4:00 p.m**
 
 For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
@@ -43,11 +43,11 @@ For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.c
 
 Students can only contact the SLS Helpdesk after the school operating hours.  
 
-SLS Helpdesk: 6702 6513
+SLS Helpdesk: **6702 6513**
 
-Mondays - Fridays: 4:00 p.m - 9:00 p.m
+Mondays - Fridays: **4:00 p.m - 9:00 p.m**
 
-Saturdays: 9:00 am - 9:00 p.m  
+Saturdays: **9:00 am - 9:00 p.m**
 
 \*Closed on Sundays &amp; Public Holidays
 
@@ -58,9 +58,8 @@ Alternatively, students can email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity
 
 ##### 1. Student Forget Username  
 
-  
-
-Your username is usually the first 5 characters of your full name and last 4 digits of birth cert or NRIC together with the alphabet, e.g. TANAH2345X.
+ 
+Your SLS username is usually the first 5 characters of your full name and last 4 digits of birth cert or NRIC together with the alphabet, e.g. TANAH2345X.
 
 _Note: Usernames will not contain spaces or special characters such as apostrophes (') and hyphens (-)._
 
@@ -84,7 +83,7 @@ _**Note**: If the link has expired, go to the login page and select&nbsp;**Forgo
 It is also possible that you have not entered and verified your email address. If that's the case, you may either use the security questions or approach a teacher to reset your password. Remember to key in an email address after that for future password reset.
 
 
-If the problem persists, please contact the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)&nbsp;or call 6702 6513.
+If the problem persists, please contact the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)&nbsp;or call **6702 6513**.
 
   
 #### 4. Adding Email address
@@ -190,18 +189,3 @@ The recommended operating systems and browsers are:
   </tr>
 </tbody>
 </table>
-
-  
-
-#### 6. Web browser troubleshooting tips
-
-[https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/web-browser-troubleshooting.html](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/web-browser-troubleshooting.html)
-
-  
-
-  
-
-#### 7. SLS helpdesk
-[  ](https://stmargaretspri.moe.edu.sg/learning-at-sms-p/home-based-learning/goog_29713546)
-
-[https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/sls-helpdesk.html](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/sls-helpdesk.html)
