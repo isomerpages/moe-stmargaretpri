@@ -23,9 +23,9 @@ More information will be provided at a later date.
 
 #### Parents Info Hub
 
-1. Resources Kit HBL (Part 1)[](/files/Resource%20Kit%20-%20HBL.pdf)
-2. Resource Kit - HBL (Part 2)
-3. Resource Kit - HBL (Part 3)
+1. [Resource Kit - HBL.pdf](/files/Resource Kit - HBL.pdf) (Part 1)
+2. [Resource Kit - HBL (Part 2)](/files/Resource Kit - HBL (Part 2).pdf)
+3. [Resource Kit - HBL (Part 3)](/files/Resource Kit - HBL (Part 3).pdf)
 
 ### HBL Support Information
 
