@@ -10,7 +10,7 @@ Your teachers will email your parents the Home Based Learning (HBL) Timetable at
 More information will be provided at a later date.
   
 
-<a href="/files/HBL Support 2023_T2.pdf" target="_blank">Home Based Learning (HBL) Support Information 2023</a>
+<a href="/files/hbl support 2023_t2.pdf" target="_blank">Home Based Learning (HBL) Support Information 2023</a>
 
 
 #### Guides for Students
