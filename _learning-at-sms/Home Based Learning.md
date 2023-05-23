@@ -23,7 +23,7 @@ More information will be provided at a later date.
 
 #### Parents Info Hub
 
-1. Resources Kit HBL.pdf[](/files/Resource%20Kit%20-%20HBL.pdf)
+1. Resources Kit HBL (Part 1)[](/files/Resource%20Kit%20-%20HBL.pdf)
 2. Resource Kit - HBL (Part 2)
 3. Resource Kit - HBL (Part 3)
 
