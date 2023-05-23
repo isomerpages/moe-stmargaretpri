@@ -209,8 +209,6 @@ The recommended operating systems and browsers are:
   
 
 #### 7. SLS helpdesk
-
-[  
-](https://stmargaretspri.moe.edu.sg/learning-at-sms-p/home-based-learning/goog_29713546)
+[  ](https://stmargaretspri.moe.edu.sg/learning-at-sms-p/home-based-learning/goog_29713546)
 
 [https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/sls-helpdesk.html](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/sls-helpdesk.html)
