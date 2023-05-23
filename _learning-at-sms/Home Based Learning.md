@@ -23,37 +23,28 @@ More information will be provided at a later date.
 
 #### Parents Info Hub
 
-1. [Resource Kit - HBL.pdf](/files/Resource Kit - HBL.pdf) (Part 1)
-2. [Resource Kit - HBL (Part 2)](/files/Resource Kit - HBL (Part 2).pdf)
-3. [Resource Kit - HBL (Part 3)](/files/Resource Kit - HBL (Part 3).pdf)
+1. <a href="/files/Resource Kit - HBL.pdf" target="_blank">Resource Kit - HBL (Part 1)</a>
+
+2. <a href="/files/Resource Kit - HBL (Part 2).pdf" target="_blank">Resource Kit - HBL (Part 2)</a>
+
+3. <a href="/files/Resource Kit - HBL (Part 3).pdf" target="_blank">Resource Kit - HBL (Part 3)</a>
 
 ### HBL Support Information
 
 #### 1. School Operating Hours
 
-During school operating hours, students should contact 6339 4247 for queries related to password reset and unlocking  
-
-of accounts. For queries related to subject matters, kindly email the respective subject teachers.
-
-  
+During school operating hours, students should contact 6339 4247 for queries related to password reset and unlocking of accounts. For queries related to subject matters, kindly email the respective subject teachers.  
 
 School-based Helpline: 6339 4247
 
 Mondays - Fridays: 8:00 a.m - 4:00 p.m  
 
-  
+For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
-For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk,
-
-they should include their full name, name of school and form class.
-
-  
 
 #### 2. Non-School Operating Hours
 
 Students can only contact the SLS Helpdesk after the school operating hours.  
-
-  
 
 SLS Helpdesk: 6702 6513
 
@@ -63,16 +54,10 @@ Saturdays: 9:00 am - 9:00 p.m
 
 \*Closed on Sundays &amp; Public Holidays
 
-  
-
-Alternatively, students can email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk,
-
-they should include their full name, name of school and form class.
+Alternatively, students can email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
  
-
 ### FAQ
-===
 
 ##### 1. Student Forget Username  
 
@@ -82,13 +67,9 @@ Your username is usually the first 5 characters of your full name and last 4 dig
 
 _Note: Usernames will not contain spaces or special characters such as apostrophes (') and hyphens (-)._
 
-  
-
-  
 
 ##### 2. Reset password
 
-  
 
 \* If you have forgotten your password, you can reset it by having a password reset email sent to your email address, or by answering a series of security questions.
 
@@ -97,12 +78,8 @@ _Note: Usernames will not contain spaces or special characters such as apostroph
 [_https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/student-forgot-password.html_](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/student-forgot-password.html)
 
   
-
 \* If your teacher is available to reset the password for you, you will be given a one-time password (OTP) to log in, after which you will be prompt to key in a new password.
 
-  
-
-  
 
 ##### 3. Find password reset email
 
@@ -110,26 +87,19 @@ When you use the&nbsp;[Forgot Password feature](https://mo.learning.moe.edu.sg/U
 
 _**Note**: If the link has expired, go to the login page and select&nbsp;**Forgot Password**&nbsp;to request another link._
 
-  
 
 It is also possible that you have not entered and verified your email address. If that's the case, you may either use the security questions or approach a teacher to reset your password. Remember to key in an email address after that for future password reset.
 
-  
 
 If the problem persists, please contact the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)&nbsp;or call 6702 6513.
-
-  
 
   
 #### 4. Adding Email address
 
 You should set a password reset email address in your profile. This will allow you to reset your password through a password reset link if you forget it.
 
-  
-
 To set your password reset email address:
 
-  
 
 ![e1.png](/images/e11.png)  
 
