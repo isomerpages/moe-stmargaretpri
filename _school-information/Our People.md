@@ -51,8 +51,8 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">5</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Lee Zhuomin      </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Treasurer</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Deborah Tengara</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Treasurer/SJSM Rep Member</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">6</span></td>
@@ -101,8 +101,8 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">15</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Deborah Tengara</span></td>
-    <td class="tg-fxx4"><span style="color:#222">SJSM Rep</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Lee Zhuomin</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
 </tbody>
 </table>
@@ -741,6 +741,10 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Binte Johari</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Nalayeni D/O M Supramaniam</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
   <tr>
