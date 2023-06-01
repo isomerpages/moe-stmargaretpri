@@ -30,7 +30,7 @@ third_nav_title: Co Curricular Activities
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mondays</span><br><span style="color:#222;background-color:#FBFFFA">(school team players)</span><br><span style="color:#222;background-color:#FBFFFA">&amp; Fridays</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">1.50 pm - 4.00 pm</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">External venue / outside library / 5H, 5T and 6C classroom</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Miss Low Pei Lin (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Abigail Henry</span><br><span style="color:#222;background-color:#FBFFFA">Ms Dinah</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Miss Low Pei Lin (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Abigail Henry</span><br><span style="color:#222;background-color:#FBFFFA">Ms Dinah <br>Ms Dharshini</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span><br></td>
   </tr>
 </tbody>
@@ -55,9 +55,9 @@ Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from 
 The students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train in the school team in preparation for the National Inter-Primary Schools Bowling Championships.
 
 <table><tbody><tr><td>
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%201.jpeg">
+		<img src="/images/CCAs/Bowling/bowling%20pic%201.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
 </td>
-		<td><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%202.jpeg">
+		<td><img src="/images/CCAs/Bowling/bowling%20pic%202.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
 </td></tr>
 </tbody></table>
 
