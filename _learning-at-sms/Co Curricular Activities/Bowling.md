@@ -56,14 +56,14 @@ The students train once or twice a week. They are taught the basic skills and ru
 
 <table><tbody>
 	<tr><td><center>
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%201.jpeg">
+		<img src="/images/CCAs/Bowling/bowling%20pic%201.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
 </center></td>
-		<td><center><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%202.jpeg">
+		<td><center><img src="/images/CCAs/Bowling/bowling%20pic%202.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
 </center></td></tr>
 	<tr><td><center>
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/our senior division team at national school games bowling 2023.jpeg"><b>Our Senior Division Team at National School Games Bowling 2023</b>
+		<img src="/images/CCAs/Bowling/our senior division team at national school games bowling 2023.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Our Senior Division Team at National School Games Bowling 2023</b>
 </center></td>
-		<td><center><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/senior division girls- quartet receiving their medals.jpeg"><b>Senior Division Girls- Quartet receiving their medals</b>
+		<td><center><img src="/images/CCAs/Bowling/senior division girls- quartet receiving their medals.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Senior Division Girls - Quartet receiving their medals</b>
 </center></td></tr>
 </tbody></table>
 
