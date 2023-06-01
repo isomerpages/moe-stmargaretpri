@@ -54,7 +54,13 @@ Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from 
 
 The students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train in the school team in preparation for the National Inter-Primary Schools Bowling Championships.
 
-<table><tbody><tr><td>
+<table><tbody>
+	<tr><td>
+		<img src="/images/CCAs/Bowling/bowling%20pic%201.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+</td>
+		<td><img src="/images/CCAs/Bowling/bowling%20pic%202.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+</td></tr>
+	<tr><td>
 		<img src="/images/CCAs/Bowling/bowling%20pic%201.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
 </td>
 		<td><img src="/images/CCAs/Bowling/bowling%20pic%202.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
