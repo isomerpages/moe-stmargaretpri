@@ -60,3 +60,9 @@ STAR’s programme is curated and designed to hone the pupils’ oratorical and 
 **R** - Recitation
 
 
+
+<table>
+	<tbody><tr><td><center><font size="3"><img src="/images/Star/star01.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>Role play and interviews</b></font></center></td>
+		<td><center><font size="3"><img src="/images/Star/star02.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+</tr>
+</tbody></table>
