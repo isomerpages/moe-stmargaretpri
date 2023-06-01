@@ -55,9 +55,9 @@ Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from 
 The students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train in the school team in preparation for the National Inter-Primary Schools Bowling Championships.
 
 <table><tbody><tr><td>
-		<img src="/images/CCAs/Bowling/bowling%20pic%201.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%201.jpeg">
 </td>
-		<td><img src="/images/CCAs/Bowling/bowling%20pic%202.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+		<td><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%202.jpeg">
 </td></tr>
 </tbody></table>
 
@@ -89,6 +89,11 @@ To emerge as the Top 4 in the National Primary Schools Championships for both Ju
 </thead>
 <tbody>
   <tr>
+    <td class="tg-f4yw"> 2023</td>
+    <td class="tg-f4yw"> Senior Division<br>Overall - 2nd<br>Singles - 3rd<br>Doubles – 2nd<br>Quartets - 4th<br></td>
+    <td class="tg-f4yw"> Nil</td>
+  </tr>
+	<tr>
     <td class="tg-f4yw"> 2022</td>
     <td class="tg-f4yw"> Senior Division<br>Overall - 3rd<br>Doubles - 6th<br>Quartets – 4th and 7thAll Events - 7th<br></td>
     <td class="tg-f4yw"> Nil</td>
@@ -98,6 +103,7 @@ To emerge as the Top 4 in the National Primary Schools Championships for both Ju
     <td class="tg-4zke">Senior Division<br>Overall - 2nd<br>Singles - 3rd<br>Doubles - 2nd, 3rd and 6th<br>Quartets - 2nd and 5th<br>All Events - 7th</td>
     <td class="tg-f4yw"> Nil</td>
   </tr>
+	
   <tr>
     <td class="tg-f4yw"> 2019</td>
     <td class="tg-f4yw">  Junior Division<br>Singles - 4th and 8th<br>Doubles - 2nd, 3rd and 8th<br>Quartets - 1st and 7th<br>All Events - 2nd, 3rd and 5th<br><br>Senior Division<br>Overall - 2nd<br>Singles - 1st<br>Doubles - 3rd<br>Quartets - 2nd and 3rd<br>All Events - 1st</td>
