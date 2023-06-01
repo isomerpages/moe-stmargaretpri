@@ -45,7 +45,7 @@ STAR’s programme is curated and designed to hone the pupils’ oratorical and 
 
 *   To nurture an interest in Language Arts and performances
 *   To develop creativity and self- expression
-*   To hone their skills in public speaking&nbsp;&nbsp;
+*   To hone their skills in public speaking &amp; teamwork
 *   To nurture in pupils a love of reading and literary works
 *   To nurture girls of character
 
@@ -59,4 +59,3 @@ STAR’s programme is curated and designed to hone the pupils’ oratorical and 
 
 **R** - Recitation
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 746.16px; height: 319px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 376px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 365px;" class="ive_eobj_center" alt="Macbeth.jpg" width="100%" src="/images/Macbeth.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Re-enacting a scene from Macbeth.</b></span></i></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 370px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 361px;" class="ive_eobj_center" alt="star got telent.jpg" width="100%" src="/images/star%20got%20telent.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Preparing for STAR Got Talent Auditions</b></span></i></div></td></tr></tbody></table>
