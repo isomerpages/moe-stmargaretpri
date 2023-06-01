@@ -55,16 +55,16 @@ Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from 
 The students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train in the school team in preparation for the National Inter-Primary Schools Bowling Championships.
 
 <table><tbody>
-	<tr><td>
-		<img src="/images/CCAs/Bowling/bowling%20pic%201.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
-</td>
-		<td><img src="/images/CCAs/Bowling/bowling%20pic%202.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
-</td></tr>
-	<tr><td>
-		<img src="/images/CCAs/Bowling/our senior division team at national school games bowling 2023.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">Our Senior Division Team at National School Games Bowling 2023
-</td>
-		<td><img src="/images/CCAs/Bowling/senior division girls- quartet receiving their medals.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">Senior Division Girls- Quartet receiving their medals
-</td></tr>
+	<tr><td><center>
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%201.jpeg">
+</center></td>
+		<td><center><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%202.jpeg">
+</center></td></tr>
+	<tr><td><center>
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/our senior division team at national school games bowling 2023.jpeg"><b>Our Senior Division Team at National School Games Bowling 2023</b>
+</center></td>
+		<td><center><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/senior division girls- quartet receiving their medals.jpeg"><b>Senior Division Girls- Quartet receiving their medals</b>
+</center></td></tr>
 </tbody></table>
 
 
