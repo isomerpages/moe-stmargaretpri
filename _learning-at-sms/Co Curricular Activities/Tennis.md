@@ -50,9 +50,9 @@ Through a series of training programmes prepared by our coaches, we hope to help
 </tbody></table>
 
 <table>
-		<tbody><tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis01.jfif" alt="bacalah adikku 2022" style="width:300px;height:300px;"><b></b></font></center></td>
+		<tbody><tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis01.jfif" alt="bacalah adikku 2022" style="width:300px;height:300px;"></font></center></td>
 		<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis08.jpg" alt="bacalah adikku 2022" style="width:300px;height:300px;"><b>The passion, style and determination</b></font></center></td>
-				<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis02.jfif" alt="bacalah adikku 2022" style="width:300px;height:300px;"><b></b></font></center></td>
+				<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis02.jfif" alt="bacalah adikku 2022" style="width:300px;height:300px;"></font></center></td>
 </tr>
 </tbody></table>
 
