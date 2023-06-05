@@ -44,15 +44,15 @@ The SMS(P) Tennis Programme serves as an avenue to promote greater interest in t
 Through a series of training programmes prepared by our coaches, we hope to help students pick up a new skill.
 
 <table>
-	<tbody><tr><td><center><font size="3"><img style="width:400px;height:300px;" alt="mastering skill" src="/images/Mastering%20the%20skill.jpg"><b>Mastering the skill!</b></font></center></td>
-		<td><center><font size="3"><img style="width:300px;height:400px;" alt="student in action" src="/images/2021Our%20student%20in%20action.jpeg"><b>Our student in action</b></font></center></td>
+	<tbody><tr><td><center><font size="3"><img src="/images/Mastering%20the%20skill.jpg" alt="mastering skill" style="width:400px;height:300px;"><b>Mastering the skill!</b></font></center></td>
+		<td><center><font size="3"><img src="/images/2021Our%20student%20in%20action.jpeg" alt="student in action" style="width:300px;height:400px;"><b>Our student in action</b></font></center></td>
 </tr>
 </tbody></table>
 
 <table>
-		<tbody><tr><td><center><font size="3"><img style="width:300px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis01.jfif"></font></center></td>
-		<td><center><font size="3"><img style="width:300px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis08.jpg"><b>The passion, style and determination</b></font></center></td>
-				<td><center><font size="3"><img style="width:300px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis02.jfif"></font></center></td>
+		<tbody><tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis01.jfif" alt="bacalah adikku 2022" style="width:300px;height:300px;"></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis08.jpg" alt="bacalah adikku 2022" style="width:300px;height:300px;"><b>The passion, style and determination</b></font></center></td>
+				<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis02.jfif" alt="bacalah adikku 2022" style="width:300px;height:300px;"></font></center></td>
 </tr>
 </tbody></table>
 
@@ -74,20 +74,17 @@ To nurture girls with the right attitudes, skills and passion for the sport.
 
 
 <table>
-	<tbody><tr><td><center><font size="3"><img style="width:550px;height:300px;" alt="bacalah adikku 2022" src="/images/2021SMPS%20won%204th%20place%20in%20the%202021%20National%20School%20Games%20Tennis%20ChampionshipSenior%20Girls.jpeg"><b>SMS(P) won 4th place in the 2021 National School Games Tennis Championship (Senior Girls)</b></font></center></td>
+	<tbody><tr><td><center><font size="3"><img src="/images/2021SMPS%20won%204th%20place%20in%20the%202021%20National%20School%20Games%20Tennis%20ChampionshipSenior%20Girls.jpeg" alt="bacalah adikku 2022" style="width:550px;height:300px;"><b>SMS(P) won 4th place in the 2021 National School Games Tennis Championship (Senior Girls)</b></font></center></td>
 </tr>
-		<tr><td><center><font size="3"><img style="width:520px;height:300px;" alt="bacalah adikku 2022" src="/images/2021Learning%20from%20the%20coach.jpeg"><b>Learning from the coach</b></font></center></td>
-		<td><center><font size="3"><img style="width:400px;height:400px;" alt="bacalah adikku 2022" src="/images/2021P3%20students%20in%20training.jpeg"><b>P3 students in training</b></font></center></td>
+		<tr><td><center><font size="3"><img src="/images/2021Learning%20from%20the%20coach.jpeg" alt="bacalah adikku 2022" style="width:520px;height:300px;"><b>Learning from the coach</b></font></center></td>
+		<td><center><font size="3"><img src="/images/2021P3%20students%20in%20training.jpeg" alt="bacalah adikku 2022" style="width:400px;height:400px;"><b>P3 students in training</b></font></center></td>
 </tr>
 </tbody></table>
 
-
 ### Target  
-
 
 To prepare the junior and senior teams for&nbsp; the National Games Tennis Championships.
 
-  
 
 ### Activities Online
 
@@ -129,7 +126,7 @@ To prepare the junior and senior teams for&nbsp; the National Games Tennis Champ
 </table>
 
 <table>
-	<tbody><tr><td><center><font size="3"><img style="width:400px;height:400px;" alt="tennis 06" src="/images/CCAs/Tennis/tennis06.jfif"></font></center></td>
-		<td><center><font size="3"><img style="width:350px;height:400px;" alt="tennis 07" src="/images/CCAs/Tennis/tennis07.jfif"></font></center></td>
+	<tbody><tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis06.jfif" alt="tennis 06" style="width:400px;height:400px;"></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis07.jfif" alt="tennis 07" style="width:350px;height:400px;"></font></center></td>
 </tr>
 </tbody></table>
