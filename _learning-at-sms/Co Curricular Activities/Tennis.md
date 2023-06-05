@@ -44,11 +44,15 @@ The SMS(P) Tennis Programme serves as an avenue to promote greater interest in t
 Through a series of training programmes prepared by our coaches, we hope to help students pick up a new skill.
 
 <table>
-	<tbody><tr><td><center><font size="3"><img src="/images/Mastering%20the%20skill.jpg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>Mastering the skill!</b></font></center></td>
-		<td><center><font size="3"><img src="/images/2021Our%20student%20in%20action.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>Our student in action</b></font></center></td>
+	<tbody><tr><td><center><font size="3"><img style="width:520px;height:300px;" alt="mastering skill" src="/images/Mastering%20the%20skill.jpg"><b>Mastering the skill!</b></font></center></td>
+		<td><center><font size="3"><img style="width:300px;height:400px;" alt="student in action" src="/images/2021Our%20student%20in%20action.jpeg"><b>Our student in action</b></font></center></td>
 </tr>
-		<tr><td><center><font size="3"><img src="/images/Mastering%20the%20skill.jpg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>The passion, style and the determination.</b></font></center></td>
-		<td><center><font size="3"><img src="/images/2021Our%20student%20in%20action.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b></b></font></center></td>
+</tbody></table>
+
+<table>
+		<tbody><tr><td><center><font size="3"><img style="width:300px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis01.jfif"><b></b></font></center></td>
+		<td><center><font size="3"><img style="width:300px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis08.jpg"><b>The passion, style and determination</b></font></center></td>
+				<td><center><font size="3"><img style="width:300px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis02.jfif"><b></b></font></center></td>
 </tr>
 </tbody></table>
 
@@ -69,11 +73,11 @@ A skillful tennis player with life-long pursuit of excellence in the sport.
 To nurture girls with the right attitudes, skills and passion for the sport.
 
 <table>
-	<tbody><tr><td><center><font size="3"><img src="/images/2021SMPS%20won%204th%20place%20in%20the%202021%20National%20School%20Games%20Tennis%20ChampionshipSenior%20Girls.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>SMS(P) won 4th place in the 2021 National School Games Tennis Championship (Senior Girls)</b></font></center></td>
-		<td><center><font size="3"><img src="/images/Picking%20up%20the%20skill%20from%20the%20coach..jpg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>Picking up the skill from the coach</b></font></center></td>
+	<tbody><tr><td><center><font size="3"><img style="width:520px;height:400px;" alt="bacalah adikku 2022" src="/images/2021SMPS%20won%204th%20place%20in%20the%202021%20National%20School%20Games%20Tennis%20ChampionshipSenior%20Girls.jpeg"><b>SMS(P) won 4th place in the 2021 National School Games Tennis Championship (Senior Girls)</b></font></center></td>
+		<td><center><font size="3"><img style="width:520px;height:400px;" alt="bacalah adikku 2022" src="/images/Picking%20up%20the%20skill%20from%20the%20coach..jpg"><b>Picking up the skill from the coach</b></font></center></td>
 </tr>
-		<tr><td><center><font size="3"><img src="/images/2021Learning%20from%20the%20coach.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>Learning from the coach</b></font></center></td>
-		<td><center><font size="3"><img src="/images/2021P3%20students%20in%20training.jpeg" alt="bacalah adikku 2022" style="width:520px;height:400px;"><b>P3 students in training</b></font></center></td>
+		<tr><td><center><font size="3"><img style="width:520px;height:400px;" alt="bacalah adikku 2022" src="/images/2021Learning%20from%20the%20coach.jpeg"><b>Learning from the coach</b></font></center></td>
+		<td><center><font size="3"><img style="width:520px;height:400px;" alt="bacalah adikku 2022" src="/images/2021P3%20students%20in%20training.jpeg"><b>P3 students in training</b></font></center></td>
 </tr>
 </tbody></table>
 
