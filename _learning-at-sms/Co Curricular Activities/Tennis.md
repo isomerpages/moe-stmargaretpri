@@ -129,6 +129,6 @@ To prepare the junior and senior teams for&nbsp; the National Games Tennis Champ
 
 <table>
 	<tbody><tr><td><center><font size="3"><img style="width:520px;height:400px;" alt="tennis 06" src="/images/CCAs/Tennis/tennis06.jfif"></font></center></td>
-		<td><center><font size="3"><img style="width:480px;height:400px;" alt="tennis 07" src="/images/CCAs/Tennis/tennis07.jfif"></font></center></td>
+		<td><center><font size="3"><img style="width:450px;height:400px;" alt="tennis 07" src="/images/CCAs/Tennis/tennis07.jfif"></font></center></td>
 </tr>
 </tbody></table>
