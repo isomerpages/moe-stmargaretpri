@@ -31,23 +31,67 @@ third_nav_title: Co Curricular Activities
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mondays </span><br><br><span style="color:#222;background-color:#FBFFFA"> Fridays</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 2 - 4 pm</span><br><br><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">External venue / foyer / 6G and 6H</span></td>
-    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mdm Mageshwari</span><br><br><span style="font-weight:400;color:#000">Ms Dinah</span></td>
+    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mdm Mageshwari</span><br><br><span style="font-weight:400;color:#000">Ms Dinah Chan</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P5 &amp; P6</span><br><br><span style="color:#222;background-color:#FBFFFA">P3 &amp; P4</span></td>
   </tr>
 </tbody>
 </table>
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 1075.6px; height: 488px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 521.966px;"><h2 style="margin: 0px 0px 10px; outline: 0px; padding: 0px; min-height: 1em; color: rgb(38, 146, 134); font-size: 25px; font-family: Oswald, sans-serif; font-weight: 500; line-height: 32.5px;">Introduction</h2><hr style="margin: 10px 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">The SMS(P) Tennis Programme serves as an avenue to promote greater interest in tennis among students of St. Margaret's.</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Through a series of training programmes prepared by our coaches, we hope to help students pick up a new skill.</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><h2 style="margin: 0px 0px 10px; outline: 0px; padding: 0px; min-height: 1em; color: rgb(38, 146, 134); font-size: 25px; font-family: Oswald, sans-serif; font-weight: 500; line-height: 32.5px; text-align: justify;">Objectives</h2><hr style="margin: 10px 0px; outline: 0px; padding: 0px; text-align: justify;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">To promote tennis as a sport</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">To build character, team spirit and responsibility</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">To develop tenacity through competitions</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">To nurture girls of the character, anchored on the values of Life-long learner, Integrity, Graciousness, Humility and Tenacity (LIGHT)</li></ul><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><h2 style="margin: 0px 0px 10px; outline: 0px; padding: 0px; min-height: 1em; color: rgb(38, 146, 134); font-size: 25px; font-family: Oswald, sans-serif; font-weight: 500; line-height: 32.5px; text-align: justify;">Vision</h2><hr style="margin: 10px 0px; outline: 0px; padding: 0px; text-align: justify;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">A skillful tennis player with life-long pursuit of excellence in the sport.</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><h2 style="margin: 0px 0px 10px; outline: 0px; padding: 0px; min-height: 1em; color: rgb(38, 146, 134); font-size: 25px; font-family: Oswald, sans-serif; font-weight: 500; line-height: 32.5px; text-align: justify;">Mission</h2><hr style="margin: 10px 0px; outline: 0px; padding: 0px; text-align: justify;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">To nurture girls with the right attitudes, skills and passion for the sport.&nbsp;</span></div><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 521.966px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 392px; height: 294px;" class="ive_eobj_center" alt="Mastering the skill.jpg" src="/images/Mastering%20the%20skill.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mastering the skill!</b></i></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 207px;" class="ive_eobj_center" alt="2021_Our student in action.jpeg" width="100%" src="/images/2021Our%20student%20in%20action.jpeg"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Our student in action</i></b></span><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 437px; height: 249px;" class="ive_eobj_center" alt="2021_SMPS won 4th place in the 2021 National School Games Tennis ChampionshipSenior Girls.jpeg" width="100%" src="/images/2021SMPS%20won%204th%20place%20in%20the%202021%20National%20School%20Games%20Tennis%20ChampionshipSenior%20Girls.jpeg"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">SMS(P) won 4th place in the 2021 National School Games Tennis Championship (Senior Girls)</i></b></span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 340px; height: 254px;" class="ive_eobj_center" alt="Picking up the skill from the coach..jpg" width="100%" src="/images/Picking%20up%20the%20skill%20from%20the%20coach..jpg"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Picking up the skill from the coach</b></i><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 457px; height: 209px;" class="ive_eobj_center" alt="2021_Learning from the coach.jpeg" width="100%" src="/images/2021Learning%20from%20the%20coach.jpeg"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Learning from the coach</i></b></span><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 341px; height: 330px;" class="ive_eobj_center" alt="2021_P3 students in training.jpeg" width="100%" src="/images/2021P3%20students%20in%20training.jpeg"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">P3 students in training</b></i></span></div></td></tr></tbody></table>
+#### Introduction
 
-  
+The SMS(P) Tennis Programme serves as an avenue to promote greater interest in tennis among students of St. Margaret's.
 
+Through a series of training programmes prepared by our coaches, we hope to help students pick up a new skill.
+
+<table>
+	<tbody><tr><td><center><font size="3"><img style="width:400px;height:300px;" alt="mastering skill" src="/images/Mastering%20the%20skill.jpg"><b>Mastering the skill!</b></font></center></td>
+		<td><center><font size="3"><img style="width:300px;height:400px;" alt="student in action" src="/images/2021Our%20student%20in%20action.jpeg"><b>Our student in action</b></font></center></td>
+</tr>
+</tbody></table>
+
+<table>
+		<tbody><tr><td><center><font size="3"><img style="width:300px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis01.jfif"></font></center></td>
+		<td><center><font size="3"><img style="width:300px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis08.jpg"><b>The passion, style and determination</b></font></center></td>
+				<td><center><font size="3"><img style="width:300px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis02.jfif"></font></center></td>
+</tr>
+</tbody></table>
+
+
+#### Objectives
+
+* To promote tennis as a sport
+* To build character, team spirit and responsibility
+* To develop tenacity through competitions
+* To nurture girls of the character, anchored on the values of **L**ife-long learner,**I**ntegrity, **G**raciousness, **H**umility and **T**enacity (LIGHT)
+
+#### Vision
+
+A skillful tennis player with life-long pursuit of excellence in the sport.
+
+#### Mission
+
+To nurture girls with the right attitudes, skills and passion for the sport.
+
+
+<table>
+	<tbody><tr><td><center><font size="3"><img style="width:550px;height:300px;" alt="bacalah adikku 2022" src="/images/2021SMPS%20won%204th%20place%20in%20the%202021%20National%20School%20Games%20Tennis%20ChampionshipSenior%20Girls.jpeg"><b>SMS(P) won 4th place in the 2021 National School Games Tennis Championship (Senior Girls)</b></font></center></td>
+</tr>
+		<tr><td><center><font size="3"><img style="width:520px;height:300px;" alt="bacalah adikku 2022" src="/images/2021Learning%20from%20the%20coach.jpeg"><b>Learning from the coach</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:400px;" alt="bacalah adikku 2022" src="/images/2021P3%20students%20in%20training.jpeg"><b>P3 students in training</b></font></center></td>
+</tr></tbody></table>
+
+<table>
+<tbody><tr><td><center><font size="3"><img style="width:400px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis05.jfif"></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis03.jfif"><b>Catch a glimpse of our<br>students
+Tennis Trainings <br>@ St Wilfred Tennis Centre</b></font></center></td>
+				<td><center><font size="3"><img style="width:400px;height:300px;" alt="bacalah adikku 2022" src="/images/CCAs/Tennis/tennis04.jfif"></font></center></td>
+</tr>
+</tbody></table>
 
 ### Target  
 
-
 To prepare the junior and senior teams for&nbsp; the National Games Tennis Championships.
 
-  
 
 ### Activities Online
 
@@ -78,8 +122,18 @@ To prepare the junior and senior teams for&nbsp; the National Games Tennis Champ
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">Tennis Junior Division Girls       <br></td>
+    <td class="tg-dgl5"> National School Games 2023<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Singles League – 2nd in position</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-dgl5">Tennis Junior Division Girls   <br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Tier 2 Green Singles: 1st Position</span></td>
   </tr>
 </tbody>
 </table>
+
+<table>
+	<tbody><tr><td><center><font size="3"><img style="width:400px;height:400px;" alt="tennis 06" src="/images/CCAs/Tennis/tennis06.jfif"></font></center></td>
+		<td><center><font size="3"><img style="width:350px;height:400px;" alt="tennis 07" src="/images/CCAs/Tennis/tennis07.jfif"></font></center></td>
+</tr>
+</tbody></table>
