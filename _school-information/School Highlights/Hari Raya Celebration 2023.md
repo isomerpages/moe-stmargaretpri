@@ -14,11 +14,8 @@ In addition to the short skit, video montages of students from different races t
 
 <table>
 <tbody><tr>
-		<td><img alt="jamboree01" src="/images/P2 Level Camp 2023/p2camp_01.JPG" style="width:500px;height:300px;"> </td>
-		<td><img alt="jamboree02" src="/images/P2 Level Camp 2023/p2camp_02.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="hariraya01" src="/images/Hari%20Raya%20Celebration%202023/our%20talented%20performers.JPG" style="width:500px;height:300px;">Performance by P6 girls </td>
 </tr></tbody></table>
-
-
 
 The skit ended with a wonderful sing and dance performance by the Primary 6 Malay students.
 
