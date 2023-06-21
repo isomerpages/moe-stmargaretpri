@@ -12,10 +12,14 @@ In May, the Primary 6 students went on a learning journey to the Asian Civilisat
 
 While they were there, the students viewed goods found in a shipwreck that was discovered in the region. They also deduced how trade around the Singapore River was like in the past after viewing some pictures of the objects found. The students learnt about some customs and traditions, and saw how people in Southeast Asia adapted to its climate and wildlife.
 
+<table>
+<tbody><tr>
+		<td><img alt="jamboree01" src="/images/P2 Level Camp 2023/p2camp_01.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="jamboree02" src="/images/P2 Level Camp 2023/p2camp_02.JPG" style="width:500px;height:300px;"> </td>
+</tr></tbody></table>
+
 
 
 Through the stories shared, students understood the cultural and historical ties that had influence on the countries in Southeast Asia and explored how Singapore’s cultural heritage has evolved over time.
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ak7hsmxyBhE" height="415" width="700"></iframe></center>
-
-
