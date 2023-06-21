@@ -4,7 +4,7 @@ permalink: /school-information/school-highlights/p6lj-asianmuseum-2023/
 description: ""
 third_nav_title: School Highlights
 ---
-### P6 SS Learning Journey to Asian Civilisations Museum (ACM)
+### P6 Social Studies Learning Journey to Asian Civilisations Museum (ACM)
 
 ##### 15, 17 and 23 May 2023
 
