@@ -20,6 +20,17 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 		<tr>
+			<td><a href="/school-information/school-highlights/p3-tea-2023/"><img src="" alt="p3tea2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/mtl-fortnight-2023/"><img src="/images/Thumbnails/mtl%20thumb_01.jpg" alt="mtlfortnight" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/p6lj-asianmuseum-2023/"><img src="/images/Thumbnails/p6lj%20asianmuseum%20thumb_01.jpg" alt="p6ljasianmuseum2023" style="width:250px;height:170px;"> </a></td>
+			
+</tr>
+		<tr>
+			<th><center></center></th> 
+		<th><center> Student Learning Festival 2023</center></th> 
+		<th><center> S5 Cluster TL Programme 2023</center></th> 
+</tr>
+		<tr>
 			<td><a href="/school-information/school-highlights/p3-tea-2023/"><img src="/images/Thumbnails/p3tea%20thumb_01.jpg" alt="p3tea2023" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/mtl-fortnight-2023/"><img src="/images/Thumbnails/mtl%20thumb_01.jpg" alt="mtlfortnight" style="width:250px;height:170px;"> </a></td>
 			<td><a href="/school-information/school-highlights/p6lj-asianmuseum-2023/"><img src="/images/Thumbnails/p6lj%20asianmuseum%20thumb_01.jpg" alt="p6ljasianmuseum2023" style="width:250px;height:170px;"> </a></td>
