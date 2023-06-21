@@ -18,6 +18,8 @@ In addition to the short skit, video montages of students from different races t
 		<td><img alt="jamboree02" src="/images/P2 Level Camp 2023/p2camp_02.JPG" style="width:500px;height:300px;"> </td>
 </tr></tbody></table>
 
+
+
 The skit ended with a wonderful sing and dance performance by the Primary 6 Malay students.
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2X82VqoL094" height="415" width="700"></iframe></center>
