@@ -12,10 +12,8 @@ This year’s Hari Raya celebration is based on a short skit performed by our ta
 
 In addition to the short skit, video montages of students from different races trying out the Malay traditional outfits during the recess activity and students wishing their Muslim friends ‘Selamat Hari Raya’ in the Malay Language were shown to the school.
 
-<table>
-<tbody><tr>
-		<td><img alt="hariraya01" src="/images/Hari%20Raya%20Celebration%202023/our%20talented%20performers.JPG" style="width:500px;height:300px;"><b>Performance by P6 girls </b></td>
-</tr></tbody></table>
+![](/images/Hari%20Raya%20Celebration%202023/our%20talented%20performers.JPG)
+**Performance by P6 girls**
 
 The skit ended with a wonderful sing and dance performance by the Primary 6 Malay students.
 
