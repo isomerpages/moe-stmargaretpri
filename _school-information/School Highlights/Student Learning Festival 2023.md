@@ -17,8 +17,8 @@ The Primary 5 students learnt how to code to produce an embroidered coaster with
 
 <table>
 <tbody><tr>
-		<td><img alt="jamboree01" src="/images/P2 Level Camp 2023/p2camp_01.JPG" style="width:500px;height:300px;"> </td>
-		<td><img alt="jamboree02" src="/images/P2 Level Camp 2023/p2camp_02.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="p5coding01" src="/images/SLF%202023/p5%20coding%20-%20sewing%20our%20design%20code.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="p6spin01" src="/images/SLF%202023/p6%20plate%20spinning%20-%20proud%20to%20successfully%20spin%20our%20plates!.JPG" style="width:500px;height:300px;"> </td>
 </tr></tbody></table>
 
 Other levels picked up skills from their teachers such as making ice-cream stick treasure boxes, Kumihimo bracelets, Macramé keychains and even life skills such as learning to fold clothing and plastic bags. Students shared that they learnt to put into practice the values of tenacity and patience as the skills they were learning required them to keep persevering and trying. Many also displayed the values of charity and graciousness as they assisted their peers who needed more time and guidance to master the new skills.
