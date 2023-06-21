@@ -17,14 +17,12 @@ These are the activities that the students participated for holistic learning.
 <br>
 <br>
 
-
-
 <table>
 	<tbody>
 		<tr>
-			<td><a href="/school-information/school-highlights/hari-raya-celebration-2023"><img src="/images/Thumbnails/hariraya%20thumb_01.jpg" alt="hariraya01" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/p5-camp-2023/"><img src="/images/Thumbnails/p5camp%20thumb_01.jpg" alt="p5camp01" style="width:250px;height:170px;"> </a></td>
-			<td><a href="/school-highlights/p2-level-camp-2023/"><img src="/images/Thumbnails/p2camp_thumb.jpg" alt="p2camp2023" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/hari-raya-celebration-2023"><img src="/images/Thumbnails/p3tea%20thumb_01.jpg" alt="p3tea2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p5-camp-2023/"><img src="/images/Thumbnails/mtl%20thumb_01.jpeg" alt="mtlfortnight" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-highlights/p2-level-camp-2023/"><img src="/images/Thumbnails/p6lj%20asianmuseum%20thumb_01.jpg" alt="p6ljasianmuseum2023" style="width:250px;height:170px;"> </a></td>
 			
 </tr>
 		<tr>
