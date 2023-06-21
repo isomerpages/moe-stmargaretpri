@@ -28,7 +28,7 @@ These are the activities that the students participated for holistic learning.
 		<tr>
 			<th><center>P3 TEA 2023</center></th> 
 		<th><center> MT Fortnight 2023</center></th> 
-		<th><center> P6 Learning Journey to Asian Civilisation Museum 2023 </center></th> 
+		<th><center> P6 Learning Journey to ACM 2023 </center></th> 
 </tr>
 		<tr>
 			<td><a href="/school-information/school-highlights/hari-raya-celebration-2023"><img src="/images/Thumbnails/hariraya%20thumb_01.jpg" alt="hariraya01" style="width:250px;height:170px;"></a></td>
