@@ -14,8 +14,8 @@ While they were there, the students viewed goods found in a shipwreck that was d
 
 <table>
 <tbody><tr>
-		<td><img alt="jamboree01" src="/images/P6%20LJ%20ACM%202023/learning%20about%20the%20people_s%20way%20of%20life.JPG" style="width:500px;height:300px;"> </td>
-		<td><img alt="jamboree02" src="/images/P6%20LJ%20ACM%202023/looking%20at%20some%20of%20the%20changsha%20bowls%20(2).jpg" style="width:500px;height:300px;"> </td>
+		<td><img alt="jamboree01" src="/images/P6%20LJ%20ACM%202023/learning%20about%20the%20people_s%20way%20of%20life.JPG" style="width:500px;height:300px;"><b>Learning about the people's way of life </b> </td>
+		<td><img alt="jamboree02" src="/images/P6%20LJ%20ACM%202023/looking%20at%20some%20of%20the%20changsha%20bowls%20(2).jpg" style="width:500px;height:300px;"><b>Looking at the Changsha bowls </b> </td>
 </tr></tbody></table>
 
 Through the stories shared, students understood the cultural and historical ties that had influence on the countries in Southeast Asia and explored how Singapore’s cultural heritage has evolved over time.
