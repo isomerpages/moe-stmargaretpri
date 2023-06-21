@@ -20,8 +20,8 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 		<tr>
-			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></td>
-			<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"> </td>
+			<td><a href="/school-highlights/hari-raya-celebration-2023/"><img src="/images/Thumbnails/hariraya%20thumb_01.jpg" alt="hariraya01" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-highlights/p5-camp-2023/"><img src="/images/Thumbnails/p5camp%20thumb_01.jpg" alt="p5camp01" style="width:250px;height:170px;"> </a></td>
 			<td><a href="/school-highlights/p2-level-camp-2023/"><img src="/images/Thumbnails/p2camp_thumb.jpg" alt="p2camp2023" style="width:250px;height:170px;"> </a></td>
 			
 </tr>
