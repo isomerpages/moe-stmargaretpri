@@ -26,7 +26,7 @@ These are the activities that the students participated for holistic learning.
 			
 </tr>
 		<tr>
-			<th><center>Hari Raya Celebrations</center></th> 
+			<th><center>Hari Raya Celebration 2023</center></th> 
 		<th><center> P5 Level Camp 2023</center></th> 
 		<th><center> P2 Level Camp 2023 </center></th> 
 </tr>
