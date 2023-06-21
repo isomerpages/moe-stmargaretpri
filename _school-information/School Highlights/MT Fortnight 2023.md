@@ -12,8 +12,8 @@ There were exciting and meaningful activities held during MT Fortnight in our sc
 
 <table>
 <tbody><tr>
-		<td><img alt="jamboree02" src="/images/MT%20Fortnight%202023/tamildance.jpg" style="width:500px;height:300px;"> </td>
-		<td><img alt="jamboree02" src="/images/MT%20Fortnight%202023/img_2752.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="jamboree02" src="/images/MT%20Fortnight%202023/tamildance.jpg" style="width:500px;height:300px;"><b>Kolattam Dance </b></td>
+		<td><img alt="jamboree02" src="/images/MT%20Fortnight%202023/img_2752.JPG" style="width:500px;height:300px;"><b>Kite Making </b></td>
 </tr></tbody></table>
 
 During MT Fortnight, students not only learned about their own culture, but also developed an understanding of diverse cultures in Singapore. By learning about other cultures, students broaden their perspectives and embrace the value of diversity. This helped them foster an open-minded and inclusive mindset, allowing them to become respectful global citizens.
