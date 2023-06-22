@@ -6,7 +6,6 @@ third_nav_title: School Highlights
 ---
 ### Amazing Race
 
-##### 
 
 The South Zone cluster schools came together and conducted the S5 cluster Tamil competition for the P5 students. We selected a few primary five students to participate in the competition. Our girls had a great time working collaboratively with the students from other schools and participated in various activities. Our school also had an activity station in the amazing race. Students enjoyed those activities. 
 

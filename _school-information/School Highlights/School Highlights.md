@@ -20,8 +20,8 @@ These are the activities that the students participated for holistic learning.
 	<tbody>
 		<tr>
 			<td><a href=""><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/mtl-fortnight-2023/"><img src="/images/Thumbnails/slf%20thumb_01.jpg" alt="slf2023" style="width:250px;height:170px;"> </a></td>
-			<td><a href="/school-information/school-highlights/p6lj-asianmuseum-2023/"><img src="/images/Thumbnails/s5clustertamil%20thumb_01.jpg" alt="s5clustertamil2023" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/student-learning-festival-2023/"><img src="/images/Thumbnails/slf%20thumb_01.jpg" alt="slf2023" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/s5-cluster-tamil-prg-2023/"><img src="/images/Thumbnails/s5clustertamil%20thumb_01.jpg" alt="s5clustertamil2023" style="width:250px;height:170px;"> </a></td>
 			
 </tr>
 		<tr>
