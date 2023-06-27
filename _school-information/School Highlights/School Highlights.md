@@ -25,7 +25,7 @@ These are the activities that the students participated for holistic learning.
 			
 </tr>
 		<tr>
-			<th><center>P3 Learning Journey to Giant Hypermarket 2023</center></th> 
+			<th><center>P3 Learning Journey to Hypermarket 2023</center></th> 
 		<th><center> Student Learning Festival 2023</center></th> 
 		<th><center> S5 Cluster TL Programme 2023</center></th> 
 </tr>
