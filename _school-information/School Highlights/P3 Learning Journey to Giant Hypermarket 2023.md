@@ -25,3 +25,6 @@ The students were also given opportunities to read nutrition panels on cereal bo
 Lastly, the students were able to purchase their own healthy snack with a budget of $5 and make the payment independently at the cashiers.
 
 It was a meaningful day for the P3 students indeed!
+
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nPbE5foGcOM" height="415" width="700"></iframe></center>
