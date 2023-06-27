@@ -14,8 +14,8 @@ The students were given tasks to complete and they had to make decisions on the 
 
 <table>
 <tbody><tr>
-		<td><img alt="p3ljgiant01" src="/images/P3%20LJ%20to%20Giant%202023/exploring%20brown%20sugar.jpg" style="width:500px;height:300px;"> </td>
-		<td><img alt="p3ljgiant02" src="/images/P3%20LJ%20to%20Giant%202023/which%20milk%20should%20we%20get.jpg" style="width:470px;height:400px;"> </td>
+		<td><img alt="p3ljgiant01" src="/images/P3%20LJ%20to%20Giant%202023/exploring%20brown%20sugar.jpg" style="width:500px;height:300px;"> <b>Exploring brown sugar! </b></td>
+		<td><img alt="p3ljgiant02" src="/images/P3%20LJ%20to%20Giant%202023/which%20milk%20should%20we%20get.jpg" style="width:470px;height:400px;"><b> Which milk should we get? </b></td>
 </tr></tbody></table>
 
 The students also explored food from other countries and learnt about currency. They also went on home later that day and explored food items in their own pantry that came from our neighbouring countries. 
