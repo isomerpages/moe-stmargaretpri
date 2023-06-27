@@ -12,7 +12,11 @@ The P3 students spent a fruitful and enjoyable day at the Giant Hypermarket to h
 
 The students were given tasks to complete and they had to make decisions on the best sugar, eggs and milk to use to make a cake. “Should we get the bigger packet or the smaller packet of sugar? Do we get white sugar or brown sugar? Should we get oat milk or full cream milk? Do we get cheaper ones or do we buy the most expensive ones?” The students were engaged in deep mathematical conversations with their teachers and classmates as they explored what items are best to purchase.
 
-
+<table>
+<tbody><tr>
+		<td><img alt="p3ljgiant01" src="/images/P3%20LJ%20to%20Giant%202023/exploring%20brown%20sugar.jpg" style="width:500px;height:300px;"> </td>
+		<td><img alt="p3ljgiant02" src="/images/P3%20LJ%20to%20Giant%202023/which%20milk%20should%20we%20get.jpg" style="width:500px;height:400px;"> </td>
+</tr></tbody></table>
 
 The students also explored food from other countries and learnt about currency. They also went on home later that day and explored food items in their own pantry that came from our neighbouring countries. 
 
