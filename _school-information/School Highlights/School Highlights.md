@@ -57,7 +57,7 @@ These are the activities that the students participated for holistic learning.
 			<td><a href="/school-highlights/sports-jamboree-2023/"><img src="/images/Thumbnails/sportsjamboree_thumb.jpg" alt="sports jamboree" style="width:250px;height:170px;"> </a></td>
 </tr>	
 		<tr>
-		<th><center>International Friendship Day 2023</center></th> 
+		<th><center>International Friendship <br>Day 2023</center></th> 
 		<th><center> P4 Learning Journey to Kreta Ayer 2023 </center></th> 
 		<th><center> Sports Jamboree 2023 </center></th> 
 </tr>
