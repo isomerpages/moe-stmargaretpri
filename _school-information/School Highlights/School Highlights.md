@@ -19,13 +19,13 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 		<tr>
-			<td><a href=""><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p3-lj-hypermarket-2023/"><img src="/images/Thumbnails/p3%20lj%20giant_thumb.jpg" alt="p3ljgiant" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/student-learning-festival-2023/"><img src="/images/Thumbnails/slf%20thumb_01.jpg" alt="slf2023" style="width:250px;height:170px;"> </a></td>
 			<td><a href="/school-information/school-highlights/s5-cluster-tamil-prg-2023/"><img src="/images/Thumbnails/s5clustertamil%20thumb_01.jpg" alt="s5clustertamil2023" style="width:250px;height:170px;"> </a></td>
 			
 </tr>
 		<tr>
-			<th><center>P3 Learning Journey to Giant Hypermarket 2023</center></th> 
+			<th><center>P3 Learning Journey to Hypermarket 2023</center></th> 
 		<th><center> Student Learning Festival 2023</center></th> 
 		<th><center> S5 Cluster TL Programme 2023</center></th> 
 </tr>
@@ -47,7 +47,7 @@ These are the activities that the students participated for holistic learning.
 			
 </tr>
 		<tr>
-			<th><center>Hari Raya Celebration 2023</center></th> 
+			<th><center>Hari Raya Celebration <br>2023</center></th> 
 		<th><center> P5 Level Camp 2023</center></th> 
 		<th><center> P2 Level Camp 2023 </center></th> 
 </tr>
@@ -57,7 +57,7 @@ These are the activities that the students participated for holistic learning.
 			<td><a href="/school-highlights/sports-jamboree-2023/"><img src="/images/Thumbnails/sportsjamboree_thumb.jpg" alt="sports jamboree" style="width:250px;height:170px;"> </a></td>
 </tr>	
 		<tr>
-		<th><center>International Friendship Day 2023</center></th> 
+		<th><center>International Friendship <br>Day 2023</center></th> 
 		<th><center> P4 Learning Journey to Kreta Ayer 2023 </center></th> 
 		<th><center> Sports Jamboree 2023 </center></th> 
 </tr>
