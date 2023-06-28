@@ -13,7 +13,7 @@ description: ""
 </tr>
 </tbody></table>
 		
-![](/images/Calendar%202023/term3%20for%20website_01.jpg)		
+![](/images/Calendar%202023/term3%20for%20website_01.jpg)
 ![](/images/Calendar%202023/term3%20for%20website_02.jpg)
 		
 <font size="3">  
