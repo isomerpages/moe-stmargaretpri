@@ -736,10 +736,6 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Lee Hwee Peng </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
-  </tr>
-  <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Binte Johari</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
