@@ -672,7 +672,7 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 CHARITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Ong Shilin, Shirley (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Kok Meixia Michelle (Ms)</span><br><span style="color:#222">Lee Wah (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Kok Meixia Michelle (Ms)</span><br><span style="color:#222">Chan Siew Kheng Dinah (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 GRACIOUSNESS </span></td>
@@ -682,7 +682,7 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ng Weiling Samantha (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br>Chow Wai Mun (Ms)</td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 INTEGRITY </span></td>
