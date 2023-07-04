@@ -530,7 +530,7 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 INTEGRITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Daphne Cheng Lai Peng (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Denise Dio (Mrs Cheong)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Dharshini (Ms)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 TENACITY</span></td>
