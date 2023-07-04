@@ -601,12 +601,12 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 GRACIOUSNESS </span></td>
     <td class="tg-fxx4"><span style="color:#222">Ng Xing Hwee (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Shahirah Bte Mohd Shariff (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Shahirah Bte Mohd Shariff (Mdm)</span><br>Leong Whye Ting Serene (Mrs)</td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 HUMILITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Lim Shurong (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Goh Bee Ling (Mrs Ong)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Goh Bee Ling (Mrs Ong)<br>Ravinderjit Kaur Narula (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 INTEGRITY</span></td>
@@ -616,7 +616,7 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm) (LM)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Christina Yong Yuen Fang (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Sim Liyang (Mr)</span></td>
   </tr>
 </tbody>
 </table>
