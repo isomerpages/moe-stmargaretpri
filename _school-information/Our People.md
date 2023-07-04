@@ -359,12 +359,12 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 GRACIOUSNESS</span></td>
     <td class="tg-fxx4"><span style="color:#222">Grace Tang (Mdm) (LM)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)<br>Poon Chye Hong Bernice (Mrs)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Esther James (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Lin Qiuhan Catherine (Mrs)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
@@ -374,7 +374,7 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 PATIENCE </span></td>
     <td class="tg-fxx4"><span style="color:#222">Chan Mei Sze (Mrs Lim)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Siew Kheng Dinah (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 TENACITY </span></td>
