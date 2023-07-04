@@ -56,7 +56,7 @@ description: ""
 <td><font size="4">10 years Award </font></td>
 </tr>
 <tr>
-		<td><font size="4">Mdm Shahirah Binte Monhamed Shariff </font></td>
+		<td><font size="4">Mdm Shahirah Binte Mohd Shariff </font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">10 years Award </font></td>
 </tr>
