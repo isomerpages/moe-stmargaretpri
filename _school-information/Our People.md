@@ -435,13 +435,13 @@ Zhang Miao (Mr) </span><br></td>
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) <br> S Kanimozhi (Mrs Ganesh)</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Jamilah Bee Bte Mohamed Ghani (Mdm)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 GRACIOUSNESS</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ngoh Moon Geok (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Nur Azah Bte Kaulan (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
