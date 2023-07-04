@@ -297,7 +297,8 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Shiem Shan Shan (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">
+Zhang Miao (Mr) </span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Sara George (Ms)</span><br><span style="color:#222">Alaghimanavalan Sarala Devi (Mdm)</span><br></td>
   </tr>
 </tbody>
