@@ -3,6 +3,82 @@ title: Staff Achievements
 permalink: /achievements/staff-achievements/
 description: ""
 ---
+### 2023 Achievements
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     MOE Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr> 
+<tr>
+		<td><font size="4">Ms George Sara </font></td>
+		<td><font size="4">Year Head (P1 &amp; P2)</font></td>
+<td><font size="4">30 years Award </font></td>
+</tr>
+		<tr>
+		<td><font size="4">Ms Lim Bee Leng </font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">30 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Loganathan Mageshwari </font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">25 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Tan Cher Lang </font></td>
+		<td><font size="4">Vice Principal Admin</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Esther James </font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Low Wei Wen </font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Zhuang Siqiao </font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Yong Yuen Fang Christina </font></td>
+		<td><font size="4">Assistant Year Head</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Shahirah Binte Mohd Shariff </font></td>
+		<td><font size="4">LH (Maths)</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mr Jamaludin Bin A Rahman </font></td>
+		<td><font size="4">Operation Support Officer</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+
+<tr>
+		<td><font size="4">Mdm Rajkumar Geetha </font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">5 years Award </font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mdm Nur Syafawati Binte Roslan </font></td>
+		<td><font size="4">Corporate Support Officer</font></td>
+<td><font size="4">5 years Award </font></td>
+</tr>
+</tbody></table>
+
+
 ### 2022 Achievements
 <table>
 	<tbody><tr>
