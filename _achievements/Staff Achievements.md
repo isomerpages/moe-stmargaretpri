@@ -62,7 +62,7 @@ description: ""
 </tr>
 <tr>
 		<td><font size="4">Mr Jamaludin Bin A Rahman </font></td>
-		<td><font size="4">OSO</font></td>
+		<td><font size="4">Operation Support Officer</font></td>
 <td><font size="4">10 years Award </font></td>
 </tr>
 
@@ -73,7 +73,7 @@ description: ""
 </tr>
 		<tr>
 		<td><font size="4">Mdm Nur Syafawati Binte Roslan </font></td>
-		<td><font size="4">CSO</font></td>
+		<td><font size="4">Corporate Support Officer</font></td>
 <td><font size="4">5 years Award </font></td>
 </tr>
 </tbody></table>
