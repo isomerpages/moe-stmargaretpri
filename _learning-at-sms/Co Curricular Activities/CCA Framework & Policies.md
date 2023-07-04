@@ -97,7 +97,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/netball"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (School Team)</span></td>
     <td class="tg-dgl5"><br><span style="background-color:initial">Mondays </span><br><span style="background-color:initial">&amp; Fridays</span><br><br></td>
-    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Mdm Madeline Koo*</span><br><br><span style="font-weight:400;color:#000">Mdm Lew Nyet Mee (P3 &amp; 4 development)</span><br><span style="font-weight:400;color:#000">Mr Derek Wong  (P5 and 6 development)</span><br><span style="font-weight:400;color:#000">Ms Wang Peiqi (P5 and 6 school team)</span></td>
+    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Mdm Madeline Koo*</span><br><br><span style="font-weight:400;color:#000">Mdm Lew Nyet Mee (P3 &amp; P4 development)</span><br><span style="font-weight:400;color:#000">Ms Tiffany Goh (P5 and P6 development)</span><br><span style="font-weight:400;color:#000">Ms Wang Peiqi (P5 and P6 school team)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Parade Square</span></td>
   </tr>
   <tr>
@@ -169,7 +169,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/uniformed-groups/brownies"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Brownies</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Fridays</span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Ms Eileen Goh*</span><br><br><span style="font-weight:400;color:#000">Ms Ng Xing Hwee </span><br><span style="font-weight:400;color:#000">Ms Azah Kaulan</span><br><span style="font-weight:400;color:#000">Ms Shiem Shan Shan</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Ms Eileen Goh*</span><br><br><span style="font-weight:400;color:#000">Ms Ng Xing Hwee </span><br><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok</span><br><span style="font-weight:400;color:#000">Ms Amelia Leong</span><br>Ms Shiem Shan Shan (till July)</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2G, 2I, 2P, 2C classroom</span></td>
   </tr>
   <tr>
