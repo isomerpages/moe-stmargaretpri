@@ -15,8 +15,8 @@ The Science teachers also extended the girls’ learning by exploring the proper
 
 <table>
 <tbody><tr>
-		<td><img alt="p3ljifly01" src="/images/P3%20LJ%20IFLY%202023/img_0455.JPG" style="width:200px;height:300px;"> </td>
-		<td><img alt="p3ljifly02" src="/images/P3%20LJ%20IFLY%202023/watch%20me%20fly%2002.jpeg" style="width:200px;height:300px;"> </td>
+		<td><img alt="p3ljifly01" src="/images/P3%20LJ%20IFLY%202023/img_0455.JPG" style="width:250px;height:300px;"> </td>
+		<td><img alt="p3ljifly02" src="/images/P3%20LJ%20IFLY%202023/watch%20me%20fly%2002.jpeg" style="width:250px;height:300px;"> </td>
 </tr></tbody></table>
 
 The tour started with a video on the introduction to indoor skydiving and skydiving. This allowed the girls to understand the foundational information about it. This was followed by a visit to the fan deck. They went through a flight safety training and a dry run of the basic belly fly position. The girls proceeded to do warm-up exercises before gearing up in the flight suits and other safety equipment. After this, they took flight and practice their belly fly position in the wind tunnel!
