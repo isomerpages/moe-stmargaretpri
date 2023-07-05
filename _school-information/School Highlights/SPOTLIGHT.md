@@ -12,8 +12,8 @@ In a glorious celebration of talent, creativity, and teamwork, the SPOTLIGHT per
 
 <table>
 <tbody><tr>
-		<td><img alt="p5coding01" src="/images/SLF%202023/p5%20coding%20-%20sewing%20our%20design%20code.JPG" style="width:500px;height:300px;"> </td>
-		<td><img alt="p6spin01" src="/images/SLF%202023/p6%20plate%20spinning%20-%20proud%20to%20successfully%20spin%20our%20plates!.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="choirspotlight" src="/images/SPOTLIGHT%202023/chinese%20dance_01.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="dancersspotlight" src="/images/SPOTLIGHT%202023/junior%20dancers%20from%20international%20dance_02.JPG" style="width:500px;height:300px;"> </td>
 </tr></tbody></table>
 
-This performance served as a testament to the unifying power of the arts, bringing together students from diverse backgrounds and talents. The months of rigorous rehearsals fostered a strong sense of camaraderie and collaboration, creating lifelong memories and forging lasting friendships. 
+This performance served as a testament to the unifying power of the arts, bringing together students from diverse backgrounds and talents. The months of rigorous rehearsals fostered a strong sense of camaraderie and collaboration, creating lifelong memories and forging lasting friendships.
