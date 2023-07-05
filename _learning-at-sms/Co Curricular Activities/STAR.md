@@ -30,7 +30,7 @@ third_nav_title: Co Curricular Activities
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2.00 pm -</span><br><span style="color:#222;background-color:#FBFFFA">4.00 pm</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Library</span></td>
-    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mrs Adeline Ang (OIC)</span><br><span style="font-weight:400;color:#000">Mdm Lee Bee Leng</span><br><span style="font-weight:400;color:#000">Ms Angel Chan (Advisor)</span><br></td>
+    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mrs Adeline Ang (OIC)</span><br><span style="font-weight:400;color:#000">Mdm Lee Bee Leng</span><br><span style="font-weight:400;color:#000">Mr Sim Li Yang</span><br><span style="font-weight:400;color:#000">Ms Angel Chan (Advisor)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P4 - P6</span></td>
   </tr>
 </tbody>
