@@ -12,8 +12,8 @@ In a glorious celebration of talent, creativity, and teamwork, the SPOTLIGHT per
 
 <table>
 <tbody><tr>
-		<td><img alt="choirspotlight" src="/images/SPOTLIGHT%202023/chinese%20dance_01.JPG" style="width:500px;height:280px;"> </td>
-		<td><img alt="dancersspotlight" src="/images/SPOTLIGHT%202023/junior%20dancers%20from%20international%20dance_02.JPG" style="width:500px;height:280px;"> </td>
+		<td><img alt="choirspotlight" src="/images/SPOTLIGHT%202023/chinese%20dance_01.JPG" style="width:500px;height:280px;"><b>Chinese Dance</b></td>
+		<td><img alt="dancersspotlight" src="/images/SPOTLIGHT%202023/junior%20dancers%20from%20international%20dance_02.JPG" style="width:500px;height:280px;"><b>International Dance (Junior)</b> </td>
 </tr></tbody></table>
 
 This performance served as a testament to the unifying power of the arts, bringing together students from diverse backgrounds and talents. The months of rigorous rehearsals fostered a strong sense of camaraderie and collaboration, creating lifelong memories and forging lasting friendships.
