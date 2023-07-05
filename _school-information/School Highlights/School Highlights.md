@@ -14,10 +14,24 @@ These are the activities that the students participated for holistic learning.
 * ##### [Term 1 Montage 2023](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
 2. ####  Featured Events
 
+
+![](/images/Thumbnails/p3ljifly_thumb.jpg)
+![](/images/Thumbnails/spotlight_thumb.jpg)
+
 <br>
 <br>
 <table>
 	<tbody>
+				<tr>
+			<td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></td>
+			<td><a href="/school-information/school-highlights/spotlight-2023/"><img src="/images/Thumbnails/spotlight_thumb.jpg" alt="slf2023" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/p3lj-ifly-2023/"><img src="/images/Thumbnails/p3ljifly_thumb.jpg" alt="s5clustertamil2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>P3 Learning Journey to Singapore Zoo 2023</center></th> 
+		<th><center>SPOTLIGHT</center></th> 
+		<th><center>P3 Level Camp 2023</center></th> 
+</tr>
 		<tr>
 			<td><a href="/school-information/school-highlights/p3-lj-hypermarket-2023/"><img src="/images/Thumbnails/p3%20lj%20giant_thumb.jpg" alt="p3ljgiant" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/student-learning-festival-2023/"><img src="/images/Thumbnails/slf%20thumb_01.jpg" alt="slf2023" style="width:250px;height:170px;"> </a></td>
