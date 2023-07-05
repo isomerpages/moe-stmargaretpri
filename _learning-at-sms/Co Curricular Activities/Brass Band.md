@@ -51,14 +51,20 @@ SMS(P) Brass Band plays music of different genres including classical and pop mu
 ### Activities
 ____________________________________________________________
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 875px; height: 728px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 428px; height: 323px;" class="ive_eobj_left" alt="2021_band01.jpg" width="100%" src="/images/2021_band01.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 255px; height: 341px;" class="ive_eobj_center" alt="2021_band02.jpg" src="/images/2021_band02.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px;"><font style="margin: 0px; outline: 0px; padding: 0px;" size="4">Blowing balloon is an interesting way to learn how to blow into wind instruments.&nbsp;</font></i></b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 426px; height: 238px;" class="ive_eobj_center" alt="2021_band03.jpg" width="100%" src="/images/CCAs/Brass%20Band/band%20pic%201.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 307px;" class="ive_eobj_center" alt="2021_band04.jpg" width="100%" src="/images/CCAs/Brass%20Band/band%20pic%202.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Performance for the Singapore Youth Festival Band Jamboree 2019</i></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;</td></tr></tbody></table>
+<table>
+<tbody><tr>
+		<td><img alt="choirspotlight" src="/images/2021_band01.jpg" style="width:500px;height:280px;"><b>Blowing balloon is an interesting way to learn how to blow into wind instruments.</b></td>
+		<td><img alt="dancersspotlight" src="/images/2021_band02.jpg" style="width:500px;height:280px;"><b></b> </td>
+</tr></tbody></table>
+
 
 
 ### Performance for SPOTLIGHT 2023
 ____________________________________________________________
 
+<table>
+<tbody><tr>
+		<td><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/band%20pic%201.jpg" style="width:500px;height:280px;"><b></b></td>
+		<td><img src="/images/CCAs/Brass%20Band/band%20pic%202.jpg" style="width:500px;height:280px;"><b></b> </td>
+</tr></tbody></table>
 
-
-
-![](/images/CCAs/Brass%20Band/band%20pic%201.jpg)
-![](/images/CCAs/Brass%20Band/band%20pic%202.jpg)
