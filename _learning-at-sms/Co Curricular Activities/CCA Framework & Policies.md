@@ -91,7 +91,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/bowling"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Bowling</span></a></td>
     <td class="tg-7yig"><span style="background-color:initial">Mondays </span><br><span style="background-color:initial">&amp; Fridays</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Md Abigail</span><br><span style="color:#000;background-color:#FFF">Ms Dinah Chan</span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Md Abigail</span><br><span style="color:#000;background-color:#FFF">Ms Dinah Chan</span><br><span style="color:#000;background-color:#FFF">Ms Dharshini</span><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">External venue / outside library / 5H, 5T and 6C classroom</span><br></td>
   </tr>
   <tr>
