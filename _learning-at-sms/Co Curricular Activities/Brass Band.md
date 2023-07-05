@@ -67,4 +67,3 @@ ____________________________________________________________
 		<td><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/band%20pic%201.jpg" style="width:500px;height:280px;"><b></b></td>
 		<td><img src="/images/CCAs/Brass%20Band/band%20pic%202.jpg" style="width:500px;height:280px;"><b></b> </td>
 </tr></tbody></table>
-
