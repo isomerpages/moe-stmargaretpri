@@ -159,7 +159,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/international-dance"><span style="font-weight:500;text-decoration:underline;color:#2A5629">International Dance</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays  &amp; Fridays</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm Xu Yan* </span><br><span style="color:#000;background-color:#FFF">Mrs Yu Chen Shuang</span><br><span style="color:#000;background-color:#FFF">Ms Nadine</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm Xu Yan* </span><br><span style="color:#000;background-color:#FFF">Mrs Yu Chen Shuang</span><br><span style="color:#000;background-color:#FFF">Ms Nadine</span><br><span style="color:#000;background-color:#FFF">Ms Ong Cheng Bing (Friday)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">PAL Room, Music Room 1</span><br><span style="color:#000;background-color:#FFF">&amp; 2  </span></td>
   </tr>
   <tr>
