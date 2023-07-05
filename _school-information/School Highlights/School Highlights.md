@@ -13,6 +13,7 @@ These are the activities that the students participated for holistic learning.
 1. #### To Learn and Grow : 
 * ##### [Term 2 Montage 2023](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
 * ##### [Term 1 Montage 2023](/school-highlights/to-learn-and-grow/) <font size="3" color="red"></font>
+
 2. ####  Featured Events
 
 <br>
