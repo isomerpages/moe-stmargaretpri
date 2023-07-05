@@ -17,3 +17,5 @@ In a glorious celebration of talent, creativity, and teamwork, the SPOTLIGHT per
 </tr></tbody></table>
 
 This performance served as a testament to the unifying power of the arts, bringing together students from diverse backgrounds and talents. The months of rigorous rehearsals fostered a strong sense of camaraderie and collaboration, creating lifelong memories and forging lasting friendships.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/04cltJBtx2M" height="415" width="700"></iframe></center>
