@@ -81,7 +81,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/clubs-and-societies/star"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Star</span></a><span style="color:#000;background-color:#FFF"> (Formerly Learning Haven)</span></td>
     <td class="tg-ktyi">Fridays</td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Adeline Ang*</span><br><span style="font-weight:400;color:#000">Mrs Lee Bee Leng</span><br><span style="font-weight:400;color:#000">Mrs Angel Chan (Advisor)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Adeline Ang*</span><br><span style="font-weight:400;color:#000">Mrs Lee Bee Leng</span><br><span style="font-weight:400;color:#000">Mr Sim Li Yang</span><br><span style="font-weight:400;color:#000">Mrs Angel Chan (Advisor)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Library</span></td>
   </tr>
   <tr>
