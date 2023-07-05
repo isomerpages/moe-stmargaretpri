@@ -130,7 +130,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/brass-band"><span style="font-weight:500;text-decoration:underline;color:#2A5629;background-color:transparent">Brass Band</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Monday</span><br><span style="color:#000;background-color:#FFF">&amp; Friday</span></td>
     <td class="tg-ktyi">Ms Rachelle Ching*<br>Mr Eddie Chong</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">3T, 3H and 3G classrooms  </span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Band Room </span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/clubs-and-societies/art-club"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Art Club</span></a></td>
