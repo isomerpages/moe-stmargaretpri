@@ -4,8 +4,6 @@ permalink: /learning-at-sms/co-curricular-activities/science-and-environmental-c
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
 ## Science Environment Club
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -32,7 +30,7 @@ third_nav_title: Co Curricular Activities
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Science Labs &amp; Maths room</span><br></td>
-    <td class="tg-pk3b"><span style="background-color:transparent">Mdm Chan Yen Peng (OIC)</span><br><br><span style="font-weight:400;color:#000">Mdm Geetha</span><br><span style="font-weight:400;color:#000">Mrs Ganesh</span><br><span style="font-weight:400;color:#000">Ms Ng Ley Tin (Advisor)</span></td>
+    <td class="tg-pk3b"><span style="background-color:transparent">Mdm Chan Yen Peng (OIC)</span><br><span style="font-weight:400;color:#000">Mdm Geetha</span><br><span style="font-weight:400;color:#000">Mrs Ganesh</span><br><span style="font-weight:400;color:#000">Ms Ng Ley Tin (Advisor)</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P5 - P6</span><br><span style="color:#222;background-color:#FBFFFA">P3 - P4</span></td>
   </tr>
 </tbody>

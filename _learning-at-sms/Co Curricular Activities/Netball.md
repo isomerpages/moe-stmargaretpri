@@ -32,21 +32,21 @@ third_nav_title: Co Curricular Activities
     <td class="tg-pk3b"><span style="color:#000">Mondays</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
     <td class="tg-pk3b"></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Lew Nyet Mee (P3 &amp; 4 development)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Lew Nyet Mee (P3 &amp; P4 development)</span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="color:#000">P5 &amp; P6 Developmental Team</span><br></td>
     <td class="tg-pk3b"><span style="color:#000">Fridays</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School</span><br></td>
-    <td class="tg-pk3b"><span style="color:#222;background-color:#FBFFFA">Mr Derek Wong  (P5 and 6 development)</span><br></td>
+    <td class="tg-pk3b"><span style="color:#222;background-color:#FBFFFA">Ms Tiffany Goh (P5 and P6 development)</span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Junior Training Team</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">  Mondays &amp; Fridays</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4pm </span></td>
     <td class="tg-pk3b"></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><br><span style="color:#222;background-color:#FBFFFA">Ms Wang Peiqi (P5 and 6 school team)</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><span style="color:#222;background-color:#FBFFFA">Ms Wang Peiqi (P5 and P6 school team)</span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Training Team</span></td>

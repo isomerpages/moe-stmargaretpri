@@ -32,7 +32,7 @@ ___________________________________________________________
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Monday</span><br><span style="color:#222;background-color:#FBFFFA">&amp;</span><br><span style="color:#222;background-color:#FBFFFA">Friday</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 pm - 4 pm</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Music Room 2</span><br></td>
-    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mrs Lim Mei Sze (OIC)</span><br><br><span style="font-weight:400;color:#000">Mdm Rozita Sulaiman</span><br><span style="font-weight:400;color:#000">Mrs Mandy Teo</span></td>
+    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mrs Lim Mei Sze (OIC)</span><br><span style="font-weight:400;color:#000">Mdm Rozita Sulaiman</span><br><span style="font-weight:400;color:#000">Mrs Mandy Teo</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span><br></td>
   </tr>
 </tbody>
@@ -41,7 +41,7 @@ ___________________________________________________________
 
 
 <table>
-<tbody><tr><th><font color="green" size="5">&nbsp;
+<tbody><tr><th><font size="5" color="green">&nbsp;
 Introduction
 &nbsp;</font></th></tr>
 <tr><td><font size="4">
@@ -52,7 +52,7 @@ In the choir, members sing as a group and learn to blend with one another. As a 
 </tbody></table>
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img src="/images/CCAs/Choir/performing at 180th founder's day service.jpg" style="width:600px;height:400px; alt=">Performed at 180th St Margaret’s Founder Day Service at St Andrew’s Cathedral </font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Performed at 180th St Margaret’s Founder Day Service at St Andrew’s Cathedral </font></p></th>
 </tr>
 </tbody></table>
 
@@ -79,7 +79,7 @@ They learn to use the different voice registers, pitch accurately and have clear
 
 They are exposed to a wide repertoire of songs. Interpretation of songs is also part of the training as members sing them in different styles.
 
-<img src="/images/CCAs/Choir/singapore%20youth%20festival%20arts%20presentation.jpg" alt="" style="width:600px;height:400px;">
+<img style="width:600px;height:400px;" alt="" src="/images/CCAs/Choir/singapore%20youth%20festival%20arts%20presentation.jpg">
 **Performance at Singapore Youth Festival Arts Presentation (Choir) 2022**
 
 #### Target
@@ -89,11 +89,11 @@ __________________________________________________________
 2.	To improve on the choir members' singing techniques.
 3.	To be performance ready with a repertoire of songs.
 
-<img style="width:400px;height:300px;" alt="" src="/images/CCAs/Choir/practising%20during%20a%20choir%20sesssion.jpeg">
+<img src="/images/CCAs/Choir/practising%20during%20a%20choir%20sesssion.jpeg" alt="" style="width:400px;height:300px;">
 
 ###### **Practising during a choir session**
 
-<img style="width:400px;height:300px;" alt="" src="/images/CCAs/Choir/students%20sharing%20and%20reflecting%20on%20their%20syf%20journey.jfif">
+<img src="/images/CCAs/Choir/students%20sharing%20and%20reflecting%20on%20their%20syf%20journey.jfif" alt="" style="width:400px;height:300px;">
 
 ###### **Sharing and reflection session**
 

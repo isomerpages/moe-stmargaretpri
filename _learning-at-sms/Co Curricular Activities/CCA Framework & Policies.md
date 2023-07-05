@@ -81,7 +81,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/clubs-and-societies/star"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Star</span></a><span style="color:#000;background-color:#FFF"> (Formerly Learning Haven)</span></td>
     <td class="tg-ktyi">Fridays</td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Adeline Ang*</span><br><span style="font-weight:400;color:#000">Mrs Lee Bee Leng</span><br><span style="font-weight:400;color:#000">Mrs Angel Chan (Advisor)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Adeline Ang*</span><br><span style="font-weight:400;color:#000">Mrs Lee Bee Leng</span><br><span style="font-weight:400;color:#000">Mr Sim Li Yang</span><br><span style="font-weight:400;color:#000">Mrs Angel Chan (Advisor)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Library</span></td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/bowling"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Bowling</span></a></td>
     <td class="tg-7yig"><span style="background-color:initial">Mondays </span><br><span style="background-color:initial">&amp; Fridays</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Md Abigail</span><br><span style="color:#000;background-color:#FFF">Ms Dinah Chan</span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Md Abigail</span><br><span style="color:#000;background-color:#FFF">Ms Dinah Chan</span><br><span style="color:#000;background-color:#FFF">Ms Dharshini</span><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">External venue / outside library / 5H, 5T and 6C classroom</span><br></td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/brass-band"><span style="font-weight:500;text-decoration:underline;color:#2A5629;background-color:transparent">Brass Band</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Monday</span><br><span style="color:#000;background-color:#FFF">&amp; Friday</span></td>
     <td class="tg-ktyi">Ms Rachelle Ching*<br>Mr Eddie Chong</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">3T, 3H and 3G classrooms  </span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Band Room </span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/clubs-and-societies/art-club"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Art Club</span></a></td>
@@ -159,7 +159,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/international-dance"><span style="font-weight:500;text-decoration:underline;color:#2A5629">International Dance</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays  &amp; Fridays</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm Xu Yan* </span><br><span style="color:#000;background-color:#FFF">Mrs Yu Chen Shuang</span><br><span style="color:#000;background-color:#FFF">Ms Nadine</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm Xu Yan* </span><br><span style="color:#000;background-color:#FFF">Mrs Yu Chen Shuang</span><br><span style="color:#000;background-color:#FFF">Ms Nadine</span><br><span style="color:#000;background-color:#FFF">Ms Ong Cheng Bing (Friday)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">PAL Room, Music Room 1</span><br><span style="color:#000;background-color:#FFF">&amp; 2  </span></td>
   </tr>
   <tr>
