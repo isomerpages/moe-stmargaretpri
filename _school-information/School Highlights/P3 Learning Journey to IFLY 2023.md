@@ -20,3 +20,5 @@ The Science teachers also extended the girls’ learning by exploring the proper
 </tr></tbody></table>
 
 The tour started with a video on the introduction to indoor skydiving and skydiving. This allowed the girls to understand the foundational information about it. This was followed by a visit to the fan deck. They went through a flight safety training and a dry run of the basic belly fly position. The girls proceeded to do warm-up exercises before gearing up in the flight suits and other safety equipment. After this, they took flight and practice their belly fly position in the wind tunnel!
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yAjgOMJRqB4" height="415" width="700"></iframe></center>
