@@ -36,7 +36,7 @@ ____________________________________________________________
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mondays </span><br><span style="color:#222;background-color:#FBFFFA">&amp; Fridays</span></td>
     <td class="tg-070b"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">P3T, 3H and 3G classrooms</span></td>
-    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mdm Rachelle Ching (OIC)</span><br><span style="font-weight:400;color:#000">Mr Eddie Chong</span><br><span style="font-weight:400;color:#000">Mrs Amelia Leong</span></td>
+    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mdm Rachelle Ching (OIC)</span><br><span style="font-weight:400;color:#000">Mr Eddie Chong</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span></td>
   </tr>
 </tbody>
