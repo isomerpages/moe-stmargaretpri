@@ -217,7 +217,7 @@ The form must be duly completed, signed and submitted through Form Teachers or v
 
 
 
-The selection will be conducted by a panel comprising school staff, student leaders and school chaplaincy.  
+The selection will be conducted by a panel comprising school staff.
 
   
 
