@@ -7,6 +7,6 @@ MOE introduced the Edusave Character Award (ECHA) in 2012 to enable schools to r
 
 The nomination period starts on **17 July 2023**. Students can be nominated by staff, parents, coaches and other partners using the prescribed nomination form.
 
-Please click on the link below to know more about ECHA and to download the nomination form.
+Please click on the link below to know more about ECHA. The nomination form can be obtained from the link below.
 
 [ECHA Nomination 2023](/learning-at-sms/student-development/character-and-citizenship-education/)
