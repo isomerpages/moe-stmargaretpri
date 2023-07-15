@@ -9,4 +9,4 @@ The nomination period starts on **17 July 2023**. Students can be nominated by s
 
 Please click on the link below to know more about ECHA. The nomination form can be obtained from the link below.
 
-[ECHA Nomination 2023](/learning-at-sms/student-development/character-and-citizenship-education/)
+[ECHA Nomination 2023](/learning-at-sms/student-development/echa-nomination)
