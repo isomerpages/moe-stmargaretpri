@@ -7,6 +7,15 @@ description: ""
 
 <table>
 	<tbody>
+			<tr>
+	<td><img src="/images/Parent%20Volunteers/psg to zoo.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/psg p3 lj ifly.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>P3 Learning Journey to Singapore Zoo<br>(10 July 2023) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>P3 Level Camp to IFLY<br>(8 &amp; 12 May 2023)</b></font>
+</center></td>
+</tr>
 	<tr>
 	<td><img src="/images/Parent%20Volunteers/volunteering%20for%20recess%20ministry%2020%20april%202023.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/international%20friendship%20day%20pv%202023.jpeg" alt="ifd pv" style="width:400px;height:280px;"></td>
