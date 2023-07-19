@@ -7,7 +7,7 @@ third_nav_title: School Highlights
 #### National Day 2022
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I2iQRbuM0IM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-[National Day 2022](/files/national day 2022.pdf)
+<a href="/files/national day 2022.pdf" target="_blank"><b>National Day 2022</b>
 
 
 #### P3 Sports Education Programme 2022
@@ -39,4 +39,4 @@ third_nav_title: School Highlights
 
 
 #### P1 Orientation 2022
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mSBwHcdlH4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSBwHcdlH4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></a>
