@@ -136,7 +136,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/clubs-and-societies/art-club"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Art Club</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays or Fridays</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mrs Fam Way Lin*</span><br><span style="color:#000;background-color:#FFF">Miss Charissa Chan</span><br><span style="color:#000;background-color:#FFF">Ms Samantha</span><br><span style="color:#000;background-color:#FFF">Ms Suryanti</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Art Rooms</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Art Room</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/choir"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Choir</span></a></td>
