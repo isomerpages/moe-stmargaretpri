@@ -12,7 +12,7 @@ Via the P4 level camp and CPES (Chinese Performance Exposure Scheme), the studen
 
 <table>
 <tbody><tr>
-		<td><img alt="p3ljifly01" src="/images/P4%20Level%20Camp%202023/students%20playing%20the%20main%20lereng%20game_.JPG" style="width:450px;height:300px;"><b>Students playing Chinese checkers game</b></td>
+		<td><img alt="p3ljifly01" src="/images/P4%20Level%20Camp%202023/students%20playing%20chinese%20checkers%20game_.JPG" style="width:450px;height:300px;"><b>Students playing Chinese checkers game</b></td>
 		<td><img alt="p3ljifly02" src="/images/P4%20Level%20Camp%202023/students%20playing%20the%20congkak%20game_.JPG" style="width:450px;height:300px;"><b>Students playing the Congkak game</b></td>
 </tr></tbody></table>
 
