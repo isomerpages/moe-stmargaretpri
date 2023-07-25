@@ -106,7 +106,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">School Hall </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/netball"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P3/4) Developmental</span></td>
+    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/netball"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P3/P4) Developmental</span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Mondays</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">ISH </span></td>
   </tr>
@@ -114,13 +114,13 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/tennis"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Tennis</span></a></td>
     <td class="tg-7yig"><span style="font-weight:400;color:#000">Mondays&amp; Fridays</span></td>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Mageshwari</span><br><span style="font-weight:400;color:#000">Mr Derek Wong<br>Ms Dinah Chan</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">External venue / Foyer /</span><br><span style="color:#000;background-color:#FFF">6G and 6H</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">External venue / Foyer /</span><br><span style="color:#000;background-color:#FFF">6G and 6H classroom</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/modular-sports"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Modular Sports</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Fridays </span></td>
     <td class="tg-ktyi">Ms Gwee Hui Jun<br><span style="background-color:initial">Mr Roland Neo (Advisor)</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Playground Behind canteen </span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Playground behind canteen </span></td>
   </tr>
   <tr>
     <td class="tg-dgl5" colspan="3">Visual &amp; Performing Arts   <span style="color:#000;background-color:#FFF">     </span></td>
@@ -136,7 +136,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/clubs-and-societies/art-club"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Art Club</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays or Fridays</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mrs Fam Way Lin*</span><br><span style="color:#000;background-color:#FFF">Miss Charissa Chan</span><br><span style="color:#000;background-color:#FFF">Ms Samantha</span><br><span style="color:#000;background-color:#FFF">Ms Suryanti</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Art Rooms</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Art Room</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/choir"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Choir</span></a></td>

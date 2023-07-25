@@ -20,13 +20,23 @@ These are the activities that the students participated for holistic learning.
 <br>
 <table>
 	<tbody>
-				<tr>
-			<td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></td>
+		<tr>
+<td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></td>
+			<td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="slf2023" style="width:250px;height:170px;"> </td>
+			<td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="s5clustertamil2023" style="width:250px;height:170px;"> </td>
+</tr>
+		<tr>
+			<th><center>P4 Learning Journey to Geylang Serai 2023</center></th> 
+		<th><center>Racial Harmony Day 2023</center></th> 
+		<th><center>P3 Learning Journey to Singapore Zoo 2023</center></th> 			
+			</tr>	
+<tr>
+			<td><a href="/school-information/school-highlights/p4-level-camp-2023/"><img src="/images/Thumbnails/p4camp%20thumb_01.jpg" alt="coming soon" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/spotlight-2023/"><img src="/images/Thumbnails/spotlight_thumb.jpg" alt="slf2023" style="width:250px;height:170px;"> </a></td>
 			<td><a href="/school-information/school-highlights/p3lj-ifly-2023/"><img src="/images/Thumbnails/p3ljifly_thumb.jpg" alt="s5clustertamil2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>P3 Learning Journey to Singapore Zoo 2023</center></th> 
+			<th><center>P4 Level Camp 2023</center></th> 
 		<th><center>SPOTLIGHT</center></th> 
 		<th><center>P3 Level Camp 2023</center></th> 
 </tr>
