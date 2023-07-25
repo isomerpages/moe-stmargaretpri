@@ -12,8 +12,8 @@ Via the P4 level camp and CPES (Chinese Performance Exposure Scheme), the studen
 
 <table>
 <tbody><tr>
-		<td><img alt="p3ljifly01" src="/images/P4%20Level%20Camp%202023/students%20playing%20the%20main%20lereng%20game_.JPG" style="width:450px;height:500px;"> </td>
-		<td><img alt="p3ljifly02" src="/images/P4%20Level%20Camp%202023/students%20playing%20the%20congkak%20game_.JPG" style="width:450px;height:500px;"> </td>
+		<td><img alt="p3ljifly01" src="/images/P4%20Level%20Camp%202023/students%20playing%20the%20main%20lereng%20game_.JPG" style="width:450px;height:300px;"> </td>
+		<td><img alt="p3ljifly02" src="/images/P4%20Level%20Camp%202023/students%20playing%20the%20congkak%20game_.JPG" style="width:450px;height:300px;"> </td>
 </tr></tbody></table>
 
 The level camp activities include various cultural games and activities booth, such as Chinese drums, Main Lereng, Teng Teng, Tapak Kuda, Tou Quan Quan, Congkak, Chinese checkers, Aadu Puli Aattam, Chinese Tangram and Aankh Micholi game. Students also experienced learning simple moves of Chinese Wushu, such as Ti (kicking), Da (punching), Shuai (throwing), Na (controlling), Ji (hitting), Ci (thrusting), etc. Students were also exposed to the traditional Chinese folk dance culture where they tried Chinese ribbon/cloth dance moves. Students learnt about Dikir Barat where they experienced the style of Malay choral singing popular in Singapore and Malaysia, with a flexible format that incorporates singing, poetry, movement and music. 
