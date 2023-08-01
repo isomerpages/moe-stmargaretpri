@@ -2,12 +2,12 @@ collections:
   school-information:
     output: true
     order:
-      - School Advertisement.md
       - Our People.md
       - School Rules & Expectations.md
       - Operating Hours.md
       - Contact Us.md
       - Student Services Information.md
+      - School Advertisement.md
       - School Highlights/.keep
       - School Highlights/School Highlights.md
       - School Highlights/The Oldest Girls School.md
