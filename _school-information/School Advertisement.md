@@ -26,6 +26,7 @@ description: ""
 <br>
 
 2. Attached the following documents together with the application form :
+
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
