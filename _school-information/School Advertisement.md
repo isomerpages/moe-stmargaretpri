@@ -37,18 +37,21 @@ description: ""
 * Contact No: **6339 4247**
 * Email: stmargaretps@moe.edu.sg 
 * Contact Person: Mdm Sally Tan (Operations Manager) 
-<br>
+<br><br>
+
 **How to get there?**
 * Nearest MRT: Mattar MRT (DT25 line) – 10 minutes walking distance
 * Bus number: 40, 61, 63, 65, 135, 154, 155, 158 - 1 minute walking distance
-<br>
+<br><br>
+
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme))
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
-<br>
+<br><br>
+
 **Applicants should preferably fulfil the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
