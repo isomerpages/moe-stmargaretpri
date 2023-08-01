@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Advertisement.md
       - Our People.md
       - School Rules & Expectations.md
       - Operating Hours.md
