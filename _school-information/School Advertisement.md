@@ -3,7 +3,7 @@ title: School Advertisement
 permalink: /school-information/school-advertisement/
 description: ""
 ---
-#### School Canteen Advertisement
+#### **School Canteen Advertisement**
 
 
 <table>
@@ -19,7 +19,7 @@ description: ""
 </tr>
 	</tbody></table>
 	
-##### **Application Procedure** 
+#### **Application Procedure** 
 	
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 ##### [Application Form](/school-information/school-advertisement/smsp-school-canteen-aug-2023.pdf)
