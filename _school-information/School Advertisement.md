@@ -21,8 +21,8 @@ description: ""
 	
 #### **Application Procedure** 
 	
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-##### [Application Form](/school-information/school-advertisement/smsp-school-canteen-aug-2023.pdf)
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
+<a href="/files/smsp-school-canteen-aug-2023.pdf" target="_blank">Application Form.pdf</a>
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
