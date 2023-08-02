@@ -14,7 +14,7 @@ description: ""
 </tr>
 	<tr>
 		<td>Malay Food Stall</td>
-		<td>31 August 2023</td>
+		<td>15 September 2023</td>
 	  <td>Rice or noodle stalls are acceptable</td>
 </tr>
 	</tbody></table>
