@@ -49,4 +49,3 @@ description: ""
 </tbody>
 </table>
 
-School Advertisement
