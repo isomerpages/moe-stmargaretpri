@@ -22,8 +22,7 @@ description: ""
 #### **Application Procedure** 
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-<a href="/files/smsp school canteen_aug 2023.pdf" target="_blank">Application Form.pdf</a>
-<br>
+<a href="/files/smsp school canteen_aug 2023.pdf" target="_blank">Application Form.pdf</a><br>
 
 2. Attached the following documents together with the application form :
 
