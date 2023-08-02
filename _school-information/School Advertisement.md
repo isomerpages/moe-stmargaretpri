@@ -24,6 +24,27 @@ description: ""
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 <a href="/files/smsp school canteen_aug 2023.pdf" target="_blank">Application Form.pdf</a>
 <br>
+2. Attached the following documents together with the application form :
+
+* Photocopy of the NRIC (front and back)
+* List of proposed menu and pricing for all items
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+<br>
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+
+* Address: **2 Mattar Road S387724**
+* Contact No: **6339 4247**
+* Email: stmargaretps@moe.edu.sg 
+* Contact Person: Mdm Sally Tan (Operations Manager) 
+<br><br>
+
+
+
+
+
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+<a href="/files/smsp school canteen_aug 2023.pdf" target="_blank">Application Form.pdf</a>
+<br>
 
 2. Attached the following documents together with the application form :
 
