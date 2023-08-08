@@ -3,9 +3,9 @@ title: School Advertisement
 permalink: /school-information/school-advertisement/
 description: ""
 ---
-#### **School Canteen Advertisement**
+#### **School Canteen**
 
-
+SMS(P) has vacancy for
 <table>
 <tbody><tr>
 		<td><b>Type of Stall</b></td>
@@ -14,7 +14,7 @@ description: ""
 </tr>
 	<tr>
 		<td>Malay Food Stall</td>
-		<td>15 September 2023</td>
+		<td>5 September 2023</td>
 	  <td>Rice or noodle stalls are acceptable</td>
 </tr>
 	</tbody></table>
@@ -30,7 +30,7 @@ description: ""
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.<br>
 
-3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3\. Submit the completed application form and documents by closing date via email OR personally to the School's General Office.
 
 * Address: **2 Mattar Road S387724**
 * Contact No: **6339 4247**
