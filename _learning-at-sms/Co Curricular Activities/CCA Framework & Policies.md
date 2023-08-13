@@ -151,13 +151,13 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Dance studio  </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/guitar-ensemble"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Guitar Ensemble</span></a><span style="color:#000;background-color:#FFF"> </span></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/guitar-ensemble/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Guitar Ensemble</span></a><span style="color:#000;background-color:#FFF"> </span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Fridays </span></td>
     <td class="tg-ktyi"><span style="background-color:initial">Ms Esther James*</span><br><span style="background-color:initial">Ms Lim Shurong</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">3I classroom </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/international-dance"><span style="font-weight:500;text-decoration:underline;color:#2A5629">International Dance</span></a></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/international-dance/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">International Dance</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays  &amp; Fridays</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm Xu Yan* </span><br><span style="color:#000;background-color:#FFF">Mrs Yu Chen Shuang</span><br><span style="color:#000;background-color:#FFF">Ms Nadine</span><br><span style="color:#000;background-color:#FFF">Ms Ong Cheng Bing (Friday)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">PAL Room, Music Room 1</span><br><span style="color:#000;background-color:#FFF">&amp; 2  </span></td>
@@ -167,13 +167,13 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/uniformed-groups/brownies"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Brownies</span></a></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/brownies/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Brownies</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Fridays</span></td>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Ms Eileen Goh*</span><br><span style="font-weight:400;color:#000">Ms Ng Xing Hwee </span><br><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok</span><br><span style="font-weight:400;color:#000">Ms Amelia Leong</span><br>Ms Shiem Shan Shan (till July)</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2G, 2I, 2P, 2C classroom</span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/uniformed-groups/girls-brigade"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Girls' Brigade</span></a><span style="color:#000;background-color:#FFF"> </span></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/girls-brigade/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Girls' Brigade</span></a><span style="color:#000;background-color:#FFF"> </span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Fridays</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Melody Soh*</span><br><span style="color:#000;background-color:#FFF">Mdm Chua Sue Ann</span><br><span style="color:#000;background-color:#FFF">Mdm Tan Seow Wee</span><br><span style="color:#000;background-color:#FFF">Mdm Grace Tang</span><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">5G, 5I, 5P and 5C classroom</span></td>
