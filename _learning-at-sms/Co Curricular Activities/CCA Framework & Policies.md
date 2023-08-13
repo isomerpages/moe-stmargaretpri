@@ -95,29 +95,29 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">External venue / outside library / 5H, 5T and 6C classroom</span><br></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/netball"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (School Team)</span></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (School Team)</span></td>
     <td class="tg-dgl5"><br><span style="background-color:initial">Mondays </span><br><span style="background-color:initial">&amp; Fridays</span><br><br></td>
     <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Mdm Madeline Koo*</span><br><span style="font-weight:400;color:#000">Mdm Lew Nyet Mee (P3 &amp; P4 development)</span><br><span style="font-weight:400;color:#000">Ms Tiffany Goh (P5 and P6 development)</span><br><span style="font-weight:400;color:#000">Ms Wang Peiqi (P5 and P6 school team)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Parade Square</span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/netball"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P5/P6) Developmental</span></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P5/P6) Developmental</span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Fridays</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">School Hall </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/netball"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P3/P4) Developmental</span></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P3/P4) Developmental</span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Mondays</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">ISH </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/tennis"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Tennis</span></a></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/tennis/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Tennis</span></a></td>
     <td class="tg-7yig"><span style="font-weight:400;color:#000">Mondays&amp; Fridays</span></td>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Mageshwari</span><br><span style="font-weight:400;color:#000">Mr Derek Wong<br>Ms Dinah Chan</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">External venue / Foyer /</span><br><span style="color:#000;background-color:#FFF">6G and 6H classroom</span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/sports-and-games/modular-sports"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Modular Sports</span></a></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/modular-sports/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Modular Sports</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Fridays </span></td>
     <td class="tg-ktyi">Ms Gwee Hui Jun<br><span style="background-color:initial">Mr Roland Neo (Advisor)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Playground behind canteen </span></td>
@@ -127,25 +127,25 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/brass-band"><span style="font-weight:500;text-decoration:underline;color:#2A5629;background-color:transparent">Brass Band</span></a></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/brass-band/"><span style="font-weight:500;text-decoration:underline;color:#2A5629;background-color:transparent">Brass Band</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Monday</span><br><span style="color:#000;background-color:#FFF">&amp; Friday</span></td>
     <td class="tg-ktyi">Ms Rachelle Ching*<br>Mr Eddie Chong</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Band Room </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/clubs-and-societies/art-club"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Art Club</span></a></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/art-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Art Club</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays or Fridays</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mrs Fam Way Lin*</span><br><span style="color:#000;background-color:#FFF">Miss Charissa Chan</span><br><span style="color:#000;background-color:#FFF">Ms Samantha</span><br><span style="color:#000;background-color:#FFF">Ms Suryanti</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Art Room</span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/choir"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Choir</span></a></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/choir/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Choir</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays &amp; Fridays</span></td>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mrs Lim Mei Sze*</span><br><span style="font-weight:400;color:#000">Mdm Rozita Sulaiman </span><br><span style="background-color:transparent">Mrs Mandy Teo</span><br></td>
     <td class="tg-pk3b"><span style="color:#222;background-color:#FBFFFA">Band room</span><br></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="https://stmargaretspri.moe.edu.sg/learning-at-smps/co-curricular-activities/performing-arts/chinese-dance"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Chinese Dance</span></a></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/chinese-dance/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Chinese Dance</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays</span><br><span style="color:#000;background-color:#FFF">&amp; Fridays  </span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mdm Ngoh Moon Geok*</span><br><span style="color:#000;background-color:#FFF">Mdm Siqiao</span><br><span style="color:#000;background-color:#FFF">Mr Zhang Miao</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Dance studio  </span></td>
