@@ -165,7 +165,7 @@ __________________________________________________________
 
   
 
-9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form can be obtained through the Form Teacher and is also downloadable <a href="/files/SMPS_GYS-opt-out-form-2023.pdf" target="_blank">here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the Form Teacher by 17/02/2023.
+9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form can be obtained through the Form Teacher and is also downloadable <a href="/files/smps_gys opt out form 2023.pdf" target="_blank">here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the Form Teacher by 17/02/2023.
 
   
 
