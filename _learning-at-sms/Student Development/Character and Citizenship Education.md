@@ -72,7 +72,7 @@ __________________________________________________________
 <tbody>
   <tr>
     <td class="tg-5env">CCE (FTGP) &amp; CCE (MT)<br>SS lessons<br>Sexuality Education <br>Education and Career Guidance<br>Cyber Wellness<br>Mental Health<br>Family Education<br>Assemblies 1 &amp; 2<br>Infusion into other subjects  </td>
-    <td class="tg-5q8l"><a href="/learning-at-sms/co-curricular-activities/cca-framework-and-policies/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">CCA</span></a><br>Values in Action (VIA)<br>National Education (NE) Days<br><a href="/learning-at-sms/student-development/student-leadership/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Student Leadership</span></a><br>Programme for Active Learning (PAL) <br>Level Camps<br><a href="/school-information/school-highlights/student-learning-festival-2023/">Student Learning Festival<br><br></a></td>
+    <td><a href="/learning-at-sms/co-curricular-activities/cca-framework-and-policies/">CCA</a><br>Values in Action (VIA)<br>National Education (NE) Days<br><a href="/learning-at-sms/student-development/student-leadership/">Student Leadership</a><br>Programme for Active Learning (PAL) <br>Level Camps<br><a href="/school-information/school-highlights/student-learning-festival-2023/">Student Learning Festival<br><br></a></td>
     <td class="tg-5env">Morning Devotion<br>Discipline<br>Counselling<br>Student Recognition<br>Student Reflections<br>Partnerships<br>Teacher Training <br><br></td>
   </tr>
 </tbody>
