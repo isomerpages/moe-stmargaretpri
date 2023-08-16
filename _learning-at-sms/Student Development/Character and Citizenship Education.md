@@ -131,7 +131,7 @@ Student Development experiences, through various platforms, reinforce and suppor
 
   
 
-*   **Level Camps**&nbsp;are platforms for each level to bond with the level, their classes and teachers. Through the activities in the camps, helmed by each subject, we hope to instill the Joy of Learning and the school value for the level in the students.&nbsp;Please click&nbsp;[here](/school-highlights/appreciation-to-our-peri-partners/)&nbsp;&nbsp;for more photographs.
+*   **Level Camps**&nbsp;are platforms for each level to bond with the level, their classes and teachers. Through the activities in the camps, helmed by each subject, we hope to instill the Joy of Learning and the school value for the level in the students.&nbsp;Please click&nbsp;[here](/school-information/school-highlights/permalink/)&nbsp;&nbsp;for more photographs.
 
 *   **Student Learning Festival:**
     
