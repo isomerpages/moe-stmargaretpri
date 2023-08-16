@@ -109,7 +109,7 @@ __________________________________________________________
 
 Student Development experiences, through various platforms, reinforce and support student's learning in CCE.  
 
-*   **National Education (NE) Commemorative Days**&nbsp;are part of the school calendar. These are the Total Defence Day, International Friendship Day, Racial Harmony Day and National Day.&nbsp;Please click&nbsp;[here](/school-highlights/appreciation-to-our-peri-partners/)&nbsp;for photographs.  
+*   **National Education (NE) Commemorative Days**&nbsp;are part of the school calendar. These are the Total Defence Day, International Friendship Day, Racial Harmony Day and National Day.&nbsp;Please click&nbsp;[here](/school-information/school-highlights/permalink/)&nbsp;for photographs.  
     
 *   **Co-curricular Activities (CCA)**&nbsp;is a main platform for the students to apply Social-Emotional Learning (SEL) competencies learnt in the lessons and put into practice the school values.&nbsp;Please click&nbsp;[here](/learning-at-sms/co-curricular-activities/cca-framework-n-policy)&nbsp;for more information.
 *   The&nbsp;**Values in Action (VIA)**&nbsp;programme provide an avenue for the students to understand the needs in the community and nation and show care and concern for others less fortunate than themselves. Besides serving in the community, VIA also includes putting into practise the school values on a daily basis.
