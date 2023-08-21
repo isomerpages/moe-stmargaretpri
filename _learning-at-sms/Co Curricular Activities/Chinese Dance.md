@@ -51,12 +51,7 @@ Students who have chosen to join Chinese Dance out of their love for dancing are
 
 In Chinese Dance, members train and perform as a group thus they learn to bond with one another through dance. Members also learn to execute movements and exhibit good showmanship on stage.
 
-  
-![2021_cd03.jpg](/images/2021_cd03.jpg)
-_**Preparation for SYF 2022**_
-
-
-![2021_cd02.jpg](/images/2021_cd02.jpg)  
+![2021_cd02.jpg](/images/2021_cd02.jpg)<b>Preparation for SYF 2022</b>  
 
 ### Objectives
 ____________________________________________________________
@@ -89,29 +84,29 @@ ____________________________________________________________
 *   To participate in school and external performances.
 
 <table><tbody><tr>
-		<td><img alt="p3ljifly01" src="/images/CCAs/Chinese%20Dance/4_chinese%20dance_round%20fan%20dance.jpg" style="width:450px;height:300px;"><b>Round Fan Dance</b></td>
-		<td><img alt="p3ljifly02" src="/images/CCAs/Chinese%20Dance/3_chinese%20dance_folding%20fan%20dance.jpg" style="width:450px;height:300px;"><b>Folding Fan Dance</b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/4_chinese%20dance_round%20fan%20dance.jpg" alt="p3ljifly01"><b>Round Fan Dance</b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/3_chinese%20dance_folding%20fan%20dance.jpg" alt="p3ljifly02"><b>Folding Fan Dance</b></td>
 </tr></tbody></table>
 
 ![](/images/CCAs/Chinese%20Dance/4_chinese%20dance_folding%20fan%20dance%20practice.jpeg)<b>Folding Fan Dance practice</b>
 
 <table><tbody><tr>
-	<td><img alt="p3ljifly02" src="/images/CCAs/Chinese%20Dance/1_chinese%20dance_junior%20grp.jpeg" style="width:450px;height:300px;"><b>Chinese Dance Junior Group</b></td>
-		<td><img alt="p3ljifly02" src="/images/CCAs/Chinese%20Dance/2_chinese%20dance_senior%20grp.jpeg" style="width:450px;height:300px;"><b>Chinese Dance Senior Group</b></td>
+	<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/1_chinese%20dance_junior%20grp.jpeg" alt="p3ljifly02"><b>Chinese Dance Junior Group</b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/2_chinese%20dance_senior%20grp.jpeg" alt="p3ljifly02"><b>Chinese Dance Senior Group</b></td>
 </tr></tbody></table>
 
 ![](/images/CCAs/Chinese%20Dance/2_chinese%20dance_sleeve%20dance.jpeg)<b>Chinese Dance Sleeve dance</b>
 
 <table><tbody><tr>
-	<td><img alt="p3ljifly02" src="/images/CCAs/Chinese%20Dance/5_cca%20showcasing_folding%20fan%20dance.jpg" style="width:450px;height:300px;"><b>Folding Fan Dance</b></td>
-		<td><img alt="p3ljifly02" src="/images/CCAs/Chinese%20Dance/5_cca%20showcasing_sleeve%20dance-1.jpg" style="width:450px;height:300px;"><b>Sleeve Dance</b></td>
+	<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/5_cca%20showcasing_folding%20fan%20dance.jpg" alt="p3ljifly02"><b>Folding Fan Dance</b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/5_cca%20showcasing_sleeve%20dance-1.jpg" alt="p3ljifly02"><b>Sleeve Dance</b></td>
 </tr></tbody></table>
 
 ![](/images/CCAs/Chinese%20Dance/7_chinese%20dance_group%20photo-1.jpeg)
 
 <table><tbody><tr>
-	<td><img alt="p3ljifly02" src="/images/CCAs/Chinese%20Dance/6_spotlight%20concert_confident%20and%20enjoying%20their%20performance.JPG" style="width:450px;height:300px;"><b>SPOTLIGHT - Confident and enjoying their performance</b></td>
-		<td><img alt="p3ljifly02" src="/images/CCAs/Chinese%20Dance/6_spotlight%20concert_the%20junior%20chinese%20dancers-1.JPG" style="width:450px;height:300px;"><b>SPOTLIGHT - The Junior Chinese Dancers</b></td>
+	<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/6_spotlight%20concert_confident%20and%20enjoying%20their%20performance.JPG" alt="p3ljifly02"><b>SPOTLIGHT - Confident and enjoying their performance</b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/6_spotlight%20concert_the%20junior%20chinese%20dancers-1.JPG" alt="p3ljifly02"><b>SPOTLIGHT - The Junior Chinese Dancers</b></td>
 </tr></tbody></table>
 
 ![](/images/CCAs/Chinese%20Dance/6_spotlight%20concert_enjoying%20the%20moment.JPG)<b>SPOTLIGHT Concert 2023</b>
