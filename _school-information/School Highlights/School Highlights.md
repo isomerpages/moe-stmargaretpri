@@ -16,9 +16,6 @@ These are the activities that the students participated for holistic learning.
 
 2. ####  Featured Events
 
-![](/images/Thumbnails/p3ljzoo%20thumb_01.JPG)
-![](/images/Thumbnails/rhd%20thumb_01.JPG)
-
 <br>
 <br>
 <table>
