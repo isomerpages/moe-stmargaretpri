@@ -17,3 +17,5 @@ Racial Harmony Day is a very special day when we make a conscious effort to crea
 </tr></tbody></table>
 
 Through the various activities, we hope that our students understand the true meaning of Racial Harmony and would play their part to contribute towards building a strong community regardless of race.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3NqxgU78rVQ" height="415" width="700"></iframe></center>
