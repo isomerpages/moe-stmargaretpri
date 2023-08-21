@@ -20,4 +20,4 @@ The students enjoyed an encounter with wildlife where they discovered what makes
 
 The students have been reading a lot about animals from textbook, but nothing beats encountering them in real life!
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0xD4vHVAkHk" height="415" width="700"></iframe>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0xD4vHVAkHk" height="415" width="700"></iframe></center>
