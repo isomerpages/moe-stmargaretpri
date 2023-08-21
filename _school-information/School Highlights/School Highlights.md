@@ -22,8 +22,8 @@ These are the activities that the students participated for holistic learning.
 	<tbody>
 		<tr>
 <td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="coming soon" style="width:250px;height:170px;"></td>
-			<td><img src="/images/Thumbnails/rhd%20thumb_01.JPG" alt="slf2023" style="width:250px;height:170px;"> </td>
-			<td><img src="/images/Thumbnails/p3ljzoo%20thumb_01.JPG" alt="s5clustertamil2023" style="width:250px;height:170px;"> </td>
+			<td><a href="/school-information/school-highlights/rhd-2023/"><img src="/images/Thumbnails/rhd%20thumb_01.JPG" alt="slf2023" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/p3-lj-zoo2023/"><img src="/images/Thumbnails/p3ljzoo%20thumb_01.JPG" alt="s5clustertamil2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>P4 Learning Journey to Geylang Serai 2023</center></th> 
