@@ -94,6 +94,22 @@ ____________________________________________________________
     
 *   To participate in school and external performances.
 
+<table><tbody><tr>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/4_chinese%20dance_round%20fan%20dance.jpg" alt="p3ljifly01"><b>Round Fan Dance</b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/3_chinese%20dance_folding%20fan%20dance.jpg" alt="p3ljifly02"><b>Folding Fan Dance</b></td>
+</tr></tbody></table>
+
+![](/images/CCAs/Chinese%20Dance/4_chinese%20dance_folding%20fan%20dance%20practice.jpeg)<b>Folding Fan Dance practice</b>
+
+<table><tbody><tr>
+	<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/1_chinese%20dance_junior%20grp.jpeg" alt="p3ljifly02"><b>Chinese Dance Junior Group</b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Chinese%20Dance/2_chinese%20dance_senior%20grp.jpeg" alt="p3ljifly02"><b>Chinese Dance Senior Group</b></td>
+</tr></tbody></table>
+
+
+
+
+
 ![PURPLE GROUP PIC.jpg](/images/PURPLE%20GROUP%20PIC.jpg)
 
 **_Chinese New Year 2020 performance_**
