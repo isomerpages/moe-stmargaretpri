@@ -12,8 +12,8 @@ Racial Harmony Day is a very special day when we make a conscious effort to crea
 
 <table>
 <tbody><tr>
-		<td><img alt="p3ljifly01" src="/images/RHD%202023/students%20of%20different%20races%20pose%20for%20a%20photo.JPG" style="width:450px;height:300px;"><b>Students of different races pose for a photo</b></td>
-		<td><img alt="p3ljifly02" src="/images/RHD%202023/students%20trying%20out%20kuti%20kuti.JPG" style="width:450px;height:300px;"><b>Students trying out kuti-kuti</b></td>
+		<td><img alt="p3ljifly01" src="/images/RHD%202023/students%20of%20different%20races%20pose%20for%20a%20photo.JPG" style="width:450px;height:280px;"><b>Students of different races pose for a photo</b></td>
+		<td><img alt="p3ljifly02" src="/images/RHD%202023/students%20trying%20out%20kuti%20kuti.JPG" style="width:450px;height:280px;"><b>Students trying out kuti-kuti</b></td>
 </tr></tbody></table>
 
 Through the various activities, we hope that our students understand the true meaning of Racial Harmony and would play their part to contribute towards building a strong community regardless of race.
