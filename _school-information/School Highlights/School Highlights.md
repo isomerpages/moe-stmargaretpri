@@ -21,9 +21,9 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 		<tr>
-<td><img src="/images/Thumbnails/ndpthumb_01.jpg" alt="ndp" style="width:250px;height:170px;"></td>
-			<td><a href="/school-information/school-highlights/rhd-2023/"><img src="/images/Thumbnails/neshow%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
-			<td><a href="/school-information/school-highlights/p3-learning-journey-zoo-2023/"><img src="/images/Thumbnails/p4ljgeylang%20thumb_01.JPG" alt="p4ljgeylang" style="width:250px;height:170px;"> </a></td>
+<td><a href="/school-information/school-highlights/ndp-2023/"><img src="/images/Thumbnails/ndpthumb_01.jpg" alt="ndp" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/neshow-2023/"><img src="/images/Thumbnails/neshow%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/p4lj-geylang-2023/"><img src="/images/Thumbnails/p4ljgeylang%20thumb_01.JPG" alt="p4ljgeylang" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>National Day 2023</center></th> 
@@ -31,7 +31,7 @@ These are the activities that the students participated for holistic learning.
 		<th><center>P4 Learning Journey to Geylang Serai 2023</center></th> 			
 			</tr>	
 		<tr>
-<td><img src="/images/Thumbnails/p6ljsungeibuloh%20thumb_01.JPG" alt="p6ljsgbuloh" style="width:250px;height:170px;"></td>
+<td><a href="/school-information/school-highlights/p6lj-sgbuloh-2023/"><img src="/images/Thumbnails/p6ljsungeibuloh%20thumb_01.JPG" alt="p6ljsgbuloh" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/rhd-2023/"><img src="/images/Thumbnails/rhd%20thumb_01.JPG" alt="slf2023" style="width:250px;height:170px;"> </a></td>
 			<td><a href="/school-information/school-highlights/p3-learning-journey-zoo-2023/"><img src="/images/Thumbnails/p3ljzoo%20thumb_01.JPG" alt="s5clustertamil2023" style="width:250px;height:170px;"> </a></td>
 </tr>
