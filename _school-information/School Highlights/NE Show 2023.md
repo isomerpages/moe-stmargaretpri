@@ -4,7 +4,7 @@ permalink: /school-information/school-highlights/neshow-2023/
 description: ""
 third_nav_title: School Highlights
 ---
-### NE Show 2023
+### National Education(NE) Show 2023
 
 ##### 15 July 2023
 
