@@ -10,9 +10,6 @@ third_nav_title: School Highlights
 
 The Primary 4 students embarked on a learning journey to Geylang Serai Heritage Gallery as part of their Social Studies Museum-based Learning. The experience was facilitated by the knowledgeable Museum Educators from the gallery. 
 
-![](/images/P4%20LJ%20Geylang%20Serai%202023/exploring%20the%20motifs%20on%20the%20roof.JPG)
-![](/images/P4%20LJ%20Geylang%20Serai%202023/games%20from%20yesteryear.jpg)
-
 <table>
 <tbody><tr>
 		<td><img alt="p4ljgeylang01" src="/images/P4%20LJ%20Geylang%20Serai%202023/exploring%20the%20motifs%20on%20the%20roof.JPG" style="width:450px;height:300px;"><b>Exploring the motifs on the roof</b></td>
