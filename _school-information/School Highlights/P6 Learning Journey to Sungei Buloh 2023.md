@@ -18,3 +18,5 @@ As part of experiential learning, the Science department organised a learning jo
 
 The students enjoy close-up encounters with nature and wildlife where they meet with monitor lizards, bats, crabs and even the famous alligator, the crocodile! The array of plants keep them in awe of the mystery behind the reserve. They experience the physical characteristics of a mangrove habitat and its ecosystem in real-life. They get to identify and describe the adaptations of plants and animals on-site at the mangrove habitat.
 This firsthand experience has enhanced students’ interest as well as understanding about adaptation!
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oMlNkKv46lE?si=MrbK5tsqgJQHoAgH" height="415" width="700"></iframe></center>
