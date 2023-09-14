@@ -8,6 +8,24 @@ description: ""
 <table>
 	<tbody>
 			<tr>
+	<td><img src="/images/Parent%20Volunteers/pv%20rsaf%202023.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/tcd%202023.JPG" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Visit to Republic of Singapore Air Force (RSAF)<br>(8 Aug 2023) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>Teachers' Day<br>(30 Aug 2023)</b></font>
+</center></td>
+</tr>
+			<tr>
+	<td><img src="/images/Parent%20Volunteers/pv%20swimsafer.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/rhd%202023.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>P5 Swimsafer Programme<br>(Term 3 2023) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>Racial Harmony Day<br>(19 &amp; 21 July 2023)</b></font>
+</center></td>
+</tr>
+			<tr>
 	<td><img src="/images/Parent%20Volunteers/psg to zoo.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/psg p3 lj ifly.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
 </tr>
