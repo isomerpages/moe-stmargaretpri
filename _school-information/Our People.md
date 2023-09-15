@@ -165,10 +165,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-tojq"><span style="color:#222">     Year Head (P5 &amp; P6) </span></td>
     <td class="tg-ltu5"><span style="color:#222">    Ms Michelle Kok</span></td>
   </tr>
-  <tr>
-    <td class="tg-580q">Assistant Year Head</td>
-    <td class="tg-mqlv">Ms Christina Yong </td>
-  </tr>
+  
   <tr>
     <td class="tg-580q">HOD Character and Citizenship Education (CCE)</td>
     <td class="tg-mqlv">Mrs Pamela Yeo </td>
