@@ -744,6 +744,10 @@ Zhang Miao (Mr) </span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nalayeni D/O M Supramaniam</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
+		<tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms Cayln Yong Kai Lin</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Jamaludin Bin A Rahman </span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
@@ -813,10 +817,6 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Amanjit Singh Tiwana</span></td>
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Jahan Nargis </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Tan Siew Kiau</span></td>
