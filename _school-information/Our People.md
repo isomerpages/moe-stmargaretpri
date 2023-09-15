@@ -295,7 +295,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">
-Zhang Miao (Mr) </span><br></td>
+Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Sara George (Ms)</span><br><span style="color:#222">Alaghimanavalan Sarala Devi (Mdm)</span><br></td>
   </tr>
 </tbody>
@@ -672,7 +672,7 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ng Weiling Samantha (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br>Chow Wai Mun (Ms)</td>
+    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br>Low Wei Wen (Mrs)</td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 INTEGRITY </span></td>
