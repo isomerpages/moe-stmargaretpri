@@ -12,9 +12,8 @@ description: ""
  </font></th>
 </tr>
 </tbody></table>
-		
 
-![](/images/Calendar%202023/term4_for%20website_02.jpg)
+
 		
 <font size="3">  
       * Parents/Guardians will be notified of the details or any changes closer to the date of the event.
