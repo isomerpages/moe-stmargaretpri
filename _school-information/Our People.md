@@ -218,7 +218,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-mqlv">Mr Neo Kian Chye Roland</td>
   </tr>
   <tr>
-    <td class="tg-580q">ST Physical Education </td>
+    <td class="tg-580q">ST PE </td>
     <td class="tg-mqlv">Mr Derek Wong  </td>
   </tr>
 </tbody>
