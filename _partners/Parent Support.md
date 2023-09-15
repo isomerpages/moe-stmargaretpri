@@ -11,7 +11,7 @@ description: ""
 	<td><img src="/images/Parent%20Volunteers/pv%20rsaf%202023.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/tcd%202023.JPG" alt="ifd pv" style="width:400px;height:280px;"></td>
 </tr>
-			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Visit to Republic of Singapore Air Force (RSAF)<br>(8 Aug 2023) </b></font></center></td> 
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Visit to Republic of Singapore Air Force (RSAF)<br>(8 Sep 2023) </b></font></center></td> 
 		<td><center>
 		<font size="4"><b>Teachers' Day<br>(30 Aug 2023)</b></font>
 </center></td>

@@ -165,10 +165,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-tojq"><span style="color:#222">     Year Head (P5 &amp; P6) </span></td>
     <td class="tg-ltu5"><span style="color:#222">    Ms Michelle Kok</span></td>
   </tr>
-  <tr>
-    <td class="tg-580q">Assistant Year Head</td>
-    <td class="tg-mqlv">Ms Christina Yong </td>
-  </tr>
+  
   <tr>
     <td class="tg-580q">HOD Character and Citizenship Education (CCE)</td>
     <td class="tg-mqlv">Mrs Pamela Yeo </td>
@@ -218,7 +215,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-mqlv">Mr Neo Kian Chye Roland</td>
   </tr>
   <tr>
-    <td class="tg-580q">ST Physical Education </td>
+    <td class="tg-580q">ST PE </td>
     <td class="tg-mqlv">Mr Derek Wong  </td>
   </tr>
 </tbody>
@@ -298,7 +295,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">
-Zhang Miao (Mr) </span><br></td>
+Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Sara George (Ms)</span><br><span style="color:#222">Alaghimanavalan Sarala Devi (Mdm)</span><br></td>
   </tr>
 </tbody>
@@ -363,8 +360,8 @@ Zhang Miao (Mr) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Esther James (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Lin Qiuhan Catherine (Mrs)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"></span>Esther James (Mdm)<br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
@@ -483,10 +480,7 @@ Zhang Miao (Mr) </span><br></td>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-b4br">Assistant Year Head</td>
-    <td class="tg-fxx4"><span style="color:#222">Christina Yong Yuen Fang (Ms) </span></td>
-  </tr>
+
   <tr>
     <td class="tg-b4br">Level Manager </td>
     <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo)</span><br></td>
@@ -564,10 +558,6 @@ Zhang Miao (Mr) </span><br></td>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b4br">Assistant Year Head</td>
-    <td class="tg-fxx4"><span style="color:#222">Christina Yong Yuen Fang (Ms) </span></td>
-  </tr>
-  <tr>
     <td class="tg-b4br">Level Manager <span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)</span><br></td>
   </tr>
@@ -640,7 +630,7 @@ Zhang Miao (Mr) </span><br></td>
 <thead>
   <tr>
     <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Sharon Simon (Mdm)</th>
+    <th class="tg-b4br">Michelle Kok (Ms)</th>
   </tr>
 </thead>
 <tbody>
@@ -682,7 +672,7 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ng Weiling Samantha (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br>Chow Wai Mun (Ms)</td>
+    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br>Low Wei Wen (Mrs)</td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 INTEGRITY </span></td>
@@ -742,6 +732,10 @@ Zhang Miao (Mr) </span><br></td>
   </tr>
 	<tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nalayeni D/O M Supramaniam</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
+  </tr>
+		<tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Cayln Yong Kai Lin</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
   <tr>
@@ -813,10 +807,6 @@ Zhang Miao (Mr) </span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Amanjit Singh Tiwana</span></td>
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Jahan Nargis </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Tan Siew Kiau</span></td>
