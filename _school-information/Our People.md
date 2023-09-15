@@ -480,10 +480,7 @@ Zhang Miao (Mr) </span><br></td>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-b4br">Assistant Year Head</td>
-    <td class="tg-fxx4"><span style="color:#222">Christina Yong Yuen Fang (Ms) </span></td>
-  </tr>
+
   <tr>
     <td class="tg-b4br">Level Manager </td>
     <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo)</span><br></td>
@@ -560,10 +557,6 @@ Zhang Miao (Mr) </span><br></td>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-b4br">Assistant Year Head</td>
-    <td class="tg-fxx4"><span style="color:#222">Christina Yong Yuen Fang (Ms) </span></td>
-  </tr>
   <tr>
     <td class="tg-b4br">Level Manager <span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)</span><br></td>
