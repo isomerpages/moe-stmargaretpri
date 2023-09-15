@@ -360,8 +360,8 @@ Zhang Miao (Mr) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Esther James (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"></span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"></span>Esther James (Mdm)<br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
