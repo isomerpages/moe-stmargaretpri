@@ -29,9 +29,9 @@ ___________________________________________________________
 <tbody>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
-    <td class="tg-pk3b"></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3I classrooms</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Esther James (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Miss Lim Shurong</span><br></td>
+     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Student Learning Lab</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Esther James (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Miss Lim Shurong</span><br></td>
   </tr>
 </tbody>
 </table>
