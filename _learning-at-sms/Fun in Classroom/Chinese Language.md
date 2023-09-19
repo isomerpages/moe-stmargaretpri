@@ -92,6 +92,9 @@ The school celebrated Chinese New Year on 20th&nbsp;of January 2023. Students ce
 
 We ended the Chinese New Year celebrations with a concert. Students sang and danced along to the Chinese New Year songs. It was a memorable day for all the students.
 
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/WUWkjXSR4wY?si=OIAciVKNzSKgPcaZ" height="415" width="700"></iframe></center>
+
+
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/CL%20Dpt%202022/IMG_0066.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Classroom Actvities</b></font></center>

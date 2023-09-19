@@ -4,7 +4,7 @@ permalink: /learning-at-sms/co-curricular-activities/science-and-environmental-c
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-## Science Environment Club
+## Science and Environmental Club
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -29,7 +29,7 @@ third_nav_title: Co Curricular Activities
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Science Labs &amp; Maths room</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Science Labs</span><br></td>
     <td class="tg-pk3b"><span style="background-color:transparent">Mdm Chan Yen Peng (OIC)</span><br><span style="font-weight:400;color:#000">Mdm Geetha</span><br><span style="font-weight:400;color:#000">Mrs Ganesh</span><br><span style="font-weight:400;color:#000">Ms Ng Ley Tin (Advisor)</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P5 - P6</span><br><span style="color:#222;background-color:#FBFFFA">P3 - P4</span></td>
   </tr>
@@ -55,39 +55,60 @@ The club provides pupils with opportunities to learn and explore the environment
 ## Activities Outline
 
 
-#### 1.&nbsp;&nbsp;20 April Morning Assembly Presentation on Earth Day 2022&nbsp;
+#### 1.Semester One 2023
 
-Invest in our Planet &amp; launching of SMS(P) 180th&nbsp;Anniversary activity “Let our Light Shine to save our Earth” (A yearly CCA project involving all CCA members to plan and prepare the different components, for example the video script, acting in the short video clip, drawing of the Earth Day posters to share messages on caring for the environment, preparation of level activities).  
+##### Earth Day Programme, April 2023
+
+<table>
+<tbody><tr>
+		<td><img alt="earthday01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(5).jpg" style="width:450px;height:200px;"><b></b></td>
+		<td><img alt="earthday02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(6).jpg" style="width:450px;height:200px;"><b></b></td>
+</tr></tbody></table>
+
+The Environmental Science Club members took charge of the Earth Day and rolled out exciting programmes to spread the Earth Day message.
+
+The members organized competitions for all levels to promote the theme of Earth Day, “Invest in Our Planet”. They also planned a week-long activity to spread awareness on how the students of St Margaret's School (Primary) can help to bring about a more sustainable environment, for example, short sharing after morning devotion about Earth Day and Earth Day recess exhibition.
+
+The members of the Environmental Science Club also put up a wonderful Assembly programme to share the plight of marine creatures due to plastic pollution, through Ariel, the Little Mermaid.
+
+Through these programmes, students of St Margaret’s School (Primary) are inspired to be our little Eco Stewards. A Primary one student even went beach cleaning with her family after that and was invited to share her findings with the school.
+
+<table>
+<tbody><tr>
+		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(9).jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(4).JPG" style="width:280px;height:300px;"><b></b></td>
+</tr>
+	<tr>
+		<td><img alt="earthday04" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(3).JPG" style="width:300px;height:200px;"><b></b></td>
+		<td><img alt="earthday05" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(7).JPG" style="width:300px;height:200px;"><b></b></td>
+</tr>
+	</tbody></table>
+
+
+##### Champions of Bees
+
+Environmental Science club members became champions of bees. They researched about the importance of bees and designed sharing via SLS platform and short assembly talk to advocate for the bees. 
+
+![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(8).jpg)
 
   
-#### 2.&nbsp; 20 May 2022
+#### 2. Semester Two 2023
 
-Online&nbsp;program for CCA members conducted by Sustainable Singapore Gallery titled “Big Greens” leveraging on simulations and games to enable students better understand abstract environmental issues.&nbsp;3.&nbsp;&nbsp;21 September 2022  
+##### Hands on Projects
 
-&nbsp; &nbsp;&nbsp;Morning Assembly Presentation by SembCorp on "Recycling Right"
+Students engaged in mini-group projects such as magnetic games, shadow puppet shows, story writing, focusing on the theme of recycling and sustainability.
 
-#### 3.&nbsp;&nbsp;23 September 2022
 
-Talk conducted in school to CCA members by Sembcorp on “Climate Change”.  
-  
+##### Mushroom Growing
 
-#### 4.&nbsp;&nbsp;14 October 2022&nbsp;
+Mushroom growing programme was conducted for Environmental Science club members This hands-on activity to enable students to investigate the growth of mushroom and form a better understanding of the role of mushrooms as decomposers in a food chain and their importance in our environment.
 
-Circular Asia “THINK GLOBAL sustainability programme” conducted for CCA members. It is an educational gamified programme to introduce the UN Sustainable Development Goals and Singapore’s approaches to these goals through SG Green Plan.  
-  
+<table>
+<tbody><tr>
+		<td><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="mushrm02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(2).JPG" style="width:280px;height:300px;"><b></b></td>
+</tr></tbody></table>
 
-#### 5.&nbsp;&nbsp;21 October 2022
-
-Terrarium making workshop conducted by Grace Mission Agri Pte Lid for CCA members.  
-  
-
-#### 6.&nbsp; &nbsp;4 November 2022  
-
-CCA Learning Journey to Gardens by the Bay “The Cool Factor” Program (1 hour) to understand the innovations and technologies adopted by the Gardens to promote conservation and sustainability.
-
-![Learning Journey to Gardens by the Bay.JPG](/images/Learning%20Journey%20to%20Gardens%20by%20the%20Bay.jpg)
-
-**Learning Journey to Gardens by the Bay**
 
 
 ### Primary 3 modular CCA program
