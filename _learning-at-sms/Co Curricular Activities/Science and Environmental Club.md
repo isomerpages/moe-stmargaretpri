@@ -65,7 +65,6 @@ The club provides pupils with opportunities to learn and explore the environment
 		<td><img alt="earthday02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(6).jpg" style="width:450px;height:200px;"><b></b></td>
 </tr></tbody></table>
 
-
 The Environmental Science Club members took charge of the Earth Day and rolled out exciting programmes to spread the Earth Day message.
 
 The members organized competitions for all levels to promote the theme of Earth Day, “Invest in Our Planet”. They also planned a week-long activity to spread awareness on how the students of St Margaret's School (Primary) can help to bring about a more sustainable environment, for example, short sharing after morning devotion about Earth Day and Earth Day recess exhibition.
@@ -73,6 +72,21 @@ The members organized competitions for all levels to promote the theme of Earth 
 The members of the Environmental Science Club also put up a wonderful Assembly programme to share the plight of marine creatures due to plastic pollution, through Ariel, the Little Mermaid.
 
 Through these programmes, students of St Margaret’s School (Primary) are inspired to be our little Eco Stewards. A Primary one student even went beach cleaning with her family after that and was invited to share her findings with the school.
+
+
+![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(3).JPG)![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(7).JPG)
+
+<table>
+<tbody><tr>
+		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(9).jpg" style="width:400px;height:300px;"><b></b></td>
+		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(4).JPG" style="width:400px;height:300px;"><b></b></td>
+</tr>
+	<tr>
+		<td><img alt="earthday04" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(3).JPG" style="width:450px;height:200px;"><b></b></td>
+		<td><img alt="earthday05" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(7).JPG" style="width:450px;height:200px;"><b></b></td>
+</tr>
+	</tbody></table>
+
 
 ##### Champions of Bees
 
