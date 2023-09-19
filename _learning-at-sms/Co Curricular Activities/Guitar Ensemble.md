@@ -39,31 +39,26 @@ ___________________________________________________________
 ### Introduction
 ___________________________________________________________
 
+The Guitar Ensemble has evolved over the past 3 years to become a full-fledged CCA in St Margaret’s School (Primary). With a firm belief in nurturing music talent and an appreciation for musical styles of all genres, Students are encouraged to pursue their interest in this instrument and to practise their skills with a spirit of excellence. Through a combination of team-building activities and technical practice, students in the CCA are able to realise their full potential whilst experiencing the joy of learning through their guitar playing.
+ 
+ 
+### Vision
+___________________________________________________________
 
-The Guitar Ensemble was launched in 2021 as a new CCA to introduce another music CCA to the suite of Performing Arts CCAs, and to provide more choices and opportunities for students to excel in performing on a music instrument.
-
-  
-
-The Ensemble is helmed by Mdm Esther James and Miss Lim Shurong, with the assistance of the Guitar Instructors who are avid guitar and ukulele teacher-performers.&nbsp;
-
-  
+Every Girl, A Servant Leader
 
 ### Mission
 ___________________________________________________________
 
-
-To be an ensemble of compassionate and gracious girls with a passion for learning.
-
+To be an ensemble of excellence in both musicianship and character
   
 
 ### Objectives
 ___________________________________________________________
 
-1.  To nurture the pupils' guitar talents, each to their fullest potential.
-2.  To instill a spirit of resilience and discipline in each student.
-3.  To foster an environment of compassion and graciousness, where every student is a servant-leader.
-
-  
+1.	To inculcate a love for music performance with a passion for learning
+2.	To develop students’ character and citizenship skills which students can use beyond the classroom
+3.	To grow and foster friendships and camaraderie amongst peers in St Margaret’s School (Primary)
 
 ![](/images/2021gtr01.jpg)
 
@@ -74,10 +69,16 @@ ___________________________________________________________
 ![](/images/IMG6277.jpg)
 
 
-### Target
+### Activities Outline
 ___________________________________________________________
 
+The Ensemble has weekly practices where they do a range of guitar technical exercises and play both chords and accompaniment for a variety of popular songs.
 
+They learn to listen to one another and to perform both individually and as a group with different sections playing different layers of music.
+
+
+### Target
+___________________________________________________________
 
 1.  Build a strong CCA culture of camaraderie and leadership development with team spirit.
 2.  Expose students to the guitar and a repertoire of chords to equip them with lifelong skills.
