@@ -59,6 +59,13 @@ The club provides pupils with opportunities to learn and explore the environment
 
 ##### Earth Day Programme, April 2023
 
+<table>
+<tbody><tr>
+		<td><img alt="earthday01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(5).jpg" style="width:450px;height:200px;"><b></b></td>
+		<td><img alt="earthday02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(6).jpg" style="width:450px;height:200px;"><b></b></td>
+</tr></tbody></table>
+
+
 The Environmental Science Club members took charge of the Earth Day and rolled out exciting programmes to spread the Earth Day message.
 
 The members organized competitions for all levels to promote the theme of Earth Day, “Invest in Our Planet”. They also planned a week-long activity to spread awareness on how the students of St Margaret's School (Primary) can help to bring about a more sustainable environment, for example, short sharing after morning devotion about Earth Day and Earth Day recess exhibition.
