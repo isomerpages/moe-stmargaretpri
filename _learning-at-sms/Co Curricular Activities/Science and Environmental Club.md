@@ -4,7 +4,7 @@ permalink: /learning-at-sms/co-curricular-activities/science-and-environmental-c
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-## Science Environment Club
+## Science and Environmental Club
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
