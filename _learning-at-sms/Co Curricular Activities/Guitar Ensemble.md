@@ -41,7 +41,9 @@ ___________________________________________________________
 
 The Guitar Ensemble has evolved over the past 3 years to become a full-fledged CCA in St Margaret’s School (Primary). With a firm belief in nurturing music talent and an appreciation for musical styles of all genres, Students are encouraged to pursue their interest in this instrument and to practise their skills with a spirit of excellence. Through a combination of team-building activities and technical practice, students in the CCA are able to realise their full potential whilst experiencing the joy of learning through their guitar playing.
  
- 
+![](/images/CCAs/Guitar%20Ensemble/guitarspotlight_01.jpg)<b>Performance at the school’s fundraising event: S.P.O.T.L.I.G.H.T</b>
+
+
 ### Vision
 ___________________________________________________________
 
