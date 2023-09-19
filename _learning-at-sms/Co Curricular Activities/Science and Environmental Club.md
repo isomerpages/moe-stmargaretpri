@@ -73,9 +73,6 @@ The members of the Environmental Science Club also put up a wonderful Assembly p
 
 Through these programmes, students of St Margaret’s School (Primary) are inspired to be our little Eco Stewards. A Primary one student even went beach cleaning with her family after that and was invited to share her findings with the school.
 
-
-![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(3).JPG)![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(7).JPG)
-
 <table>
 <tbody><tr>
 		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(9).jpg" style="width:400px;height:300px;"><b></b></td>
@@ -105,9 +102,6 @@ Students engaged in mini-group projects such as magnetic games, shadow puppet sh
 ##### Mushroom Growing
 
 Mushroom growing programme was conducted for Environmental Science club members This hands-on activity to enable students to investigate the growth of mushroom and form a better understanding of the role of mushrooms as decomposers in a food chain and their importance in our environment.
-
-![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg)
-![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(2).JPG)
 
 <table>
 <tbody><tr>
