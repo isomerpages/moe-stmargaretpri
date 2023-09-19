@@ -31,8 +31,8 @@ ___________________________________________________________
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2.00 -</span><br><span style="color:#222;background-color:#FBFFFA">4.00 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2G, 2I, 2P classrooms</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Eileen Goh (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Ms Ng Xing Hwee</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Ngoh Moon Geok</span><br><span style="color:#222;background-color:#FBFFFA">Ms Amelia Leong</span><br><span style="color:#222;background-color:#FBFFFA">Ms Shiem Shan Shan</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Performing Arts Studio (PAS)</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Eileen Goh (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Ms Ng Xing Hwee</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Shiem Shan Shan</span><br><span style="color:#222;background-color:#FBFFFA">Mrs Amelia Goh</span><br><span style="color:#222;background-color:#FBFFFA">Mr Zhang Miao</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span></td>
   </tr>
 </tbody>
