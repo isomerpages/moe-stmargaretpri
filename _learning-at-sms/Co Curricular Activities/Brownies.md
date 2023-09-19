@@ -48,9 +48,7 @@ Brownies are encouraged to explore and discover the world around them and to bec
 
 Brownies learn to work and play independently and also in teams. On special occasions, Brownies do fun things together with other Brownie or Girl Guide units for joint learning adventures! Activities may include Division Days, Learning Day, outdoor cooking, sewing and many more! Through such activities, brownies are developed for a lifetime of leadership, service and innovation. Brownies are continually spurred to step out, step up, step back and step in. Stepping out, brownies discover their strength within. Stepping up, brownies realise what they can achieve. Stepping back, brownies see the needs of others. Stepping in, brownies stand up and make a difference in the society and the world they are in.
 
-  
-
-Along the way, Brownies learn to care for each other and the people around them, thereupon making lasting friendships. Through shared experiences, she forges friendships and support network that will see her through life.
+Along the way, Brownies learn to care for each other and the people around them, thereupon making lasting friendships. Through shared experiences, she forges friendships and a support network that will see her through life.
 
   
 
