@@ -92,6 +92,8 @@ Through these programmes, students of St Margaret’s School (Primary) are inspi
 
 Environmental Science club members became champions of bees. They researched about the importance of bees and designed sharing via SLS platform and short assembly talk to advocate for the bees. 
 
+![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(8).jpg)
+
   
 #### 2. Semester Two 2023
 
@@ -99,9 +101,19 @@ Environmental Science club members became champions of bees. They researched abo
 
 Students engaged in mini-group projects such as magnetic games, shadow puppet shows, story writing, focusing on the theme of recycling and sustainability.
 
+
 ##### Mushroom Growing
 
 Mushroom growing programme was conducted for Environmental Science club members This hands-on activity to enable students to investigate the growth of mushroom and form a better understanding of the role of mushrooms as decomposers in a food chain and their importance in our environment.
+
+![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg)
+![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(2).JPG)
+
+<table>
+<tbody><tr>
+		<td><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="mushrm02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(2).JPG" style="width:450px;height:300px;"><b></b></td>
+</tr></tbody></table>
 
 
 
