@@ -55,39 +55,33 @@ The club provides pupils with opportunities to learn and explore the environment
 ## Activities Outline
 
 
-#### 1.&nbsp;&nbsp;20 April Morning Assembly Presentation on Earth Day 2022&nbsp;
+#### 1.Semester One 2023
 
-Invest in our Planet &amp; launching of SMS(P) 180th&nbsp;Anniversary activity “Let our Light Shine to save our Earth” (A yearly CCA project involving all CCA members to plan and prepare the different components, for example the video script, acting in the short video clip, drawing of the Earth Day posters to share messages on caring for the environment, preparation of level activities).  
+##### Earth Day Programme, April 2023
+
+The Environmental Science Club members took charge of the Earth Day and rolled out exciting programmes to spread the Earth Day message.
+
+The members organized competitions for all levels to promote the theme of Earth Day, “Invest in Our Planet”. They also planned a week-long activity to spread awareness on how the students of St Margaret's School (Primary) can help to bring about a more sustainable environment, for example, short sharing after morning devotion about Earth Day and Earth Day recess exhibition.
+
+The members of the Environmental Science Club also put up a wonderful Assembly programme to share the plight of marine creatures due to plastic pollution, through Ariel, the Little Mermaid.
+
+Through these programmes, students of St Margaret’s School (Primary) are inspired to be our little Eco Stewards. A Primary one student even went beach cleaning with her family after that and was invited to share her findings with the school.
+
+##### Champions of Bees
+
+Environmental Science club members became champions of bees. They researched about the importance of bees and designed sharing via SLS platform and short assembly talk to advocate for the bees. 
 
   
-#### 2.&nbsp; 20 May 2022
+#### 2. Semester Two 2023
 
-Online&nbsp;program for CCA members conducted by Sustainable Singapore Gallery titled “Big Greens” leveraging on simulations and games to enable students better understand abstract environmental issues.&nbsp;3.&nbsp;&nbsp;21 September 2022  
+##### Hands on Projects
 
-&nbsp; &nbsp;&nbsp;Morning Assembly Presentation by SembCorp on "Recycling Right"
+Students engaged in mini-group projects such as magnetic games, shadow puppet shows, story writing, focusing on the theme of recycling and sustainability.
 
-#### 3.&nbsp;&nbsp;23 September 2022
+##### Mushroom Growing
 
-Talk conducted in school to CCA members by Sembcorp on “Climate Change”.  
-  
+Mushroom growing programme was conducted for Environmental Science club members This hands-on activity to enable students to investigate the growth of mushroom and form a better understanding of the role of mushrooms as decomposers in a food chain and their importance in our environment.
 
-#### 4.&nbsp;&nbsp;14 October 2022&nbsp;
-
-Circular Asia “THINK GLOBAL sustainability programme” conducted for CCA members. It is an educational gamified programme to introduce the UN Sustainable Development Goals and Singapore’s approaches to these goals through SG Green Plan.  
-  
-
-#### 5.&nbsp;&nbsp;21 October 2022
-
-Terrarium making workshop conducted by Grace Mission Agri Pte Lid for CCA members.  
-  
-
-#### 6.&nbsp; &nbsp;4 November 2022  
-
-CCA Learning Journey to Gardens by the Bay “The Cool Factor” Program (1 hour) to understand the innovations and technologies adopted by the Gardens to promote conservation and sustainability.
-
-![Learning Journey to Gardens by the Bay.JPG](/images/Learning%20Journey%20to%20Gardens%20by%20the%20Bay.jpg)
-
-**Learning Journey to Gardens by the Bay**
 
 
 ### Primary 3 modular CCA program
