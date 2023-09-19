@@ -40,11 +40,7 @@ ___________________________________________________________
 
 Brownies are&nbsp;&nbsp;9- to 12-year-old girls who enjoy learning and having amazing adventures together!
 
-  
-
 Brownies are encouraged to explore and discover the world around them and to become more independent&nbsp;&nbsp;by acquiring new life skills&nbsp;. They are constantly learning new skills and challenged to try new and adventurous activities that will inspire them to think about what they want to be and do in the future.&nbsp;
-
-  
 
 Brownies learn to work and play independently and also in teams. On special occasions, Brownies do fun things together with other Brownie or Girl Guide units for joint learning adventures! Activities may include Division Days, Learning Day, outdoor cooking, sewing and many more! Through such activities, brownies are developed for a lifetime of leadership, service and innovation. Brownies are continually spurred to step out, step up, step back and step in. Stepping out, brownies discover their strength within. Stepping up, brownies realise what they can achieve. Stepping back, brownies see the needs of others. Stepping in, brownies stand up and make a difference in the society and the world they are in.
 
@@ -120,14 +116,19 @@ ___________________________________________________________
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">South Division Day 2023<br></span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Nil</span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2021</span></td>
-    <td class="tg-va4t">World Thinking Day 2021<br><br><span style="font-weight:400;color:#000">World Virtual Celebration</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">World Thinking Day 2021<br><span style="font-weight:400;color:#000">World Virtual Celebration</span></span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Nil</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
-    <td class="tg-va4t">Events/ Workshops Participated:<br>World Thinking Day Carnival @ Tampines Hub<br>-     Brownies who attended this event learned about participated in games and crafts at the carnival.<br>SCDF Workshop @ Central Fire Station<br><br>-   Brownies who attended this workshop learned about the vehicles used to fight fires, the different places and training rooms in the fire station, the things fire fighters do when activated and some basic first aid.<br>GBTB Workshop @ GBTB - Brownies who attended this workshop learned about the plants and flowers around the gardens <span style="color:#000;background-color:#FFF"> </span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Events/ Workshops Participated:<br>World Thinking Day Carnival @ Tampines Hub<br>-     Brownies who attended this event learned about participated in games and crafts at the carnival.<br>SCDF Workshop @ Central Fire Station<br><br>-   Brownies who attended this workshop learned about the vehicles used to fight fires, the different places and training rooms in the fire station, the things fire fighters do when activated and some basic first aid.<br>GBTB Workshop @ GBTB - Brownies who attended this workshop learned about the plants and flowers around the gardens <span style="color:#000;background-color:#FFF"> </span></span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span></td>
   </tr>
   <tr>
