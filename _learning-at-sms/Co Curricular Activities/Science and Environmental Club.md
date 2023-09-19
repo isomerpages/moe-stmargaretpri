@@ -75,12 +75,12 @@ Through these programmes, students of St Margaret’s School (Primary) are inspi
 
 <table>
 <tbody><tr>
-		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(9).jpg" style="width:400px;height:300px;"><b></b></td>
-		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(4).JPG" style="width:400px;height:300px;"><b></b></td>
+		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(9).jpg" style="width:300px;height:300px;"><b></b></td>
+		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(4).JPG" style="width:300px;height:300px;"><b></b></td>
 </tr>
 	<tr>
-		<td><img alt="earthday04" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(3).JPG" style="width:450px;height:200px;"><b></b></td>
-		<td><img alt="earthday05" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(7).JPG" style="width:450px;height:200px;"><b></b></td>
+		<td><img alt="earthday04" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(3).JPG" style="width:350px;height:200px;"><b></b></td>
+		<td><img alt="earthday05" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(7).JPG" style="width:350px;height:200px;"><b></b></td>
 </tr>
 	</tbody></table>
 
@@ -105,8 +105,8 @@ Mushroom growing programme was conducted for Environmental Science club members 
 
 <table>
 <tbody><tr>
-		<td><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg" style="width:450px;height:300px;"><b></b></td>
-		<td><img alt="mushrm02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(2).JPG" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg" style="width:300px;height:300px;"><b></b></td>
+		<td><img alt="mushrm02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(2).JPG" style="width:300px;height:300px;"><b></b></td>
 </tr></tbody></table>
 
 
