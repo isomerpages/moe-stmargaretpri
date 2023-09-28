@@ -47,7 +47,7 @@ These are the activities that the students participated for holistic learning.
 			<td><a href="/school-information/school-highlights/p3-learning-journey-zoo-2023/"><img src="/images/Thumbnails/p3ljzoo%20thumb_01.JPG" alt="s5clustertamil2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>P6 Learning Journey to Sungei Buloh 2023</center></th> 
+			<th><center>P6 Learning Journey to <br>Sungei Buloh 2023</center></th> 
 		<th><center>Racial Harmony Day 2023</center></th> 
 		<th><center>P3 Learning Journey to Singapore Zoo 2023</center></th> 			
 			</tr>	
