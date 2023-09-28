@@ -17,10 +17,22 @@ These are the activities that the students participated for holistic learning.
 
 2. ####  Featured Events
 
+![](/images/Thumbnails/heritage%20thumb_01.jpg)
+
 <br>
 <br>
 <table>
 	<tbody>
+				<tr>
+<td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="ndp" style="width:250px;height:170px;"></td>
+			<td><a href="/school-information/school-highlights/tcd-2023/"><img src="/images/Thumbnails/tcd%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/heritage-2023/"><img src="/images/Thumbnails/heritage%20thumb_01.jpg" alt="p4ljgeylang" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>P5 SEP 2023</center></th> 
+		<th><center>Teachers' Day Celebration 2023</center></th> 
+		<th><center>Heritage Trail 2023</center></th> 			
+			</tr>	
 		<tr>
 <td><a href="/school-information/school-highlights/ndp-2023/"><img src="/images/Thumbnails/ndpthumb_01.jpg" alt="ndp" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/neshow-2023/"><img src="/images/Thumbnails/neshow%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
