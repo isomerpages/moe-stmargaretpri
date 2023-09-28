@@ -40,6 +40,6 @@ sections:
       title: Fundraising
       button: Find out more
       url: /files/PUP Fundraising 2021.pdf
-      image: /images/SOLD OUT Car Decal Design 1 Poster.jpg
+      image: /images/Fundraising/peri upgrading fundraising_pop up.jpg
       alt: Image alt text
 ---
