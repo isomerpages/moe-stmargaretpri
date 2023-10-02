@@ -39,7 +39,7 @@ description: ""
   <tr>
     <td class="tg-f4yw"> School Bus<br></td>
     <td class="tg-zr06">RS Transport Services<br>Blk 1004 Toa Payoh North #06-01<br>Singapore 318995<br><br>Tel: 6251 0281<br>Fax: 6251 0261<br>Email: smps@rstransport.com.sg<br><br>Open Monday to Friday<br>9 am to 5 pm<br><br>
-For new application, click BUS FORM NEW.<br>For renewal application, click BUS FORM RENEWAL.
+For new application, click <a href="/files/2023 current bus operator for smsp.pdf" target="_blank">BUS FORM NEW</a>.<br>For renewal application, click <a href="/files/2023 current bus operator for smsp.pdf" target="_blank">BUS FORM RENEWAL</a>.
 </td>
   </tr>
   <tr>
