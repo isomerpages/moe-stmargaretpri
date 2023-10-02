@@ -38,14 +38,11 @@ description: ""
   </tr>
   <tr>
     <td class="tg-f4yw"> School Bus<br></td>
-    <td class="tg-zr06">RS Transport Services<br>Blk 1004 Toa Payoh North #06-01<br>Singapore 318995<br><br>Tel: 6251 0281<br>Fax: 6251 0261<br>
-		<br>For more information, go to <a href="/files/2023 current bus operator for smsp.pdf" target="_blank">RS Transport Bus Fee</a>
-</td>
-  </tr>
+    <td class="tg-zr06">RS Transport Services<br>Blk 1004 Toa Payoh North #06-01<br>Singapore 318995<br><br>Tel: 6251 0281<br>Fax: 6251 0261<br>Email: smps@rstransport.com.sg<br><br>Open Monday to Friday<br>9 am to 5 pm<br>
+  </td></tr>
   <tr>
     <td class="tg-f4yw"> Replacement of Student<br>Smart Card<br>(Lost or damaged)</td>
     <td class="tg-zr06">Students may apply for a replacement card online through  <a href="https://www.transitlink.com.sg/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">https://www.transitlink.com.sg/</span></a><a href="https://www.transitlink.com.sg/"> </a> <br><br>Alternatively, they may go directly to the Concession Card Replacement Offices at:<br><br>Choa Chu Kang Bus Interchange<br>Hougang Central Bus Interchange<br>Jurong East Bus Interchange<br>Ang Mo Kio Bus Interchange<br>(Please refer to Transit Link website for a complete list of offices)<br><br>Monday to Sunday : 10.00 am to 6.00 pm<br>Public Holidays: Closed<br></td>
   </tr>
 </tbody>
 </table>
-
