@@ -38,7 +38,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-f4yw"> School Bus<br></td>
-    <td class="tg-zr06">RS Transport Services<br>Blk 1004 Toa Payoh North #06-01<br>Singapore 318995<br><br>Tel: 6251 0281, 6251 0283<br>Fax: 6251 0261<br>Email: smps@rstransport.com.sg<br><br>Open Monday to Friday<br>10 am to 5.30 pm<br>
+    <td class="tg-zr06">RS Transport Services<br>Blk 1004 Toa Payoh North #06-01<br>Singapore 318995<br><br>Tel: 6251 0281, 6251 0283<br>Fax: 6251 0261<br>Email: <a href="smps@rstransport.com.sg" target="_blank">smps@rstransport.com.sg</a><br><br>Open Monday to Friday<br>10 am to 5.30 pm<br><br>For new application, click <a href="/files/2023 current bus operator for smsp.pdf" target="_blank">BUS 2024 P1 REG. FORM</a>.<br>For renewal application, click <a href="/files/2023 current bus operator for smsp.pdf" target="_blank">BUS RENEWAL/NEW FORM</a>
   </td></tr>
   <tr>
     <td class="tg-f4yw"> Replacement of Student<br>Smart Card<br>(Lost or damaged)</td>
