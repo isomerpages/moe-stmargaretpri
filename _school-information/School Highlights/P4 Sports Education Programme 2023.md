@@ -14,8 +14,8 @@ All our P4 students had an one-hour session learning Goalball from the instructo
 
 <table>
 <tbody><tr>
-		<td><img alt="p3ljifly01" src="/images/RHD%202023/students%20of%20different%20races%20pose%20for%20a%20photo.JPG" style="width:450px;height:300px;"><b>Students of different races pose for a photo</b></td>
-		<td><img alt="p3ljifly02" src="/images/RHD%202023/students%20trying%20out%20kuti%20kuti.JPG" style="width:450px;height:300px;"><b>Students trying out kuti-kuti</b></td>
+		<td><img alt="p4sep01" src="/images/P4%20SEP%202023/positioning%20ourselves%20to%20defend%20our%20goal%20line.JPG" style="width:450px;height:280px;"><b>Positioning ourselves to defend our goal line</b></td>
+		<td><img alt="p4sep02" src="/images/P4%20SEP%202023/i%20can%20hear%20the%20ball%20coming%20my%20way!.JPG" style="width:450px;height:280px;"><b>I can hear the ball coming my way!</b></td>
 </tr></tbody></table>
 
 The students tried to score points by throwing/rolling a ball that has bells embedded inside of it into the opponents' goal while being blindfolded. Apart from having fun and working as a team, they also learned to use their ear-hand coordination when playing this sport, and had a taste of how it is like to be visually impaired when they had to depend on their other senses (such as hearing and touch) to get hold of the ball.
