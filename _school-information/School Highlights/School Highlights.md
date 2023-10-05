@@ -21,14 +21,24 @@ These are the activities that the students participated for holistic learning.
 <br>
 <table>
 	<tbody>
-				<tr>
+		<tr>
 <td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="ndp" style="width:250px;height:170px;"></td>
-			<td><a href="/school-information/school-highlights/tcd-2023/"><img src="/images/Thumbnails/tcd%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/rsaf55-2023/"><img src="/images/Thumbnails/rsaf%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
+	<td><a href="/school-information/school-highlights/tcd-2023/"><img src="/images/Thumbnails/tcd%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>Childrens' Day 2023</center></th> 
+		<th><center>RSAF55 Open House 2023</center></th> 
+		<th><center>Teachers' Day 2023</center></th> 			
+			</tr>	
+				<tr>
+<td><a href="/school-information/school-highlights/p5sep-2023/"><img src="/images/Thumbnails/p5sep%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
+			<td><a href="/school-information/school-highlights/p4sep-2023/"><img src="/images/Thumbnails/p4sep%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
 			<td><a href="/school-information/school-highlights/heritage-2023/"><img src="/images/Thumbnails/heritage%20thumb_01.jpg" alt="p4ljgeylang" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>P5 SEP 2023</center></th> 
-		<th><center>Teachers' Day Celebration 2023</center></th> 
+		<th><center>P4 SEP 2023</center></th> 
 		<th><center>Heritage Trail 2023</center></th> 			
 			</tr>	
 		<tr>
