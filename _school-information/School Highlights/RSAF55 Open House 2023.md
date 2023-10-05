@@ -4,7 +4,7 @@ permalink: /school-information/school-highlights/rsaf55-2023/
 description: ""
 third_nav_title: School Highlights
 ---
-### RSAF55 Open House 2023
+### Republic of Singapore Air Force 55 (RSAF) Open House 2023
 
 ##### 8 Sep 2023
 
