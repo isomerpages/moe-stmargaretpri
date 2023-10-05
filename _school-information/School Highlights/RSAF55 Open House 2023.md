@@ -12,8 +12,8 @@ It was a bright and sunny afternoon. About 80 Primary 6 students stood ready to 
 
 <table>
 <tbody><tr>
-		<td><img alt="p3ljifly01" src="/images/RHD%202023/students%20of%20different%20races%20pose%20for%20a%20photo.JPG" style="width:450px;height:300px;"><b>Students of different races pose for a photo</b></td>
-		<td><img alt="p3ljifly02" src="/images/RHD%202023/students%20trying%20out%20kuti%20kuti.JPG" style="width:450px;height:300px;"><b>Students trying out kuti-kuti</b></td>
+		<td><img alt="rsaf01" src="/images/RSAF55%20Open%20House%202023/trying%20out%20the%20simulator.JPG" style="width:450px;height:280px;"><b>Students trying out the simulator</b></td>
+		<td><img alt="rsaf02" src="/images/RSAF55%20Open%20House%202023/checking%20out%20the%20static%20display.JPG" style="width:450px;height:280px;"><b>Checking out the static display</b></td>
 </tr></tbody></table>
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-WQjRGxt3mk?si=WrlhHTPik72Tcfti" height="415" width="700"></iframe><!--.center--></center>
