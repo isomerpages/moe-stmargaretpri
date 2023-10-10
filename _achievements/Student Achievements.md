@@ -79,6 +79,14 @@ description: ""
 		<td><font size="4">Seithi Pongalo Pongal Contest 2023 (By MediaCorp)</font></td>
 		<td><font size="4">Top 6 Award</font></td>
 </tr>
+		<tr>
+		<td><font size="4">Periyar Community Service Singing Competition</font></td>
+		<td><font size="4">3rd position</font></td>
+</tr>
+	<tr>
+		<td><font size="4">S5 Cluster Tamil Language Competition</font></td>
+		<td><font size="4">2 Gold<br>2 Silver<br>1 Bronze</font></td>
+</tr>
 </tbody></table>
 <br>
 <table>
