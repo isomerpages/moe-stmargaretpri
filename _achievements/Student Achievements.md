@@ -16,7 +16,11 @@ description: ""
 </tr>
 	<tr>
 		<td><font size="4">SOTA Primary 6 Creative Writing Competition 2023</font></td>
-		<td><font size="4">Top 50 Finalists</font></td>
+		<td><font size="4">Top 10 Finalists</font></td>
+</tr>
+		<tr>
+		<td><font size="4">ACS Mythos (Junior Orators) 2023 </font></td>
+		<td><font size="4">Top 5 Finalists for Best Costume</font></td>
 </tr></tbody></table>
 <br>
 <table>
