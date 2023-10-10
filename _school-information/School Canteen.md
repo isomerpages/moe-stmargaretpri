@@ -14,7 +14,7 @@ SMS(P) has vacancy for
 </tr>
 	<tr>
 		<td>Malay Food Stall</td>
-		<td>30 September 2023</td>
+		<td>31 October 2023</td>
 	  <td>Rice or noodle stalls are acceptable</td>
 </tr>
 	</tbody></table>
