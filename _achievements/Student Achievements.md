@@ -21,7 +21,8 @@ description: ""
 		<tr>
 		<td><font size="4">ACS Mythos (Junior Orators) 2023 </font></td>
 		<td><font size="4">Top 5 Finalists for Best Costume</font></td>
-</tr></tbody></table>
+</tr>
+	</tbody></table>
 <br>
 <table>
 	<tbody><tr>
@@ -36,7 +37,12 @@ description: ""
 	<tr>
 		<td><font size="4">National YMCA Mandarin Speaking Competition 2023</font></td>
 		<td><font size="4">Semi-Finalist</font></td>
-</tr></tbody></table>
+</tr>
+	<tr>
+		<td><font size="4">National Text Recitation Competition 2023</font></td>
+		<td><font size="4">Bronze Award</font></td>
+</tr>
+	</tbody></table>
 <br>
 <table>
 	<tbody><tr>
