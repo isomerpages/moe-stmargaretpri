@@ -16,8 +16,13 @@ description: ""
 </tr>
 	<tr>
 		<td><font size="4">SOTA Primary 6 Creative Writing Competition 2023</font></td>
-		<td><font size="4">Top 50 Finalists</font></td>
-</tr></tbody></table>
+		<td><font size="4">Top 10 Finalists</font></td>
+</tr>
+		<tr>
+		<td><font size="4">ACS Mythos (Junior Orators) 2023 </font></td>
+		<td><font size="4">Top 5 Finalists for Best Costume</font></td>
+</tr>
+	</tbody></table>
 <br>
 <table>
 	<tbody><tr>
@@ -32,7 +37,29 @@ description: ""
 	<tr>
 		<td><font size="4">National YMCA Mandarin Speaking Competition 2023</font></td>
 		<td><font size="4">Semi-Finalist</font></td>
-</tr></tbody></table>
+</tr>
+	<tr>
+		<td><font size="4">National Text Recitation Competition 2023</font></td>
+		<td><font size="4">Bronze Award</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Malay Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">S5 Cluster Malay Language Story-telling Competition <br>Primary 1 Category<br>Primary 2 Category<br>Primary 3 Category</font></td>
+		<td><font size="4"><br>3rd prize<br>2nd Prize &amp; Best Costume<br>1st &amp; 3rd Prize</font></td>
+</tr>
+</tbody></table>
+<br>
 <br>
 <table>
 	<tbody><tr>
@@ -51,6 +78,14 @@ description: ""
 <tr>
 		<td><font size="4">Seithi Pongalo Pongal Contest 2023 (By MediaCorp)</font></td>
 		<td><font size="4">Top 6 Award</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Periyar Community Service Singing Competition</font></td>
+		<td><font size="4">3rd position</font></td>
+</tr>
+	<tr>
+		<td><font size="4">S5 Cluster Tamil Language Competition</font></td>
+		<td><font size="4">2 Gold<br>2 Silver<br>1 Bronze</font></td>
 </tr>
 </tbody></table>
 <br>

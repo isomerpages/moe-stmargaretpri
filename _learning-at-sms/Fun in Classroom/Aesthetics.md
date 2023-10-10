@@ -63,7 +63,7 @@ To create opportunities for students to discover their personal voice and be emp
   </tr>
   <tr>
     <td colspan="2" class="tg-zr06">Ms Suryanti<br></td>
-    <td colspan="2" class="tg-cly1">Mrs Chua Sue Ann</td>
+    <td colspan="2" class="tg-cly1">Mdm Chua Sue Ann</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-ktyi">Ms Samantha Ng<br></td>
