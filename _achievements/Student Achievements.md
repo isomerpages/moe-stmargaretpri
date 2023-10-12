@@ -75,8 +75,8 @@ description: ""
 		<td><font size="4">2 MCurie Awards<br>2 Da Vinci Awards</font></td>
 </tr>
 		<tr>
-		<td><font size="4">ACS Mythos (Junior Orators) 2023 </font></td>
-		<td><font size="4">Top 5 Finalists for Best Costume</font></td>
+		<td><font size="4">Singapore Primary Science Olympiad 2023 </font></td>
+		<td><font size="4">1 Silver<br>2 Bronze<br>13 Merit</font></td>
 </tr>
 	</tbody></table>
 <table>
