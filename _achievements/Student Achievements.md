@@ -97,6 +97,7 @@ description: ""
 		<td><font size="4">Bronze Award</font></td>
 </tr>
 	</tbody></table>
+	<br>
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
@@ -112,6 +113,7 @@ description: ""
 		<td><font size="4"><br>3rd prize<br>2nd Prize &amp; Best Costume<br>1st &amp; 3rd Prize</font></td>
 </tr>
 </tbody></table>
+	<br>
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
