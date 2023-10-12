@@ -190,7 +190,7 @@ description: ""
 	<tr>
 		<td><font size="4">National Schools Games Bowling Championship 2023<br>Singles Event (Senior Division) - <br>Doubles Event (Senior Division) - <br>Quartets Event (Senior Division) - <br>Overall Schools Event (Senior Division) - 
 </font></td>
-		<td><font size="4">3rd place<br>2nd place<br>4th place<br>2nd place
+		<td><font size="4"><br>3rd place<br>2nd place<br>4th place<br>2nd place
 </font></td>
 </tr>
 			<tr>
