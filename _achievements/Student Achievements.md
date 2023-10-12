@@ -46,6 +46,14 @@ description: ""
 		<td><font size="4">Singapore and Asian Schools Math Olympiad 2023 </font></td>
 		<td><font size="4">5 Silver<br>1 Bronze<br>4 Honourable Mention</font></td>
 </tr>
+			<tr>
+		<td><font size="4">Singapore Math Kangaroo Contest 2023</font></td>
+		<td><font size="4">1 Gold<br>2 Silver<br>1 Bronze<br>1 Honourable Mention</font></td>
+</tr>
+					<tr>
+		<td><font size="4">National Mathematical Olympiad of Singapore 2023</font></td>
+		<td><font size="4">1 Silver<br>2 Bronze<br>6 Honourable Mention</font></td>
+</tr>
 	</tbody></table>
 <br>
 <table>
