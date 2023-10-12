@@ -195,6 +195,12 @@ description: ""
 		<td><font size="4">Singles Event (Senior Division) - 3rd place<br>Doubles Event (Senior Division) - 2nd place<br>Quartets Event (Senior Division) - 4th place<br>Overall Schools Event (Senior Division) - 2nd place
 </font></td>
 </tr>
+			<tr>
+		<td><font size="4">Junior Netball Competition 2023 Classifying Round
+</font></td>
+		<td><font size="4">Entered Tier 2
+</font></td>
+</tr>
 	</tbody></table>
 <br>
 
