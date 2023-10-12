@@ -54,6 +54,10 @@ description: ""
 		<td><font size="4">National Mathematical Olympiad of Singapore 2023</font></td>
 		<td><font size="4">1 Silver<br>2 Bronze<br>6 Honourable Mention</font></td>
 </tr>
+							<tr>
+		<td><font size="4">Annual Mathlympics 2023</font></td>
+		<td><font size="4">1 Gold<br>2 Credit</font></td>
+</tr>
 	</tbody></table>
 <br>
 <table>
