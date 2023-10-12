@@ -23,6 +23,30 @@ description: ""
 		<td><font size="4">Top 5 Finalists for Best Costume</font></td>
 </tr>
 	</tbody></table>
+	<br>
+	<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Maths Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Raffles Institution Primary Mathematics World Competition 2023</font></td>
+		<td><font size="4">2 Distinction<br>1 Merit</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Asia Pacific Mathematical Olympiad for Primary Schools 2023 </font></td>
+		<td><font size="4">1 Silver<br>1 Bronze</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Singapore and Asian Schools Math Olympiad 2023 </font></td>
+		<td><font size="4">5 Silver<br>1 Bronze<br>4 Honourable Mention</font></td>
+</tr>
+	</tbody></table>
 <br>
 <table>
 	<tbody><tr>
