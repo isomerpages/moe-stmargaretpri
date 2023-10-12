@@ -71,8 +71,8 @@ description: ""
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">SOTA Primary 6 Creative Writing Competition 2023</font></td>
-		<td><font size="4">Top 10 Finalists</font></td>
+		<td><font size="4">NUS High School of Math &amp; Science 2023</font></td>
+		<td><font size="4">2 MCurie Awards<br>2 Da Vinci Awards</font></td>
 </tr>
 		<tr>
 		<td><font size="4">ACS Mythos (Junior Orators) 2023 </font></td>
