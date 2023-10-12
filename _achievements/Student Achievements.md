@@ -171,7 +171,13 @@ description: ""
 		<td><font size="4">Naomi Chu of 6 Tenacity (Top 50 Finalists &amp; Top 10 Winner) <br>
 				       7 other Art works showcased digitally at the SOTA exhibition on 24 to 28 March 2023 at SOTA Gallery Level 2 
 </font></td>
-</tr></tbody></table>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Youth Festival 2023 Art Exhibition</font></td>
+		<td><font size="4">Certificate of Recognition
+</font></td>
+</tr>
+	</tbody></table>
 <br>
 
 
