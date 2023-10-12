@@ -178,6 +178,24 @@ description: ""
 </font></td>
 </tr>
 	</tbody></table>
+	<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    National School Games Competition
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Schools Games Bowling Championship 2023
+</font></td>
+		<td><font size="4">Singles Event (Senior Division) - 3rd place<br>Doubles Event (Senior Division) - 2nd place<br>Quartets Event (Senior Division) - 4th place<br>Overall Schools Event (Senior Division) - 2nd place
+</font></td>
+</tr>
+	</tbody></table>
 <br>
 
 
