@@ -63,6 +63,25 @@ description: ""
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+     Science Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">SOTA Primary 6 Creative Writing Competition 2023</font></td>
+		<td><font size="4">Top 10 Finalists</font></td>
+</tr>
+		<tr>
+		<td><font size="4">ACS Mythos (Junior Orators) 2023 </font></td>
+		<td><font size="4">Top 5 Finalists for Best Costume</font></td>
+</tr>
+	</tbody></table>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
      Chinese Department
  </font></th>
 </tr>
