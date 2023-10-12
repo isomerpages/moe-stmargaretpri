@@ -24,7 +24,7 @@ description: ""
 </tr>
 	</tbody></table>
 	<br>
-	<table>
+<table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">Maths Department
  </font></th>
