@@ -26,6 +26,61 @@ description: ""
 <br>
 <table>
 	<tbody><tr>
+		<th><font color="maroon" size="5">Maths Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Raffles Institution Primary Mathematics World Competition 2023</font></td>
+		<td><font size="4">2 Distinction<br>1 Merit</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Asia Pacific Mathematical Olympiad for Primary Schools 2023 </font></td>
+		<td><font size="4">1 Silver<br>1 Bronze</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Singapore and Asian Schools Math Olympiad 2023 </font></td>
+		<td><font size="4">5 Silver<br>1 Bronze<br>4 Honourable Mention</font></td>
+</tr>
+			<tr>
+		<td><font size="4">Singapore Math Kangaroo Contest 2023</font></td>
+		<td><font size="4">1 Gold<br>2 Silver<br>1 Bronze<br>1 Honourable Mention</font></td>
+</tr>
+					<tr>
+		<td><font size="4">National Mathematical Olympiad of Singapore 2023</font></td>
+		<td><font size="4">1 Silver<br>2 Bronze<br>6 Honourable Mention</font></td>
+</tr>
+							<tr>
+		<td><font size="4">Annual Mathlympics 2023</font></td>
+		<td><font size="4">1 Gold<br>2 Credit</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Science Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">NUS High School of Math &amp; Science 2023</font></td>
+		<td><font size="4">2 MCurie Awards<br>2 Da Vinci Awards</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Singapore Primary Science Olympiad 2023 </font></td>
+		<td><font size="4">1 Silver<br>2 Bronze<br>13 Merit</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
 		<th><font color="maroon" size="5">
      Chinese Department
  </font></th>
@@ -55,11 +110,10 @@ description: ""
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">S5 Cluster Malay Language Story-telling Competition <br>Primary 1 Category<br>Primary 2 Category<br>Primary 3 Category</font></td>
+		<td><font size="4">S5 Cluster Malay Language Story-telling Competition <br>Primary 1 Category - <br>Primary 2 Category - <br>Primary 3 Category - </font></td>
 		<td><font size="4"><br>3rd prize<br>2nd Prize &amp; Best Costume<br>1st &amp; 3rd Prize</font></td>
 </tr>
-</tbody></table>
-<br>
+	</tbody></table>
 <br>
 <table>
 	<tbody><tr>
@@ -87,7 +141,7 @@ description: ""
 		<td><font size="4">S5 Cluster Tamil Language Competition</font></td>
 		<td><font size="4">2 Gold<br>2 Silver<br>1 Bronze</font></td>
 </tr>
-</tbody></table>
+	</tbody></table>
 <br>
 <table>
 	<tbody><tr>
@@ -116,12 +170,61 @@ description: ""
 		<td><font size="4">Naomi Chu of 6 Tenacity (Top 50 Finalists &amp; Top 10 Winner) <br>
 				       7 other Art works showcased digitally at the SOTA exhibition on 24 to 28 March 2023 at SOTA Gallery Level 2 
 </font></td>
-</tr></tbody></table>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Youth Festival 2023 Art Exhibition</font></td>
+		<td><font size="4">Certificate of Recognition</font></td>
+</tr>
+	</tbody></table>
 <br>
-
-
-
-
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    National School Games Competition
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Schools Games Bowling Championship 2023<br>Singles Event (Senior Division) - <br>Doubles Event (Senior Division) - <br>Quartets Event (Senior Division) - <br>Overall Schools Event (Senior Division) - 
+</font></td>
+		<td><font size="4"><br>3rd place<br>2nd place<br>4th place<br>2nd place
+</font></td>
+</tr>
+			<tr>
+		<td><font size="4">Junior Netball Competition 2023 Classifying Round
+</font></td>
+		<td><font size="4">Entered Tier 2
+</font></td>
+</tr>
+			<tr>
+		<td><font size="4">Tennis Senior Girls Singles League 2023
+</font></td>
+		<td><font size="4">2nd position</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Girls Brigade
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Drill Competition Achievement 2023</font></td>
+		<td><font size="4">Gold</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Junior Brigader Brooch 2023 </font></td>
+		<td><font size="4"></font></td>
+</tr>
+	</tbody></table><br>
 
 ### 2022 Achievements
 
@@ -329,6 +432,22 @@ Championships 2022</font></td>
 </tr>
 	</tbody></table>
 <br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Girls Brigade
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Company Award for 2022</font></td>
+		<td><font size="4">Bronze</font></td>
+</tr>
+	</tbody></table>
+
 
 ### 2021 Achievements
 
