@@ -209,10 +209,25 @@ description: ""
 </tr>
 	</tbody></table>
 <br>
-
-
-
-
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Girls Brigade
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Drill Competition Achievement 2023</font></td>
+		<td><font size="4">Gold</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Junior Brigader Brooch 2023 </font></td>
+		<td><font size="4"></font></td>
+</tr>
+	</tbody></table><br>
 
 ### 2022 Achievements
 
@@ -420,6 +435,22 @@ Championships 2022</font></td>
 </tr>
 	</tbody></table>
 <br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Girls Brigade
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Company Award for 2022</font></td>
+		<td><font size="4">Bronze</font></td>
+</tr>
+	</tbody></table>
+
 
 ### 2021 Achievements
 
