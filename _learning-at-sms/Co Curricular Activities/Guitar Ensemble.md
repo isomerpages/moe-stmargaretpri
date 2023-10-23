@@ -46,7 +46,7 @@ The Guitar Ensemble has evolved over the past 3 years to become a full-fledged C
 
 <table>
 <tbody><tr>
-		<td><center><img style="width:550px;height:450px;" src="/images/CCAs/Guitar%20Ensemble/guitarspotlight_01.jpg" alt="guitar01"><b>Performance at the school’s fundraising event: S.P.O.T.L.I.G.H.T</b></center></td></tr></tbody></table>
+		<td><center><img alt="guitar01" src="/images/CCAs/Guitar%20Ensemble/guitarspotlight_01.jpg" style="width:550px;height:450px;"><b>Performance at the school’s fundraising event: S.P.O.T.L.I.G.H.T</b></center></td></tr></tbody></table>
 
 
 ### Vision
@@ -69,10 +69,10 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar04.jpg" alt="guitar01"><b></b></td>
-		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar02.jpg" alt="guitar02"><b></b></td></tr>
-			<tr><td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar03.jpg" alt="guitar01"><b></b></td>
-		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar01.jpg" alt="guitar02"><b></b></td>
+		<td><img alt="guitar01" src="/images/CCAs/Guitar%20Ensemble/guitar04.jpg" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="guitar02" src="/images/CCAs/Guitar%20Ensemble/guitar02.jpg" style="width:450px;height:300px;"><b></b></td></tr>
+			<tr><td><img alt="guitar01" src="/images/CCAs/Guitar%20Ensemble/guitar03.jpg" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="guitar02" src="/images/CCAs/Guitar%20Ensemble/guitar01.jpg" style="width:450px;height:300px;"><b></b></td>
 </tr></tbody></table>
 
 
