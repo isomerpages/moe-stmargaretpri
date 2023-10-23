@@ -64,15 +64,10 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar04.jpg" alt="guitar01"><b>Students of different races pose for a photo</b></td></tr></tbody></table>
-
-
-<table>
-<tbody><tr>
-		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar04.jpg" alt="guitar01"><b></b></td>
-		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar02.jpg" alt="guitar02"><b></b></td></tr>
-			<tr><td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar03.jpg" alt="guitar01"><b></b></td>
-		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar01.jpg" alt="guitar02"><b></b></td>
+		<td><img alt="guitar01" src="/images/CCAs/Guitar%20Ensemble/guitar04.jpg" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="guitar02" src="/images/CCAs/Guitar%20Ensemble/guitar02.jpg" style="width:450px;height:300px;"><b></b></td></tr>
+			<tr><td><img alt="guitar01" src="/images/CCAs/Guitar%20Ensemble/guitar03.jpg" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="guitar02" src="/images/CCAs/Guitar%20Ensemble/guitar01.jpg" style="width:450px;height:300px;"><b></b></td>
 </tr></tbody></table>
 
 
