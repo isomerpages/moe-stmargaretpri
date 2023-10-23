@@ -65,4 +65,3 @@ To add on to their primary school art education experience, learning journeys ar
 *   Workshops by P5 and P6 CCA leaders
     
 *   Learning journey to art gallery / public art
-    
