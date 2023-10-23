@@ -37,7 +37,7 @@ These are the activities that the students participated for holistic learning.
 	<td><a href="/school-information/school-highlights/tcd-2023/"><img src="/images/Thumbnails/tcd%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>P5 Learning Journey to Bus-Train Depot 2023</center></th> 
+			<th><center>P5 Learning Journey to <br>Bus-Train Depot 2023</center></th> 
 		<th><center>RSAF55 Open House 2023</center></th> 
 		<th><center>Teachers' Day 2023</center></th> 			
 			</tr>	
