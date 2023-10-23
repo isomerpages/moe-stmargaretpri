@@ -26,4 +26,4 @@ At the Sengkang Rail Depot, students tried their hands at operating an MRT train
 Some students were interviewed for a short video clip by the Land Transport Authority (LTA). They shared their experience at the depot and expressed their gratitude for all public transport workers. At the end of the learning journeys, tokens of appreciation were presented to the public transport workers.
 From this learning journey, the Primary 5 students got a glimpse of what goes on behind the running of our public transport system. It was definitely an enriching experience for them! 
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YVLDvo38J4M?si=hcsIj9MqU2VEJULx" height="415" width="700"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5n8tQQR2xQ4?si=qUTFY1ZN8PMG4dyp" height="415" width="700"></iframe></center>
