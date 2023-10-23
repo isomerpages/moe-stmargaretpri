@@ -100,8 +100,8 @@ Students engaged in mini-group projects such as magnetic games, shadow puppet sh
 
 <table>
 <tbody><tr>
-		<td><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="mushrm02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(2).JPG" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(10).JPG" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(11).jpg" style="width:280px;height:300px;"><b></b></td>
 </tr></tbody></table>
 
 ##### Mushroom Growing
