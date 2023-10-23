@@ -8,13 +8,13 @@ third_nav_title: Co Curricular Activities
 
 <table>
 <tbody>
-	<tr style="background-color:darkgreen;color:white;"><td><b>Day</b></td>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
 	<td><b>Time</b></td>
 	<td><b>Venue</b></td>
 	<td><b>Teachers-In-Charge</b></td>
 	<td><b>Pupils Involved</b></td>
 </tr>
-<tr>
+	<tr style="background-color:white;color:black;font-size:18px">
 		<td><b>Mondays or Friday</b></td>
 		<td><b>2 - 4 pm</b></td>
 	<td><b>Art Rooms</b></td>
