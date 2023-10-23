@@ -8,7 +8,7 @@ third_nav_title: Co Curricular Activities
 
 <table>
 <tbody>
-	<tr><td bgcolor="394922"><b>Day</b></td>
+	<tr style="background-color:darkgreen;color:white;"><td><b>Day</b></td>
 	<td><b>Time</b></td>
 	<td><b>Venue</b></td>
 	<td><b>Teachers-In-Charge</b></td>
