@@ -60,8 +60,6 @@ To add on to their primary school art education experience, learning journeys ar
 
 
 *   Study of renowned artists and their artworks
-    
 *   SYF Art Exhibition Project
 *   Workshops by P5 and P6 CCA leaders
-    
 *   Learning journey to art gallery / public art
