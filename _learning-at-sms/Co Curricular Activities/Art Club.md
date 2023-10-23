@@ -15,11 +15,11 @@ third_nav_title: Co Curricular Activities
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td><b>Mondays or Friday</b></td>
-		<td><b>2 - 4 pm</b></td>
-	<td><b>Art Rooms</b></td>
-	<td><b>Mrs Fam Way Lin (OIC)<br>Ms Charissa Chan<br>Ms Samantha<br>Ms Suryanti</b></td>
-	<td><b>P3 - P6</b></td>
+		<td>Mondays or Friday</td>
+		<td>2 - 4 pm</td>
+	<td>Art Rooms</td>
+	<td>Mrs Fam Way Lin (OIC)<br>Ms Charissa Chan<br>Ms Samantha<br>Ms Suryanti</td>
+	<td>P3 - P6</td>
 </tr>
 </tbody></table>
 
