@@ -6,8 +6,8 @@ third_nav_title: School Highlights
 ---
 ### P5 EL Learning Journey to Bus and Rail Depots 2023
 
-##### 17 August (5G, 5H - Bus Depot)
-##### 28 August (5C, 5I, 5T - Rail Depot)
+##### 17 Aug (5G, 5H - Bus Depot)<br>
+##### 28 Aug (5C, 5I, 5T - Rail Depot)
 
 Many of us take the public buses and trains to school every day. Have you ever wondered what goes on behind the scenes to ensure the smooth journeys we enjoy?
 
