@@ -62,13 +62,19 @@ ___________________________________________________________
 2.	To develop students’ character and citizenship skills which students can use beyond the classroom
 3.	To grow and foster friendships and camaraderie amongst peers in St Margaret’s School (Primary)
 
-![](/images/2021gtr01.jpg)
+<table>
+<tbody><tr>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar04.jpg" alt="guitar01"><b>Students of different races pose for a photo</b></td></tr></tbody></table>
 
-![](/images/2021gtr02.jpg)
 
-![](/images/IMG6275.jpg)
+<table>
+<tbody><tr>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar04.jpg" alt="guitar01"><b></b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar02.jpg" alt="guitar02"><b></b></td></tr>
+			<tr><td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar03.jpg" alt="guitar01"><b></b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar01.jpg" alt="guitar02"><b></b></td>
+</tr></tbody></table>
 
-![](/images/IMG6277.jpg)
 
 
 ### Activities Outline
