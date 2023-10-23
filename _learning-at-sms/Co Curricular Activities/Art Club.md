@@ -60,38 +60,7 @@ To add on to their primary school art education experience, learning journeys ar
 
 
 *   Study of renowned artists and their artworks
-    
 *   SYF Art Exhibition Project
 *   Workshops by P5 and P6 CCA leaders
-    
 *   Learning journey to art gallery / public art
     
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 600px; height: 100px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 439px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 300px; height: 450px;" class="ive_eobj_left" alt="2022_Clay dolls for 180th Anniversary_no name.jpg" width="100%" src="/images/2022Clay%20dolls%20for%20180th%20Anniversary.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Clay dolls for 180th Anniversary</i></b></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 440px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 300px; height: 450px;" class="ive_eobj_center" alt="2022_Painting the bases for 180th Anniversary artworks.JPG" width="100%" src="/images/2022Painting%20the%20bases%20for%20180th%20Anniversary%20artworks.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Painting the bases for<br style="margin: 0px; outline: 0px; padding: 0px;">180th Anniversary artworks</i></b></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 300px; height: 450px;" class="ive_eobj_center" alt="2022_Exploring textures with twine and foil_no name.jpg" width="100%" src="/images/2022Exploring%20textures%20with%20twine%20and%20foil.jpg"><b style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0); text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Exploring textures with twine and foil</i></b></div></b></td></tr></tbody></table>
-
-  
-  
-
-![2021_Completing SYF project.jpg](/images/2021Completing%20SYF%20project.jpg)
-**Completing SYF Project**
-
-![2021_Watercolour collage photos.jpg](/images/2021Watercolour%20collage%20photos.jpg)
-**Watercolour Activity**
-
-<table>
-<tbody><tr>
-<td><center><font size="3"><img src="/images/2021Watercolour%20Photo%201.jpg" alt="volunteer recess ministry pv" style="width:200px;height:300px;"></font></center>
-</td>
-<td><center><font size="3"><img src="/images/2021Watercolour%202.jpg" alt="volunteer recess ministry pv" style="width:200px;height:300px;">
-</font></center>
-</td>
-	</tr><tr>
-	<td><center><font size="3"><img src="/images/2021Watercolour%203.jpg" alt="volunteer recess ministry pv" style="width:200px;height:300px;">
-</font></center>
-</td>
-			<td><center><font size="3"><img src="/images/2021Watercolour%204.jpg" alt="volunteer recess ministry pv" style="width:200px;height:300px;">
-</font></center>
-</td>
-</tr>
-</tbody></table>
-**Art Club students having fun doing watercolour activity**
