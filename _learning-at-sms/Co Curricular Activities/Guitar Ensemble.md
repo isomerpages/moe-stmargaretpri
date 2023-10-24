@@ -40,8 +40,10 @@ ___________________________________________________________
 ___________________________________________________________
 
 The Guitar Ensemble has evolved over the past 3 years to become a full-fledged CCA in St Margaret’s School (Primary). With a firm belief in nurturing music talent and an appreciation for musical styles of all genres, Students are encouraged to pursue their interest in this instrument and to practise their skills with a spirit of excellence. Through a combination of team-building activities and technical practice, students in the CCA are able to realise their full potential whilst experiencing the joy of learning through their guitar playing.
- 
-![](/images/CCAs/Guitar%20Ensemble/guitarspotlight_01.jpg)<b>Performance at the school’s fundraising event: S.P.O.T.L.I.G.H.T</b>
+
+<table>
+<tbody><tr>
+		<td><center><img style="width:700px;height:500px;" src="/images/CCAs/Guitar%20Ensemble/guitarspotlight_01.jpg" alt="guitar01"><b>Performance at the school’s fundraising event: S.P.O.T.L.I.G.H.T</b></center></td></tr></tbody></table>
 
 
 ### Vision
@@ -62,13 +64,14 @@ ___________________________________________________________
 2.	To develop students’ character and citizenship skills which students can use beyond the classroom
 3.	To grow and foster friendships and camaraderie amongst peers in St Margaret’s School (Primary)
 
-![](/images/2021gtr01.jpg)
+<table>
+<tbody><tr>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar04.jpg" alt="guitar01"><b></b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar02.jpg" alt="guitar02"><b></b></td></tr>
+			<tr><td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar03.jpg" alt="guitar01"><b></b></td>
+		<td><img style="width:450px;height:300px;" src="/images/CCAs/Guitar%20Ensemble/guitar01.jpg" alt="guitar02"><b></b></td>
+</tr></tbody></table>
 
-![](/images/2021gtr02.jpg)
-
-![](/images/IMG6275.jpg)
-
-![](/images/IMG6277.jpg)
 
 
 ### Activities Outline

@@ -98,6 +98,11 @@ Environmental Science club members became champions of bees. They researched abo
 
 Students engaged in mini-group projects such as magnetic games, shadow puppet shows, story writing, focusing on the theme of recycling and sustainability.
 
+<table>
+<tbody><tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(10).JPG" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(11).jpg" style="width:280px;height:300px;"><b></b></td>
+</tr></tbody></table>
 
 ##### Mushroom Growing
 
