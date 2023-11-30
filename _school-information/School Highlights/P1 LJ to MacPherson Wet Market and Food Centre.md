@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: School Highlights
 ---
-### P1 LJ to MacPherson Wet Market and Food Centre 2023
+### P1 Learning Journey to MacPherson Wet Market and Food Centre 2023
 
 ##### 7, 9 and 10 Nov 2023
 
