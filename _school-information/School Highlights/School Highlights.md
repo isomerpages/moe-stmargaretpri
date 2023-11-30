@@ -3,6 +3,7 @@ title: School Highlights
 permalink: /school-information/school-highlights/permalink/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ## School Highlights
 
@@ -28,7 +29,7 @@ These are the activities that the students participated for holistic learning.
 </tr>
 		<tr>
 			<th><center>P6 Graduation Camp 2023</center></th> 
-		<th><center>P6 SEP 2023</center></th> 
+		<th><center>P1 Learning Journey to MacPherson wet market 2023</center></th> 
 		<th><center>Children's Day 2023</center></th> 			
 			</tr>	
 		<tr>
