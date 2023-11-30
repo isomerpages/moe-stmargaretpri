@@ -25,7 +25,7 @@ These are the activities that the students participated for holistic learning.
 	<tbody>
 		<tr>
 <td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="ndp" style="width:250px;height:170px;"></td>
-			<td><img src="/images/Thumbnails/p1ljmarket_thumb_01.jpg" alt="ndp" style="width:250px;height:170px;"></td>
+			<td><a href="/school-information/school-highlights/p1lj-market-2023/"><img src="/images/Thumbnails/p1ljmarket_thumb_01.jpg" alt="ndp" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/childday-2023/"><img src="/images/Thumbnails/childnday%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
