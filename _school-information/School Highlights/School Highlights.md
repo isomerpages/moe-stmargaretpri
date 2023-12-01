@@ -29,7 +29,7 @@ These are the activities that the students participated for holistic learning.
 	<td><a href="/school-information/school-highlights/childday-2023/"><img src="/images/Thumbnails/childnday%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>P6 Graduation Camp 2023</center></th> 
+			<th><center>Celebrating our Successes Day 2023</center></th> 
 		<th><center>P1 Learning Journey to MacPherson wet market 2023</center></th> 
 		<th><center>Children's Day 2023</center></th> 			
 			</tr>	
