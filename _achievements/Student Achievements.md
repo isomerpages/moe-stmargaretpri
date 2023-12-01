@@ -112,7 +112,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4">Malay Language Story-telling Competition (S5 Cluster) <br>Primary 1 Category - <br>Primary 2 Category - <br>Primary 3 Category - </font></td>
-		<td><font size="4"><br>3rd prize<br>2nd Prize &amp; Best Costume<br>1st &amp; 3rd Prize, Best Props</font></td>
+		<td><font size="4"><br><br>3rd prize<br>2nd Prize &amp; Best Costume<br>1st &amp; 3rd Prize, Best Props</font></td>
 </tr>
 		<tr>
 		<td><font size="4">Kad Kembara Rakan Bahasa</font></td>
