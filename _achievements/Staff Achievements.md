@@ -2,6 +2,7 @@
 title: Staff Achievements
 permalink: /achievements/staff-achievements/
 description: ""
+variant: markdown
 ---
 ### 2023 Achievements
 <table>
@@ -75,6 +76,49 @@ description: ""
 		<td><font size="4">Mdm Nur Syafawati Binte Roslan </font></td>
 		<td><font size="4">Corporate Support Officer</font></td>
 <td><font size="4">5 years Award </font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     SMC Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Lee May Lyn Joanne</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Ong Cheng Bing</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award </font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mdm Chan Mei Sze</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Shahirah Binte Mohd Shariff</font></td>
+		<td><font size="4">SH Mathematics</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Chan Soo Sian Adeline</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Low Wei Wen</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
 </tr>
 </tbody></table>
 
