@@ -170,7 +170,7 @@ School have received a token of appreciation from the NLB (National Library Boar
 
 ![](/images/Announcement/Read_for_Books_2023_Certificate.jpg)
 
-WE would like to extend a special appreciation to the students and teachers of STAR who went above and beyond by providing emcees and having students dress up as book characters to read on stage. Your creative contributions added a unique and engaging dimension to the event.
+We would like to extend a special appreciation to the students and teachers of STAR who went above and beyond by providing emcees and having students dress up as book characters to read on stage. Your creative contributions added a unique and engaging dimension to the event.
 
 ![](/images/Read%20for%20Books%202023/readforbooks01.jpg)
 
