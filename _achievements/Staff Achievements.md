@@ -202,7 +202,26 @@ variant: markdown
 		<td><font size="4"> Silver </font></td>
 </tr>
 </tbody></table>
-
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     MOE Innergy Award 2023
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Commendation Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Partnered with CPDD on P3, P4 HML and HTL Curriculum Initiative.<br></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Staff Involved</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Loganathan Mageshwari </font></td>
+</tr>
+</tbody></table>
 
 ### 2022 Achievements
 <table>
