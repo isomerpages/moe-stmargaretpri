@@ -8,6 +8,28 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+     National Day Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Sara George</font></td>
+		<td><font size="4">Year Head (P1 &amp; P2)</font></td>
+<td><font size="4">The Commendation Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Teo Wai Yee</font></td>
+		<td><font size="4">School Staff Developer</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+</tbody></table>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
      MOE Long Service Award
  </font></th>
 </tr>
