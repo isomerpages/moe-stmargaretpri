@@ -380,7 +380,7 @@ Mageshwari</font></td>
 </tr>
 	<tr>
 		<td><font size="4">Ms Sara George</font></td>
-		<td><font size="4">Year Head</font></td>
+		<td><font size="4">Year Head (P1 &amp; P2)</font></td>
 <td><font size="4">30 years Award </font></td>
 </tr>
 <tr>
@@ -395,7 +395,7 @@ Mageshwari</font></td>
 </tr>
 <tr>
 		<td><font size="4">Ms Christina Yong</font></td>
-		<td><font size="4">Year Head</font></td>
+		<td><font size="4">Assistant Year Head</font></td>
 <td><font size="4">10 years Award </font></td>
 </tr>
 <tr>
