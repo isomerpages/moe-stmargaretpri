@@ -206,7 +206,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
-     MOE Innergy Award 2023
+     MOE Innergy Award
  </font></th>
 </tr>
 	<tr>
@@ -409,7 +409,7 @@ Mageshwari</font></td>
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
-     MOE Innergy Award 2022
+     MOE Innergy Award
  </font></th>
 </tr>
 	<tr>
