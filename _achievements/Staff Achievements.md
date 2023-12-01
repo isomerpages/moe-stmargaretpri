@@ -370,6 +370,69 @@ Mageshwari</font></td>
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+     SMC Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Sara George</font></td>
+		<td><font size="4">Year Head</font></td>
+<td><font size="4">30 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Cheng Lai Peng Daphne</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award </font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mrs Teo Wai Yee</font></td>
+		<td><font size="4">School Staff Developer</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Christina Yong</font></td>
+		<td><font size="4">Year Head</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Chan Yen Peng</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Nur Azah Bte Kaulan</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Malathi d/o Velu</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Zhuang Si Qiao</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Rozita Binte Sulaiman</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+		<tr>
+		<td><font size="4">Ms Liew Yan Mei Charise</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
      MOE Special Appreciation Award
  </font></th>
 </tr>
