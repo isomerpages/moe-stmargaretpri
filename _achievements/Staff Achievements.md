@@ -121,6 +121,44 @@ variant: markdown
 <td><font size="4">10 years Award </font></td>
 </tr>
 </tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     MOE Service Excellence Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mr Derek</font></td>
+		<td><font size="4">ST Physical Education</font></td>
+		<td><font size="4">Gold</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Nur Syafawati Binte Roslan</font></td>
+		<td><font size="4">CSO</font></td>
+		<td><font size="4"> Gold</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Rozita Binte Sulaiman</font></td>
+		<td><font size="4">Teacher</font></td>
+		<td><font size="4"> Silver </font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Yeo Hui Li Madelin</font></td>
+		<td><font size="4">Teacher</font></td>
+		<td><font size="4"> Silver</font></td>
+</tr>
+			<tr>
+		<td><font size="4">Mdm Nur Hidayah Binte Johari</font></td>
+		<td><font size="4">CSO</font></td>
+		<td><font size="4"> Silver </font></td>
+</tr>
+</tbody></table>
 
 
 ### 2022 Achievements
