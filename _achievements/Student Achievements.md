@@ -116,7 +116,7 @@ variant: markdown
 </tr>
 		<tr>
 		<td><font size="4">Kad Kembara Rakan Bahasa</font></td>
-		<td><font size="4">2 Pri 5 students were appointed as the Malay Language Ambassadors after the programme</font></td>
+		<td><font size="4">2 students from Pri 5 were appointed as the Malay Language Ambassadors after the programme</font></td>
 </tr>
 	</tbody></table>
 <br>
