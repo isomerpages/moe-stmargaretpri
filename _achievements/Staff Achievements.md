@@ -27,6 +27,30 @@ variant: markdown
 <td><font size="4">Long Service Medal</font></td>
 </tr>
 </tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     National Award - COVID-19 Resilience Medal 
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Teo Wai Yee</font></td>
+		<td><font size="4">School Staff Developer</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Christina Yong</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+</tbody></table>
+<br>
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
