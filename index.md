@@ -40,6 +40,6 @@ sections:
       title: Fundraising
       button: Find out more
       url: /files/PUP Fundraising 2021.pdf
-      image: /images/Fundraising/peri upgrading fundraising_pop up.jpg
+      image: /images/Fundraising/PERI_Upgrading_Fundraising_2023.jpg
       alt: Image alt text
 ---
