@@ -3,38 +3,24 @@ title: Guitar Ensemble
 permalink: /learning-at-sms/co-curricular-activities/guitar-ensemble/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Guitar Ensemble
-___________________________________________________________
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Day</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teachers-In-Charge</span></th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
-     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Student Learning Lab</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Esther James (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Miss Lim Shurong</span><br></td>
-  </tr>
-</tbody>
-</table>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+		<td>Fridays</td>
+		<td>2 - 4 pm</td>
+	<td>Student Learning Lab</td>
+	<td>Mdm Esther James (OIC)<br>Ms Lim Shurong</td>
+</tr>
+</tbody></table>
 
 ### Introduction
 ___________________________________________________________
