@@ -16,7 +16,7 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Mondays<br>Fridays</td>
+		<td>Mondays &amp; Fridays</td>
 		<td>2 - 4 pm<br>2 - 4 pm</td>
 	<td>External venue / foyer / 6G &amp; 6H classrooms</td>
 	<td>Mdm Mageshwari<br>Mr Derek Wong(Mon &amp; Fri)<br>Ms Dinah Chan</td>
