@@ -16,7 +16,7 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Mondays or Fridays</td>
+		<td>Mondays &amp; Fridays</td>
 		<td>2 - 4 pm</td>
 	<td>Art Rooms</td>
 	<td>Mrs Fam Way Lin (OIC)<br>Ms Charissa Chan<br>Ms Samantha<br>Ms Suryanti</td>
