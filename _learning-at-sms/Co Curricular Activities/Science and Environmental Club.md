@@ -6,36 +6,6 @@ third_nav_title: Co Curricular Activities
 variant: markdown
 ---
 ## Science and Environmental Club
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Day</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teachers-In-Charge</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Level</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Science Labs</span><br></td>
-    <td class="tg-pk3b"><span style="background-color:transparent">Mdm Chan Yen Peng (OIC)</span><br><span style="font-weight:400;color:#000">Mdm Geetha</span><br><span style="font-weight:400;color:#000">Mrs Ganesh</span><br><span style="font-weight:400;color:#000">Ms Ng Ley Tin (Advisor)</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P5 - P6</span><br><span style="color:#222;background-color:#FBFFFA">P3 - P4</span></td>
-  </tr>
-</tbody>
-</table>
 
 <table>
 <tbody>
