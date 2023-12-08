@@ -7,37 +7,6 @@ variant: markdown
 ---
 ## Tennis
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Day</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teachers-In-Charge</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Pupils Involved</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mondays </span><br><br><span style="color:#222;background-color:#FBFFFA"> Fridays</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 2 - 4 pm</span><br><br><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">External venue / foyer / 6G and 6H</span></td>
-    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mdm Mageshwari</span><br><span style="font-weight:400;color:#000">Mr Derek Wong (Mon &amp; Fri)</span><br><span style="font-weight:400;color:#000">Ms Dinah Chan</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P5 &amp; P6</span><br><br><span style="color:#222;background-color:#FBFFFA">P3 &amp; P4</span></td>
-  </tr>
-</tbody>
-</table>
-
 <table>
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
@@ -140,8 +109,8 @@ To prepare the junior and senior teams for&nbsp; the National Games Tennis Champ
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5"> National School Games 2023<br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Singles League – 2nd in position</span></td>
+    <td class="tg-dgl5">Tennis Senior Girls Singles League 2023<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2nd in position</span></td>
   </tr>
 	 <tr>
     <td class="tg-dgl5">Tennis Junior Division Girls   <br></td>
