@@ -3,6 +3,7 @@ title: Bowling
 permalink: /learning-at-sms/co-curricular-activities/bowling/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Bowling
 
@@ -35,6 +36,23 @@ third_nav_title: Co Curricular Activities
   </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+	<td><b>Pupils Involved</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+		<td>Mondays(school team players) &amp; Friday</td>
+		<td>1.50 pm - 4 pm</td>
+	<td>External venue / Outside library / 5H, 5T &amp; 6C classrooms</td>
+	<td>Ms Low Pei Lin (OIC)<br>Mdm Abigail Henry<br>Ms Dinah Chan<br>Ms Dharshini</td>
+	<td>P3 - P6</td>
+</tr>
+</tbody></table>
 
 ### Introduction
 
