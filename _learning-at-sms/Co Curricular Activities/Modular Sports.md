@@ -3,6 +3,7 @@ title: Modular Sports
 permalink: /learning-at-sms/co-curricular-activities/modular-sports/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Modular Sports
 ___________________________________________________________
@@ -34,6 +35,21 @@ ___________________________________________________________
   </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+		<td>Fridays</td>
+		<td>2 - 4 pm</td>
+	<td>Playground<br>Behind canteen</td>
+	<td>Ms Gwee Hui Jun<br>Mr Roland Neo (Advisor)</td>
+</tr>
+</tbody></table>
 
 ### Introduction
 ___________________________________________________________
