@@ -122,3 +122,58 @@ ___________________________________________________________
 <td><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
 </td>
 </tr></tbody></table>
+
+### Highlights &amp; Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bzhr{background-color:#D6E6C7;color:#2A5629;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-9z0x{background-color:#D6E6C7;color:#2A5629;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bzhr"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Year</span></th>
+    <th class="tg-9z0x">Event</th>
+    <th class="tg-9z0x">Award</th>
+  </tr>
+</thead>
+<tbody>
+	  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
+    <td class="tg-ktyi">National Drill Competition Achievement 2023</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Gold</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
+    <td class="tg-ktyi">Junior Brigader Brooch 2023</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2022</span></td>
+    <td class="tg-ktyi">Company Award for 2022</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Bronze</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
+    <td class="tg-ktyi">Creating Teachers’ Day video</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2018</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Creating Preshow video (Students Once More) for school concert (Yesterday Once More)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2017</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Singapore Digital Media Awards 2017 - Video category (2017, Term 1 &amp; 2)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Certificate of Participation</span></td>
+  </tr>
+</tbody>
+</table>
