@@ -3,6 +3,7 @@ title: Brass Band
 permalink: /learning-at-sms/co-curricular-activities/brass-band/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Brass Band
 ____________________________________________________________
@@ -41,6 +42,23 @@ ____________________________________________________________
   </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+	<td><b>Pupils Involved</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+		<td>Mondays &amp; Fridays</td>
+		<td>2 - 4 pm</td>
+	<td>Band Rooms</td>
+	<td>Mdm Rachelle Ching (OIC)<br>Mr Eddie Chong</td>
+	<td>P3 - P6</td>
+</tr>
+</tbody></table>
 
 ### Overview
 ____________________________________________________________
