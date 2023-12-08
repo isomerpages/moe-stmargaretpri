@@ -3,6 +3,7 @@ title: Tennis
 permalink: /learning-at-sms/co-curricular-activities/tennis/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Tennis
 
@@ -36,6 +37,23 @@ third_nav_title: Co Curricular Activities
   </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+	<td><b>Pupils Involved</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+		<td>Mondays<br>Fridays</td>
+		<td>2 - 4 pm<br>2 - 4 pm</td>
+	<td>External venue / foyer / 6G &amp; 6H classrooms</td>
+	<td>Mdm Mageshwari<br>Mr Derek Wong(Mon &amp; Fri)<br>Ms Dinah Chan</td>
+	<td>P5 &amp; P6<br>P3 &amp; P4</td>
+</tr>
+</tbody></table>
 
 #### Introduction
 
