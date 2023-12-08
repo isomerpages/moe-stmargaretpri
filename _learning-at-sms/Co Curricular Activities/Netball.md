@@ -114,6 +114,11 @@ The development teams train once a week. During the trainings, members are taugh
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2023</span></td>
+    <td class="tg-ktyi">Junior Netball Competition 2023 Classifying Round</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Entered Tier 2</span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2023</span></td>
     <td class="tg-ktyi">South Zone Primary Schools Netball Championships 2023</td>
