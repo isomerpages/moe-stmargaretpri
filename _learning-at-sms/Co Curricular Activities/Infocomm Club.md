@@ -3,9 +3,8 @@ title: Infocomm Club
 permalink: /learning-at-sms/co-curricular-activities/infocomm-club/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
-
 ## Infocomm Club
 
 <style type="text/css">
@@ -41,7 +40,22 @@ third_nav_title: Co Curricular Activities
 </tbody>
 </table>
 
-
+<table>
+<tbody>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+	<td><b>Pupils Involved</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+		<td>Fridays</td>
+		<td>2 - 4 pm</td>
+	<td>Computer Lab 1<br>Computer Lab 2<br>Computer Lab 3</td>
+	<td>Ms Daphne Cheng (OIC)<br>Mr Wu Shao Hai<br>Ms Anna Lau<br>Mrs Madelin Ang<br>Ms Nur A'zzah Bte Noh (Advisor)</td>
+	<td>P3 &amp; P4<br>P5<br>P6</td>
+</tr>
+</tbody></table>
 
 ### Introduction  
 
