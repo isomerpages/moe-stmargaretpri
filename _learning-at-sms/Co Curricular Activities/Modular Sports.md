@@ -6,35 +6,6 @@ third_nav_title: Co Curricular Activities
 variant: markdown
 ---
 ## Modular Sports
-___________________________________________________________
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-bnp4{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Day</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teachers-In-Charge</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Playground</span><br><span style="color:#222;background-color:#FBFFFA">Behind canteen</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Gwee Hui Jun</span><br><span style="color:#222;background-color:#FBFFFA"> Mr Roland Neo (Advisor)</span></td>
-  </tr>
-</tbody>
-</table>
 
 <table>
 <tbody>
