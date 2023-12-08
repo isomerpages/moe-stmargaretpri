@@ -3,41 +3,28 @@ title: Girls Brigade
 permalink: /learning-at-sms/co-curricular-activities/girls-brigade/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Girls Brigade
-___________________________________________________________
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Day</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teachers-In-Charge</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Pupils Involved</span></th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">5T, 5I and 5H classroom</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Melody Soh (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Grace Tang</span><br><span style="color:#222;background-color:#FBFFFA">Mrs Chua Seow Wee</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Chua Sue Ann</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span><br></td>
-  </tr>
-</tbody>
-</table>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+	<td><b>Pupils Involved</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+		<td>Fridays</td>
+		<td>2 - 4 pm</td>
+	<td>5T, 5I &amp; 5H classrooms</td>
+	<td>Ms Melody Soh (OIC)<br>Mdm Grace Tang<br>Mrs Chua Seow Wee<br>Mdm Chua Sue Ann</td>
+	<td>P3 - P6</td>
+</tr>
+</tbody></table>
 
-## Introduction
+### Introduction
 ___________________________________________________________
 
 Girls' Brigade 25th Company is a Christian uniformed-group organisation. We believe in developing every girl to their fullest potential by equipping, empowering and enabling-&nbsp;_Every Girl Becoming a Leader, Every Officer a Servant Leader_&nbsp;. The Girls' Brigade acknowledges Jesus Christ as Saviour and Lord according to the Scriptures, and seeks to help girls find true enrichment of life through self-control, reverence and a sense of responsibility.
