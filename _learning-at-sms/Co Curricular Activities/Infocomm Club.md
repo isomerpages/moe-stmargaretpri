@@ -7,38 +7,7 @@ variant: markdown
 ---
 ## Infocomm Club
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rk1q{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ug26{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-xkg1{background-color:#FBFFFA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Day</span></th>
-    <th class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
-    <th class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
-    <th class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Teachers-In-Charge</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Level</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-xkg1"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Comp Lab 1</span><br><span style="color:#222;background-color:#FBFFFA">Comp Lab 2</span><br><span style="color:#222;background-color:#FBFFFA">Comp Lab 3</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Daphne Cheng (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Mr Wu Shao Hai</span><br><span style="color:#222;background-color:#FBFFFA">Miss Anna Lau</span><br><span style="color:#222;background-color:#FBFFFA">Mrs Madelin Ang</span><br><span style="color:#222;background-color:#FBFFFA">Miss Nur A'zzah Bte Noh (Advisor) </span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 &amp; P4</span><br><span style="color:#222;background-color:#FBFFFA">P5</span><br><span style="color:#222;background-color:#FBFFFA">P6</span></td>
-  </tr>
-</tbody>
-</table>
+
 
 <table>
 <tbody>
