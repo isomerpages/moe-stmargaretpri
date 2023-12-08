@@ -123,7 +123,7 @@ ___________________________________________________________
 </td>
 </tr></tbody></table>
 
-### Highlights &amp; Achievements
+### Achievements
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
