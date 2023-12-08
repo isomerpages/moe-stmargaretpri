@@ -17,8 +17,8 @@ variant: markdown
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
 <td>P3 &amp; P4 Developmental Team<br>P5 &amp; P6 Developmental Team<br>Junior Training Team<br>Senior Training Team<br>Overall-In-Charge</td>
-		<td>Mondays<br>Fridays<br>Mondays &amp; Fridays<br>Mondays &amp; Fridays</td>
-		<td>2 - 4 pm<br>2 - 4 pm<br>2 - 4 pm<br>2 - 4 pm</td>
+		<td>Mondays &amp; Fridays</td>
+		<td>2 - 4 pm</td>
 	<td>School</td>
 	<td>Mdm Lew Nyet Mee (P3 &amp; P4 development)<br>Ms Tiffany Goh (P5 &amp; P6 development)<br>Ms Wang Peiqi (P5 &amp; P6 school team)<br><br>Mdm Madeline Koo (OIC)</td>
 </tr>
