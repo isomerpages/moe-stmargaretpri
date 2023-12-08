@@ -20,7 +20,7 @@ variant: markdown
 		<td>Mondays &amp; Fridays</td>
 		<td>2 - 4 pm</td>
 	<td>School</td>
-	<td>Mdm Lew Nyet Mee (P3 &amp; P4 development)<br>Ms Tiffany Goh (P5 &amp; P6 development)<br>Ms Wang Peiqi (P5 &amp; P6 school team)<br><br>Mdm Madeline Koo (OIC)</td>
+	<td>Mdm Lew Nyet Mee (P3 &amp; P4 development)<br>Ms Tiffany Goh (P5 &amp; P6 development)<br>Ms Wang Peiqi (P5 &amp; P6 school team)<br>Mdm Madeline Koo (OIC)</td>
 </tr>
 </tbody></table>
 
