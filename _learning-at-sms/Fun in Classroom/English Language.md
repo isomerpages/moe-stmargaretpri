@@ -215,9 +215,14 @@ Let us continue to nurture the love for reading among our girls! Remember, readi
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-pdeq">ACS Mythos (Junior Orators) 2023</td>
+    <td class="tg-jxgv">Top 5 Finalists for Best Costume
+</td>
+  </tr>
   <tr>
     <td class="tg-pdeq">SOTA Primary 6 Creative Writing Competition 2023<br>(14 Jan 2023)<br></td>
-    <td class="tg-jxgv">Top 50 Finalists<br>
+    <td class="tg-jxgv">Top 10 &amp; 50 Finalists<br>
 (1 student from 6 Integrity &amp; <br>1 student from 6 Tenacity)
 </td>
   </tr>
