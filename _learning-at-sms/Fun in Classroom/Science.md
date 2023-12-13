@@ -3,6 +3,7 @@ title: Science
 permalink: /learning-at-sms/fun-in-classroom/science/
 description: ""
 third_nav_title: Fun in Classroom
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -114,6 +115,14 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-dgl5">NUS High School of Math &amp; Science 2023
+    </td><td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 MCurie Awards</span><br>2 Da Vinci Awards</td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Singapore Primary Science Olympiad 2023
+    </td><td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver</span><br>2 Bronze<br>13 Merit</td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Da Vinci Juniour Excellence Award by NUS High School of Math and Science<br>(2022-2023)</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 students from 5 Integrity won</span> Junior Excellence Award </td>
