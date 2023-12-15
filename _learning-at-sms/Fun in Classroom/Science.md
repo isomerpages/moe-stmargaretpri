@@ -124,12 +124,12 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
     </td><td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver</span><br>2 Bronze<br>13 Merit</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Da Vinci Juniour Excellence Award by NUS High School of Math and Science<br>(2022-2023)</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 students from 5 Integrity won</span> Junior Excellence Award </td>
+    <td class="tg-dgl5">Da Vinci Juniour Excellence Award by NUS High School <br>of Math and Science<br>(2022-2023)</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 students from 5 Integrity won</span><br>Junior Excellence Award </td>
   </tr>
   <tr>
-    <td class="tg-dgl5">MCurie2 Excellence Award by NUS High School of Math and Science<br>(2022-2023)</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 students from 5 Integrity &amp; 5 Tenacity won</span> Excellence Award</td>
+    <td class="tg-dgl5">MCurie2 Excellence Award by NUS High School <br>of Math and Science<br>(2022-2023)</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 students from 5 Integrity &amp; 5 Tenacity won</span><br>Excellence Award</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Singapore Primary Science Olympiad<br>23 May 2022</td>
