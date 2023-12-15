@@ -85,7 +85,7 @@ variant: markdown
 </tbody>
 </table>
 
-### Scheduled School Public Holidays
+### Public Holidays 2024
 
 #### Semester 1
 <style type="text/css">
@@ -186,98 +186,3 @@ variant: markdown
 </tbody>
 </table>
 
-### Public Holidays 2023
-
-#### Semester 1
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7yig{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7yig"><span style="font-weight:400;color:#000">Term 1</span></th>
-    <th class="tg-7yig"><span style="font-weight:400;color:#000">New Year’s Day</span></th>
-    <th class="tg-7yig">      Sunday, 1 Jan 2023</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 1</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Chinese New Year</span></td>
-    <td class="tg-7yig">      Sunday &amp; Monday, 22 - 23 Jan 2023</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 2</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Good Friday</span></td>
-    <td class="tg-7yig">      Friday, 7 April 2023</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 2</span></td>
-    <td class="tg-7yig"><span style="background-color:initial">Hari Raya Puasa</span><br></td>
-    <td class="tg-7yig">      Saturday, 22 April 2023<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 2</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Labour Day </span><br></td>
-    <td class="tg-7yig">      Monday, 1 May 2023</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 2</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Vesak Day</span></td>
-    <td class="tg-7yig"><span style="background-color:initial">Saturday, 3 June 2023</span></td>
-  </tr>
-</tbody>
-</table>
-
-#### Semester 2
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7yig"><span style="font-weight:400;color:#000">Term 3</span></th>
-    <th class="tg-7yig"><span style="font-weight:400;color:#000">Hari Raya Haji</span></th>
-    <th class="tg-7yig"><span style="background-color:initial">Thursday, 29 June 2023</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 3</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">National Day</span></td>
-    <td class="tg-7yig"><span style="background-color:initial">Wednesday, 9 Aug 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 3</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Teacher’s Day</span></td>
-    <td class="tg-7yig"><span style="background-color:initial">Friday, 1 Sept 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 4</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Childrens’ Day</span></td>
-    <td class="tg-7yig"><span style="background-color:initial">Friday, 6 Oct 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 4</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Deepavali</span></td>
-    <td class="tg-7yig"><span style="background-color:initial">Sunday, 12 Nov 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Term 4</span></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Christmas</span></td>
-    <td class="tg-7yig"><span style="background-color:initial">Monday, 25 Dec 2023</span></td>
-  </tr>
-</tbody>
-</table>
