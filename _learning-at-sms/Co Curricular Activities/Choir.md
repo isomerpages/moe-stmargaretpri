@@ -54,10 +54,9 @@ ___________________________________________________________
 2.  To instill discipline, build confidence in our young singers and put their artistic skills into practice
 3.  To nurture girls of the character anchored on the values of  **L**ife-long learner,**I**ntegrity, **G**raciousness, **H**umility and **T**enacity (LIGHT).
 
-
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">SPOTLIGHT 2023</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:300px; alt=" src="/images/CCAs/Choir/Spotlight_2023.JPG">SPOTLIGHT 2023</font></p></th>
 </tr>
 </tbody></table>
 
@@ -73,7 +72,7 @@ They are exposed to a wide repertoire of songs. Interpretation of songs is also 
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Recess Performance</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:300px; alt=" src="/images/CCAs/Choir/Recess_Performance.jpeg">Recess Performance</font></p></th>
 </tr>
 </tbody></table>
 
@@ -84,10 +83,9 @@ __________________________________________________________
 2.	To improve on the choir members' singing techniques.
 3.	To be performance ready with a repertoire of songs.
 
-
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Practising during a choir session</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:300px; alt=" src="/images/CCAs/Choir/Practising_during_a_choir_session.jpeg">Practising during a choir session</font></p></th>
 </tr>
 </tbody></table>
 
