@@ -3,6 +3,7 @@ title: Chinese Language
 permalink: /learning-at-sms/fun-in-classroom/chinese-language/
 description: ""
 third_nav_title: Fun in Classroom
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -162,6 +163,10 @@ To create a vibrant MTL learning environment in school, level competitions are o
   <tr>
     <td class="tg-dgl5">National YMCA Mandarin Speaking Competition 2023 <br>(12 Apr 2023)</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 student selected to Semi-Finalist</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-dgl5">National Text Recitation Competition 2023 <br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Bronze Award</span></td>
   </tr>
  
 </tbody>
