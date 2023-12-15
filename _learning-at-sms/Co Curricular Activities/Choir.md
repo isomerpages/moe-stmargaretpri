@@ -24,17 +24,15 @@ variant: markdown
 </tr>
 </tbody></table>
 
-<table>
-<tbody><tr><th><font size="5" color="green">&nbsp;
-Introduction
-&nbsp;</font></th></tr>
-<tr><td><font size="4">
-The Choir is one of the performing arts groups in St. Margaret’s School (Primary). It has about 40 members who have chosen to join the choir out of their love for singing. We want to nurture their God-given talent through vocal training so that they can each reach their fullest potential in this area. <br><br>
-	
-In the choir, members sing as a group and learn to blend with one another. As a performing choir, members also learn to execute movements and exhibit good showmanship on stage.</font></td></tr>
+#### Introduction
+__________________________________________________________
+The Choir is one of the performing arts groups in St. Margaret’s School (Primary). It has about 40 members who have chosen to join the choir out of their love for singing. We want to nurture their God-given talent through vocal training so that they can each reach their fullest potential in this area.
 
-</tbody></table>
-<p></p><table>
+In the choir, members sing as a group and learn to blend with one another. As a performing choir, members also learn to execute movements and exhibit good showmanship on stage.
+
+
+<p></p>
+<table>
  <tbody><tr><td>
 	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Performed at 180th St Margaret’s Founder Day Service at St Andrew’s Cathedral </font></p></th>
 </tr>
