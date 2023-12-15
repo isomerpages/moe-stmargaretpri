@@ -103,25 +103,22 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ktyi"><span style="font-weight:400;color:#000">New Year’s Day</span></th>
-    <th class="tg-eelb"><span style="font-weight:400;color:#000">Sunday, 1 Jan 2023</span></th>
+    <th class="tg-eelb"><span style="font-weight:400;color:#000">Monday, 1 Jan 2024</span></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Post New Year’s Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Monday, 2 Jan 2023</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Chinese New Year</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Sunday &amp; Monday, 22 - 23 Jan 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday 10 Feb &amp; Sunday 11 Feb 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Good Friday</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 7 April 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 29 Mar 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Hari Raya Puasa</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday, 22 April 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Wednesday 10 Apr 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Labour Day</span></td>
