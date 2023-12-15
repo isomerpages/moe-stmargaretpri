@@ -3,6 +3,7 @@ title: Malay Language
 permalink: /learning-at-sms/fun-in-classroom/malay-language/
 description: ""
 third_nav_title: Fun in Classroom
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -139,6 +140,16 @@ This story telling competition was held via online and aimed to provide opportun
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-dgl5">S5 Cluster Malay Language Story-telling Competition 2023<br>  
+Primary 1 Category -<br>  
+Primary 2 Category -<br>    
+Primary 3 Category -<br>  
+		</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> <br>3rd prize  <br>
+2nd Prize &amp; Best Costume  <br>
+1st &amp; 3rd Prize <br></span></td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Penterjemah Pintar 2022 <br>(Rakan Bahasa Translation Competition 2022)</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2nd place</span></td>
