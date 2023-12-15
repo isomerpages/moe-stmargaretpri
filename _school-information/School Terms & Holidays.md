@@ -86,8 +86,7 @@ variant: markdown
 </table>
 
 ### Public Holidays 2024
-
-#### Semester 1
+##### Semester 1
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -99,7 +98,6 @@ variant: markdown
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-,
   <table class="tg">
 <thead>
   <tr>
@@ -111,7 +109,7 @@ variant: markdown
   
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Chinese New Year</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday 10 Feb &amp; Sunday, 11 Feb 2024<br>(Monday, 12 Feb will be a public holiday and Tuesday, 13 Feb will be a school holiday and a designated day off-in-lieu)</span></td></tr>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday 10 Feb &amp; Sunday, 11 Feb 2024<br>(Monday, 12 Feb will be a public holiday <br>and Tuesday, 13 Feb will be a school holiday <br>and a designated day off-in-lieu)</span></td></tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Good Friday</span></td>
     <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 29 Mar 2024</span></td>
@@ -131,7 +129,7 @@ variant: markdown
 </tbody>
 </table>
 
-#### Semester 2
+##### Semester 2
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -148,7 +146,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ktyi"><span style="font-weight:400;color:#000">Youth Day</span></th>
-    <th class="tg-eelb"><span style="font-weight:400;color:#000">*Sunday, 30 Jun 2024 <br>(The following Monday 1 Jul will be a school holiday)</span></th>
+    <th class="tg-eelb"><span style="font-weight:400;color:#000">*Sunday, 30 Jun 2024 <br>(Monday, 1 July will be a school holiday)</span></th>
   </tr>
 </thead>
 <tbody>
