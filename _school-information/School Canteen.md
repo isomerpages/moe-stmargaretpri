@@ -2,6 +2,7 @@
 title: School Canteen
 permalink: /school-information/school-canteen/
 description: ""
+variant: markdown
 ---
 #### **School Canteen**
 
@@ -14,7 +15,7 @@ SMS(P) has vacancy for
 </tr>
 	<tr>
 		<td>Malay Food Stall</td>
-		<td>30 November 2023</td>
+		<td>29 December 2023</td>
 	  <td>Rice or noodle stalls are acceptable</td>
 </tr>
 	</tbody></table>
