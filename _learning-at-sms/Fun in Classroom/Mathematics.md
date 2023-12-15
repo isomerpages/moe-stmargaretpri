@@ -134,7 +134,7 @@ We train students to be self-directed and independent learners who pens down her
 <tbody>
 	<tr>
     <td class="tg-dgl5">Annual Mathlympics 2023<br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Gold</span><br><span style="color:#000;background-color:#FFF"> 2 Credit</span><br><span style="color:#000;background-color:#FFF"></span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Gold</span><br><span style="color:#000;background-color:#FFF"> 2 Credit</span><span style="color:#000;background-color:#FFF"></span><br></td>
   </tr>
 	<tr>
     <td class="tg-dgl5">National Mathematical Olympiad of Singapore 2023<br></td>
@@ -146,11 +146,11 @@ We train students to be self-directed and independent learners who pens down her
   </tr>
 	<tr>
     <td class="tg-dgl5">Asia Pacific Mathematical Olympiad for Primary Schools 2023<br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver </span><br><span style="color:#000;background-color:#FFF"> 1 Bronze</span><br><span style="color:#000;background-color:#FFF"></span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver </span><br><span style="color:#000;background-color:#FFF"> 1 Bronze</span><br><span style="color:#000;background-color:#FFF"></span></td>
   </tr>
 		<tr>
     <td class="tg-dgl5">Raffles Institution Primary Mathematics World Competition 2023<br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Distinction </span><br><span style="color:#000;background-color:#FFF"> 1 Merit</span><br><span style="color:#000;background-color:#FFF"></span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Distinction </span><br><span style="color:#000;background-color:#FFF"> 1 Merit</span><br><span style="color:#000;background-color:#FFF"></span></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Singapore and Asian Schools Math Olympiad 2023<br></td>
