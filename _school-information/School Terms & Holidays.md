@@ -111,7 +111,7 @@ variant: markdown
   
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Chinese New Year</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday 10 Feb &amp; Sunday, 11 Feb 2024</span></td></tr>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday 10 Feb &amp; Sunday, 11 Feb 2024<br>(Monday, 12 Feb will be a public holiday and Tuesday, 13 Feb will be a school holiday and a designated day off-in-lieu)</span></td></tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Good Friday</span></td>
     <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 29 Mar 2024</span></td>
@@ -178,4 +178,3 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-
