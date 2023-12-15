@@ -99,7 +99,8 @@ variant: markdown
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+,
+  <table class="tg">
 <thead>
   <tr>
     <th class="tg-ktyi"><span style="font-weight:400;color:#000">New Year’s Day</span></th>
@@ -110,23 +111,22 @@ variant: markdown
   
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Chinese New Year</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday 10 Feb &amp; Sunday 11 Feb 2024</span></td>
-  </tr>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday 10 Feb &amp; Sunday, 11 Feb 2024</span></td></tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Good Friday</span></td>
     <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 29 Mar 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Hari Raya Puasa</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Wednesday 10 Apr 2024</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Wednesday, 10 Apr 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Labour Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Monday, 1 May 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Wednesday, 1 May 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Vesak Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday,3 June 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Wednesday, 22 May 2024</span></td>
   </tr>
 </tbody>
 </table>
