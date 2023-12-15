@@ -2,8 +2,9 @@
 title: School Terms & Holidays
 permalink: /school-information/school-terms-n-holidays/
 description: ""
+variant: markdown
 ---
-### School Terms
+### School Terms 2024
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -23,27 +24,27 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax">Term 1</td>
-    <td class="tg-0lax">Wednesday 4 Jan to Friday 10 March 2023</td>
+    <td class="tg-0lax">Tuesday 2 Jan&nbsp;- Friday 8 Mar 2024</td>
   </tr>
   <tr>
     <td class="tg-0lax">Term 2</td>
-    <td class="tg-0lax">Monday 20 March to Friday 26 May 2023</td>
+    <td class="tg-0lax">Monday 18 Mar - Friday 24 May 2024</td>
   </tr>
   <tr>
     <td class="tg-1wig" colspan="2">Semester 2</td>
   </tr>
   <tr>
     <td class="tg-0lax">Term 3</td>
-    <td class="tg-0lax">Monday 26 June to Friday 1 Sept 2023</td>
+    <td class="tg-0lax">Monday 24 Jun - Fri 30 Aug 2024</td>
   </tr>
   <tr>
     <td class="tg-0lax">Term 4</td>
-    <td class="tg-0lax">Monday 11 Sept to Friday 17 Nov 2023</td>
+    <td class="tg-0lax">Monday 9 Sep - Friday 15 Nov 2024</td>
   </tr>
 </tbody>
 </table>
 
-### School Holidays 2023
+### School Holidays 2024
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -64,22 +65,22 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Between Term 1 and 2</span></td>
-    <td class="tg-yst8">Saturday 11 March <span style="font-weight:400;color:#000">to</span> Sunday 19 March <span style="font-weight:400;color:#000">2023</span></td>
+    <td class="tg-0lax">Saturday 9 Mar - Sunday 17 Mar 2024</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Between Semester 1 &amp; 2</span></td>
-    <td class="tg-yst8">Saturday 27 May <span style="font-weight:400;color:#000">to</span> Sunday 25 June <span style="font-weight:400;color:#000">2023</span></td>
+    <td class="tg-0lax">Saturday 25 May - Sunday 23 Jun 2024</td>
   </tr>
   <tr>
     <td class="tg-1wig" colspan="2">Semester 2</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Between Term 3 and 4</span></td>
-    <td class="tg-yst8">Saturday 2 Sept <span style="font-weight:400;color:#000">to</span> Sunday 10 Sept <span style="font-weight:400;color:#000">2023</span></td>
+    <td class="tg-0lax">Saturday 31 Aug - Sunday 8 Sep 2024</td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">At End of School Year</span></td>
-    <td class="tg-yst8">Saturday 18 Nov <span style="font-weight:400;color:#000">to</span> Sunday 31 Dec <span style="font-weight:400;color:#000">2023</span></td>
+    <td class="tg-0lax">Saturday 16 Nov - Tuesday 31 Dec 2024</td>
   </tr>
 </tbody>
 </table>
