@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /learning-at-sms/fun-in-classroom/aesthetics/
 description: ""
 third_nav_title: Fun in Classroom
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -330,6 +331,11 @@ Please scan the codes or click the links below to view the SYF exhibitions.
     <td class="tg-pdeq">P6 SOTA Art Competition 2023</td>
 <td class="tg-jxgv">Naomi Chu of 6 Tenacity <br>(Top 50 Finalists &amp; Top 10 Winner)  
 <br>7 other Art works showcased digitally at the <b>SOTA exhibition on 24 to 28 March 2023</b> at SOTA Gallery Level 2<br>
+</td>
+  </tr>
+	<tr>
+    <td class="tg-pdeq">Singapore Youth Festival 2023 Art Exhibition<br></td>
+<td class="tg-jxgv">Certificate of Recognition<br>
 </td>
   </tr>
  <tr>
