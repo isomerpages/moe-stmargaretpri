@@ -27,7 +27,7 @@ variant: markdown
 ### Introduction
 ____________________________________________________________
 
-The Chinese Dance is one of the performing arts group in St. Margaret’s School (Primary). The Chinese Dance Club started back in 1985 and it has been 35 years since its inauguration. Our instructors are Miss Yan Xiang Yi and Miss Zhang Xiao Qi.
+The Chinese Dance is one of the performing arts group in St. Margaret’s School (Primary). The Chinese Dance Club started back in 1985 and it has been 35 years since its inauguration. Our instructors are Miss Wang Xiao Ming and Miss Zhang Xiao Qi.
 
 Students who have chosen to join Chinese Dance out of their love for dancing are also learning more about the Chinese Dance culture. We want to nurture their God-given talent through dance training so that they can each reach their fullest potential in this area.&nbsp;
 
