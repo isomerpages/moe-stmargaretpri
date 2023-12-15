@@ -2,6 +2,7 @@
 title: Our People
 permalink: /school-information/our-people/
 description: ""
+variant: markdown
 ---
 ### School Management Committee 2023
 
@@ -131,7 +132,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-580q">Vice-Principal (Acad)</td>
-    <td class="tg-mqlv">Ms Alison Ang</td>
+    <td class="tg-mqlv">Mdm Wendy Seng Gek Cheng</td>
   </tr>
   <tr>
     <td class="tg-580q">Vice-Principal (Admin)</td>
