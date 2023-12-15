@@ -148,37 +148,33 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ktyi"><span style="font-weight:400;color:#000">Youth Day</span></th>
-    <th class="tg-eelb"><span style="font-weight:400;color:#000">Monday, 3 July 2023</span></th>
+    <th class="tg-eelb"><span style="font-weight:400;color:#000">*Sunday, 30 Jun 2024 <br>(The following Monday 1 Jul will be a school holiday)</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Hari Raya Haji</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Thursday, 29 June 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Monday, 17 Jun 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">National Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Wednesday, 9 Aug 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Post National Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Thursday, 10 Aug 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 9 Aug 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Teacher’s Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 1 Sept 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 30 Aug 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Childrens’ Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 6 Oct 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 4 Oct 2024</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Deepavali</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Sunday, 12 Nov 2023</span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000">Thursday, 31 Oct 2024</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;color:#000">Christmas</span></td>
-    <td class="tg-lqy6"><span style="font-weight:400;color:#000">Monday, 25 Dec 2023</span></td>
+    <td class="tg-lqy6"><span style="font-weight:400;color:#000">Wednesday, 25 Dec 2024</span></td>
   </tr>
 </tbody>
 </table>
