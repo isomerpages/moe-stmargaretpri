@@ -54,7 +54,7 @@ ___________________________________________________________
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:300px; alt=" src="/images/CCAs/Choir/Spotlight_2023.JPG">SPOTLIGHT 2023</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2023.JPG">SPOTLIGHT 2023</font></p></th>
 </tr>
 </tbody></table>
 
@@ -70,7 +70,7 @@ They are exposed to a wide repertoire of songs. Interpretation of songs is also 
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:300px; alt=" src="/images/CCAs/Choir/Recess_Performance.jpeg">Recess Performance</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Recess_Performance.jpeg">Recess Performance</font></p></th>
 </tr>
 </tbody></table>
 
@@ -83,7 +83,7 @@ __________________________________________________________
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:300px; alt=" src="/images/CCAs/Choir/Practising_during_a_choir_session.jpeg">Practising during a choir session</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Practising_during_a_choir_session.jpeg">Practising during a choir session</font></p></th>
 </tr>
 </tbody></table>
 
