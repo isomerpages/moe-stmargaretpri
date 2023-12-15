@@ -55,6 +55,13 @@ ___________________________________________________________
 3.  To nurture girls of the character anchored on the values of  **L**ife-long learner,**I**ntegrity, **G**raciousness, **H**umility and **T**enacity (LIGHT).
 
 
+<p></p><table>
+ <tbody><tr><td>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">SPOTLIGHT 2023</font></p></th>
+</tr>
+</tbody></table>
+
+
 #### Activities Outline
 __________________________________________________________
 The Choir has weekly practices where they do voice exercises to increase their vocal range and strengthen their vocal chords.
@@ -63,8 +70,12 @@ They learn to use the different voice registers, pitch accurately and have clear
 
 They are exposed to a wide repertoire of songs. Interpretation of songs is also part of the training as members sing them in different styles.
 
-<img style="width:600px;height:400px;" alt="" src="/images/CCAs/Choir/singapore%20youth%20festival%20arts%20presentation.jpg">
-**Performance at Singapore Youth Festival Arts Presentation (Choir) 2022**
+
+<p></p><table>
+ <tbody><tr><td>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Recess Performance</font></p></th>
+</tr>
+</tbody></table>
 
 #### Target
 __________________________________________________________
@@ -73,13 +84,12 @@ __________________________________________________________
 2.	To improve on the choir members' singing techniques.
 3.	To be performance ready with a repertoire of songs.
 
-<img src="/images/CCAs/Choir/practising%20during%20a%20choir%20sesssion.jpeg" alt="" style="width:400px;height:300px;">
 
-###### **Practising during a choir session**
-
-<img src="/images/CCAs/Choir/students%20sharing%20and%20reflecting%20on%20their%20syf%20journey.jfif" alt="" style="width:400px;height:300px;">
-
-###### **Sharing and reflection session**
+<p></p><table>
+ <tbody><tr><td>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Practising during a choir session</font></p></th>
+</tr>
+</tbody></table>
 
 #### Highlights Achievements
 ___________________________________________________________
