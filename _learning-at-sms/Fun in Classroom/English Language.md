@@ -3,6 +3,7 @@ title: English Language
 permalink: /learning-at-sms/fun-in-classroom/english-language/
 description: ""
 third_nav_title: Fun in Classroom
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -163,6 +164,22 @@ Back for the third year, EL Week 2023 was held from 25 to 27 January. Our studen
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g7Db5BlUDiA" height="415" width="700"></iframe></center>
 
+#### **Read for Books 2023**
+
+School have received a token of appreciation from the NLB (National Library Board) for our participation in Read for Books 2023! Thank You to all teachers and students for your active involvement in the charity book drive. With our efforts, we donated about 125 books to the selected beneficiaries.
+
+![](/images/Announcement/Read_for_Books_2023_Certificate.jpg)
+
+We would like to extend a special appreciation to the students and teachers of STAR who went above and beyond by providing emcees and having students dress up as book characters to read on stage. Your creative contributions added a unique and engaging dimension to the event.
+
+![](/images/Read%20for%20Books%202023/readforbooks01.jpg)
+
+![](/images/Read%20for%20Books%202023/readforbooks02.jpg)
+
+Let us continue to nurture the love for reading among our girls! Remember, reading is not just a pastime; it's a lifelong habit that enriches our lives in countless ways.
+
+
+
 
 
   <table>
@@ -198,9 +215,14 @@ Back for the third year, EL Week 2023 was held from 25 to 27 January. Our studen
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-pdeq">ACS Mythos (Junior Orators) 2023</td>
+    <td class="tg-jxgv">Top 5 Finalists for Best Costume
+</td>
+  </tr>
   <tr>
     <td class="tg-pdeq">SOTA Primary 6 Creative Writing Competition 2023<br>(14 Jan 2023)<br></td>
-    <td class="tg-jxgv">Top 50 Finalists<br>
+    <td class="tg-jxgv">Top 10 &amp; 50 Finalists<br>
 (1 student from 6 Integrity &amp; <br>1 student from 6 Tenacity)
 </td>
   </tr>

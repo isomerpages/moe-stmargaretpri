@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /learning-at-sms/fun-in-classroom/mathematics/
 description: ""
 third_nav_title: Fun in Classroom
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -132,12 +133,24 @@ We train students to be self-directed and independent learners who pens down her
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-dgl5">Annual Mathlympics 2023<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Gold</span><br><span style="color:#000;background-color:#FFF"> 2 Credit</span><span style="color:#000;background-color:#FFF"></span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">National Mathematical Olympiad of Singapore 2023<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver </span><br><span style="color:#000;background-color:#FFF"> 2 Bronze</span><br>6 Honourable Mention<span style="color:#000;background-color:#FFF"></span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Singapore Math Kangaroo Contest 2023<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Gold</span><br><span style="color:#000;background-color:#FFF"> 2 Silver</span><br><span style="color:#000;background-color:#FFF">1 Bronze<br>1 Honourable Mention</span><br></td>
+  </tr>
+	<tr>
     <td class="tg-dgl5">Asia Pacific Mathematical Olympiad for Primary Schools 2023<br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver </span><br><span style="color:#000;background-color:#FFF"> 1 Bronze</span><br><span style="color:#000;background-color:#FFF"></span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver </span><br><span style="color:#000;background-color:#FFF"> 1 Bronze</span><br><span style="color:#000;background-color:#FFF"></span></td>
   </tr>
 		<tr>
     <td class="tg-dgl5">Raffles Institution Primary Mathematics World Competition 2023<br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Distinction </span><br><span style="color:#000;background-color:#FFF"> 1 Merit</span><br><span style="color:#000;background-color:#FFF"></span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Distinction </span><br><span style="color:#000;background-color:#FFF"> 1 Merit</span><br><span style="color:#000;background-color:#FFF"></span></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Singapore and Asian Schools Math Olympiad 2023<br></td>

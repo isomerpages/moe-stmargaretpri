@@ -3,54 +3,36 @@ title: Choir
 permalink: /learning-at-sms/co-curricular-activities/choir/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Choir
-___________________________________________________________
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Day</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teachers-In-Charge</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Pupils Involved</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Monday</span><br><span style="color:#222;background-color:#FBFFFA">&amp;</span><br><span style="color:#222;background-color:#FBFFFA">Friday</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 pm - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Music Room 2</span><br></td>
-    <td class="tg-pk3b"><span style="font-weight:400;color:#000">Mrs Lim Mei Sze (OIC)</span><br><span style="font-weight:400;color:#000">Mdm Rozita Sulaiman</span><br><span style="font-weight:400;color:#000">Mrs Mandy Teo</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span><br></td>
-  </tr>
-</tbody>
-</table>
-
-
 
 <table>
-<tbody><tr><th><font size="5" color="green">&nbsp;
-Introduction
-&nbsp;</font></th></tr>
-<tr><td><font size="4">
-The Choir is one of the performing arts groups in St. Margaret’s School (Primary). It has about 40 members who have chosen to join the choir out of their love for singing. We want to nurture their God-given talent through vocal training so that they can each reach their fullest potential in this area. <br><br>
-	
-In the choir, members sing as a group and learn to blend with one another. As a performing choir, members also learn to execute movements and exhibit good showmanship on stage.</font></td></tr>
-
+<tbody>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+	<td><b>Pupils Involved</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+		<td>Mondays &amp; Fridays</td>
+		<td>2 - 4 pm</td>
+	<td>Music Room 2</td>
+	<td>Mrs Lim Mei Sze (OIC)<br>Mdm Rozita Sulaiman<br>Mrs Mandy Teo</td>
+	<td>P3 - P6</td>
+</tr>
 </tbody></table>
-<p></p><table>
+
+#### Introduction
+__________________________________________________________
+The Choir is one of the performing arts groups in St. Margaret’s School (Primary). It has about 40 members who have chosen to join the choir out of their love for singing. We want to nurture their God-given talent through vocal training so that they can each reach their fullest potential in this area.
+
+In the choir, members sing as a group and learn to blend with one another. As a performing choir, members also learn to execute movements and exhibit good showmanship on stage.
+
+
+<p></p>
+<table>
  <tbody><tr><td>
 	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Performed at 180th St Margaret’s Founder Day Service at St Andrew’s Cathedral </font></p></th>
 </tr>
@@ -70,6 +52,12 @@ ___________________________________________________________
 2.  To instill discipline, build confidence in our young singers and put their artistic skills into practice
 3.  To nurture girls of the character anchored on the values of  **L**ife-long learner,**I**ntegrity, **G**raciousness, **H**umility and **T**enacity (LIGHT).
 
+<p></p><table>
+ <tbody><tr><td>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2023.JPG">SPOTLIGHT 2023</font></p></th>
+</tr>
+</tbody></table>
+
 
 #### Activities Outline
 __________________________________________________________
@@ -79,8 +67,12 @@ They learn to use the different voice registers, pitch accurately and have clear
 
 They are exposed to a wide repertoire of songs. Interpretation of songs is also part of the training as members sing them in different styles.
 
-<img style="width:600px;height:400px;" alt="" src="/images/CCAs/Choir/singapore%20youth%20festival%20arts%20presentation.jpg">
-**Performance at Singapore Youth Festival Arts Presentation (Choir) 2022**
+
+<p></p><table>
+ <tbody><tr><td>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Recess_Performance.jpeg">Recess Performance</font></p></th>
+</tr>
+</tbody></table>
 
 #### Target
 __________________________________________________________
@@ -89,13 +81,11 @@ __________________________________________________________
 2.	To improve on the choir members' singing techniques.
 3.	To be performance ready with a repertoire of songs.
 
-<img src="/images/CCAs/Choir/practising%20during%20a%20choir%20sesssion.jpeg" alt="" style="width:400px;height:300px;">
-
-###### **Practising during a choir session**
-
-<img src="/images/CCAs/Choir/students%20sharing%20and%20reflecting%20on%20their%20syf%20journey.jfif" alt="" style="width:400px;height:300px;">
-
-###### **Sharing and reflection session**
+<p></p><table>
+ <tbody><tr><td>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Practising_during_a_choir_session.jpeg">Practising during a choir session</font></p></th>
+</tr>
+</tbody></table>
 
 #### Highlights Achievements
 ___________________________________________________________

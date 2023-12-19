@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: Click here to view all
-          url: /announcements/invitation-to-parents-gateway/
+          url: /announcements/read-for-books-2023/
         - title: Calendar
           description: Click here to view all
           url: /useful-links/permalink/
@@ -40,6 +40,6 @@ sections:
       title: Fundraising
       button: Find out more
       url: /files/PUP Fundraising 2021.pdf
-      image: /images/Fundraising/peri upgrading fundraising_pop up.jpg
+      image: /images/Fundraising/PERI_Upgrading_Fundraising_2023.jpg
       alt: Image alt text
 ---

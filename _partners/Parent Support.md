@@ -2,11 +2,22 @@
 title: Parent Support
 permalink: /partners/permalink/
 description: ""
+variant: markdown
 ---
 ### In Appreciation for your support
 
+
 <table>
 	<tbody>
+			<tr>
+	<td><img src="/images/Parent%20Volunteers/p1_LJ_market.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/childrens_day.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>P1 Learning Journey to MacPherson market<br>(7, 9 &amp; 10 Nov 2023) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>Children's Day<br>(5 Oct 2023)</b></font>
+</center></td>
+</tr>
 			<tr>
 	<td><img src="/images/Parent%20Volunteers/pv%20rsaf%202023.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/tcd%202023.JPG" alt="ifd pv" style="width:400px;height:280px;"></td>

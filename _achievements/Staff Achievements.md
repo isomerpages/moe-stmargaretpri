@@ -2,8 +2,52 @@
 title: Staff Achievements
 permalink: /achievements/staff-achievements/
 description: ""
+variant: markdown
 ---
 ### 2023 Achievements
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     National Day Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Sara George</font></td>
+		<td><font size="4">Year Head (P1 &amp; P2)</font></td>
+<td><font size="4">The Commendation Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Teo Wai Yee</font></td>
+		<td><font size="4">School Staff Developer</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     National Award - COVID-19 Resilience Medal 
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Teo Wai Yee</font></td>
+		<td><font size="4">School Staff Developer</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Christina Yong</font></td>
+		<td><font size="4">Assistant Year Head</font></td>
+</tr>
+</tbody></table>
+<br>
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
@@ -57,7 +101,7 @@ description: ""
 </tr>
 <tr>
 		<td><font size="4">Mdm Shahirah Binte Mohd Shariff </font></td>
-		<td><font size="4">LH (Maths)</font></td>
+		<td><font size="4">LH Maths</font></td>
 <td><font size="4">10 years Award </font></td>
 </tr>
 <tr>
@@ -77,7 +121,107 @@ description: ""
 <td><font size="4">5 years Award </font></td>
 </tr>
 </tbody></table>
-
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     SMC Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Lee May Lyn Joanne</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Ong Cheng Bing</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award </font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mdm Chan Mei Sze</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Shahirah Binte Mohd Shariff</font></td>
+		<td><font size="4">LH Maths</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Chan Soo Sian Adeline</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Low Wei Wen</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     MOE Service Excellence Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mr Derek Wong</font></td>
+		<td><font size="4">ST PE</font></td>
+		<td><font size="4">Gold</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Nur Syafawati Binte Roslan</font></td>
+		<td><font size="4">Corporate Support Officer (CSO)</font></td>
+		<td><font size="4"> Gold</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Rozita Binte Sulaiman</font></td>
+		<td><font size="4">Teacher</font></td>
+		<td><font size="4"> Silver </font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mdm Yeo Hui Li Madelin</font></td>
+		<td><font size="4">Teacher</font></td>
+		<td><font size="4"> Silver</font></td>
+</tr>
+			<tr>
+		<td><font size="4">Mdm Nur Hidayah Binte Johari</font></td>
+		<td><font size="4">Corporate Support Officer (CSO)</font></td>
+		<td><font size="4"> Silver </font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     MOE Innergy Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Commendation Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Partnered with CPDD on P3, P4 HML and HTL Curriculum Initiative.<br></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Staff Involved</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Loganathan Mageshwari </font></td>
+</tr>
+</tbody></table>
 
 ### 2022 Achievements
 <table>
@@ -226,6 +370,69 @@ Mageshwari</font></td>
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+     SMC Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Sara George</font></td>
+		<td><font size="4">Year Head (P1 &amp; P2)</font></td>
+<td><font size="4">30 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Cheng Lai Peng Daphne</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award </font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mrs Teo Wai Yee</font></td>
+		<td><font size="4">School Staff Developer</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Christina Yong</font></td>
+		<td><font size="4">Assistant Year Head</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Chan Yen Peng</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Nur Azah Bte Kaulan</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Malathi d/o Velu</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Zhuang Si Qiao</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Rozita Binte Sulaiman</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+		<tr>
+		<td><font size="4">Ms Liew Yan Mei Charise</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award </font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
      MOE Special Appreciation Award
  </font></th>
 </tr>
@@ -265,7 +472,7 @@ Mageshwari</font></td>
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
-     MOE Innergy Award 2022
+     MOE Innergy Award
  </font></th>
 </tr>
 	<tr>

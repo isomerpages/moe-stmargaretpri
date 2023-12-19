@@ -3,6 +3,7 @@ title: School Highlights
 permalink: /school-information/school-highlights/permalink/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ## School Highlights
 
@@ -17,18 +18,19 @@ These are the activities that the students participated for holistic learning.
 
 2. ####  Featured Events
 
+
 <br>
 <br>
 <table>
 	<tbody>
 		<tr>
 <td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="ndp" style="width:250px;height:170px;"></td>
-			<td><img src="/images/Thumbnails/coming%20soon_thumb.jpg" alt="ndp" style="width:250px;height:170px;"></td>
+			<td><a href="/school-information/school-highlights/p1lj-market-2023/"><img src="/images/Thumbnails/p1ljmarket_thumb_01.jpg" alt="ndp" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/childday-2023/"><img src="/images/Thumbnails/childnday%20thumb_01.jpg" alt="neshow" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>P6 Graduation Camp 2023</center></th> 
-		<th><center>P6 SEP 2023</center></th> 
+			<th><center>Celebrating our Successes Day 2023</center></th> 
+		<th><center>P1 Learning Journey to MacPherson wet market 2023</center></th> 
 		<th><center>Children's Day 2023</center></th> 			
 			</tr>	
 		<tr>

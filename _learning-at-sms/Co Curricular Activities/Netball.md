@@ -3,67 +3,26 @@ title: Netball
 permalink: /learning-at-sms/co-curricular-activities/netball/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Netball
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Level/Team</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Days</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teacher(s)-in-charge</span></th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 &amp; P4 Developmental Team</span></td>
-    <td class="tg-pk3b"><span style="color:#000">Mondays</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-pk3b"></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Lew Nyet Mee (P3 &amp; P4 development)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="color:#000">P5 &amp; P6 Developmental Team</span><br></td>
-    <td class="tg-pk3b"><span style="color:#000">Fridays</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School</span><br></td>
-    <td class="tg-pk3b"><span style="color:#222;background-color:#FBFFFA">Ms Tiffany Goh (P5 and P6 development)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Junior Training Team</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">  Mondays &amp; Fridays</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2 - 4pm </span></td>
-    <td class="tg-pk3b"></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><span style="color:#222;background-color:#FBFFFA">Ms Wang Peiqi (P5 and P6 school team)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Training Team</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">  Mondays &amp; Fridays</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 2 - 4 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">  </span></td>
-    <td class="tg-pk3b"></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">  Overall-In-Charge </span></td>
-    <td class="tg-pk3b"></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Madeline Koo (OIC)</span><br></td>
-  </tr>
-</tbody>
-</table>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Level / Team</b></td>
+<td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+<td>P3 &amp; P4 Developmental Team<br>P5 &amp; P6 Developmental Team<br>Junior Training Team<br>Senior Training Team<br>Overall-In-Charge</td>
+		<td>Mondays &amp; Fridays</td>
+		<td>2 - 4 pm</td>
+	<td>School</td>
+	<td>Mdm Lew Nyet Mee (P3 &amp; P4 development)<br>Ms Tiffany Goh (P5 &amp; P6 development)<br>Ms Wang Peiqi (P5 &amp; P6 school team)<br>Mdm Madeline Koo (OIC)</td>
+</tr>
+</tbody></table>
 
 ### Introduction
 
@@ -155,6 +114,11 @@ The development teams train once a week. During the trainings, members are taugh
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2023</span></td>
+    <td class="tg-ktyi">Junior Netball Competition 2023 Classifying Round</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Entered Tier 2</span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2023</span></td>
     <td class="tg-ktyi">South Zone Primary Schools Netball Championships 2023</td>

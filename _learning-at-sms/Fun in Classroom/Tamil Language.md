@@ -3,6 +3,7 @@ title: Tamil Language
 permalink: /learning-at-sms/fun-in-classroom/tamil-language/
 description: ""
 third_nav_title: Fun in Classroom
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -144,14 +145,25 @@ At the end of the lesson, the lesson-based program has met its objective to a ce
   </tr>
 </thead>
 <tbody>
-  <tr>
-   <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><b>Seithi Pongalo Pongal Contest 2023 (by Mediacorp)</b><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Pri 1 &amp; Pri 3 in</span> Top 6 Awards</td>
-  </tr>
 	 <tr>
    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><b>Tirukkural Vizha 2023 <br>Tamil Literarcy Competition</b><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Overall 3rd prize</span></td>
   </tr>
+	 <tr>
+   <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><b>Seithi Pongalo Pongal Contest 2023 (by Mediacorp)</b><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Pri 1 &amp; Pri 3 in</span> Top 6 Awards</td>
+  </tr>
+  <tr>
+   <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><b>Periyar Community Service Singing Competition 2023</b><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">3rd position</span></td>
+  </tr>
+	  <tr>
+   <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><b>S5 Cluster Tamil Language Competition 2023</b><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2 Gold <br> 
+2 Silver  <br>
+1 Bronze<br></span></td>
+  </tr>
+	
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span><b>National Poetry Competition 2022<br>(30 July 2022)</b></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 student from 4 Charity won </span>1st place</td>

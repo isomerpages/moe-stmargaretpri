@@ -3,40 +3,28 @@ title: Brownies
 permalink: /learning-at-sms/co-curricular-activities/brownies/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Brownies
-___________________________________________________________
+
+<table>
+<tbody>
+	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
+	<td><b>Time</b></td>
+	<td><b>Venue</b></td>
+	<td><b>Teachers-In-Charge</b></td>
+	<td><b>Pupils Involved</b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:18px">
+		<td>Fridays</td>
+		<td>2 - 4 pm</td>
+	<td>Performing Arts Studio (PAS)</td>
+	<td>Ms Eileen Goh (OIC)<br>Ms Ng Xing Hwee<br>Mdm Shiem Shan Shan<br>Mrs Amelia Goh<br>Mr Zhang Miao</td>
+	<td>P3 - P6</td>
+</tr>
+</tbody></table>
 
 ### Introduction
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Day</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Time</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Venue</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teachers-In-Charge</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Pupils Involved</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Fridays</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2.00 -</span><br><span style="color:#222;background-color:#FBFFFA">4.00 pm</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Performing Arts Studio (PAS)</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Eileen Goh (OIC)</span><br><span style="color:#222;background-color:#FBFFFA">Ms Ng Xing Hwee</span><br><span style="color:#222;background-color:#FBFFFA">Mdm Shiem Shan Shan</span><br><span style="color:#222;background-color:#FBFFFA">Mrs Amelia Goh</span><br><span style="color:#222;background-color:#FBFFFA">Mr Zhang Miao</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">P3 - P6</span></td>
-  </tr>
-</tbody>
-</table>
 
 Brownies are&nbsp;&nbsp;9- to 12-year-old girls who enjoy learning and having amazing adventures together!
 
