@@ -2,10 +2,11 @@
 title: Operating Hours
 permalink: /school-information/operating-hours/
 description: ""
+variant: markdown
 ---
 ### Office Hours
 
-Mondays to Fridays: 7 am - 6 pm
+Mondays to Fridays: 7 am - 6 pm (with effect from 1st Jan 2024, office hours will be 7 am - 5 pm)
 
   
 
