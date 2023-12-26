@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: Click here to view all
-          url: /announcements/read-for-books-2023/
+          url: /announcements/office-hours-2024/
         - title: Calendar
           description: Click here to view all
           url: /useful-links/permalink/
