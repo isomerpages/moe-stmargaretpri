@@ -3,6 +3,7 @@ title: CCA Framework & Policies
 permalink: /learning-at-sms/co-curricular-activities/cca-framework-and-policies/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 #### **1. OBJECTIVES OF CCA AT SMS(P)**
 
@@ -34,7 +35,7 @@ At the end of Primary 2, students will attend the CCA Open House. They will be i
 
 The aim of the Primary 3 modular programme is to expose students to the breadth of CCA choices and encourage them to explore their interests. The students will experience 2 different CCAs within the year so as to allow them to make a more informed decision on their CCA choice when they are in Primary 4.
 
-### Co-Curricular Schedule for 2023
+### Co-Curricular Schedule for 2024
 
 <style type="text/rolandcss">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -68,8 +69,8 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/infocomm-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">InfoComm Club</span></a></td>
-    <td class="tg-ktyi">Fridays <span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Ms Daphne Cheng*</span><br><span style="background-color:initial">Mr Wu Shao Hai</span><br><span style="font-weight:400;color:#000">Miss Anna Lau</span><br><span style="font-weight:400;color:#000">Mrs Madelin Ang</span><br><span style="color:#222;background-color:#FBFFFA">Miss Nur A'zzah Bte Noh (Advisor) </span><br></td>
+    <td class="tg-ktyi">Wednesdays <span style="color:#000;background-color:#FFF"> </span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mrs Madelin Ang*</span><br><span style="background-color:initial">Mr Wu Shao Hai</span><br><span style="font-weight:400;color:#000">Mdm Geetha</span><br><span style="font-weight:400;color:#000"></span><br><span style="color:#222;background-color:#FBFFFA">Miss Nur A'zzah Bte Noh (Advisor) </span><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Computer labs </span></td>
   </tr>
   <tr>
