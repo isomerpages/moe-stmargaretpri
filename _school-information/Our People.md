@@ -393,7 +393,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 ### Primary 3 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
