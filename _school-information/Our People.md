@@ -546,7 +546,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 ### Primary 5 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -567,7 +567,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager <span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)</span><br></td>
+    <td class="tg-b4br"><span style="color:#222">Tan Seow Wee (Mrs Chua)</span><br></td>
   </tr>
 </tbody>
 </table>
