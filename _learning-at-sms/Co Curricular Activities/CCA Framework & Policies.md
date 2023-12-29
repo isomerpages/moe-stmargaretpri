@@ -135,8 +135,8 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/art-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Art Club</span></a></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays or Fridays</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mrs Fam Way Lin*</span><br><span style="color:#000;background-color:#FFF">Miss Charissa Chan</span><br><span style="color:#000;background-color:#FFF">Ms Samantha</span><br><span style="color:#000;background-color:#FFF">Ms Suryanti</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">P3 (Mondays) <br> P4 - P6 (Wednesdays) </span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Suryanti*</span><br><span style="color:#000;background-color:#FFF">Mrs Fam Way Lin</span><br><span style="color:#000;background-color:#FFF">Ms Charissa Chan</span><br><span style="color:#000;background-color:#FFF"></span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Art Room</span></td>
   </tr>
   <tr>
