@@ -153,8 +153,8 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/guitar-ensemble/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Guitar Ensemble</span></a><span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Fridays </span></td>
-    <td class="tg-ktyi"><span style="background-color:initial">Ms Esther James*</span><br><span style="background-color:initial">Ms Lim Shurong</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Wednesdays </span></td>
+    <td class="tg-ktyi"><span style="background-color:initial">Ms Esther James*</span><br><span style="background-color:initial">Ms Amelia Leong</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">3I classroom </span></td>
   </tr>
   <tr>
