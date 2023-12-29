@@ -521,23 +521,23 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Lim Bee Leng (Mdm) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Wong Wai Yee (Mrs Teo)</span><br><span style="color:#222">Angeline Chong Chek Mei (Mrs Tan)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ngoh Moon Geok (Mdm)  </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span><br><span style="color:#222"></span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo) (LM)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Charissa Chan Soek Yee (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Daphne Cheng Lai Peng (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Dharshini (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ong Shilin, Shirley (Ms)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 TENACITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Low Pei Lin (Ms) </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Eileen Goh Jia Shi (Mrs Kong)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Nadine Soraya Binte Mohamed Fauzi (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Julia Li Wai See (Li Huishi) (Ms)<br>Angeline Chong Chek Mei (Mrs Tan) </span></td>
   </tr>
 </tbody>
 </table>
