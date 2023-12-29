@@ -163,9 +163,9 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/brownies/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Brownies</span></a></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Fridays</span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Ms Eileen Goh*</span><br><span style="font-weight:400;color:#000">Ms Ng Xing Hwee </span><br><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok</span><br><span style="font-weight:400;color:#000">Ms Amelia Leong</span><br>Ms Shiem Shan Shan (till July)</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2G, 2I, 2P, 2C classroom</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays </span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Ms Ng Xing Hwee*</span><br><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok </span><br><span style="font-weight:400;color:#000">Mrs Rajaporian</span><br>Ms Shiem Shan Shan</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2G, 2I, 2P, 2C classrooms</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/girls-brigade/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Girls' Brigade</span></a><span style="color:#000;background-color:#FFF"> </span></td>
