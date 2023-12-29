@@ -293,19 +293,19 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wu Shao Hai (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Lim Ai Kiok (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Low Wei Wen (Mrs Ng)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 PATIENCE </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wong Way Lin (Mrs Fam)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Amelia Leong Seok Ling (Mrs Goh)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Anna Lau Li Keow (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sara George (Ms)  &amp; <br>  Poon Chye Hong Bernice (Mrs) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">
-Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Sara George (Ms)</span><br><span style="color:#222">Alaghimanavalan Sarala Devi (Mdm)</span><br></td>
+Zhang Miao (Mr) <br>Wong Way Lin (Mrs Fam) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Foo Ngiap Leng (Mdm) &amp; <br>Lim Ai Kiok (Ms) </span><br></td>
   </tr>
 </tbody>
 </table>
