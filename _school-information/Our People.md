@@ -303,8 +303,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">
-Zhang Miao (Mr) <br>Wong Way Lin (Mrs Fam) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Wong Way Lin (Mrs Fam) </span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Foo Ngiap Leng (Mdm) &amp; <br>Lim Ai Kiok (Ms) </span><br></td>
   </tr>
 </tbody>
