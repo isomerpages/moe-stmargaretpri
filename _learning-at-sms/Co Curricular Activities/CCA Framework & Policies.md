@@ -141,9 +141,9 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/choir/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Choir</span></a></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays &amp; Fridays</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays &amp; Wednesdays </span></td>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mrs Lim Mei Sze*</span><br><span style="font-weight:400;color:#000">Mdm Rozita Sulaiman </span><br><span style="background-color:transparent">Mrs Mandy Teo</span><br></td>
-    <td class="tg-pk3b"><span style="color:#222;background-color:#FBFFFA">Band room</span><br></td>
+    <td class="tg-pk3b"><span style="color:#222;background-color:#FBFFFA">Music rooms</span><br></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/chinese-dance/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Chinese Dance</span></a></td>
