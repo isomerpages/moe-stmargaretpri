@@ -491,7 +491,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo)</span><br></td>
+    <td class="tg-b4br"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo)</span><br></td>
   </tr>
 </tbody>
 </table>
@@ -516,8 +516,8 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Madelin Yeo (Mrs Ang)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Haryati Bte Hassan (Mrs Zulkifli)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">S Kanimozhi (Mrs Ganesh)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
