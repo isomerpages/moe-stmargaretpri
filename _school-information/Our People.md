@@ -4,7 +4,7 @@ permalink: /school-information/our-people/
 description: ""
 variant: markdown
 ---
-### School Management Committee 2023
+### School Management Committee 2024
 
 The Functions and Duties of the School Management Committee are found in the Constitution
 
@@ -72,12 +72,12 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">9</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Lee Chin Chin</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Cheryl Teo</span></td>
     <td class="tg-fxx4"><span style="color:#222">SMS(P) Parents' Rep</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">10</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Elaine Yee-Lian Lee</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Jun Pang</span></td>
     <td class="tg-fxx4"><span style="color:#222">SMS(S) Parents' Rep</span></td>
   </tr>
   <tr>
