@@ -414,8 +414,8 @@ The Functions and Duties of the School Management Committee are found in the Con
 </thead>
 <tbody>
   <tr>
-    <td class="tg-emg8">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo)</span></td>
+    <td class="tg-b4br">Level Manager </td>
+    <td class="tg-b4br"><span style="color:#222">Rajkumar Geetha (Mdm)</span></td>
   </tr>
 </tbody>
 </table>
@@ -440,28 +440,28 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) <br> S Kanimozhi (Mrs Ganesh)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Jamilah Bee Bte Mohamed Ghani (Mdm)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Dharshini (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Derek Wong Jyunwei (Mr)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ngoh Moon Geok (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Zhuang Siqiao (Mrs Heng) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Chan Siew Kheng Dinah (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Xu Yan (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Pearlyn Lim Li Gek (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Soomathy D/O Veeraya (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Wong Wai Yee (Mrs Teo) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Madeline Koo Hwee Neo (Mrs)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo) (LM)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Suryanti Binte Fathillah (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Madeline Koo Hwee Neo (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Anna Lau Li Keow (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Nadine Soraya Binte Mohamed Fauzi (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Rajkumar Geetha (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Low Pei Lin (Ms) </span><br></td>
   </tr>
 </tbody>
 </table>
