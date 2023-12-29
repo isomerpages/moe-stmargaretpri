@@ -232,7 +232,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 ### Primary 1 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -253,7 +253,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Abigail Inbam Henry (Mdm)</span></td>
+    <td class="tg-fxx4"><span style="color:#222"><b>Wong Way Lin (Mrs Fam) </b></span></td>
   </tr>
 </tbody>
 </table>
@@ -278,18 +278,18 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Suryanti Binte Fathillah (Ms) </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pamela Yeow Yun Fen (Mrs)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Daphne Cheng Lai Peng (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Weiling Samantha (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Rachelle Ching Lai Cheng (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Lin Linli (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Wang Peiqi (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Esther James (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wang Peiqi (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Abigail Inbam Henry (Mdm) (LM)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Low Pei Chi (Mrs Ong)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
