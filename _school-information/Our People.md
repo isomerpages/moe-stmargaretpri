@@ -383,8 +383,8 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ong Cheng Bing (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Adeline Chan Soo Sian (Mrs Ang)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Zhang Miao (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh (Ms) </span></td>
   </tr>
 </tbody>
 </table>
