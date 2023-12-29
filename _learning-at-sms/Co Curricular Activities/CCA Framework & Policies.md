@@ -97,18 +97,18 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (School Team)</span></td>
-    <td class="tg-dgl5"><br><span style="background-color:initial">Mondays </span><br><span style="background-color:initial">&amp; Fridays</span><br><br></td>
-    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Mdm Madeline Koo*</span><br><span style="font-weight:400;color:#000">Mdm Lew Nyet Mee (P3 &amp; P4 development)</span><br><span style="font-weight:400;color:#000">Ms Tiffany Goh (P5 and P6 development)</span><br><span style="font-weight:400;color:#000">Ms Wang Peiqi (P5 and P6 school team)</span></td>
+    <td class="tg-dgl5"><br><span style="background-color:initial">Mondays &amp; Wednesdays </span><br><br></td>
+    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Mdm Madeline Koo*</span><br><span style="font-weight:400;color:#000">Mdm Lew Nyet Mee (P3 &amp; P4 development)</span><br><span style="font-weight:400;color:#000">Ms Tiffany Goh (P5 and P6 development)</span><br><span style="font-weight:400;color:#000">Ms Low Pei Chi (P5 and P6 school team)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Parade Square</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P5/P6) Developmental</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Fridays</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays &amp; Wednesdays </span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">School Hall </span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P3/P4) Developmental</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Mondays</span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Mondays &amp; Wednesdays </span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">ISH </span></td>
   </tr>
   <tr>
