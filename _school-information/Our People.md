@@ -733,7 +733,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Syafawati Binte Roslan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Administration Executive (AE) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Binte Johari</span></td>
@@ -762,14 +762,6 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Munthaha Bin Snib </span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr Chia Joo Hi</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms Sem Sok Hui</span></td>
-    <td class="tg-fxx4"><span style="color:#222">School Counsellor </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Nur Fadhilah Binte Loakman </span></td>
