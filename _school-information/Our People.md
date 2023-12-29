@@ -162,11 +162,18 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-580q">Year Head (P3 &amp; P4)</td>
     <td class="tg-mqlv">Mdm Sharon Simon </td>
   </tr>
-  <tr>
-    <td class="tg-tojq"><span style="color:#222">     Year Head (P5 &amp; P6) </span></td>
+	 <tr>
+    <td class="tg-tojq"><span style="color:#222">Year Head (P5 &amp; P6) </span></td>
     <td class="tg-ltu5"><span style="color:#222">    Ms Michelle Kok</span></td>
   </tr>
-  
+    <tr>
+    <td class="tg-tojq"><span style="color:#222"> Assistant Year Head</span></td>
+    <td class="tg-ltu5"><span style="color:#222">    Ms Christina Yong</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-580q">HOD Student Management</td>
+    <td class="tg-mqlv">Ms Siti Nurbaya </td>
+  </tr>
   <tr>
     <td class="tg-580q">HOD Character and Citizenship Education (CCE)</td>
     <td class="tg-mqlv">Mrs Pamela Yeo </td>
@@ -207,7 +214,12 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-580q">LH Science </td>
     <td class="tg-mqlv">Mrs Chin Ley Tin </td>
   </tr>
+	<tr>
+    <td class="tg-580q">HOD ICT </td>
+    <td class="tg-mqlv">Ms Julia Li </td>
+  </tr>
   <tr>
+  </tr><tr>
     <td class="tg-580q">LH ICT </td>
     <td class="tg-mqlv">Ms Nur A'zzah Noh </td>
   </tr>
