@@ -129,9 +129,9 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/brass-band/"><span style="font-weight:500;text-decoration:underline;color:#2A5629;background-color:transparent">Brass Band</span></a></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Monday</span><br><span style="color:#000;background-color:#FFF">&amp; Friday</span></td>
-    <td class="tg-ktyi">Ms Rachelle Ching*<br>Mr Eddie Chong</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Band Room </span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Monday &amp; Wednesdays </span></td>
+    <td class="tg-ktyi">Ms Samantha*<br>Ms Chua Chiow Yean<br>Ms Zhuang Siqiao</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">3T, 3H, 3G and Band Room </span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/art-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Art Club</span></a></td>
