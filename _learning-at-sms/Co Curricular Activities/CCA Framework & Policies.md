@@ -113,8 +113,8 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/tennis/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Tennis</span></a></td>
-    <td class="tg-7yig"><span style="font-weight:400;color:#000">Mondays&amp; Fridays</span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Mageshwari</span><br><span style="font-weight:400;color:#000">Mr Derek Wong<br>Ms Dinah Chan</span></td>
+    <td class="tg-7yig"><span style="font-weight:400;color:#000">Mondays &amp; Wednesdays </span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mr Derek Wong*<br>Ms Gwee Hui Jun</span><br><span style="font-weight:400;color:#000">Ms Dharshini<br>Mr Huang Wenshan Eric</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">External venue / Foyer /</span><br><span style="color:#000;background-color:#FFF">6G and 6H classroom</span></td>
   </tr>
   <tr>
