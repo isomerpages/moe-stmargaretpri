@@ -312,7 +312,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 ### Primary 2 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -333,7 +333,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Grace Tang (Mdm)</span></td>
+    <td class="tg-fxx4"><span style="color:#222"><b>Lin Linli (Mdm)</b></span></td>
   </tr>
 </tbody>
 </table>
@@ -358,18 +358,18 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chen Shuang (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Angel Soh Siu Ling (Mrs Chan) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Yun Fen (Mrs Yeow)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Madelin Yeo (Mrs Ang)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Grace Tang (Mdm) (LM)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)<br>Poon Chye Hong Bernice (Mrs)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Lin Linli (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Loganathan Mageshwari (Mdm) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"></span>Esther James (Mdm)<br></td>
+    <td class="tg-fxx4"><span style="color:#222">Abigail Inbam Henry (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"></span>Seet See Lin (Ms)<br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
