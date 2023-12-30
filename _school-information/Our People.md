@@ -172,7 +172,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 	 <tr>
     <td class="tg-580q">HOD Student Management</td>
-    <td class="tg-mqlv">Siti Nurbaya Bte Mohd Jumain (Mdm) </td>
+    <td class="tg-mqlv">Mdm Siti Nurbaya Bte Mohd Jumain </td>
   </tr>
   <tr>
     <td class="tg-580q">HOD Character and Citizenship Education (CCE)</td>
