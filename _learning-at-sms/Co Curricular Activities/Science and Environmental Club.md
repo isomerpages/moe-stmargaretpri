@@ -18,7 +18,7 @@ variant: markdown
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Wednesdays </td>
 		<td>2 - 4 pm</td>
-	<td>Science Labs and Maths Room </td>
+	<td>Science Labs and <br>Maths Room </td>
 	<td>Mdm Chan Yen Peng (OIC)<br>Ms Low Wei Wen<br>Mrs Ganesh<br>Ms Ng Ley Tin (Advisor)</td>
 	<td>P5 - P6<br>P3 - P4</td>
 </tr>
