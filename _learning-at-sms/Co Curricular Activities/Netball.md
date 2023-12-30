@@ -16,7 +16,7 @@ variant: markdown
 	<td><b>Teachers-In-Charge</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-<td>P3 &amp; P4 Developmental Team<br>P5 &amp; P6 Developmental Team<br>Junior Training Team<br>Senior Training Team<br>Overall-In-Charge</td>
+<td>Overall-In-Charge<br>P3 &amp; P4 Developmental Team<br>P5 &amp; P6 Developmental Team<br>Junior Training Team<br>Senior Training Team</td>
 		<td>Mondays &amp; Wednesdays</td>
 		<td>2 - 4 pm</td>
 	<td>School</td>
