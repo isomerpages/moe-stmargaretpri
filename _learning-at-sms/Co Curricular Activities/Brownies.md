@@ -16,10 +16,10 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Fridays</td>
+		<td>Mondays </td>
 		<td>2 - 4 pm</td>
-	<td>Performing Arts Studio (PAS)</td>
-	<td>Ms Eileen Goh (OIC)<br>Ms Ng Xing Hwee<br>Mdm Shiem Shan Shan<br>Mrs Amelia Goh<br>Mr Zhang Miao</td>
+	<td>2G, 2I, 2P, 2C classrooms </td>
+	<td>Ms Ng Xing Hwee (OIC)<br>Mdm Ngoh Moon Geok<br>Mdm Mageshwari<br>Mdm Shiem Shan Shan<br>Mr Zhang Miao</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
