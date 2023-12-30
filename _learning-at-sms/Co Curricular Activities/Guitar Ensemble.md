@@ -15,10 +15,10 @@ variant: markdown
 	<td><b>Teachers-In-Charge</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Fridays</td>
+		<td>Wednesdays </td>
 		<td>2 - 4 pm</td>
-	<td>Student Learning Lab</td>
-	<td>Mdm Esther James (OIC)<br>Ms Lim Shurong</td>
+	<td>3I classroom</td>
+	<td>Mdm Esther James (OIC)<br>Ms Amelia Leong</td>
 </tr>
 </tbody></table>
 
