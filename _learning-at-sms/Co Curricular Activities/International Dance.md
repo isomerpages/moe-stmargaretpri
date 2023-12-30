@@ -16,10 +16,10 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Mondays &amp; Fridays</td>
+		<td>Mondays &amp; Wednesdays </td>
 		<td>2 - 4 pm</td>
-	<td>PAL Room<br>Music Room 1 &amp; 2</td>
-	<td>Mdm Xu Yan (OIC)<br>Mdm Chen Shuang<br>Ms Nadine Suraya<br>Ms Ong Cheng Bing</td>
+	<td>PAL Room<br>Dance studio</td>
+	<td>Ms Nadine Soraya (OIC)<br>Ms Soomathy<br>Mdm Foo Ngiap Leng<br>Ms Anna Lau</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>

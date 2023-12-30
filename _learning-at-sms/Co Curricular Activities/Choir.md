@@ -16,7 +16,7 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Mondays &amp; Fridays</td>
+		<td>Mondays &amp; Wednesdays </td>
 		<td>2 - 4 pm</td>
 	<td>Music Room 2</td>
 	<td>Mrs Lim Mei Sze (OIC)<br>Mdm Rozita Sulaiman<br>Mrs Mandy Teo</td>

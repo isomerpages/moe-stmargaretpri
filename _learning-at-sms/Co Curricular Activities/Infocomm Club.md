@@ -18,11 +18,11 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Fridays</td>
+		<td>Wednesdays</td>
 		<td>2 - 4 pm</td>
-	<td>Computer Lab 1<br>Computer Lab 2<br>Computer Lab 3</td>
-	<td>Ms Daphne Cheng (OIC)<br>Mr Wu Shao Hai<br>Ms Anna Lau<br>Mrs Madelin Ang<br>Ms Nur A'zzah Bte Noh (Advisor)</td>
-	<td>P3 &amp; P4<br>P5<br>P6</td>
+	<td>Computer Labs </td>
+	<td>Mrs Madelin Ang (OIC)<br>Mr Wu Shao Hai<br>Mdm Geetha<br>Ms Nur A'zzah Bte Noh (Advisor)</td>
+	<td>P3 - P6</td>
 </tr>
 </tbody></table>
 

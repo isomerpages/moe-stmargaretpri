@@ -16,10 +16,10 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Fridays</td>
+		<td>Wednesdays</td>
 		<td>2 - 4 pm</td>
-	<td>5T, 5I &amp; 5H classrooms</td>
-	<td>Ms Melody Soh (OIC)<br>Mdm Grace Tang<br>Mrs Chua Seow Wee<br>Mdm Chua Sue Ann</td>
+	<td>5G, 5I, 5P and 5C classrooms</td>
+	<td>Ms Melody Soh (OIC)<br>Ms Chua Sue Ann<br>Mdm Tan Seow Wee<br>Ms Daphne Cheng</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>

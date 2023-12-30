@@ -16,10 +16,10 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Mondays &amp; Fridays</td>
+		<td>Mondays &amp; Wednesdays </td>
 		<td>2 - 4 pm</td>
-	<td>External venue / foyer / 6G &amp; 6H classrooms</td>
-	<td>Mdm Mageshwari<br>Mr Derek Wong (Mon &amp; Fri)<br>Ms Dinah Chan</td>
+	<td>External venue / foyer /<br>6G &amp; 6H classrooms</td>
+	<td>Mr Derek Wong (OIC)<br>Ms Gwee Hui Jun<br>Ms Dharshini<br>Mr Huang Wenshan Eric</td>
 	<td>P5 &amp; P6<br>P3 &amp; P4</td>
 </tr>
 </tbody></table>

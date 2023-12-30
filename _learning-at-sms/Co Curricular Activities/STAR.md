@@ -16,10 +16,10 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Fridays</td>
+		<td>Wednesdays </td>
 		<td>2 - 4 pm</td>
 	<td>School Library</td>
-	<td>Mrs Adeline Ang (OIC)<br>Mdm Lee Bee Leng<br>Mr Sim Li Yang<br>Ms Angel Chan (Advisor)</td>
+	<td>Mr Sim Liyang (OIC)<br>Ms Lin Linli <br>Ms Wang Peiqi<br>Ms Angel Chan (Advisor)</td>
 	<td>P4 - P6</td>
 </tr>
 </tbody></table>

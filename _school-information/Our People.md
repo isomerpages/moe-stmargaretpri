@@ -4,7 +4,7 @@ permalink: /school-information/our-people/
 description: ""
 variant: markdown
 ---
-### School Management Committee 2023
+### School Management Committee 2024
 
 The Functions and Duties of the School Management Committee are found in the Constitution
 
@@ -72,12 +72,12 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">9</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Lee Chin Chin</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Cheryl Teo</span></td>
     <td class="tg-fxx4"><span style="color:#222">SMS(P) Parents' Rep</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">10</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Elaine Yee-Lian Lee</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Jun Pang</span></td>
     <td class="tg-fxx4"><span style="color:#222">SMS(S) Parents' Rep</span></td>
   </tr>
   <tr>
@@ -162,11 +162,18 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-580q">Year Head (P3 &amp; P4)</td>
     <td class="tg-mqlv">Mdm Sharon Simon </td>
   </tr>
-  <tr>
-    <td class="tg-tojq"><span style="color:#222">     Year Head (P5 &amp; P6) </span></td>
+	 <tr>
+    <td class="tg-tojq"><span style="color:#222">Year Head (P5 &amp; P6) </span></td>
     <td class="tg-ltu5"><span style="color:#222">    Ms Michelle Kok</span></td>
   </tr>
-  
+    <tr>
+    <td class="tg-tojq"><span style="color:#222"> Assistant Year Head</span></td>
+    <td class="tg-ltu5"><span style="color:#222">    Ms Christina Yong</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-580q">HOD Student Management</td>
+    <td class="tg-mqlv">Mdm Siti Nurbaya Bte Mohd Jumain </td>
+  </tr>
   <tr>
     <td class="tg-580q">HOD Character and Citizenship Education (CCE)</td>
     <td class="tg-mqlv">Mrs Pamela Yeo </td>
@@ -184,10 +191,6 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-ltu5"><span style="color:#222">    Mrs Angel Soh Siu Ling </span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">    ST English</span></td>
-    <td class="tg-ltu5"><span style="color:#222">    Mdm Lim Bee Leng</span></td>
-  </tr>
-  <tr>
     <td class="tg-580q">LH Mathematics</td>
     <td class="tg-mqlv">Mdm Shahirah Bte Mohd Shariff</td>
   </tr>
@@ -196,7 +199,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-mqlv">Mrs Pearlyn Gan</td>
   </tr>
   <tr>
-    <td class="tg-580q">SH Chinese Language </td>
+    <td class="tg-580q">HOD Mother Tongue</td>
     <td class="tg-mqlv">Ms Shirley Ong</td>
   </tr>
   <tr>
@@ -207,7 +210,12 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-580q">LH Science </td>
     <td class="tg-mqlv">Mrs Chin Ley Tin </td>
   </tr>
+	<tr>
+    <td class="tg-580q">HOD ICT </td>
+    <td class="tg-mqlv">Ms Julia Li </td>
+  </tr>
   <tr>
+  </tr><tr>
     <td class="tg-580q">LH ICT </td>
     <td class="tg-mqlv">Ms Nur A'zzah Noh </td>
   </tr>
@@ -224,7 +232,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 ### Primary 1 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -245,7 +253,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Abigail Inbam Henry (Mdm)</span></td>
+    <td class="tg-b4br">Wong Way Lin (Mrs Fam)</td>
   </tr>
 </tbody>
 </table>
@@ -270,34 +278,33 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Suryanti Binte Fathillah (Ms) </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pamela Yeow Yun Fen (Mrs)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Daphne Cheng Lai Peng (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Weiling Samantha (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Rachelle Ching Lai Cheng (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Lin Linli (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Wang Peiqi (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Esther James (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wang Peiqi (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Abigail Inbam Henry (Mdm) (LM)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Low Pei Chi (Mrs Ong)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wu Shao Hai (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Lim Ai Kiok (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Low Wei Wen (Mrs Ng)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 PATIENCE </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wong Way Lin (Mrs Fam)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Amelia Leong Seok Ling (Mrs Goh)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Anna Lau Li Keow (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sara George (Ms)  &amp; <br>  Poon Chye Hong Bernice (Mrs) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">
-Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Sara George (Ms)</span><br><span style="color:#222">Alaghimanavalan Sarala Devi (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Wong Way Lin (Mrs Fam) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Foo Ngiap Leng (Mdm) &amp; <br>Lim Ai Kiok (Ms) </span><br></td>
   </tr>
 </tbody>
 </table>
@@ -305,7 +312,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 
 ### Primary 2 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -326,7 +333,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Grace Tang (Mdm)</span></td>
+    <td class="tg-b4br">Lin Linli (Mdm)</td>
   </tr>
 </tbody>
 </table>
@@ -351,33 +358,33 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chen Shuang (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Angel Soh Siu Ling (Mrs Chan) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Yun Fen (Mrs Yeow)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Madelin Yeo (Mrs Ang)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Grace Tang (Mdm) (LM)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)<br>Poon Chye Hong Bernice (Mrs)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Lin Linli (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Loganathan Mageshwari (Mdm) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"></span>Esther James (Mdm)<br></td>
+    <td class="tg-fxx4"><span style="color:#222">Abigail Inbam Henry (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"></span>Seet See Lin (Ms)<br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Zhuang Siqiao (Mrs Heng)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Rajkumar Geetha (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Chan Mei Sze (Mrs Lim)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Wu Shao Hai (Mr)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 PATIENCE </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Mei Sze (Mrs Lim)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Amelia Leong Seok Ling (Mrs Goh) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Chua Chiow Yean (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ong Cheng Bing (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Adeline Chan Soo Sian (Mrs Ang)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Zhang Miao (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh (Ms) </span></td>
   </tr>
 </tbody>
 </table>
@@ -386,7 +393,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 
 ### Primary 3 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -407,8 +414,8 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-emg8">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo)</span></td>
+    <td class="tg-b4br">Level Manager </td>
+    <td class="tg-b4br">Rajkumar Geetha (Mdm)</td>
   </tr>
 </tbody>
 </table>
@@ -433,28 +440,28 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) <br> S Kanimozhi (Mrs Ganesh)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Jamilah Bee Bte Mohamed Ghani (Mdm)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Dharshini (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Derek Wong Jyunwei (Mr)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ngoh Moon Geok (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Zhuang Siqiao (Mrs Heng) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Chan Siew Kheng Dinah (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Xu Yan (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Pearlyn Lim Li Gek (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Soomathy D/O Veeraya (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Wong Wai Yee (Mrs Teo) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Madeline Koo Hwee Neo (Mrs)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo) (LM)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Suryanti Binte Fathillah (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Madeline Koo Hwee Neo (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Anna Lau Li Keow (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Nadine Soraya Binte Mohamed Fauzi (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Rajkumar Geetha (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Low Pei Lin (Ms) </span><br></td>
   </tr>
 </tbody>
 </table>
@@ -462,7 +469,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 
 ### Primary 4 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -484,7 +491,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo)</span><br></td>
+    <td class="tg-b4br">Mandy Li Yuen Mun (Mrs Teo)<br></td>
   </tr>
 </tbody>
 </table>
@@ -509,28 +516,28 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Madelin Yeo (Mrs Ang)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Haryati Bte Hassan (Mrs Zulkifli)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">S Kanimozhi (Mrs Ganesh)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Lim Bee Leng (Mdm) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Wong Wai Yee (Mrs Teo)</span><br><span style="color:#222">Angeline Chong Chek Mei (Mrs Tan)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ngoh Moon Geok (Mdm)  </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span><br><span style="color:#222"></span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo) (LM)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Charissa Chan Soek Yee (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Daphne Cheng Lai Peng (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Dharshini (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ong Shilin, Shirley (Ms)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 TENACITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Low Pei Lin (Ms) </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Eileen Goh Jia Shi (Mrs Kong)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Nadine Soraya Binte Mohamed Fauzi (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Julia Li Wai See (Li Huishi) (Ms)<br>Angeline Chong Chek Mei (Mrs Tan) </span></td>
   </tr>
 </tbody>
 </table>
@@ -539,7 +546,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 
 ### Primary 5 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -560,7 +567,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager <span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)</span><br></td>
+    <td class="tg-b4br">Tan Seow Wee (Mrs Chua)<br></td>
   </tr>
 </tbody>
 </table>
@@ -586,28 +593,28 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 CHARITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Yen Peng (Mdm)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Derek Wong Jyunwei (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Tan Seow Wee (Mrs Chua)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Siti Nurbaya Bte Mohd Jumain (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 GRACIOUSNESS </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Xing Hwee (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Shahirah Bte Mohd Shariff (Mdm)</span><br>Leong Whye Ting Serene (Mrs)</td>
+    <td class="tg-fxx4"><span style="color:#222">Melody Soh Ming Li (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Kok Meixia Michelle (Ms) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 HUMILITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Lim Shurong (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Goh Bee Ling (Mrs Ong)<br>Ravinderjit Kaur Narula (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Huang Wenshan Eric (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Angel Soh Siu Ling (Mrs Chan)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Rozita Binte Sulaiman (Mdm)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Eddie Chong Chon Kar (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sim Liyang (Mr)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Haryati Bte Hassan (Mrs Zulkifli) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm) (LM)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Sim Liyang (Mr)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Charissa Chan Soek Yee (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)<br>Nur A'zzah Binte Noh (Ms)</span></td>
   </tr>
 </tbody>
 </table>
@@ -615,7 +622,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 
 ### Primary 6 Teachers
 
-**Year 2023**
+**Year 2024**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -636,8 +643,8 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-emg8">Level Manager </td>
-    <td class="tg-fxx4"><span style="color:#222">Tan Seow Wee (Mrs Chua)</span></td>
+    <td class="tg-b4br">Level Manager </td>
+    <td class="tg-b4br">Eddie Chong Chon Kar (Mr)</td>
   </tr>
 </tbody>
 </table>
@@ -662,28 +669,28 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 CHARITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ong Shilin, Shirley (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Kok Meixia Michelle (Ms)</span><br><span style="color:#222">Chan Siew Kheng Dinah (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Chan Yen Peng (Mdm) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Pamela Chew Huan Pei (Mrs Yeo) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 GRACIOUSNESS </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Loganathan Mageshwari (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Pamela Chew Huan Pei (Mrs Yeo)</span><br><span style="color:#222">Low Pei Chi (Mrs Ong)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Xing Hwee (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Shahirah Bte Mohd Shariff (Mdm)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Weiling Samantha (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br>Low Wei Wen (Mrs)</td>
+    <td class="tg-fxx4"><span style="color:#222">Goh Bee Ling (Mrs Ong)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Pearlyn Lim Li Gek (Mrs Gan) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 INTEGRITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Tan Seow Wee (Mrs Chua) (LM)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Nur A'zzah Binte Noh (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Eddie Chong Chon Kar (Mr) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Rozita Binte Sulaiman (Mdm) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 TENACITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Melody Soh Ming Li (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Christina Yong Yuen Fang (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)<br>Low Pei Chi (Mrs Ong)</span></td>
   </tr>
 </tbody>
 </table>
@@ -691,7 +698,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
 
 ### Non-Teaching Staff
 
-**Year 2023**
+**Year 2024**
 
 
 <style type="text/css">
@@ -725,7 +732,7 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Syafawati Binte Roslan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Administration Executive (AE) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Binte Johari</span></td>
@@ -754,14 +761,6 @@ Zhang Miao (Mr) <br>Mimi Nurhidayah (Mdm)</span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Munthaha Bin Snib </span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr Chia Joo Hi</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms Sem Sok Hui</span></td>
-    <td class="tg-fxx4"><span style="color:#222">School Counsellor </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Nur Fadhilah Binte Loakman </span></td>
