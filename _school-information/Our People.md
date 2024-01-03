@@ -689,7 +689,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 TENACITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Christina Yong Yuen Fang (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Christina Yong (Ms)</span></td>
     <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)<br>Low Pei Chi (Mrs Ong)</span></td>
   </tr>
 </tbody>
