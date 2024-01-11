@@ -526,7 +526,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo) (LM)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo)</span></td>
     <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br></td>
   </tr>
   <tr>
