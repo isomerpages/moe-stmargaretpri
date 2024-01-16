@@ -143,10 +143,6 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-mqlv">Ms Loh Wei Tiang</td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">    Admin Manager</span></td>
-    <td class="tg-ltu5"><span style="color:#222">    Mr Stanley Teng</span></td>
-  </tr>
-  <tr>
     <td class="tg-580q">Operations Manager</td>
     <td class="tg-mqlv">Ms Tan Bee Lian</td>
   </tr>
