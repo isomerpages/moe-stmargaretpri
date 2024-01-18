@@ -143,10 +143,6 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-mqlv">Ms Loh Wei Tiang</td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">    Admin Manager</span></td>
-    <td class="tg-ltu5"><span style="color:#222">    Mr Stanley Teng</span></td>
-  </tr>
-  <tr>
     <td class="tg-580q">Operations Manager</td>
     <td class="tg-mqlv">Ms Tan Bee Lian</td>
   </tr>
@@ -526,7 +522,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo) (LM)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo)</span></td>
     <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br></td>
   </tr>
   <tr>
@@ -614,7 +610,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Charissa Chan Soek Yee (Ms) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)<br>Nur A'zzah Binte Noh (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)</span></td>
   </tr>
 </tbody>
 </table>
@@ -690,7 +686,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 TENACITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Christina Yong (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)<br>Low Pei Chi (Mrs Ong)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)</span></td>
   </tr>
 </tbody>
 </table>
@@ -721,12 +717,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Loh Wei Tiang </span></td>
     <td class="tg-fxx4"><span style="color:#222">Administration Manager</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr Stanley Teng</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Administration Manager</span></td>
-  </tr>
-  <tr>
+  </tr><tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Tan Bee Lian</span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Manager </span></td>
   </tr>
@@ -760,6 +751,10 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Munthaha Bin Snib </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms Brenda Koh </span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
   </tr>
   <tr>
@@ -809,7 +804,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Tan Siew Kiau</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Kesumawati Bte Saimon</span></td>
     <td class="tg-fxx4"><span style="color:#222">Receptionist</span></td>
   </tr>
 </tbody>
