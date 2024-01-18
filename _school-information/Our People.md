@@ -753,6 +753,10 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mr Munthaha Bin Snib </span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
   </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms Brenda Koh </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Nur Fadhilah Binte Loakman </span></td>
     <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
@@ -800,7 +804,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Tan Siew Kiau</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Kesumawati Bte Saimon</span></td>
     <td class="tg-fxx4"><span style="color:#222">Receptionist</span></td>
   </tr>
 </tbody>
