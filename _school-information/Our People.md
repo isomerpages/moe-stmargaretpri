@@ -43,12 +43,12 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-tojq"><span style="color:#222">3</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mrs Ko-Tan Li Ling</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Principal, SMS(P)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Secretary/Principal, SMS(P)</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">4</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms Linda Lim</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Secretary/Principal, SMS(S)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Principal, SMS(S)</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">5</span></td>
