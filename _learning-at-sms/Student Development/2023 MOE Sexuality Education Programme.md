@@ -138,12 +138,7 @@ At St Margaret's School (Primary), the following Sexuality Education lessons wil
   <tr>
     <td class="tg-baqh"><span style="background-color:initial">Are We More than Friends?</span><br>Lesson 2<br><span style="background-color:initial">(60 min)</span></td>
     <td class="tg-0lax"><br><br>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.<br></td>
-    <td class="tg-nrix">Term 4<br>Week 7</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Did you know?*<br>(60 min)</td>
-    <td class="tg-0lax"><br><br>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br></td>
-    <td class="tg-nrix">Term 2<br>Week 4</td>
+    <td class="tg-nrix">Term 4<br>Week 6</td>
   </tr>
 </tbody>
 </table>
