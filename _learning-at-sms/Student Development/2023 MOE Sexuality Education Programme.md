@@ -98,8 +98,9 @@ At St Margaret's School (Primary), the following Sexuality Education lessons wil
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="background-color:initial">Keeping Myself Safe</span><br><span style="background-color:initial">(60 min)</span><br></td>
-    <td class="tg-ktyi"><br><br>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br></td>
-    <td class="tg-f4yw">Term 2<br>Week 3</td>
+    <td class="tg-ktyi"><br><br>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
+<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br></td>
+    <td class="tg-f4yw">Term 2<br>Week 7</td>
   </tr>
 </tbody>
 </table>
