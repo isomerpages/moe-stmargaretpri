@@ -146,12 +146,10 @@ At St Margaret's School (Primary), the following Sexuality Education lessons wil
 #### Information for Parents
 __________________________________________________________
 
-8.&nbsp; Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+8.&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-  
 
-9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form can be obtained through the Form Teacher and is also downloadable <a href="/files/smps_gys opt out form 2023.pdf" target="_blank">here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the Form Teacher by 17/02/2023.
+9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/GYS_Opt_out_Form_2024.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 07/02/2024. 
 
-  
 
-10.&nbsp;Parents can contact the school&nbsp;&nbsp;at **6339 4247** or **stmargaretps@moe.edu.sg** for discussion or to seek clarification about the school’s sexuality education programme.
+10.&nbsp;Parents can contact the school at <br>stmargaretps@moe.edu.sg<br> for discussion or to seek clarification about the school’s Sexuality Education programme.
