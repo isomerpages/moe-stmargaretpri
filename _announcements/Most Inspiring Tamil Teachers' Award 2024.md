@@ -8,4 +8,4 @@ description: ""
 
 The Most Inspiring Tamil Teacher Award (MITT) is an annual award which seek to recognise Tamil Language teachers who have made significant contributions to the teaching and learning of Tamil Language in schools, respectively. Nominations are now open!
 		 
-Click on this link for more information [MITT 2024](https://go.gov.sg/mitt2024nominationformel)
+Click on this link for more information <a href="https://go.gov.sg/mitt2024nominationformel" target="_blank"><b>MITT 2024</b></a>
