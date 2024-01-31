@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - MOE Sexuality Education 2024.md
       - Office Hours 2024.md
       - Read for Books 2023.md
       - Invitation to Parents Gateway.md
