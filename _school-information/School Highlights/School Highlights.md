@@ -9,7 +9,7 @@ variant: markdown
 
 These are the activities that the students participated for holistic learning.
 
-![](/images/Montages/t1montage_01.jpg)
+![](/images/Montages/t1montage_2024.jpg)
 
 1. #### To Learn and Grow : 
 * ##### [2023 Montage](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
