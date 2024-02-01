@@ -3,11 +3,19 @@ title: To Learn and Grow
 permalink: /school-highlights/to-learn-and-grow/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
+2023 Montage
+-------------------
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bNQqixEaVgs?si=xJERYRdU0PhKqmw-" height="415" width="700"></iframe></center>
+
+
 Term 3 Montage 2023
 -------------------
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eibxSpflOho?si=AnpcStxdoMtED1Og" height="415" width="700"></iframe></center>
+
 
 Term 2 Montage 2023
 -------------------
