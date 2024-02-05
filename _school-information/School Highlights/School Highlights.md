@@ -9,12 +9,13 @@ variant: markdown
 
 These are the activities that the students participated for holistic learning.
 
-![](/images/Montages/t1montage_01.jpg)
+![](/images/Montages/t1montage_2024.jpg)
 
 1. #### To Learn and Grow : 
-* ##### [Term 3 Montage 2023](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
+* ##### [2023 Montage](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
+* ##### [Term 3 Montage 2023](/school-highlights/to-learn-and-grow/)
 * ##### [Term 2 Montage 2023](/school-highlights/to-learn-and-grow/)
-* ##### [Term 1 Montage 2023](/school-highlights/to-learn-and-grow/) <font size="3" color="red"></font>
+* ##### [Term 1 Montage 2023](/school-highlights/to-learn-and-grow/) 
 
 2. ####  Featured Events
 
