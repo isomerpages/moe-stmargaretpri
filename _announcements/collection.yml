@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Chinese New Year Operating Hours.md
+      - Chinese New Year Office Hours.md
       - MOE Sexuality Education Programme 2024.md
       - Most Inspiring Tamil Teachers' Award 2024.md
       - Arif Budiman Malay Language Teacher Award 2024.md
