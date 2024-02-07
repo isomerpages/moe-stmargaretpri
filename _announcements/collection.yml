@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Inspiring Teacher English Award 2024.md
       - Chinese New Year Office Hours.md
       - MOE Sexuality Education Programme 2024.md
       - Most Inspiring Tamil Teachers' Award 2024.md
