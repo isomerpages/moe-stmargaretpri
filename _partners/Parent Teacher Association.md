@@ -4,6 +4,8 @@ permalink: /partners/parent-teacher-association/
 description: ""
 variant: markdown
 ---
+<center><img src="/images/d1b5216da_u0717.gif" style="width:150px">
+
 ##### The 2024 EXCO members are as follows:
 <table>
 	<tbody><tr>
@@ -57,7 +59,7 @@ variant: markdown
 </tr>
 	</tbody></table>
 
-<center><img src="/images/d1b5216da_u0717.gif" style="width:150px">
+
 
 <font size="3"><center>Please click <b><a target="_blank" href="https://www.greendotpta.sg/">here</a></b> to know more about the PTA.
 </center></font></center>
