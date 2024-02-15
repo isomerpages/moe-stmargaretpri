@@ -58,8 +58,8 @@ variant: markdown
 		<td><font size="4"><b>Mdm Neeja Sachdeva</b></font></td>
 </tr>
 	</tbody></table>
+</center>
 
 
-
-<font size="3"><center>Please click <b><a target="_blank" href="https://www.greendotpta.sg/">here</a></b> to know more about the PTA.
-</center></font></center>
+<font size="4">Please click <b><a target="_blank" href="https://www.greendotpta.sg/">here</a></b> to know more about the PTA.
+</font>
