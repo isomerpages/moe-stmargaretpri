@@ -6,7 +6,8 @@ variant: markdown
 ---
 <center><img src="/images/d1b5216da_u0717.gif" style="width:150px">
 
-##### The 2024 EXCO members are as follows:
+<font size="5"><b>The 2024 EXCO members are as follows:</b></font>
+	
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5"></font><center><font color="maroon" size="5">
