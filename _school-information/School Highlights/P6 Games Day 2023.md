@@ -21,3 +21,4 @@ The P6 students were given the challenge to develop carnival games for their you
 
 Through the programme, the students learnt to put into practice skills they had learnt in primary school, such as working in teams, communicating with peers and schoolmates who are much younger. The school values, LIGHT, i.e. lifelong learning, integrity, graciousness, humility and tenacity came to life as the girls worked through the challenges faced to complete their games, and as they manned their game stalls throughout the school day.
 
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OoLTTIbKgtw?si=twbfbFGIgPBVFPTU" height="415" width="700"></iframe></center>
