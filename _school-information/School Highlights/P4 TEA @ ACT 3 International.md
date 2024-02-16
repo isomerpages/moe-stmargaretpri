@@ -13,7 +13,11 @@ On 3 Nov 2023, the Primary 4 students went on a learning journey as part of our 
 
 After watching the theatre performance put up by three of the actresses/ drama teachers from Act 3 International, there was a Question-and-Answer session where students got to ask the actresses questions to get to know each of them and their work better. Through this session, the students got a deeper understanding of how a drama performance was put up and some of the things the actresses do behind the scenes during the performance. 
 
-
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/Children's%20Day%202023/primary%206%20vs%20teachers.JPG" style="width:450px;height:300px;"><b>Blow Wind Blow game as characters from ‘The Jungle Book’ (2)</b></td>
+		<td><img alt="childday02" src="/images/Children's%20Day%202023/primary%202%20girls%20presenting%20a%20song%20and%20dance%20for%20us.JPG" style="width:450px;height:300px;"><b>Reacting a scene from ‘The Jungle Book’ drama performance</b></td>
+</tr></tbody></table>
  
 During the drama workshop, students got to use their imagination and maximise their creative potential as they pretended to be the main characters of ‘The Jungle Book’. Through games and engaging activities, students learnt to become more eager to learn about others. At the end of the drama workshop, students worked in groups to showcase a scene that depicted the characters of ‘The Jungle Book’ after ten years. Students applied what they had learnt during the workshop and presented themselves confidently. 
 
