@@ -15,3 +15,4 @@ After watching the theatre performance put up by three of the actresses/ drama t
  
 During the drama workshop, students got to use their imagination and maximise their creative potential as they pretended to be the main characters of ‘The Jungle Book’. Through games and engaging activities, students learnt to become more eager to learn about others. At the end of the drama workshop, students worked in groups to showcase a scene that depicted the characters of ‘The Jungle Book’ after ten years. Students applied what they had learnt during the workshop and presented themselves confidently. 
 
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/W1DRMVHWYbI?si=nWiTnMDCuk9E7hpY" height="415" width="700"></iframe></center>
