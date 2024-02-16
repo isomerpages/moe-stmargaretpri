@@ -15,8 +15,8 @@ After watching the theatre performance put up by three of the actresses/ drama t
 
 <table>
 <tbody><tr>
-		<td><img alt="p4teaact01" src="/images/P4 TEA @ ACT 3 International/Blow_Wind_Blow_game.JPG" style="width:450px;height:300px;"><b>Blow Wind Blow game as characters from ‘The Jungle Book’ (2)</b></td>
-		<td><img alt="p4teaact02" src="/images/P4 TEA @ ACT 3 International/Jungle_Book_drama_performance.JPG" style="width:450px;height:300px;"><b>Reacting a scene from ‘The Jungle Book’ drama performance</b></td>
+		<td><img alt="p4teaact01" src="/images/P4 TEA ACT 3 2023/Blow_Wind_Blow_game.JPG" style="width:450px;height:280px;"><b>Blow Wind Blow game as characters from ‘The Jungle Book’ (2)</b></td>
+		<td><img alt="p4teaact02" src="/images/P4 TEA ACT 3 2023/Jungle_Book_drama_performance.JPG" style="width:450px;height:280px;"><b>Reacting a scene from ‘The Jungle Book’ drama performance</b></td>
 </tr></tbody></table>
  
 During the drama workshop, students got to use their imagination and maximise their creative potential as they pretended to be the main characters of ‘The Jungle Book’. Through games and engaging activities, students learnt to become more eager to learn about others. At the end of the drama workshop, students worked in groups to showcase a scene that depicted the characters of ‘The Jungle Book’ after ten years. Students applied what they had learnt during the workshop and presented themselves confidently. 
