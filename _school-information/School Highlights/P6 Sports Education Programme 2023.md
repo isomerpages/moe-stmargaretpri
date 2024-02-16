@@ -13,8 +13,8 @@ Inline skating can be a fun and enjoyable activity for students. Not only is it 
 
 <table>
 <tbody><tr>
-		<td><img alt="p6sep01" src="/images/Children's%20Day%202023/primary%206%20vs%20teachers.JPG" style="width:450px;height:300px;"><b>How to fall</b></td>
-		<td><img alt="p6sep02" src="/images/Children's%20Day%202023/primary%202%20girls%20presenting%20a%20song%20and%20dance%20for%20us.JPG" style="width:450px;height:300px;"><b>Learning to stand</b></td>
+		<td><img alt="p6sep01" src="/images/P6 SEP 2023/How_to_fall.JPG" style="width:450px;height:280px;"><b>How to fall</b></td>
+		<td><img alt="p6sep02" src="/images/P6 SEP 2023/Learning_to_stand.JPG" style="width:450px;height:280px;"><b>Learning to stand</b></td>
 </tr></tbody></table>
 
 The girls who had no experience with skating managed to skate for a short distance after the session. Those with prior experiences played some games on their skates. The girls had a great time, helping each other to balance and encouraging their friends.
