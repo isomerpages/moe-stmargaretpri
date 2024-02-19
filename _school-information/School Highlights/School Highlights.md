@@ -19,9 +19,11 @@ These are the activities that the students participated for holistic learning.
 
 2. ####  Featured Events
 
-### 2023
-<br>
-<br>
+<table>
+	<tbody><tr>
+		<th><center><font color="maroon" size="6">
+     2023
+ </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
 				<tr>
