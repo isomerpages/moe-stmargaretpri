@@ -17,4 +17,4 @@ The P1 students were eager to make new friends and had fun playing games with th
 
 For the first two weeks of school, the P4 students were paired with the P1 students during recess and they looked forward to being their Big Sisters. The P4 students were there to guide them in buying food from the canteen, finding their way around the school and playing with them. They enjoyed each other’s company and enjoyed their time together. The little ones wrote Thank You cards to show their appreciation to the Big Sisters. The P4 students in turn were happy to be given the opportunity to display the school motto of Charity, Patience and Devotion through their interactions with the little ones.
 
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mOFt3yq2FFA?si=K67hIWdW1XpYAdAf" height="315" width="560"></iframe>
