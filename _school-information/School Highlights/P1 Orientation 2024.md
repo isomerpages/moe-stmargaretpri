@@ -13,6 +13,12 @@ It was an exciting start for our new P1 students and their parents as they joine
 
 The parents were later shown the arrival and dismissal points so that they could be familiar with the traffic flow and safety management plan of the school. The parents also got to see their children having recess with their classmates.
 
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/Children's%20Day%202023/1_Graciousness_moving_in.JPG" style="width:450px;height:300px;"><b> 1 Graciousness moving in line to our classroom</b></td>
+		<td><img alt="childday02" src="/images/Children's%20Day%202023/Come__we_will_show_you.JPG" style="width:450px;height:300px;"><b>Come, we will show you where to return your bowl</b></td>
+</tr></tbody></table>
+
 The P1 students were eager to make new friends and had fun playing games with the teachers and classmates. They were later brought around for a school tour.
 
 For the first two weeks of school, the P4 students were paired with the P1 students during recess and they looked forward to being their Big Sisters. The P4 students were there to guide them in buying food from the canteen, finding their way around the school and playing with them. They enjoyed each other’s company and enjoyed their time together. The little ones wrote Thank You cards to show their appreciation to the Big Sisters. The P4 students in turn were happy to be given the opportunity to display the school motto of Charity, Patience and Devotion through their interactions with the little ones.
