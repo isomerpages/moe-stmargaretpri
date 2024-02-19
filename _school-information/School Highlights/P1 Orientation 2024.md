@@ -15,8 +15,8 @@ The parents were later shown the arrival and dismissal points so that they could
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/Children's%20Day%202023/1_Graciousness_moving_in.JPG" style="width:450px;height:300px;"><b> 1 Graciousness moving in line to our classroom</b></td>
-		<td><img alt="childday02" src="/images/Children's%20Day%202023/Come__we_will_show_you.JPG" style="width:450px;height:300px;"><b>Come, we will show you where to return your bowl</b></td>
+		<td><img alt="childday01" src="/images/P1 Orientation 2024/1_Graciousness_moving_in.JPG" style="width:450px;height:300px;"><b> 1 Graciousness moving in line to our classroom</b></td>
+		<td><img alt="childday02" src="/images/P1 Orientation 2024/Come__we_will_show_you.JPG" style="width:450px;height:300px;"><b>Come, we will show you where to return your bowl</b></td>
 </tr></tbody></table>
 
 The P1 students were eager to make new friends and had fun playing games with the teachers and classmates. They were later brought around for a school tour.
