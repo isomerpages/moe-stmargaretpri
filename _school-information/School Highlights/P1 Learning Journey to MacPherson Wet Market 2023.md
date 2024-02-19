@@ -1,5 +1,5 @@
 ---
-title: P1 Learning Journey to MacPherson Wet Market
+title: P1 Learning Journey to MacPherson Wet Market 2023
 permalink: /school-information/school-highlights/p1lj-market-2023/
 variant: markdown
 description: ""
