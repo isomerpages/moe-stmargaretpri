@@ -27,9 +27,9 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 				<tr>
-<td><a href="/school-information/school-highlights/partnerstea-2023/"><img src="/images/Thumbnails/partnersteathumb_01.jpg" alt="partnerstea2023" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/p6-gamesday-2023/"><img src="/images/Thumbnails/p6gamesdaythumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-	<td><a href="/school-information/school-highlights/p6-sep-2023/"><img src="/images/Thumbnails/p6septhumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="partnerstea2023" style="width:250px;height:170px;"></td>
+			<td><a href="/school-information/school-highlights/cny-2024/"><img src="/images/Thumbnails/cnythumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/p1orientation-2024/"><img src="/images/Thumbnails/p1orientationthumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>EL Week 2024</center></th> 
