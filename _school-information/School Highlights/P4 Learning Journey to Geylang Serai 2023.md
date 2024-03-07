@@ -3,6 +3,7 @@ title: P4 Learning Journey to Geylang Serai 2023
 permalink: /school-information/school-highlights/p4lj-geylang-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### P4 Social Studies Learning Journey to Geylang Serai Heritage Gallery 2023
 
@@ -12,8 +13,8 @@ The Primary 4 students embarked on a learning journey to Geylang Serai Heritage 
 
 <table>
 <tbody><tr>
-		<td><img alt="p4ljgeylang01" src="/images/P4%20LJ%20Geylang%20Serai%202023/exploring%20the%20motifs%20on%20the%20roof.JPG" style="width:450px;height:300px;"><b>Exploring the motifs on the roof</b></td>
-		<td><img alt="p4ljgeylang02" src="/images/P4%20LJ%20Geylang%20Serai%202023/games%20from%20yesteryear.jpg" style="width:450px;height:300px;"><b>Games from yesteryear</b></td>
+		<td><img alt="p4ljgeylang01" src="/images/P4%20LJ%20Geylang%20Serai%202023/exploring%20the%20motifs%20on%20the%20roof.JPG" style="width:450px;height:280px;"><b>Exploring the motifs on the roof</b></td>
+		<td><img alt="p4ljgeylang02" src="/images/P4%20LJ%20Geylang%20Serai%202023/games%20from%20yesteryear.jpg" style="width:450px;height:280px;"><b>Games from yesteryear</b></td>
 </tr></tbody></table>
 
 While they were there, the students participated in a precinct walk through Geylang Serai Market and Food Centre. While they were there, they learnt about why Geylang Serai is a significant neighbourhood to the Malay and Muslim communities in Singapore. They also learnt about leisure activities from the past such as the games
