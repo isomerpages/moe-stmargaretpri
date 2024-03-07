@@ -3,6 +3,7 @@ title: P5 Learning Journey to Bus Train Depot 2023
 permalink: /school-information/school-highlights/p5ljdepot-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### P5 EL Learning Journey to Bus and Rail Depots 2023
 
@@ -16,8 +17,8 @@ At the Ulu Pandan Bus Depot, students learnt about some of the sustainability ef
 
 <table>
 <tbody><tr>
-		<td><img alt="p5ljdepot01" src="/images/P5%20LJ%20Depot%202023/in%20awe%20of%20the%20tremendous%20effort%20put%20in%20to%20keep%20our%20trains%20running%20smoothly.jpg" style="width:450px;height:300px;"><b>In awe of the tremendous effort put in to keep our trains running smoothly</b></td>
-		<td><img alt="p5ljdepot02" src="/images/P5%20LJ%20Depot%202023/so%20this%20is%20how%20you%20operate%20a%20train!.jpg" style="width:450px;height:300px;"><b>So this is how you operate a train!</b></td>
+		<td><img alt="p5ljdepot01" src="/images/P5%20LJ%20Depot%202023/in%20awe%20of%20the%20tremendous%20effort%20put%20in%20to%20keep%20our%20trains%20running%20smoothly.jpg" style="width:450px;height:280px;"><b>In awe of the tremendous effort put in to keep our trains running smoothly</b></td>
+		<td><img alt="p5ljdepot02" src="/images/P5%20LJ%20Depot%202023/so%20this%20is%20how%20you%20operate%20a%20train!.jpg" style="width:450px;height:280px;"><b>So this is how you operate a train!</b></td>
 </tr></tbody></table>
 
 At the Sengkang Rail Depot, students tried their hands at operating an MRT train through a train simulator activity. Additionally, they learnt about how the operations staff help to manage and coordinate the different train services. 

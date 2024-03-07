@@ -3,6 +3,7 @@ title: P1 Level Camp 2023
 permalink: /school-highlights/p1-level-camp-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### P1 Level Camp 2023
 
@@ -13,7 +14,7 @@ Aside from the physical skills it takes to stunt, jump and tumble, cheerleading 
 
 <table>
 <tbody><tr>
-		<td><img alt="p1camp01" src="/images/P1 Level Camp 2023/p1camp01.jpg" style="width:400px;height:300px;"> </td>
+		<td><img alt="p1camp01" src="/images/P1 Level Camp 2023/p1camp01.jpg" style="width:450px;height:280px;"> </td>
 		<td><img alt="p1camp02" src="/images/P1 Level Camp 2023/p1camp02.JPG" style="width:280px;height:300px;"> </td>
 </tr></tbody></table>	
 

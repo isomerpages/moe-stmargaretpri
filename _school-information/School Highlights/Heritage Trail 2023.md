@@ -3,6 +3,7 @@ title: Heritage Trail 2023
 permalink: /school-information/school-highlights/heritage-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### Heritage Trail 2023
 
@@ -12,8 +13,8 @@ The Heritage Hub was set up at the holding site at Mattar Road, in 2022. It is f
 
 <table>
 <tbody><tr>
-		<td><img alt="heritage01" src="/images/Heritage%20Trail%202023/that_s%20me!.JPG" style="width:450px;height:300px;"><b>That's Me!</b></td>
-		<td><img alt="heritage02" src="/images/Heritage%20Trail%202023/mdm%20henry%20sharing%20the%20changes%20in%20our%20school%20uniform.JPG" style="width:450px;height:300px;"><b>Mdm Henry sharing the changes in our school uniform.</b></td>
+		<td><img alt="heritage01" src="/images/Heritage%20Trail%202023/that_s%20me!.JPG" style="width:450px;height:280px;"><b>That's Me!</b></td>
+		<td><img alt="heritage02" src="/images/Heritage%20Trail%202023/mdm%20henry%20sharing%20the%20changes%20in%20our%20school%20uniform.JPG" style="width:450px;height:280px;"><b>Mdm Henry sharing the changes in our school uniform.</b></td>
 </tr></tbody></table>
 
 In 2023, the heritage trail was again conducted especially for our P1s, to orientate them on our rich history as well. The excitement was shown through their questions and response as the teachers shared the school history.
@@ -21,4 +22,3 @@ In 2023, the heritage trail was again conducted especially for our P1s, to orien
 We hope that St Margaret’s School history would always be embedded in the hearts and minds of the students.
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kqei1dp17FM?si=8Yv8rAG5F9l3W6s4" height="415" width="700"></iframe></center>
-

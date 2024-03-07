@@ -3,6 +3,7 @@ title: Sports Jamboree 2023
 permalink: /school-highlights/sports-jamboree-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### Sports Jamboree 2023
 
@@ -12,8 +13,8 @@ This year the PE Team is organising ‘Sports Jamboree 2023’ to encourage heal
 
 <table>
 <tbody><tr>
-		<td><img alt="jamboree01" src="/images/Sports Jamboree 2023/jamboree01.jpg" style="width:500px;height:300px;"> </td>
-		<td><img alt="jamboree02" src="/images/Sports Jamboree 2023/jamboree02.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="jamboree01" src="/images/Sports Jamboree 2023/jamboree01.jpg" style="width:450px;height:280px;"> </td>
+		<td><img alt="jamboree02" src="/images/Sports Jamboree 2023/jamboree02.JPG" style="width:450px;height:280px;"> </td>
 </tr></tbody></table>	
 
 During the preparation, organising games as well as managing the game stations, the leaders will gain confidence as they hone their leadership abilities and stretch themselves to be effective leaders taking initiatives to trouble-shoot in various scenarios. The PE Team are delighted that the students had a rolling good time participating in this Jamboree.
