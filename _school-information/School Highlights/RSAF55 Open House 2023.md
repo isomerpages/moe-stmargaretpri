@@ -3,6 +3,7 @@ title: RSAF55 Open House 2023
 permalink: /school-information/school-highlights/rsaf55-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### Republic of Singapore Air Force 55 (RSAF) Open House 2023
 
@@ -16,4 +17,4 @@ It was a bright and sunny afternoon. About 80 Primary 6 students stood ready to 
 		<td><img alt="rsaf02" src="/images/RSAF55%20Open%20House%202023/checking%20out%20the%20static%20display.JPG" style="width:450px;height:280px;"><b>Checking out the static display</b></td>
 </tr></tbody></table>
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-WQjRGxt3mk?si=WrlhHTPik72Tcfti" height="415" width="700"></iframe><!--.center--></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-WQjRGxt3mk?si=WrlhHTPik72Tcfti" height="415" width="700"></iframe></center>
