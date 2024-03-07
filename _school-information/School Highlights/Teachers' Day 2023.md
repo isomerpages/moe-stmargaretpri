@@ -3,6 +3,7 @@ title: Teachers' Day 2023
 permalink: /school-information/school-highlights/tcd-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### Teachers' Day Celebration 2023
 
@@ -12,8 +13,8 @@ Teachers’ Day 2023 was a special celebration for the teachers as we had two-da
 
 <table>
 <tbody><tr>
-		<td><img alt="tcd01" src="/images/Teachers'%20Day%202023/teacher%20vs%20students%20game.JPG" style="width:450px;height:300px;"><b>Teacher vs students game</b></td>
-		<td><img alt="tcd02" src="/images/Teachers'%20Day%202023/teacher_s%20parade%201.JPG" style="width:450px;height:300px;"><b>Teachers' Parade</b></td>
+		<td><img alt="tcd01" src="/images/Teachers'%20Day%202023/teacher%20vs%20students%20game.JPG" style="width:450px;height:280px;"><b>Teacher vs students game</b></td>
+		<td><img alt="tcd02" src="/images/Teachers'%20Day%202023/teacher_s%20parade%201.JPG" style="width:450px;height:280px;"><b>Teachers' Parade</b></td>
 </tr></tbody></table>
 
 The second part of Teachers’ Day celebration continued the next morning. Throngs of students could be seen bustling around the school, carrying loads of handmade gifts to present to their beloved teachers. Soon, the buzz of activity settled down, and the students celebrated the joyous occasion with their form teachers. During the classroom interaction activities, the students made paper bouquets and paper flowers to gift their teachers. They also had a fun time bonding with their teachers as they played games together. It was truly a memorable and joyous day for both teachers and students!
