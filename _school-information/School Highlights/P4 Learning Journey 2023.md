@@ -3,6 +3,7 @@ title: P4 Learning Journey 2023
 permalink: /school-highlights/p4-learning-journey-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### P4 Social Studies Learning Journey to Kreta Ayer Heritage Gallery (KAHG)
 
@@ -15,8 +16,8 @@ While they were there, the students explored features of five Chinese cultural a
 
 <table>
 <tbody><tr>
-		<td><img alt="p1p2tea01" src="/images/P4 LJ Kreta Ayer 2023/p4ljka01.jpeg" style="width:500px;height:300px;"> </td>
-		<td><img alt="p1p2tea02" src="/images/P4 LJ Kreta Ayer 2023/p4ljka02.jpeg" style="width:500px;height:300px;"> </td>
+		<td><img alt="p1p2tea01" src="/images/P4 LJ Kreta Ayer 2023/p4ljka01.jpeg" style="width:450px;height:280px;"> </td>
+		<td><img alt="p1p2tea02" src="/images/P4 LJ Kreta Ayer 2023/p4ljka02.jpeg" style="width:450px;height:280px;"> </td>
 </tr></tbody></table>	
 
 They also went on a precinct walk in the wider Kreta Ayer area. The students were intrigued to learn about the stories behind some of the places in the area, such as the Jinrikisha Station and Sago Lane. 
