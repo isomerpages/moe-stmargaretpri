@@ -15,8 +15,8 @@ The day's highlight unfolded in a vibrant concert, where students joyously sang 
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/CNY 2024/Fashion_Parade_by_the_teachers_.JPG" style="width:450px;height:270px;"><b>Fashion Parade by the teachers!</b></td>
-		<td><img alt="childday02" src="/images/CNY 2024/Presenting_Gifts_to_our_Neighbours_.JPG" style="width:450px;height:270px;"><b>Presenting Gifts to our Neighbours!</b></td>
+		<td><img alt="childday01" src="/images/CNY 2024/Fashion_Parade_by_the_teachers_.JPG" style="width:450px;height:280px;"><b>Fashion Parade by the teachers!</b></td>
+		<td><img alt="childday02" src="/images/CNY 2024/Presenting_Gifts_to_our_Neighbours_.JPG" style="width:450px;height:280px;"><b>Presenting Gifts to our Neighbours!</b></td>
 </tr></tbody></table>
 
 In alignment with our school theme, "A Heart of Thanksgiving to Love and Serve," a group of P5 students embraced the role of gratitude ambassadors. Venturing beyond the school walls, they generously gifted oranges and Chinese New Year cards to our neighbours. Public bus drivers who serve the bus-stops outside SMS(P), were also surprised to receive tokens of appreciation from teachers. Their joy was evident as they accepted these thoughtful gifts. 
