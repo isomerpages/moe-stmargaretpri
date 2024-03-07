@@ -15,8 +15,8 @@ Arriving at our destination, students exchanged warm greetings and friendly smil
 
 <table>
 <tbody><tr>
-		<td><img alt="p1ljmarket01" src="/images/P1%20LJ%20MacPherson%20market%202023/Walking_carefully_to_the_market.JPG" style="width:450px;height:300px;"><b>Walking to the wet market</b></td>
-		<td><img alt="p1ljmarket02" src="/images/P1%20LJ%20MacPherson%20market%202023/Measuring_Our_Mat_Using_Handspan.jpg" style="width:450px;height:300px;"><b>Measuring our mat using Handspan</b></td>
+		<td><img alt="p1ljmarket01" src="/images/P1%20LJ%20MacPherson%20market%202023/Walking_carefully_to_the_market.JPG" style="width:450px;height:280px;"><b>Walking to the wet market</b></td>
+		<td><img alt="p1ljmarket02" src="/images/P1%20LJ%20MacPherson%20market%202023/Measuring_Our_Mat_Using_Handspan.jpg" style="width:450px;height:280px;"><b>Measuring our mat using Handspan</b></td>
 </tr></tbody></table>
 
 To take a break, students had a splendid outdoor picnic under the cool shade of a community pavilion to have a relaxing time with nature. Students had a fun time igniting love and forming bonds with classmates and teachers. Back in school, as a follow-up lesson, students reviewed the food items and products available in the wet market and hawker centre in their Mother Tongue languages.
