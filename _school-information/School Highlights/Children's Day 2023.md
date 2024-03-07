@@ -3,6 +3,7 @@ title: Children's Day 2023
 permalink: /school-information/school-highlights/childday-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### Children’s Day Celebration 2023
 
@@ -14,8 +15,8 @@ Our Primary 1 to Primary 4 students were brainstorming ideas on their class masc
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/Children's%20Day%202023/primary%206%20vs%20teachers.JPG" style="width:450px;height:300px;"><b>Primary 6 vs Teachers</b></td>
-		<td><img alt="childday02" src="/images/Children's%20Day%202023/primary%202%20girls%20presenting%20a%20song%20and%20dance%20for%20us.JPG" style="width:450px;height:300px;"><b>Primary 2 girls presenting a song and dance for us</b></td>
+		<td><img alt="childday01" src="/images/Children's%20Day%202023/primary%206%20vs%20teachers.JPG" style="width:450px;height:280px;"><b>Primary 6 vs Teachers</b></td>
+		<td><img alt="childday02" src="/images/Children's%20Day%202023/primary%202%20girls%20presenting%20a%20song%20and%20dance%20for%20us.JPG" style="width:450px;height:280px;"><b>Primary 2 girls presenting a song and dance for us</b></td>
 </tr></tbody></table>
 
 While the Primary 1 to Primary 4 students were having their classroom activites, our Primary 5 and Primary 6 students were in the hall playing captain’s ball with the teachers. It was a thrilling match, especially while playing against the teachers. Nonetheless, the girls played exceedingly well.
