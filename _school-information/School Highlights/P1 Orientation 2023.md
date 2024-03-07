@@ -3,6 +3,7 @@ title: P1 Orientation 2023
 permalink: /school-highlights/p1-orientation-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### P1 Orientation 2023
 
@@ -12,8 +13,8 @@ Our new P1 students and their parents joined us on 3 Jan 2023 for the P1 Orienta
 
 <table>
 <tbody><tr>
-		<td><img alt="p1or01" src="/images/P1%20Orientation%202023/p1or_01.JPG" style="width:500px;height:300px;"> </td>
-		<td><img alt="p1or02" src="/images/P1%20Orientation%202023/p1or_02.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="p1or01" src="/images/P1%20Orientation%202023/p1or_01.JPG" style="width:500px;height:280px;"> </td>
+		<td><img alt="p1or02" src="/images/P1%20Orientation%202023/p1or_02.JPG" style="width:500px;height:280px;"> </td>
 </tr></tbody></table>	
 
 To help them settle down, the P4 students were assigned as Big Sisters to buddy the P1 students during the first two weeks of recess. The P4 students guided them in buying food from the canteen, finding their way around the school and playing with them. They enjoyed each other’s company and looked forward to their time together. The P4 students were happy to be given the opportunity to display the school motto of Charity, Patience and Devotion through their interactions with the little ones.
