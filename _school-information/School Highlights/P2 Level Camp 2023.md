@@ -3,6 +3,7 @@ title: P2 Level Camp 2023
 permalink: /school-highlights/p2-level-camp-2023/
 description: ""
 third_nav_title: School Highlights
+variant: markdown
 ---
 ### P2 Level Camp 2023
 
@@ -17,8 +18,8 @@ The objectives of the trail are:<br>
 
 <table>
 <tbody><tr>
-		<td><img alt="jamboree01" src="/images/P2 Level Camp 2023/p2camp_01.JPG" style="width:500px;height:300px;"> </td>
-		<td><img alt="jamboree02" src="/images/P2 Level Camp 2023/p2camp_02.JPG" style="width:500px;height:300px;"> </td>
+		<td><img alt="jamboree01" src="/images/P2 Level Camp 2023/p2camp_01.JPG" style="width:450px;height:280px;"> </td>
+		<td><img alt="jamboree02" src="/images/P2 Level Camp 2023/p2camp_02.JPG" style="width:450px;height:280px;"> </td>
 </tr></tbody></table>
 
 
