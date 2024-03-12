@@ -10,13 +10,13 @@ sections:
       background: /images/Masterhead_big.jpg
       key_highlights:
         - title: Announcement
-          description: Click here to view all
+          description: ""
           url: /announcements/moe-sexuality-edu-2024/
         - title: Fundraising 2024
-          description: Fundraising
+          description: ""
           url: /useful-links/fundraising2024/
         - title: Calendar
-          description: Calendar
+          description: ""
           url: /useful-links/calendar2024/
   - infopic:
       title: School Highlights
