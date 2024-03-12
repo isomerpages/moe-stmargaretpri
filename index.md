@@ -14,10 +14,10 @@ sections:
           url: /announcements/moe-sexuality-edu-2024/
         - title: Fundraising 2024
           description: Fundraising
-          url: /useful-links/permalink/
+          url: /useful-links/fundraising2024/
         - title: Calendar
           description: Calendar
-          url: /useful-links/permalink/
+          url: /useful-links/calendar2024/
   - infopic:
       title: School Highlights
       button: find out more
