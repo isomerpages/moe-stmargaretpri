@@ -16,4 +16,6 @@ Parents/Guardians can also consider the selected memorabilia put up for sale. Pl
 
 We look forward to your active participation and generous contribution.
 
+![](/images/Fundraising/PERI_Upgrading_Fundraising_Feb_2024.jpg)
+
 Click here to view **Student Works' Description**.
