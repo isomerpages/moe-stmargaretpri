@@ -2,8 +2,8 @@ collections:
   useful-links:
     output: true
     order:
-      - Fundraising 2024.md
       - Calendar.md
+      - Fundraising 2024.md
       - Resources for Teachers.md
       - Resources for Students.md
       - Resources for Parents.md
