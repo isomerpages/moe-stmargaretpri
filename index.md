@@ -42,7 +42,7 @@ sections:
   - infopic:
       title: Fundraising
       button: Find out more
-      url: /files/PUP Fundraising 2021.pdf
+      url: /useful-links/fundraising2024/
       image: /images/Fundraising/PERI_Upgrading_Fundraising_Feb_2024.jpg
       alt: Image alt text
 ---
