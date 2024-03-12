@@ -18,4 +18,4 @@ We look forward to your active participation and generous contribution.
 
 ![](/images/Fundraising/PERI_Upgrading_Fundraising_Feb_2024.jpg)
 
-Click here to view **Student Works' Description**.
+Click here to view the <a href="/files/PUP_Fundraising_2021.pdf" target="_blank">Student Works' Description</a>.
