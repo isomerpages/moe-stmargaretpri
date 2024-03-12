@@ -15,3 +15,5 @@ Parents/Guardians who are keen to make a donation to the School Building Fund ca
 Parents/Guardians can also consider the selected memorabilia put up for sale. Please refer to the **Order Slip** for the price list and how to purchase and collect. 
 
 We look forward to your active participation and generous contribution.
+
+Click here to view **Student Works' Description**.
