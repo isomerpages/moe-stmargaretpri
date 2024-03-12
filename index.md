@@ -12,7 +12,7 @@ sections:
         - title: Announcement
           description: ""
           url: /announcements/moe-sexuality-edu-2024/
-        - title: Fundraising 2024
+        - title: Fund Raising 2024
           description: ""
           url: /useful-links/fundraising2024/
         - title: Calendar
