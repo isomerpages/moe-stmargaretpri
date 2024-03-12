@@ -12,8 +12,11 @@ sections:
         - title: Announcement
           description: Click here to view all
           url: /announcements/moe-sexuality-edu-2024/
+        - title: Fundraising 2024
+          description: Fundraising
+          url: /useful-links/permalink/
         - title: Calendar
-          description: Click here to view all
+          description: Calendar
           url: /useful-links/permalink/
   - infopic:
       title: School Highlights
