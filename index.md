@@ -10,11 +10,14 @@ sections:
       background: /images/Masterhead_big.jpg
       key_highlights:
         - title: Announcement
-          description: Click here to view all
+          description: ""
           url: /announcements/moe-sexuality-edu-2024/
+        - title: Fund Raising 2024
+          description: ""
+          url: /useful-links/fundraising2024/
         - title: Calendar
-          description: Click here to view all
-          url: /useful-links/permalink/
+          description: ""
+          url: /useful-links/calendar2024/
   - infopic:
       title: School Highlights
       button: find out more
@@ -39,7 +42,7 @@ sections:
   - infopic:
       title: Fundraising
       button: Find out more
-      url: /files/PUP Fundraising 2021.pdf
-      image: /images/Fundraising/PERI_Upgrading_Fundraising_2023.jpg
+      url: /useful-links/fundraising2024/
+      image: /images/Fundraising/PERI_Upgrading_Fundraising_2024.jpg
       alt: Image alt text
 ---
