@@ -101,25 +101,6 @@ At the end of the lesson, the lesson-based program has met its objective to a ce
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
-    Useful Tamil Websites
- </font></th>
-</tr>
-	<tr>
-</tr>
-</tbody></table>
-
-1) **IMTL Portal**<br>
-<a href="https://imtl.sg/login/index.php" target="_blank">https://imtl.sg/login/index.php</a>
-  
-2) **Nam Naadi**<br>
-<a href="http://sangamam.moe.edu.sg/namnaadi/slot/u105/archives/2011/may/index.htm" target="_blank">http://sangamam.moe.edu.sg/namnaadi/slot/u105/archives/2011/may/index.htm</a>
-  
-3) **Parents In Education**<br> 
-<a href="http://parents-in-education.moe.gov.sg/primary-education/learning-resources-pri/tamil-language-learning-resources" target="_blank">http://parents-in-education.moe.gov.sg/primary-education/learning-resources-pri/tamil-language-learning-resources</a>
-  
-<table>
-	<tbody><tr>
-		<th><font size="6" color="maroon">
     Achievements
  </font></th>
 </tr>
