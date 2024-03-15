@@ -98,24 +98,6 @@ At the end of the lesson, the lesson-based program has met its objective to a ce
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 796px; height: 519px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="SND2.jpeg" width="100%" src="/images/SND2.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="SND4.jpeg" width="100%" src="/images/SND4.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="WhatsApp Image 2022-08-27 at 21.17.30 1.jpeg" width="100%" src="/images/WhatsApp%20Image%20202208273.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 264px; height: 177px;" class="ive_eobj_center" alt="Image 11.jpeg" width="100%" src="/images/Image%2011.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 203px; height: 270px;" class="ive_eobj_center" alt="WhatsApp Image 2022-08-17 at 10.52.17 AM.jpeg" src="/images/WhatsApp%20Image%20202208175.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 263px; height: 177px;" class="ive_eobj_center" alt="WhatsApp Image 2022-08-27 at 21.17.33.jpeg" width="100%" src="/images/WhatsApp%20Image%2020220827.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
 
-<table>
-	<tbody><tr>
-		<th><font size="6" color="maroon">
-    Useful Tamil Websites
- </font></th>
-</tr>
-	<tr>
-</tr>
-</tbody></table>
-
-1) **IMTL Portal**<br>
-<a href="https://imtl.sg/login/index.php" target="_blank">https://imtl.sg/login/index.php</a>
-  
-2) **Nam Naadi**<br>
-<a href="http://sangamam.moe.edu.sg/namnaadi/slot/u105/archives/2011/may/index.htm" target="_blank">http://sangamam.moe.edu.sg/namnaadi/slot/u105/archives/2011/may/index.htm</a>
-  
-3) **Parents In Education**<br> 
-<a href="http://parents-in-education.moe.gov.sg/primary-education/learning-resources-pri/tamil-language-learning-resources" target="_blank">http://parents-in-education.moe.gov.sg/primary-education/learning-resources-pri/tamil-language-learning-resources</a>
   
 <table>
 	<tbody><tr>
