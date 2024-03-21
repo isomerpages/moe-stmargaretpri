@@ -8,5 +8,5 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/chinese_teacher_award_2024.jpg">
 </div>
-<p>You can nominate your Chinese teacher via this link -<a rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/dclta2024</a>
-</p>
+
+27th Distinguished Chinese Language Teachers Awards is now open for nominations. Nominations can be done online at http://bit.ly/dclta2024 . <br>Closing date is on <b>12 May 2024</b>.
