@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Distinguished Chinese Language Teachers Awards 2024.md
       - MOE Sexuality Education Programme 2024.md
       - Inspiring Teacher English Award 2024.md
       - Most Inspiring Tamil Teachers' Award 2024.md
