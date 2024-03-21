@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/clta-2024/
+          url: /announcements/sota-2024/
         - title: Fund Raising 2024
           description: ""
           url: /useful-links/fundraising2024/
