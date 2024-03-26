@@ -19,3 +19,5 @@ Bringing the magic of the season to life, the Primary 6 students dazzled the aud
 </tr></tbody></table>
 
 Beyond the stage, this performance highlighted their creativity, teamwork, and dedication to spreading holiday joy. The stellar production not only entertained but also left a lasting impression. May the spirit of this performance continue to inspire the students as they embark on new adventures.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Jc5ZHYYJRDI?si=qTr5sP_349qQObxn" height="415" width="700"></iframe></center>
