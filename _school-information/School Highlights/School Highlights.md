@@ -12,7 +12,8 @@ These are the activities that the students participated for holistic learning.
 ![](/images/Montages/t1montage_2024.jpg)
 
 1. #### To Learn and Grow : 
-* ##### [2023 Montage](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
+* ##### [Term 1 Montage 2024](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
+* ##### [2023 Montage](/school-highlights/to-learn-and-grow/)
 * ##### [Term 3 Montage 2023](/school-highlights/to-learn-and-grow/)
 * ##### [Term 2 Montage 2023](/school-highlights/to-learn-and-grow/)
 * ##### [Term 1 Montage 2023](/school-highlights/to-learn-and-grow/) 
@@ -27,12 +28,12 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 				<tr>
-<td><img src="/images/Thumbnails/coming soon_thumb.jpg" alt="partnerstea2023" style="width:250px;height:170px;"></td>
+<td><a href="/school-information/school-highlights/tdd-2024/"><img src="/images/Thumbnails/tdd_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/cny-2024/"><img src="/images/Thumbnails/cnythumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/p1orientation-2024/"><img src="/images/Thumbnails/p1orientationthumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>EL Week 2024</center></th> 
+			<th><center>Total Defence Day 2024</center></th> 
 		<th><center>Chinese New Year 2024</center></th> 
 		<th><center>P1 Orientation 2024</center></th> 			
 			</tr>
@@ -45,6 +46,16 @@ These are the activities that the students participated for holistic learning.
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
+		<tr>
+<td><a href="/school-information/school-highlights/cos-2023/"><img src="/images/Thumbnails/cos_thumb_01.jpg" alt="partnerstea2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p6-grad-camp-2023/"><img src="/images/Thumbnails/p6_grad_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/nativity-play-2023/"><img src="/images/Thumbnails/nativplay_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>Celebrating Our Successes Day 2023</center></th> 
+		<th><center>P6 Graduation Camp 2023</center></th> 
+		<th><center>Nativity Play 2023</center></th> 			
+			</tr>	
 				<tr>
 <td><a href="/school-information/school-highlights/partnerstea-2023/"><img src="/images/Thumbnails/partnersteathumb_01.jpg" alt="partnerstea2023" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/p6-gamesday-2023/"><img src="/images/Thumbnails/p6gamesdaythumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
