@@ -15,14 +15,9 @@ As part of the commemoration of TD40, teachers spoke about the importance of Tot
 
 <table>
 <tbody><tr>
-		<td><img alt="tdd01" src="/images/tdd 2024/electricity_disruption.bmp" style="width:450px;height:280px;"><b>Electricity Disruption - Working in the dark in groups</b></td>
-		<td><img alt="tdd02" src="/images/tdd 2024/learning_about_cyber_security.png" style="width:450px;height:280px;"><b>Learning more about cyber security</b></td>
+		<td><img alt="tdd01" src="/images/total defence day 2024/electricity_disruption.jpg" style="width:450px;height:280px;"><b>Electricity Disruption - Working in the dark in groups</b></td>
+		<td><img alt="tdd02" src="/images/total defence day 2024/cyber_security.jpg" style="width:450px;height:280px;"><b>Learning more about cyber security</b></td>
 </tr></tbody></table>
 
-<table>
-<tbody><tr>
-		<td><img alt="childday01" src="/images/tdd-2024/electricity disruption.JPG" style="width:450px;height:300px;"><b>xxxxxx</b></td>
-		<td><img alt="childday02" src="/images/tdd-2024/cyber security.JPG" style="width:450px;height:300px;"><b>xxxxx</b></td>
-</tr></tbody></table>
 
 During recess, students had the chance to visit the roving interactive Be Cybersafe Pop-Up Booths. They learnt about the importance of cybersecurity such as creating strong passphrases and enabling two-factor authentication (2FA). They could also play a touch screen game while learning tips to stay safe online.
