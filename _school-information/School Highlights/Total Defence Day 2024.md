@@ -19,5 +19,6 @@ As part of the commemoration of TD40, teachers spoke about the importance of Tot
 		<td><img alt="tdd02" src="/images/Total Defence Day 2024/cyber_security.jpg" style="width:450px;height:280px;"><b>Learning more about cyber security</b></td>
 </tr></tbody></table>
 
-
 During recess, students had the chance to visit the roving interactive Be Cybersafe Pop-Up Booths. They learnt about the importance of cybersecurity such as creating strong passphrases and enabling two-factor authentication (2FA). They could also play a touch screen game while learning tips to stay safe online.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x6gJDfzShyY?si=d47XLGymSXA0iBfP" height="415" width="700"></iframe></center>
