@@ -7,7 +7,7 @@ third_nav_title: School Highlights
 ---
 ### P6 Graduation Camp 2023
 
-##### 10 November 2023
+##### 2 - 3 November 2023
 
 The Primary 6 graduation camp is a highly anticipated and memorable experience for students in their final year of primary school. It serves as a rite of passage, marking the transition from primary education to the exciting world of secondary school.
 
