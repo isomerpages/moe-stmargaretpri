@@ -52,7 +52,7 @@ These are the activities that the students participated for holistic learning.
 	<td><a href="/school-information/school-highlights/nativity-play-2023/"><img src="/images/Thumbnails/nativplay_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>Celebrating Our Successes 2023</center></th> 
+			<th><center>Celebrating Our Successes Day 2023</center></th> 
 		<th><center>P6 Graduation Camp 2023</center></th> 
 		<th><center>Nativity Play 2023</center></th> 			
 			</tr>	
