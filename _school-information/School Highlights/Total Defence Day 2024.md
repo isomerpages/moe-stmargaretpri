@@ -15,8 +15,8 @@ As part of the commemoration of TD40, teachers spoke about the importance of Tot
 
 <table>
 <tbody><tr>
-		<td><img alt="tdd01" src="/images/total defence day 2024/electricity_disruption.jpg" style="width:450px;height:280px;"><b>Electricity Disruption - Working in the dark in groups</b></td>
-		<td><img alt="tdd02" src="/images/total defence day 2024/cyber_security.jpg" style="width:450px;height:280px;"><b>Learning more about cyber security</b></td>
+		<td><img alt="tdd01" src="/images/Total Defence Day 2024/electricity_disruption.jpg" style="width:450px;height:280px;"><b>Electricity Disruption - Working in the dark in groups</b></td>
+		<td><img alt="tdd02" src="/images/Total Defence Day 2024/cyber_security.jpg" style="width:450px;height:280px;"><b>Learning more about cyber security</b></td>
 </tr></tbody></table>
 
 
