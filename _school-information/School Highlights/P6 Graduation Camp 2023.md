@@ -20,3 +20,5 @@ It is not just about adventure and fun; it is also about character development. 
 </tr></tbody></table>
 
 The memories created during Primary 6 graduation camp often last a lifetime. The shared experiences, challenges, and triumphs help forge strong bonds among students. These friendships provide a support network as they move into secondary school.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/uVtOzLR6WyQ?si=sJYwYJioc9tESuib" height="415" width="700"></iframe></center>
