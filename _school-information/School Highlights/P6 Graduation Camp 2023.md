@@ -13,4 +13,6 @@ The Primary 6 graduation camp is a highly anticipated and memorable experience f
 
 It is not just about adventure and fun; it is also about character development. Students learn vital life skills like leadership, resilience, problem-solving, and empathy. The challenges they face at camp prepare them for the transition to secondary school and beyond.
 
+
+
 The memories created during Primary 6 graduation camp often last a lifetime. The shared experiences, challenges, and triumphs help forge strong bonds among students. These friendships provide a support network as they move into secondary school.
