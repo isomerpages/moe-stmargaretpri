@@ -21,8 +21,8 @@ As part of the commemoration of TD40, teachers spoke about the importance of Tot
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/tdd-2024/electricity disruption.JPG" style="width:450px;height:300px;"><b>Primary 6 vs Teachers</b></td>
-		<td><img alt="childday02" src="/images/tdd-2024/cyber security.JPG" style="width:450px;height:300px;"><b>Primary 2 girls presenting a song and dance for us</b></td>
+		<td><img alt="childday01" src="/images/tdd-2024/electricity disruption.JPG" style="width:450px;height:300px;"><b>xxxxxx</b></td>
+		<td><img alt="childday02" src="/images/tdd-2024/cyber security.JPG" style="width:450px;height:300px;"><b>xxxxx</b></td>
 </tr></tbody></table>
 
 During recess, students had the chance to visit the roving interactive Be Cybersafe Pop-Up Booths. They learnt about the importance of cybersecurity such as creating strong passphrases and enabling two-factor authentication (2FA). They could also play a touch screen game while learning tips to stay safe online.
