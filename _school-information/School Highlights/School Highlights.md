@@ -47,9 +47,9 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 		<tr>
-<td><a href="/school-information/school-highlights/partnerstea-2023/"><img src="/images/Thumbnails/partnersteathumb_01.jpg" alt="partnerstea2023" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/p6-gamesday-2023/"><img src="/images/Thumbnails/p6gamesdaythumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-	<td><a href="/school-information/school-highlights/p6-sep-2023/"><img src="/images/Thumbnails/p6septhumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+<td><a href="/school-information/school-highlights/partnerstea-2023/"><img src="/images/Thumbnails/cos_thumb_01.jpg" alt="partnerstea2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p6-gamesday-2023/"><img src="/images/Thumbnails/p6_grad_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/p6-sep-2023/"><img src="/images/Thumbnails/nativplay_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>Celebrating Our Successes 2023</center></th> 
