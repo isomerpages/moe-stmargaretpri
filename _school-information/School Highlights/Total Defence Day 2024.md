@@ -13,4 +13,10 @@ Total Defence Day (TDD) is commemorated on 15 February. 2024 marks 40 years of T
 
 As part of the commemoration of TD40, teachers spoke about the importance of Total Defence and ways to prepare for a potential emergency before students had the opportunity to experience the simulation of an electricity disruption. Through the school-wide experience, classroom discussion and student reflection, students learnt how to respond and help one another calmly and responsibly in circumstances of disruption. They also learnt about the need for everyone in Singapore to be ready to respond to the ever-evolving threats and challenges to our nation and how everyone in Singapore can work together and play our part in Total Defence, in order to remain a strong, united and resilient people.
 
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/CNY 2024/Fashion_Parade_by_the_teachers_.JPG" style="width:450px;height:280px;"><b>Fashion Parade by the teachers!</b></td>
+		<td><img alt="childday02" src="/images/CNY 2024/Presenting_Gifts_to_our_Neighbours_.JPG" style="width:450px;height:280px;"><b>Presenting Gifts to our Neighbours!</b></td>
+</tr></tbody></table>
+
 During recess, students had the chance to visit the roving interactive Be Cybersafe Pop-Up Booths. They learnt about the importance of cybersecurity such as creating strong passphrases and enabling two-factor authentication (2FA). They could also play a touch screen game while learning tips to stay safe online.
