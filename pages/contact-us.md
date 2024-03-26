@@ -6,11 +6,11 @@ agency_name: St Margaret's School (Primary)
 locations:
   - address:
       - 2 Mattar Road
-      - "   "
+      - ""
       - Singapore 387724
     operating_hours:
       - days: Mon - Fri
-        time: 7.00am - 6.00pm
+        time: 7.00am - 5.00pm
         description: Closed on weekends and Public Holidays
     maps_link: ""
     title: Holding Site
@@ -20,4 +20,5 @@ contacts:
       - email: stmargaretps@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
