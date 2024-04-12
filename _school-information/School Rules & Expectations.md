@@ -53,7 +53,7 @@ variant: markdown
 *   Students are to greet all teachers, non-teaching staff and visitors to the school.
 *   Students are to be punctual at all times. 
 *   Students are considered to be late for school if they arrive after the 7.30 a.m. bell.
-*   Students are to be present in school on all school days unless you are unwell.
+*   Students are to be present in school on all school days unless they are unwell.
 *   Students are to keep the classrooms and surroundings clean and tidy at all times.
 *   Students are to bring all required books/materials for the day and submit homework on time. 
 
@@ -64,7 +64,7 @@ variant: markdown
 *   Students' name tag should be sewn onto your uniform.
 *   All girls are to wear plain white canvas/sports shoes with plain white socks that reach just above the ankles. Mary Jane shoes are not encouraged for safety during physical activities.
 *   For sports and PE lessons, wear PE t-shirts tucked into dark green shorts of the school design.
-*   All P4 to P6 girls are to come to school and go home in their school uniform. Only P1 to P3 girls have the optvion of coming to school in their PE attire on days when they have PE/PAL/CCA/ Enrichment lessons. 
+*   All P4 to P6 girls are to come to school and go home in their school uniform. Only P1 to P3 girls have the option of coming to school in their PE attire on days when they have PE/PAL/CCA/ Enrichment lessons. 
 
 
 ### HAIR & APPEARANCE
