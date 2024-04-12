@@ -13,79 +13,79 @@ variant: markdown
 
 ### SAFETY AND SECURITY
 
- * Alert any teacher or office personnel if you come across any of the following:     
+*   Alert any teacher or office personnel if you come across any of the following:     
 (a)	strangers, (b) emergencies, e.g. accidents, injuries, fire. 
-* You are not allowed to bring pets, toys, expensive or dangerous items to school. 
-* You are not allowed to have in your possession any weapon. You are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others and self.
-* You are discouraged from using a trolley bag as you may have difficulty moving up and down the stairs.
-* Do not run or play along the corridors, in the classrooms/canteen, up and down the stairs and in places where there is potential danger.
-* You are only allowed to play with the equipment in the playground/hall or be in any of the special rooms, if there is adult supervision.
-* Use the school facilities responsibly and in the way they are intended for.
+*   You are not allowed to bring pets, toys, expensive or dangerous items to school. 
+*   You are not allowed to have in your possession any weapon. You are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others and self.
+*   You are discouraged from using a trolley bag as you may have difficulty moving up and down the stairs.
+*   Do not run or play along the corridors, in the classrooms/canteen, up and down the stairs and in places where there is potential danger.
+*   You are only allowed to play with the equipment in the playground/hall or be in any of the special rooms, if there is adult supervision.
+*   Use the school facilities responsibly and in the way they are intended for.
 
 
 **Before School Hours:**
 
-* Report to the hall/classrooms upon arrival at school.
+*   Report to the hall/classrooms upon arrival at school.
 
   
 **During School Hours:**
 
-* Ask for permission from the teacher before leaving the classroom during lessons.
-* During recess, remain in the canteen and assigned play areas. You are not allowed to stay in the classrooms or loiter along the corridors.
-* All food and drinks are to be consumed in the canteen except during snack break. Queue up for food and return all cutlery and crockery to the designated areas in the canteen.
-* You are only allowed to leave the school during school hours with a valid reason and after informing the form teacher and General Office staff. You must be accompanied by your parent/guardian when leaving the school. 
+*   Ask for permission from the teacher before leaving the classroom during lessons.
+*   During recess, remain in the canteen and assigned play areas. You are not allowed to stay in the classrooms or loiter along the corridors.
+*   All food and drinks are to be consumed in the canteen except during snack break. Queue up for food and return all cutlery and crockery to the designated areas in the canteen.
+*   You are only allowed to leave the school during school hours with a valid reason and after informing the form teacher and General Office staff. You must be accompanied by your parent/guardian when leaving the school. 
 
 
 **After School Hours:**
 
-* Wait for your transport at the designated pick-up points. If you have missed your school bus, report to the general office for assistance.
-* If you are staying back after school for activities, you are not allowed to leave the school during lunchtime unless accompanied by an adult.
+*   Wait for your transport at the designated pick-up points. If you have missed your school bus, report to the general office for assistance.
+*   If you are staying back after school for activities, you are not allowed to leave the school during lunchtime unless accompanied by an adult.
 
 **School Bus**
 
-* Be seated and well behaved at all times on the school bus.
-* Keep your seat belts on during the whole journey.
+*   Be seated and well behaved at all times on the school bus.
+*   Keep your seat belts on during the whole journey.
 
 
 ### CONDUCT
 
-* Practise the 5Rs, school motto and values at all times.
-* Greet all teachers, non-teaching staff and visitors to the school.
-* Be punctual at all times. 
-* You are considered to be late for school if you arrive after the 7.30 a.m. bell.
-* Be present in school on all school days unless you are unwell.
-* Keep the classrooms and surroundings clean and tidy at all times.
-* Bring all required books/materials for the day and submit homework on time. 
+*   Practise the 5Rs, school motto and values at all times.
+*   Greet all teachers, non-teaching staff and visitors to the school.
+*   Be punctual at all times. 
+*   You are considered to be late for school if you arrive after the 7.30 a.m. bell.
+*   Be present in school on all school days unless you are unwell.
+*   Keep the classrooms and surroundings clean and tidy at all times.
+*   Bring all required books/materials for the day and submit homework on time. 
 
 ### ATTIRE
 
-* All girls are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
-* The hemline of the school uniform should not be more than 5cm above the knee.
-* Your name tag should be sewn onto your uniform.
-* All girls are to wear plain white canvas/sports shoes with plain white socks that reach just above the ankles. Mary Jane shoes are not encouraged for safety during physical activities.
-* For sports and PE lessons, wear PE t-shirts tucked into dark green shorts of the school design.
-* All P4 to P6 girls are to come to school and go home in their school uniform. Only P1 to P3 girls have the option of coming to school in their PE attire on days when they have PE/PAL/CCA/ Enrichment lessons. 
+*   All girls are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
+*   The hemline of the school uniform should not be more than 5cm above the knee.
+*   Your name tag should be sewn onto your uniform.
+*   All girls are to wear plain white canvas/sports shoes with plain white socks that reach just above the ankles. Mary Jane shoes are not encouraged for safety during physical activities.
+*   For sports and PE lessons, wear PE t-shirts tucked into dark green shorts of the school design.
+*   All P4 to P6 girls are to come to school and go home in their school uniform. Only P1 to P3 girls have the optvion of coming to school in their PE attire on days when they have PE/PAL/CCA/ Enrichment lessons. 
 
 
 ### HAIR & APPEARANCE
 
-* Hairstyles are to be neat and appropriate.
-* Hair should be tied up neatly as a ponytail once it reaches the uniform collar.
-* Long ponytails (longer than a 15-cm ruler) are to be neatly plaited. 
-* Fringes are to be kept above the eyebrows.
-* Those with long fringes are to wear a hairband or use hair clips to keep hair away from the face.
-* Only dark green or black hair accessories are to be used.
-* Hair should not be tinted, highlighted, bleached or dyed. Fancy haircuts/hairstyles are not allowed.
-* No form of makeup is allowed.
-* Nails are to be short and clean. Nail polish is not allowed.
-* No jewellery is to be worn except a single pair of small, ear studs in gold/silver or with a gemstone.  
+*   Hairstyles are to be neat and appropriate.
+*   Hair should be tied up neatly as a ponytail once it reaches the uniform collar.
+*   Long ponytails (longer than a 15-cm ruler) are to be neatly plaited. 
+*   Fringes are to be kept above the eyebrows.
+*   Those with long fringes are to wear a hairband or use hair clips to keep hair away from the face.
+*   Only dark green or black hair accessories are to be used.
+*   Hair should not be tinted, highlighted, bleached or dyed. Fancy haircuts/hairstyles are not allowed.
+*   No form of makeup is allowed.
+*   Nails are to be short and clean. Nail polish is not allowed.
+*   No jewellery is to be worn except a single pair of small, ear studs in gold/silver or with a gemstone.  
 
 ### EXAMINATION / TEST RULES
 
-* Be punctual for tests and examinations.
-* If you are unable to sit for a test/examination, you must produce a medical certificate.
-* Do not bring into the waiting, examination and quarantine areas any unauthorised electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include mobile phones, cameras, tablets, wired and wireless earpieces/earphones, smart wrist watches, fitness trackers and any unauthorised materials. Examples of unauthorised materials include any books, papers, notes, unapproved dictionaries and calculators, and non-standard mathematical instruments.
-* If you are found with any of these items or communicating by any means with other candidates during the test/examination, it will be considered as cheating. Cheating is a serious offence. You may be disqualified from the test/examination if you are caught cheating or attempting to cheat.
+*   Be punctual for tests and examinations.
+*   If you are unable to sit for a test/examination, you must produce a medical certificate.
+*   Do not bring into the waiting, examination and quarantine areas any unauthorised electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include mobile phones, cameras, tablets, wired and wireless earpieces/earphones, smart wrist watches, fitness trackers and any unauthorised materials. Examples of unauthorised materials include any books, papers, notes, unapproved dictionaries and calculators, and non-standard mathematical instruments.
+*   If you are found with any of these items or communicating by any means with other candidates during the test/examination, it will be considered as cheating. Cheating is a serious offence. You may be disqualified from the test/examination if you are caught cheating or attempting to cheat.
 
 
 ### ONLINE LESSONS
