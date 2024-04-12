@@ -6,9 +6,10 @@ variant: markdown
 ---
 ### NATIONAL ANTHEM & PLEDGE
 
-*   Students who are Singapore citizens are to sing the National Anthem and take the Pledge.
-*   Students are to take the Pledge with the right fist over the heart.
-*   Students who are not Singapore citizens are to remain silent and stand at attention during the flag-raising ceremony.
+*   Students who are Singapore citizens must stand at attention to sing the National Anthem and take the Pledge.
+*   Students are to take the Pledge with their right fist placed over your heart.
+*   Students who are not Singapore citizens should also stand at attention during the flag-raising ceremony.
+*   Students must sing the school song, school hymn and school creed with respect.
 
 
 ### SAFETY AND SECURITY
@@ -46,6 +47,10 @@ variant: markdown
 *   Students are to be seated and well behaved at all times on the school bus.
 *   Students are to keep their seat belts on during the whole journey.
 
+**Pedestrian Crossing**
+
+* Be alert and check for safety when walking in public areas and crossing the pedestrian crossings.
+* Always do the kerb drill and obey all traffic signals and signs. 
 
 ### CONDUCT
 
@@ -56,6 +61,16 @@ variant: markdown
 *   Students are to be present in school on all school days unless they are unwell.
 *   Students are to keep the classrooms and surroundings clean and tidy at all times.
 *   Students are to bring all required books/materials for the day and submit homework on time. 
+
+### USE OF MOBILE PHONE AND/OR SMART WATCH
+
+* It is to be switched off upon arrival at school, during lessons and school activities.
+* It should not be worn on the wrist/displayed during school hours or during school activities.
+* It should only be used at the dismissal points after school hours. 
+* It is to be used only for calling/messaging parents/guardians and not for other purposes such as taking/viewing pictures/videos, listening to music, playing games or accessing social media.
+* If it is misused, consequences will be meted out. The mobile phone/smart watch may be confiscated, and parents will have to personally collect it from school.
+* Students must be responsible for the care of their mobile phone/smart watch and label it. The school will not be responsible for its loss or damage.
+
 
 ### ATTIRE
 
