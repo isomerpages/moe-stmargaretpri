@@ -2,6 +2,7 @@
 title: School Rules & Expectations
 permalink: /school-information/school-rules-n-expectations/
 description: ""
+variant: markdown
 ---
 ### NATIONAL ANTHEM & PLEDGE
 
@@ -12,87 +13,79 @@ description: ""
 
 ### SAFETY AND SECURITY
 
-  
+ * Alert any teacher or office personnel if you come across any of the following:     
+(a)	strangers, (b) emergencies, e.g. accidents, injuries, fire. 
+* You are not allowed to bring pets, toys, expensive or dangerous items to school. 
+* You are not allowed to have in your possession any weapon. You are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others and self.
+* You are discouraged from using a trolley bag as you may have difficulty moving up and down the stairs.
+* Do not run or play along the corridors, in the classrooms/canteen, up and down the stairs and in places where there is potential danger.
+* You are only allowed to play with the equipment in the playground/hall or be in any of the special rooms, if there is adult supervision.
+* Use the school facilities responsibly and in the way they are intended for.
 
-*   Students are to alert any teacher or office personnel if they come across any of the following:
-
-   (a) strangers, (b) emergencies, e.g. accidents, injuries, fire.
-
-  
 
 **Before School Hours:**
 
-*   Students are to wait at the hall if they come to school before 6.50 a.m.
-*   Students are only allowed to go to the classrooms after 6.50 a.m.
-*   Students are to be at the assembly area by 7.25 a.m.
+* Report to the hall/classrooms upon arrival at school.
 
   
-
 **During School Hours:**
 
-*   Students are to ask for permission from the teacher before leaving the classroom during lessons.
-*   During recess, Students are not allowed to stay in the classrooms without permission.
-*   All food and drinks are to be consumed in the canteen. Students are to queue up for food and return all cutlery and crockery to the designated areas in the canteen.
-*   Students are only allowed to leave school during school hours with a valid reason and after informing the office. They are to be accompanied by their parent/ guardian or person authorised by the parents. 
-*   Students are not allowed to run or play along the corridors, in the classrooms, canteen, up and down the stairs and in places where there is potential danger.
-*   Students are not allowed to play with the equipment in the gymnasium, hall or be in any of the special rooms without adult supervision.
-*   Students are to use the school facilities responsibly and in the way they are intended for.
-*   Students are not allowed to bring pets, toys, expensive or dangerous items to school without the school’s approval. They are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+* Ask for permission from the teacher before leaving the classroom during lessons.
+* During recess, remain in the canteen and assigned play areas. You are not allowed to stay in the classrooms or loiter along the corridors.
+* All food and drinks are to be consumed in the canteen except during snack break. Queue up for food and return all cutlery and crockery to the designated areas in the canteen.
+* You are only allowed to leave the school during school hours with a valid reason and after informing the form teacher and General Office staff. You must be accompanied by your parent/guardian when leaving the school. 
+
 
 **After School Hours:**
 
-*   Students are to wait for their transport at the foyer (by car) or in the hall (by school bus) at the dismissal time. Students who have missed their school bus are to report to the general office for assistance.
-*   Students staying back after school for activities are not allowed to leave the school during lunchtime unless accompanied by an adult.
+* Wait for your transport at the designated pick-up points. If you have missed your school bus, report to the general office for assistance.
+* If you are staying back after school for activities, you are not allowed to leave the school during lunchtime unless accompanied by an adult.
 
 **School Bus**
 
-*   Students are to be seated and well behaved at all times on the school bus.
-*   Students are to use the seat belts if they are provided on the bus.
+* Be seated and well behaved at all times on the school bus.
+* Keep your seat belts on during the whole journey.
 
 
 ### CONDUCT
 
-
-*   Students are to be obedient, courteous and well-behaved at all times.
-*   Students are to be punctual at all times. Students are considered to be late if they arrive in school after the command for flag-raising is given.
-*   Students are to keep the classrooms and surroundings clean and tidy at all times.
-*   Students are to bring all required books/materials for the day and submit homework on time.
+* Practise the 5Rs, school motto and values at all times.
+* Greet all teachers, non-teaching staff and visitors to the school.
+* Be punctual at all times. 
+* You are considered to be late for school if you arrive after the 7.30 a.m. bell.
+* Be present in school on all school days unless you are unwell.
+* Keep the classrooms and surroundings clean and tidy at all times.
+* Bring all required books/materials for the day and submit homework on time. 
 
 ### ATTIRE
 
+* All girls are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
+* The hemline of the school uniform should not be more than 5cm above the knee.
+* Your name tag should be sewn onto your uniform.
+* All girls are to wear plain white canvas/sports shoes with plain white socks that reach just above the ankles. Mary Jane shoes are not encouraged for safety during physical activities.
+* For sports and PE lessons, wear PE t-shirts tucked into dark green shorts of the school design.
+* All P4 to P6 girls are to come to school and go home in their school uniform. Only P1 to P3 girls have the option of coming to school in their PE attire on days when they have PE/PAL/CCA/ Enrichment lessons. 
 
-*   Students are to wear the prescribed school uniform and modifications to the uniform is not allowed.
-*   The hemline of the school uniform should not be more than 5cm above the knee.
-*   Students are to wear their name tags every day.
-*   Students are to wear plain white canvas/sports shoes with plain white socks that reach just above the ankles.
-*   For sports and PE lessons, Students are to wear PE T-shirts tucked into dark green shorts of the school design.
-*   All P3 - P6 Students are to come to school and go home in their school uniform. P1 and P2 Students have the option of coming to school in their PE attire on days when they have PE lessons.
 
 ### HAIR & APPEARANCE
 
-
-*   Hairstyles are to be neat and appropriate.
-*   If hair reaches the collar, it should be tied up neatly as a ponytail.
-*   Long ponytails (longer than a 15-cm ruler) are to be neatly plaited.
-*   Fringes are to be kept above the eyebrows.
-*   Those with long fringes are to wear a hairband or use hairclips to keep hair away from the face.
-*   Only dark green or black hair accessories are to be used.
-*   Fancy haircuts/hairstyles and hair colouring are not allowed.
-*   No form of makeup is allowed.
-*   Nails are to be short and clean. Nail polish is not allowed.
-*   No jewellery is to be worn by pupils except small ear studs in gold/ silver in simple design.
-
+* Hairstyles are to be neat and appropriate.
+* Hair should be tied up neatly as a ponytail once it reaches the uniform collar.
+* Long ponytails (longer than a 15-cm ruler) are to be neatly plaited. 
+* Fringes are to be kept above the eyebrows.
+* Those with long fringes are to wear a hairband or use hair clips to keep hair away from the face.
+* Only dark green or black hair accessories are to be used.
+* Hair should not be tinted, highlighted, bleached or dyed. Fancy haircuts/hairstyles are not allowed.
+* No form of makeup is allowed.
+* Nails are to be short and clean. Nail polish is not allowed.
+* No jewellery is to be worn except a single pair of small, ear studs in gold/silver or with a gemstone.  
 
 ### EXAMINATION / TEST RULES
 
-
-*   Students should be punctual for tests and examinations.
-*   A student who is unable to sit for a test or examination should produce a medical certificate.
-*   Students should not have books or notes under their table, in their pocket or anywhere near them (whether intentional or not) which may provide unfair advantage over the other student.
-*   Students should not be found trying to communicate by any means to their friends.
-*   Students should not allow other students to copy their answers.
-*   Handphones and other unauthorised electronic devices are not allowed in the examination rooms.
-*   Anyone caught cheating will be severely dealt with.
+* Be punctual for tests and examinations.
+* If you are unable to sit for a test/examination, you must produce a medical certificate.
+* Do not bring into the waiting, examination and quarantine areas any unauthorised electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include mobile phones, cameras, tablets, wired and wireless earpieces/earphones, smart wrist watches, fitness trackers and any unauthorised materials. Examples of unauthorised materials include any books, papers, notes, unapproved dictionaries and calculators, and non-standard mathematical instruments.
+* If you are found with any of these items or communicating by any means with other candidates during the test/examination, it will be considered as cheating. Cheating is a serious offence. You may be disqualified from the test/examination if you are caught cheating or attempting to cheat.
 
 
 ### ONLINE LESSONS
@@ -110,7 +103,6 @@ description: ""
 8.  Have all the lesson materials ready.
 9.  Wait for the teacher to start the lesson.
 
-  
 
 **During the Lesson**
 
