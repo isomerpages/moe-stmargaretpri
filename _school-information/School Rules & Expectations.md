@@ -7,7 +7,7 @@ variant: markdown
 ### NATIONAL ANTHEM & PLEDGE
 
 *   Students who are Singapore citizens must stand at attention to sing the National Anthem and take the Pledge.
-*   Students are to take the Pledge with their right fist placed over your heart.
+*   Students are to take the Pledge with their right fist placed over their heart.
 *   Students who are not Singapore citizens should also stand at attention during the flag-raising ceremony.
 *   Students must sing the school song, school hymn and school creed with respect.
 
@@ -18,7 +18,7 @@ variant: markdown
 (a)	strangers, (b) emergencies, e.g. accidents, injuries, fire. 
 *   Students are not allowed to bring pets, toys, expensive or dangerous items to school. 
 *   Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others and self.
-*   Students are discouraged from using a trolley bag as you may have difficulty moving up and down the stairs.
+*   Students are discouraged from using a trolley bag as they may have difficulty moving up and down the stairs.
 *   Students are not allowed to run or play along the corridors, in the classrooms/canteen, up and down the stairs and in places where there is potential danger.
 *   Students are only allowed to play with the equipment in the playground/hall or be in any of the special rooms, if there is adult supervision.
 *   Students are to use the school facilities responsibly and in the way they are intended for.
@@ -34,7 +34,7 @@ variant: markdown
 *   Students are to ask for permission from the teacher before leaving the classroom during lessons.
 *   During recess, remain in the canteen and assigned play areas. Students are not allowed to stay in the classrooms or loiter along the corridors.
 *   All food and drinks are to be consumed in the canteen except during snack break. Queue up for food and return all cutlery and crockery to the designated areas in the canteen.
-*   Students are only allowed to leave the school during school hours with a valid reason and after informing the form teacher and General Office staff. They must be accompanied by your parent/guardian when leaving the school. 
+*   Students are only allowed to leave the school during school hours with a valid reason and after informing the form teacher and General Office staff. They must be accompanied by their parent/guardian when leaving the school. 
 
 
 **After School Hours:**
@@ -76,7 +76,7 @@ variant: markdown
 
 *   All girls are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
 *   The hemline of the school uniform should not be more than 5cm above the knee.
-*   Students' name tag should be sewn onto your uniform.
+*   Students' name tag should be sewn onto their uniform.
 *   All girls are to wear plain white canvas/sports shoes with plain white socks that reach just above the ankles. Mary Jane shoes are not encouraged for safety during physical activities.
 *   For sports and PE lessons, wear PE t-shirts tucked into dark green shorts of the school design.
 *   All P4 to P6 girls are to come to school and go home in their school uniform. Only P1 to P3 girls have the option of coming to school in their PE attire on days when they have PE/PAL/CCA/ Enrichment lessons. 
@@ -129,10 +129,3 @@ variant: markdown
 6.  Do not play with the background, filters or emojis during the lesson.
 7.  No eating.
 
-### USE OF HANDPHONES
-
-*   Handphones are to be switched off during lesson time and school activities.
-*   The use of handphones is restricted to the foyer and canteen before and after school hours.
-*   Handphones are only to be used for calling/messaging parents/guardians and not for other purposes such as taking/viewing pictures/video, listening to music, playing games.
-*   If the handphone is misused, demerit points will be given. The handphone may be confiscated and only returned to parents.
-*   The school will not be responsible for the loss or damage of the handphone.
