@@ -128,4 +128,3 @@ variant: markdown
 5.  Take down notes if you need to.
 6.  Do not play with the background, filters or emojis during the lesson.
 7.  No eating.
-
