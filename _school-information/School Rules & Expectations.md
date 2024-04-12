@@ -44,7 +44,7 @@ variant: markdown
 **School Bus**
 
 *   Students are to be seated and well behaved at all times on the school bus.
-*   Students are to keep your seat belts on during the whole journey.
+*   Students are to keep their seat belts on during the whole journey.
 
 
 ### CONDUCT
