@@ -24,3 +24,5 @@ In addition to the thrilling cheerleading workshop, our students had the opportu
 As part of the English Language curriculum integration, students engaged in class cheer recitations, honing their language skills while expressing school spirit and unity. Through these activities, they discovered the joy of communication and the power of collective enthusiasm.
 
 The P1 Level Camp served as a vibrant playground where imaginations ran wild, and creativity knew no bounds. It was a celebration of friendship, exploration, and the boundless potential within each of our students.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZAsfZW3-GSI?si=76CheFIEA35_TbLv" height="415" width="700"></iframe></center>
