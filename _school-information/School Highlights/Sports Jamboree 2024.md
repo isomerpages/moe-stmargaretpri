@@ -17,7 +17,7 @@ The Sports Jamboree was a whirlwind of fun-filled activities and lively games. P
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/Sports%20Jamboree%202024/dribble.jpg" style="width:450px;height:350px;"><b>Dribbling of a ball as many times as possible in 30 seconds with eyes closed</b></td>
+		<td><img alt="childday01" src="/images/Sports%20Jamboree%202024/dribble.jpg" style="width:400px;height:350px;"><b>Dribbling of a ball as many times as possible in 30 seconds with eyes closed</b></td>
 		<td><img alt="childday02" src="/images/Sports%20Jamboree%202024/volleyball.jpg" style="width:450px;height:280px;"><b>Both teams applying the Volleyball concepts they learned during PE lessons.</b></td>
 </tr></tbody></table>
 
