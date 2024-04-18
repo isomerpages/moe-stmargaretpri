@@ -16,7 +16,7 @@ Rebounding is a type of aerobic exercise that is performed while jumping on a mi
 <table>
 <tbody><tr>
 		<td><img alt="childday01" src="/images/P3%20SEP%202024/To_win_in_the_balancing_competition.jpg" style="width:450px;height:300px;"><b>To win in the balancing competition, one needs good balance, focus and determination!</b></td>
-		<td><img alt="childday02" src="/images/P3%20SEP%202024/Bouncing_in_different_directions.jpg" style="width:300px;height:350px;"><b>Bouncing in different directions, following instructor's command</b></td>
+		<td><img alt="childday02" src="/images/P3%20SEP%202024/Bouncing_in_different_directions.jpg" style="width:280px;height:350px;"><b>Bouncing in different directions, following instructor's command</b></td>
 </tr></tbody></table>
 
 Some students found it scary at first but they soon learnt to relax and jump in different ways as well as how to stop after jumping at high and low levels. For those who were fearful at the beginning of the lesson, they learnt that once they had overcome their fears, they would be rewarded with a fun-filled experience. Many of the students also liked the balancing competition which required them to balance on a single leg on the trampoline.
