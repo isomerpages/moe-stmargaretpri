@@ -85,6 +85,10 @@ variant: markdown
 *   For sports and PE lessons, wear PE t-shirts tucked into dark green shorts of the school design.
 *   All P4 to P6 girls are to come to school and go home in their school uniform. Only P1 to P3 girls have the option of coming to school in their PE attire on days when they have PE/PAL/CCA/ Enrichment lessons. 
 
+**Proper School Uniform and P.E. Attire**
+
+
+
 
 ### HAIR AND APPEARANCE
 
@@ -98,6 +102,10 @@ variant: markdown
 *   No form of makeup is allowed.
 *   Nails are to be short and clean. Nail polish is not allowed.
 *   No jewellery is to be worn except a single pair of small, ear studs in gold/silver or with a gemstone.  
+
+**Proper Hairstyles**
+
+
 
 ### EXAMINATION / TEST RULES
 
