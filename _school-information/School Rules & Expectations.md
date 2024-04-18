@@ -87,7 +87,7 @@ variant: markdown
 
 **Proper School Uniform and P.E. Attire**
 
-
+![](/images/School%20Information/Proper_Uniform_2024_v1.jpg)
 
 
 ### HAIR AND APPEARANCE
@@ -105,7 +105,7 @@ variant: markdown
 
 **Proper Hairstyles**
 
-
+![](/images/School%20Information/Proper_Hairstyle_2024_v1.jpg)
 
 ### EXAMINATION / TEST RULES
 
