@@ -28,9 +28,9 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 			<tr>
-<td><a href="/school-information/school-highlights/tdd-2024/"><img src="/images/Thumbnails/tdd_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/cny-2024/"><img src="/images/Thumbnails/cnythumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-	<td><a href="/school-information/school-highlights/p1orientation-2024/"><img src="/images/Thumbnails/p1orientationthumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+<td><a href="/school-information/school-highlights/tdd-2024/"><img src="/images/Thumbnails/sportsjam_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/cny-2024/"><img src="/images/Thumbnails/p3sep_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/p1orientation-2024/"><img src="/images/Thumbnails/p1camp_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>Sports Jamboree 2024</center></th> 
