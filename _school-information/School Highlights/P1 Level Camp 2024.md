@@ -18,7 +18,7 @@ In addition to the thrilling cheerleading workshop, our students had the opportu
 <table>
 <tbody><tr>
 		<td><img alt="childday02" src="/images/P1%20Level%20Camp%202024/All_set_for_pom_pom_making.jpg" style="width:450px;height:280px;"><b>All set for pom pom making</b></td>
-		<td><img alt="childday01" src="/images/P1%20Level%20Camp%202024/The_art_of_forming_a_human_pyramid.jpg" style="width:400px;height:350px;"><b>The art of forming a human pyramid - teamwork and coordination</b></td>
+		<td><img alt="childday01" src="/images/P1%20Level%20Camp%202024/The_art_of_forming_a_human_pyramid.jpg" style="width:280px;height:350px;"><b>The art of forming a human pyramid - teamwork and coordination</b></td>
 </tr></tbody></table>
 
 As part of the English Language curriculum integration, students engaged in class cheer recitations, honing their language skills while expressing school spirit and unity. Through these activities, they discovered the joy of communication and the power of collective enthusiasm.
