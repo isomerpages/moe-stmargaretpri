@@ -4,12 +4,16 @@ permalink: /school-information/school-rules-n-expectations/
 description: ""
 variant: markdown
 ---
-### NATIONAL ANTHEM & PLEDGE
+### FLAG-RAISING CEREMONY
 
 *   Students who are Singapore citizens must stand at attention to sing the National Anthem and take the Pledge.
 *   Students are to take the Pledge with their right fist placed over their heart.
 *   Students who are not Singapore citizens should also stand at attention during the flag-raising ceremony.
 *   Students must sing the school song, school hymn and school creed with respect.
+
+### WHEN INTERACTING WITH OTHERS
+
+*   Students must be respectful towards others in their speech and actions during interactions both face to face and/or online.
 
 
 ### SAFETY AND SECURITY
@@ -72,7 +76,7 @@ variant: markdown
 * Students must be responsible for the care of their mobile phone/smart watch and label it. The school will not be responsible for its loss or damage.
 
 
-### ATTIRE
+### UNIFORM AND PE ATTIRE
 
 *   All girls are to wear the prescribed school uniform. Modifications to the uniform are not allowed.
 *   The hemline of the school uniform should not be more than 5cm above the knee.
@@ -81,8 +85,12 @@ variant: markdown
 *   For sports and PE lessons, wear PE t-shirts tucked into dark green shorts of the school design.
 *   All P4 to P6 girls are to come to school and go home in their school uniform. Only P1 to P3 girls have the option of coming to school in their PE attire on days when they have PE/PAL/CCA/ Enrichment lessons. 
 
+**Proper School Uniform and P.E. Attire**
 
-### HAIR & APPEARANCE
+![](/images/School%20Information/Proper_Uniform_2024_v1.jpg)
+
+
+### HAIR AND APPEARANCE
 
 *   Hairstyles are to be neat and appropriate.
 *   Hair should be tied up neatly as a ponytail once it reaches the uniform collar.
@@ -94,6 +102,10 @@ variant: markdown
 *   No form of makeup is allowed.
 *   Nails are to be short and clean. Nail polish is not allowed.
 *   No jewellery is to be worn except a single pair of small, ear studs in gold/silver or with a gemstone.  
+
+**Proper Hairstyles**
+
+![](/images/School%20Information/Proper_Hairstyle_2024_v1.jpg)
 
 ### EXAMINATION / TEST RULES
 
