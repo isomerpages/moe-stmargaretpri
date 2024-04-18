@@ -17,4 +17,4 @@ The Sports Jamboree was a whirlwind of fun-filled activities and lively games. P
 
 Amidst the kaleidoscope of activities, participants eagerly embraced the Achievement Tier Challenge, pushing their limits and revelling in the joy of personal accomplishments. The event also featured a Top Scorer Wall of Fame for select challenges, igniting friendly rivalries and spurring participants to push themselves further. 
 
-More than just a day of games and fun, the Sports Jamboree served as a powerful reminder of the importance of leading an active and healthy lifestyle. Participants enthusiastically embraced the opportunity to engage in physical activity, whether it was running, jumping, or simply enjoying the outdoors with friends. 
+More than just a day of games and fun, the Sports Jamboree served as a powerful reminder of the importance of leading an active and healthy lifestyle. Participants enthusiastically embraced the opportunity to engage in physical activity, whether it was running, jumping, or simply enjoying the outdoors with friends.
