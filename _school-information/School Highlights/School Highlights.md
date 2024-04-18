@@ -34,7 +34,7 @@ These are the activities that the students participated for holistic learning.
 </tr>
 		<tr>
 			<th><center>Sports Jamboree 2024</center></th> 
-		<th><center>P3 Sports Education Programme 2024</center></th> 
+		<th><center>P3 Sports Education <br>Programme 2024</center></th> 
 		<th><center>P1 Level Camp 2024</center></th> 			
 			</tr>
 				<tr>
