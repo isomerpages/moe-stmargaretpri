@@ -5,3 +5,16 @@ variant: markdown
 description: ""
 third_nav_title: School Highlights
 ---
+### Sports Jamboree 2024
+
+##### 8 March 2024
+
+Under the radiant sun and amidst the laughter of eager participants, the annual Sports Jamboree on 8th March 2024 transformed the school grounds into a vibrant playground of excitement and joy.
+
+At the heart of the Sports Jamboree was the principle of student leadership and empowerment. Guided by dedicated teachers, student leaders took charge of organizing and managing the various activities, ensuring that the event ran smoothly from start to finish. It truly was an event "run by students, for students."
+
+The Sports Jamboree was a whirlwind of fun-filled activities and lively games. Participants took part in a diverse range of sports and challenges, from classic favorites like skipping and football to more unconventional challenges like a modified territorial invasion game involving roller boards, and a ball toss where partners catch using cones. Each activity provided an opportunity for students to showcase the skills they had honed during PE lessons while fostering a sense of teamwork and camaraderie among peers.
+
+Amidst the kaleidoscope of activities, participants eagerly embraced the Achievement Tier Challenge, pushing their limits and revelling in the joy of personal accomplishments. The event also featured a Top Scorer Wall of Fame for select challenges, igniting friendly rivalries and spurring participants to push themselves further. 
+
+More than just a day of games and fun, the Sports Jamboree served as a powerful reminder of the importance of leading an active and healthy lifestyle. Participants enthusiastically embraced the opportunity to engage in physical activity, whether it was running, jumping, or simply enjoying the outdoors with friends. 
