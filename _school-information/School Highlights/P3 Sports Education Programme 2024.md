@@ -21,3 +21,4 @@ Rebounding is a type of aerobic exercise that is performed while jumping on a mi
 
 Some students found it scary at first but they soon learnt to relax and jump in different ways as well as how to stop after jumping at high and low levels. For those who were fearful at the beginning of the lesson, they learnt that once they had overcome their fears, they would be rewarded with a fun-filled experience. Many of the students also liked the balancing competition which required them to balance on a single leg on the trampoline.
 
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZjHBVz9pNc4?si=TxSmjqTRO6XEAQ5P" height="415" width="700"></iframe></center>
