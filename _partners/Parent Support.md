@@ -8,6 +8,29 @@ variant: markdown
 
 
 <table>
+	<tbody><tr>
+		<th><center><font color="maroon" size="6">
+     2024
+ </font></center></th></tr></tbody></table>
+<table>
+	<tbody>
+			<tr>
+	<td><img src="/images/Parent%20Volunteers/p1_LJ_market.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/childrens_day.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Total Defence Day 2024<br>(14 to 23 Feb 2024) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>P2 Level Camp<br>(28 March 2024)</b></font>
+</center></td>
+</tr>
+	</tbody></table>
+
+<table>
+	<tbody><tr>
+		<th><center><font color="maroon" size="6">
+     2023
+ </font></center></th></tr></tbody></table>
+<table>
 	<tbody>
 			<tr>
 	<td><img src="/images/Parent%20Volunteers/p1_LJ_market.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
