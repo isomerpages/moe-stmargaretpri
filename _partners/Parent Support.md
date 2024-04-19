@@ -17,7 +17,7 @@ variant: markdown
 	<td><img src="/images/Parent%20Volunteers/TDD_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/P2_Camp_2024.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
 </tr>
-			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Total Defence Day 2024<br>(14 to 23 Feb 2024) </b></font></center></td> 
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Total Defence Day<br>(14 to 23 Feb 2024) </b></font></center></td> 
 		<td><center>
 		<font size="4"><b>P2 Level Camp<br>(28 March 2024)</b></font>
 </center></td>
