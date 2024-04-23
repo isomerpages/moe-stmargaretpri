@@ -1,0 +1,4 @@
+collections:
+  featured-events-2024:
+    output: true
+    order: []
