@@ -1,5 +1,4 @@
 collections:
   featured-events-2024:
     output: true
-    order:
-      - P1 Orientation 2024.md
+    order: []
