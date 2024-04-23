@@ -1,5 +1,5 @@
 collections:
-  featured-events:
+  featured-events-2023:
     output: true
     order:
       - P1 Orientation 2023.md
