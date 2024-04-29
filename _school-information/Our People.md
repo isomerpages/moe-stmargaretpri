@@ -733,7 +733,10 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mdm Nalayeni D/O M Supramaniam</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
-
+	  <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Kesumawati Binte Saimon</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Jamaludin Bin A Rahman </span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
@@ -769,11 +772,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Siti Nur Hidayah</span></td>
     <td class="tg-fxx4"><span style="color:#222">ICT Associate </span></td>
-  </tr>
-	  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Kesumawati Binte Saimon</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Receptionist</span></td>
-  </tr>
+	</tr>
 </tbody>
 </table>
 
