@@ -8,11 +8,11 @@ variant: markdown
 	<tbody>
 	<tr>
 		<td><font size="4"><img alt="RBS logo.jpg" src="/images/RBS%20logo.jpg" style="width:220px;height:80px;"></font></td>
-		<td><font size="4"><br>Resource Booking System (RBS)<br><a target="_blank" href="https://rbs.avero-tech.com/">https://rbs.avero-tech.com</a></font></td>
+		<td><font size="4">Resource Booking System (RBS)<br><a target="_blank" href="https://rbs.avero-tech.com/">https://rbs.avero-tech.com</a></font></td>
 </tr>
 			<tr>
 		<td><font size="4"><img alt="RBS logo.jpg" src="/images/RBS%20logo.jpg" style="width:220px;height:80px;"></font></td>
-		<td><font size="4"><br>Resource Booking System (RBS)<br><a target="_blank" href="https://rbs.avero-tech.com/">https://rbs.avero-tech.com</a></font></td>
+		<td><font size="4">Resource Booking System (RBS)<br><a target="_blank" href="https://rbs.avero-tech.com/">https://rbs.avero-tech.com</a></font></td>
 </tr>
 	</tbody></table>
 
