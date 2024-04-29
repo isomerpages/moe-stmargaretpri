@@ -6,8 +6,6 @@ variant: markdown
 ---
 ### 2023 Achievements
 
-![](/images/RBS%20App.jpg)
-
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
