@@ -27,6 +27,16 @@ These are the activities that the students participated for holistic learning.
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
+		<tr>
+<td><a href="/school-information/school-highlights/sports-jamboree-2024/"><img src="/images/Thumbnails/sportsjam_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p3-sep-2024/"><img src="/images/Thumbnails/p3sep_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/p1-level-camp-2024/"><img src="/images/Thumbnails/p1camp_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>P3 Learning Journey to <br> Void Deck Art Gallery 2024</center></th> 
+		<th><center>P6 Learning Journey to <br>Singapore Discovery Centre 2024</center></th> 
+		<th><center>English Language (EL) Week 2024</center></th> 			
+			</tr>
 			<tr>
 <td><a href="/school-information/school-highlights/sports-jamboree-2024/"><img src="/images/Thumbnails/sportsjam_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/p3-sep-2024/"><img src="/images/Thumbnails/p3sep_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
