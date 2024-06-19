@@ -28,9 +28,9 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 			<tr>
-<td><a href="/school-information/school-highlights/p3ljart_thumb_01.JPG/"><img src="/images/Thumbnails/p3ljifly_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/p3-sep-2024/"><img src="/images/Thumbnails/p6ljacm_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-	<td><a href="/school-information/school-highlights/p1-level-camp-2024/"><img src="/images/Thumbnails/p3p5hcllj_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+<td><a href="/school-information/school-highlights/p3-camp-ifly-2024/"><img src="/images/Thumbnails/p3ljifly_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p6-lj-acm-2024/"><img src="/images/Thumbnails/p6ljacm_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/p3-p5-hcl-lj-2024/"><img src="/images/Thumbnails/p3p5hcllj_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>P3 Level Camp to iFLY 2024</center></th> 
@@ -38,9 +38,9 @@ These are the activities that the students participated for holistic learning.
 		<th><center>P3 P5 HCL Learning Journey 2024</center></th> 			
 			</tr>
 		<tr>
-<td><a href="/school-information/school-highlights/p3ljart_thumb_01.JPG/"><img src="/images/Thumbnails/p3ljart_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/p3-sep-2024/"><img src="/images/Thumbnails/p6ljsdc_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-	<td><a href="/school-information/school-highlights/p1-level-camp-2024/"><img src="/images/Thumbnails/elweek_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+<td><a href="/school-information/school-highlights/p3-lj-void-deck-art-gallery-2024/"><img src="/images/Thumbnails/p3ljart_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p6-lj-sdc-2024/"><img src="/images/Thumbnails/p6ljsdc_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/el-week-2024/"><img src="/images/Thumbnails/elweek_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>P3 Learning Journey to <br> Void Deck Art Gallery 2024</center></th> 
