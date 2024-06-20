@@ -20,3 +20,5 @@ While they were there, the students viewed ceramic bowls found in a shipwreck th
 </tr></tbody></table>
 
 Through the stories shared, students understood the cultural and historical ties that had influence on the countries in Southeast Asia and explored how Singapore’s cultural heritage has evolved over time.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/t-dUvk9sTdg?si=fbjADVbRDSMzf4SO" height="415" width="700"></iframe></center>
