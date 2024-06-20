@@ -21,3 +21,5 @@ The Science teachers extended the girls’ learning by exploring the properties 
 </tr></tbody></table>
 
 After a flight safety training and a dry run of the basic belly fly position, the girls proceeded to gear up in the flight suits. With much guidance from the instructor, the girls stepped into the wind tunnel one at a time and had an amazing time experiencing indoor skydiving.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/9V2gS0Yu7hQ?si=_FjCU2w7yyR03XJe" height="415" width="700"></iframe></center>
