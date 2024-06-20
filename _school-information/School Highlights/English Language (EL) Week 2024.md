@@ -17,10 +17,9 @@ The National Library Board (NLB) staff joined us during Assembly 1 to share capt
 
 <table>
 <tbody>
-	<tr>                                                 </tr>
 	<tr>
-		<td><img alt="childday01" src="/images/EL%20Week%202024/Stepping_into_Totto_chan_s_World.jpg" style="width:280px;height:300px;"><b>Stepping into Totto-chan's World</b></td>
-		<td><img alt="childday02" src="/images/EL%20Week%202024/Adorable_Little_Miss_Lucky.jpg" style="width:280px;height:300px;"><b>Adorable Little Miss Lucky</b></td>
+		<td><center><img alt="childday01" src="/images/EL%20Week%202024/Stepping_into_Totto_chan_s_World.jpg" style="width:280px;height:300px;"><b>Stepping into Totto-chan's World</b></center></td>
+		<td><center><img alt="childday02" src="/images/EL%20Week%202024/Adorable_Little_Miss_Lucky.jpg" style="width:280px;height:300px;"><b>Adorable Little Miss Lucky</b></center></td>
 </tr></tbody></table>
 
 The grand finale of English Week, Book Character Day, was a spectacle to behold. From Matilda's mischievous grin to Willy Wonka's whimsical charm, the corridors echoed with the laughter and excitement of our students who truly brought their favourite stories to life.
