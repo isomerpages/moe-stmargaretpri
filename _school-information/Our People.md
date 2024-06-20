@@ -285,7 +285,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Low Pei Chi (Mrs Ong)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Shiem Shan Shan (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
@@ -380,7 +380,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Zhang Miao (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh (Ms) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh (Ms)<br>Angela Tew Hwee Gee (Ms) </span></td>
   </tr>
 </tbody>
 </table>
@@ -442,7 +442,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 GRACIOUSNESS</span></td>
     <td class="tg-fxx4"><span style="color:#222">Zhuang Siqiao (Mrs Heng) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Siew Kheng Dinah (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Shirley Ong Shilin (Ms)<br>Chan Siew Kheng Dinah (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
@@ -513,7 +513,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 CHARITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">S Kanimozhi (Mrs Ganesh)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) <br>Jamilah Bee (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
@@ -523,17 +523,17 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Lew Nyet Mee Cindy (Mrs Teo)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sharon Simon (Mdm) <br>Alaghimanavalan Sarala Devi (Mdm) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 INTEGRITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ong Shilin, Shirley (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Huang Li (Mdm)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 TENACITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Nadine Soraya Binte Mohamed Fauzi (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Julia Li Wai See (Li Huishi) (Ms)<br>Angeline Chong Chek Mei (Mrs Tan) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Julia Li Wai See (Li Huishi) (Ms) </span></td>
   </tr>
 </tbody>
 </table>
@@ -610,7 +610,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Charissa Chan Soek Yee (Ms) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Nur A'zzah Binte Noh (Ms)</span></td>
   </tr>
 </tbody>
 </table>
@@ -676,7 +676,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Goh Bee Ling (Mrs Ong)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pearlyn Lim Li Gek (Mrs Gan) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Pearlyn Lim Li Gek (Mrs Gan)<br>Eric Seah (Mr) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 INTEGRITY </span></td>
@@ -686,7 +686,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 TENACITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Christina Yong (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)<br>Low Pei Chi (Mrs Ong) </span></td>
   </tr>
 </tbody>
 </table>
