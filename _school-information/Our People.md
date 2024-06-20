@@ -676,7 +676,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Goh Bee Ling (Mrs Ong)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pearlyn Lim Li Gek (Mrs Gan) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Pearlyn Lim Li Gek (Mrs Gan)<br>Eric Seah (Mr) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 INTEGRITY </span></td>
@@ -686,7 +686,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 TENACITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Christina Yong (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)<br>Ong Pei Chi (Mrs) </span></td>
   </tr>
 </tbody>
 </table>
