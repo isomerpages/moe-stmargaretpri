@@ -442,7 +442,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 GRACIOUSNESS</span></td>
     <td class="tg-fxx4"><span style="color:#222">Zhuang Siqiao (Mrs Heng) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Siew Kheng Dinah (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Shirley Ong Shilin (Ms)<br>Chan Siew Kheng Dinah (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
