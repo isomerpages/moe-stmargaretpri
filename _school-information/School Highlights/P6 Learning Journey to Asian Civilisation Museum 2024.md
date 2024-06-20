@@ -13,9 +13,10 @@ In May, the Primary 6 students went on a learning journey to the Asian Civilisat
 
 While they were there, the students viewed ceramic bowls found in a shipwreck that was discovered in the region. They also deduced how trade around the Singapore River was like in the past. The students learnt about some customs and traditions, and saw how some people in Southeast Asia lived.
 
-![](/images/P6%20LJ%20to%20ACM%202024/1__Listening_to_stories_about_the_Tang_shipwreck.jpg)
-![](/images/P6%20LJ%20to%20ACM%202024/5__Learning_more_about_textiles_from_India_and_different_printing_blocks.jpg)
-
-
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/P6%20LJ%20to%20ACM%202024/1__Listening_to_stories_about_the_Tang_shipwreck.jpg" style="width:450px;height:300px;"><b>Listening to stories about the Tang shipwreck</b></td>
+		<td><img alt="childday02" src="/images/P6%20LJ%20to%20ACM%202024/5__Learning_more_about_textiles_from_India_and_different_printing_blocks.jpg" style="width:450px;height:300px;"><b>Learning more about textiles from India and different printing blocks</b></td>
+</tr></tbody></table>
 
 Through the stories shared, students understood the cultural and historical ties that had influence on the countries in Southeast Asia and explored how Singapore’s cultural heritage has evolved over time.
