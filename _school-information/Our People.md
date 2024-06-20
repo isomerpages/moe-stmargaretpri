@@ -610,7 +610,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Charissa Chan Soek Yee (Ms) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Nur A'zzah Binte Noh (Ms)</span></td>
   </tr>
 </tbody>
 </table>
