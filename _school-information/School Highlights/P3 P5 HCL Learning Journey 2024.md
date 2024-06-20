@@ -13,4 +13,12 @@ P3-4 HCL students embarked on a Learning Journey at Sun Yat Sen Nanyang Memorial
 
 Meanwhile, P5 HCL students ventured into the world of journalism at Singapore Press Holdings, unraveling the complexities of news reporting. They grasped the power of words and the ethical responsibilities associated with media communication, reinforcing their commitment to integrity and accuracy.
 
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/P3%20P5%20HCL%20LJ%202024/Curious_about_the_work_of_a_News_Photographer.jpg" style="width:450px;height:300px;"><b>Curious about the work of a News Photographer</b></td>
+		<td><img alt="childday02" src="/images/P3%20P5%20HCL%20LJ%202024/Watching_a_live_radio_broadcast.jpg" style="width:450px;height:300px;"><b>Watching a live radio broadcast</b></td>
+</tr></tbody></table>
+
 Both experiences sparked curiosity and expanded horizons, enriching their educational journey at SMS(P).
+
+
