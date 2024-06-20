@@ -285,7 +285,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Low Pei Chi (Mrs Ong)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Shiem Shan Shan (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
