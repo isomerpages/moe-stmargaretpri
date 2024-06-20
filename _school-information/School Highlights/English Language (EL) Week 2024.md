@@ -16,9 +16,11 @@ Throughout the week, our English classrooms were buzzing with activity as studen
 The National Library Board (NLB) staff joined us during Assembly 1 to share captivating stories on codes and ciphers. The excitement in the air was palpable as students tried to decipher hidden messages and unravel mysteries. Laughter, curiosity, and a love for stories filled the hall.
 
 <table>
-<tbody><tr>
-		<td><img alt="childday01" src="/images/EL%20Week%202024/Stepping_into_Totto_chan_s_World.jpg" style="width:380px;height:300px;"><b>Stepping into Totto-chan's World</b></td>
-		<td><img alt="childday02" src="/images/EL%20Week%202024/Adorable_Little_Miss_Lucky.jpg" style="width:380px;height:300px;"><b>Adorable Little Miss Lucky</b></td>
+<tbody>
+	<tr></tr>
+	<tr>
+		<td><img alt="childday01" src="/images/EL%20Week%202024/Stepping_into_Totto_chan_s_World.jpg" style="width:250px;height:300px;"><b>Stepping into Totto-chan's World</b></td>
+		<td><img alt="childday02" src="/images/EL%20Week%202024/Adorable_Little_Miss_Lucky.jpg" style="width:250px;height:300px;"><b>Adorable Little Miss Lucky</b></td>
 </tr></tbody></table>
 
 The grand finale of English Week, Book Character Day, was a spectacle to behold. From Matilda's mischievous grin to Willy Wonka's whimsical charm, the corridors echoed with the laughter and excitement of our students who truly brought their favourite stories to life.
