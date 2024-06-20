@@ -21,4 +21,4 @@ What truly warmed our hearts was witnessing the ingenuity of our students during
 
 The joy, enthusiasm, and love for language displayed throughout the week are a testament to the vibrant spirit of our school. Our hope is that the love for language cultivated during English Week will continue to blossom in the hearts and minds of our students.
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dsZ7bnj5OB8?si=7YJLhbg8xCx6pNC_" height="3415" width="700"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dsZ7bnj5OB8?si=7YJLhbg8xCx6pNC_" height="415" width="700"></iframe></center>
