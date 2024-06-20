@@ -21,4 +21,4 @@ Meanwhile, P5 HCL students ventured into the world of journalism at Singapore Pr
 
 Both experiences sparked curiosity and expanded horizons, enriching their educational journey at SMS(P).
 
-
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVR2Agp46AE?si=JyqzxsX7OD3h3A3A" height="415" width="700"></iframe></center>
