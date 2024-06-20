@@ -28,7 +28,7 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 			<tr>
-<td><a href="/school-information/school-highlights/p3-camp-ifly-2024/"><img src="/images/Thumbnails/p3ljifly_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+<td><a href="/school-information/school-highlights/sports-jamboree-2024/"><img src="/images/Thumbnails/p3ljifly_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/p6-lj-acm-2024/"><img src="/images/Thumbnails/p6ljacm_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/p3-p5-hcl-lj-2024/"><img src="/images/Thumbnails/p3p5hcllj_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
