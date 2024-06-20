@@ -25,8 +25,6 @@ On all three days, we were blessed with good weather, making the leisurely walk 
 		<td><center><img alt="childday02" src="/images/P3%20LJ%20to%20Art%20Void%20Deck%202024/Pupils_making_a_vote_on_their_favourite_van_Gogh_artwork_.jpg" style="width:280px;height:300px;"><b>Pupils making a vote on their favourite<br>Van Gogh artwork</b></center></td>
 </tr></tbody></table>
 
-
-
 The pupils viewed the paintworks and those with a keen eye for detail noticed some interesting Singaporean touches to a few paintings. For example, there was a picture of the crescent and five stars in the replica of Vincent’s Bedroom. 
 
 Overall, it was a meaningful learning journey. The pupils grew to appreciate van Gogh’s artworks and the importance of collectively owning and having pride in a shared space. On a more personal level, the pupils’ eyes were opened to the beauty of van Gogh’s paintings and for some paintings, a backstory of a struggling, misunderstood man who was ahead of his time.
