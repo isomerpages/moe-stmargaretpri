@@ -19,9 +19,6 @@ On all three days, we were blessed with good weather, making the leisurely walk 
 
 3 Graciousness and 3 Tenacity were especially privileged on 20 March. One of the artists, who helped with the refurbishment, lives at the exact block we were at. She happened to hear the healthy buzz created by us and to our pleasant surprise, she approached us and offered to play tour guide. She whipped out an iPad and told us passionately about how she and her fellow artists did up the space. What an unexpected surprise!
 
-![](/images/P3%20LJ%20to%20Art%20Void%20Deck%202024/Pupils_keen_to_find_out_the_titles_of_the_paintings.jpg)
-![](/images/P3%20LJ%20to%20Art%20Void%20Deck%202024/Pupils_making_a_vote_on_their_favourite_van_Gogh_artwork_.jpg)
-
 <table>
 <tbody><tr>
 		<td><center><img alt="childday01" src="/images/P3%20LJ%20to%20Art%20Void%20Deck%202024/Pupils_keen_to_find_out_the_titles_of_the_paintings.jpg" style="width:280px;height:300px;"><b>Pupils keen to find out the <br>titles of the paintings</b></center></td>
