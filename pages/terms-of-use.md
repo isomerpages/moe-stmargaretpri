@@ -21,7 +21,7 @@ Thank you for visiting www.stmargaretspri.moe.edu.sg. By accessing and using thi
 
 **Privacy Policy**
 
-4\. Click here to review this website [Privacy Statement](https://www.gov.sg/privacy-statement).
+5. Click here to review this website [Privacy Statement](https://www.gov.sg/privacy-statement).
 
 **Restrictions on use of Materials**
 
