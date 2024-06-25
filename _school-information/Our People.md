@@ -187,7 +187,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-ltu5"><span style="color:#222">    Mrs Angel Soh Siu Ling </span></td>
   </tr>
   <tr>
-    <td class="tg-580q">LH Mathematics</td>
+    <td class="tg-580q">HOD Mathematics</td>
     <td class="tg-mqlv">Mdm Shahirah Bte Mohd Shariff</td>
   </tr>
   <tr>
