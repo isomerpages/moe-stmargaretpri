@@ -13,9 +13,6 @@ During MT Fortnight, our students learnt about how cultures and values are tied 
 
 Additionally, students also delved into the fascinating world of spices, exploring the diverse array of flavors and aromas used in different cultures. Utilizing their five senses, they embarked on a sensory journey to discover the unique characteristics of various spices. This immersive approach encouraged students to appreciate the richness of cultural diversity.
 
-![](/images/MT%20Fortnight%202024/kollattam.jpg)
-![](/images/MT%20Fortnight%202024/designkites.jpg)
-
 <table>
 <tbody><tr>
 		<td><img alt="childday01" src="/images/MT%20Fortnight%202024/kollattam.jpg" style="width:450px;height:300px;"><b>Kolattam Traditional Dance</b></td>
