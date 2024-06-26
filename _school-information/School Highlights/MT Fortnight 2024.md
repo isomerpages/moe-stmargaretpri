@@ -14,3 +14,5 @@ During MT Fortnight, our students learnt about how cultures and values are tied 
 Additionally, students also delved into the fascinating world of spices, exploring the diverse array of flavors and aromas used in different cultures. Utilizing their five senses, they embarked on a sensory journey to discover the unique characteristics of various spices. This immersive approach encouraged students to appreciate the richness of cultural diversity.
 
 Through these activities, students not only gained valuable knowledge but also developed a greater appreciation for the values and different cultures that shape our world.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cXaQuMNvn0w?si=yBcreL9b5QrIduPo" height="415" width="700"></iframe></center>
