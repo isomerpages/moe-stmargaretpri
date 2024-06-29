@@ -13,4 +13,10 @@ The much-anticipated SPOTLIGHT Concert was a showcase of extraordinary talent an
 
 Interspersed throughout the concert, our talented narrators from the STAR CCA guided the audience through the mystical woodlands. Their eloquent storytelling and engaging presence  ensured an entertaining experience into the forest! The narrators have honed their skills in articulation and expression, making them integral to the concert's success.
 
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/P2%20Plant%20Workshop%202024/Create_masterpieces.jpg" style="width:450px;height:300px;"><b>Creating their masterpieces</b></td>
+		<td><img alt="childday02" src="/images/P2%20Plant%20Workshop%202024/Proud_owners.jpg" style="width:450px;height:300px;"><b>Proud owners of their masterpieces</b></td>
+</tr></tbody></table>
+
 The SPOTLIGHT Concert is more than just a showcase of talent; it is a celebration of the hard work and resilience that our students have demonstrated as students took ownership and played a role in raising funds for the PERI upgrading project. We are thankful to God for his mercies along the way!
