@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - One Earth Challenge 2024.md
       - Our People.md
       - School Rules & Expectations.md
       - Operating Hours.md
