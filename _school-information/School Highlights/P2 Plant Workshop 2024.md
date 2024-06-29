@@ -16,3 +16,5 @@ The Primary 2 level embarked on an interesting and fulfilling journey learning a
 		<td><img alt="childday01" src="/images/P2%20Plant%20Workshop%202024/Create_masterpieces.jpg" style="width:450px;height:300px;"><b>Creating their masterpieces</b></td>
 		<td><img alt="childday02" src="/images/P2%20Plant%20Workshop%202024/Proud_owners.jpg" style="width:450px;height:300px;"><b>Proud owners of their masterpieces</b></td>
 </tr></tbody></table>
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bFeu5ANkVwk?si=CyHrITfnz2LyRh3V" height="415" width="700"></iframe></center>
