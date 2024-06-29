@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Distinguished Chinese Language Teachers Awards 2024.md
       - MOE Sexuality Education Programme 2024.md
       - Read for Books 2023.md
       - Invitation to Parents Gateway.md
