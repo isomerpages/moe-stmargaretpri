@@ -15,7 +15,11 @@ The primary 4 level participated in OneEarth Challenge (OEC), a joint venture wi
 ![](/images/OEC%202024/digging_the_hole.jpg)
 
 
-
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/P2%20Plant%20Workshop%202024/Create_masterpieces.jpg" style="width:450px;height:300px;"><b>Creating their masterpieces</b></td>
+		<td><img alt="childday02" src="/images/P2%20Plant%20Workshop%202024/Proud_owners.jpg" style="width:450px;height:300px;"><b>Proud owners of their masterpieces</b></td>
+</tr></tbody></table>
 
 
 
