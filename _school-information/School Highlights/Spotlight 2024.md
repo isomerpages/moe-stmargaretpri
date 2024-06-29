@@ -15,8 +15,8 @@ Interspersed throughout the concert, our talented narrators from the STAR CCA gu
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/P2%20Plant%20Workshop%202024/Create_masterpieces.jpg" style="width:450px;height:300px;"><b>Creating their masterpieces</b></td>
-		<td><img alt="childday02" src="/images/P2%20Plant%20Workshop%202024/Proud_owners.jpg" style="width:450px;height:300px;"><b>Proud owners of their masterpieces</b></td>
+		<td><img alt="childday01" src="/images/Spotlight%202024/dance.jpg" style="width:450px;height:300px;"><b>Icons of harmony, unity in diversity</b></td>
+		<td><img alt="childday02" src="/images/Spotlight%202024/band.jpg" style="width:450px;height:300px;"><b>Playing with the SMSS Band!</b></td>
 </tr></tbody></table>
 
 The SPOTLIGHT Concert is more than just a showcase of talent; it is a celebration of the hard work and resilience that our students have demonstrated as students took ownership and played a role in raising funds for the PERI upgrading project. We are thankful to God for his mercies along the way!
