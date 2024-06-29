@@ -11,14 +11,10 @@ third_nav_title: School Highlights
 
 The primary 4 level participated in OneEarth Challenge (OEC), a joint venture with LTA and Living Theories. OEC is a fun and interactive programme that promotes positive ‘Walk, Cycle, Ride’ behaviour in our children and to reduce traffic congestion around our schools. It aims to create a safer, cleaner and brighter environment.
 
-![](/images/OEC%202024/watering_the_tree.jpg)
-![](/images/OEC%202024/digging_the_hole.jpg)
-
-
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/P2%20Plant%20Workshop%202024/Create_masterpieces.jpg" style="width:450px;height:300px;"><b>Creating their masterpieces</b></td>
-		<td><img alt="childday02" src="/images/P2%20Plant%20Workshop%202024/Proud_owners.jpg" style="width:450px;height:300px;"><b>Proud owners of their masterpieces</b></td>
+		<td><img alt="childday01" src="/images/OEC%202024/watering_the_tree.jpg" style="width:300px;height:400px;"><b>Final step of tree-planting - watering the tree</b></td>
+		<td><img alt="childday02" src="/images/OEC%202024/digging_the_hole.jpg" style="width:450px;height:300px;"><b>Tree-planting ceremony with Mr Baey Yam Keng - digging the hole</b></td>
 </tr></tbody></table>
 
 
