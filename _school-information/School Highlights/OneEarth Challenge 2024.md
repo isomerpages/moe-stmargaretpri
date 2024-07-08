@@ -13,7 +13,7 @@ The primary 4 level participated in OneEarth Challenge (OEC), a joint venture wi
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/OEC%202024/watering_the_tree.jpg" style="width:280px;height:400px;"><b>Final step of tree-planting - watering the tree</b></td>
+		<td><img alt="childday01" src="/images/OEC%202024/watering_the_tree.jpg" style="width:300px;height:400px;"><b>Final step of tree-planting - watering the tree</b></td>
 		<td><img alt="childday02" src="/images/OEC%202024/digging_the_hole.jpg" style="width:450px;height:300px;"><b>Tree-planting ceremony with Mr Baey Yam Keng - digging the hole</b></td>
 </tr></tbody></table>
 
