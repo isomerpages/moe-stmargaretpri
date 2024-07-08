@@ -1,8 +1,4 @@
 contact_us: /contact-us/
 show_reach: true
 faq: /faq/
-social_media:
-  facebook: https://www.facebook.com/YourFBPage
-  youtube: https://www.youtube.com/YourYoutube
-  instagram: https://www.instagram.com/your.insta/
-feedback: ""
+social_media: {}
