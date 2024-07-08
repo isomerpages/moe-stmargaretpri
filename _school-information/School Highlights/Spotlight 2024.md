@@ -20,3 +20,5 @@ Interspersed throughout the concert, our talented narrators from the STAR CCA gu
 </tr></tbody></table>
 
 The SPOTLIGHT Concert is more than just a showcase of talent; it is a celebration of the hard work and resilience that our students have demonstrated as students took ownership and played a role in raising funds for the PERI upgrading project. We are thankful to God for his mercies along the way!
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2B6Z3cafNms?si=IC6AT6ij0CKpNOWj" height="415" width="700"></iframe></center>
