@@ -14,8 +14,14 @@ The school’s Mother Tongue Department is holding a Learning Journey for the pr
 
 This scheme aims to expose students to Chinese language-related cultural performances by local and foreign performing arts groups. The theatre show we chose was one of the famous scene in the Journey to the west, it was also related to what the girls will be learning in the upcoming chapter 13 of the 4B textbook.  
 
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/P4%20CL%20LJ%20to%20SG%20HHKA%202024/Show_is_starting_soon_.jpg" style="width:450px;height:300px;"><b>Show is starting soon!</b></td>
+		<td><img alt="childday02" src="/images/P4%20CL%20LJ%20to%20SG%20HHKA%202024/Engaged_in_the_show.jpg" style="width:280px;height:300px;"><b>Engaged in the show</b></td>
+</tr></tbody></table>
+
+
 The girls enjoyed the show as it was very engaging and interactive. The plot was twisted to fit our uniquely Singapore culture, it was very interesting and hilarious. We definitely enjoy the show very much and our girls feedback that the duration should be longer. 
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pKrB2E29_KM?si=qyMgfZvSTy8r3Azw" height="415" width="700"></iframe>
-
 </center>
