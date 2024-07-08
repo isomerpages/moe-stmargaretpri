@@ -31,7 +31,7 @@ These are the activities that the students participated for holistic learning.
 	<td><a href="/school-information/school-highlights/hari-raya-2024/"><img src="/images/Thumbnails/hariraya_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>P4 CL Learning Journey to Singapore Hokkien Huay Kuan Arts &amp; Cultural Troupe 2024</center></th> 
+			<th><center>P4 CL Learning Journey to<br>Singapore Hokkien Huay Kuan Arts<br> &amp; Cultural Troupe 2024</center></th> 
 		<th><center>Spotlight 2024</center></th> 
 		<th><center>Hari Raya Celebration 2024</center></th> 			
 			</tr>
