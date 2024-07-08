@@ -16,7 +16,7 @@ The theme "Singapore in Asia" highlighted the importance of collaboration and fr
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/IFD%202024/Carom_board.jpg" style="width:440px;height:300px;"><b>Students fascinated with the strikers and seeds on the carom board</b></td>
+		<td><img alt="childday01" src="/images/IFD%202024/Carom_board.jpg" style="width:440px;height:300px;"><b>Students fascinated with the strikers and <br>seeds on the carom board</b></td>
 		<td><img alt="childday02" src="/images/IFD%202024/Archery.jpg" style="width:300px;height:400px;"><b>Concentration is key for archery</b></td>
 </tr></tbody></table>
 
