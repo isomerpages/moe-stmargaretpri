@@ -14,10 +14,11 @@ Schools in Singapore commemorate International Friendship Day (IFD) annually on 
 
 The theme "Singapore in Asia" highlighted the importance of collaboration and friendship in making South-East Asia a better place. Through the CCE lessons, the students had a better understanding of the history and importance of ASEAN, and how the ASEAN countries are interconnected. The students were reminded of the significance of being welcoming and open-minded to people from all walks of life. By embracing the spirit of friendship and cooperation, we can create a brighter future together. 
 
-![](/images/IFD%202024/Carom_board.jpg)
-![](/images/IFD%202024/Archery.jpg)
-
-
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/IFD%202024/Carom_board.jpg" style="width:450px;height:300px;"><b>Students fascinated with the strikers and seeds on the carom board</b></td>
+		<td><img alt="childday02" src="/images/IFD%202024/Archery.jpg" style="width:280px;height:400px;"><b>Concentration is key for archery</b></td>
+</tr></tbody></table>
 
 
 Our school’s focus for IFD this year is the games played around the world. Over the course of two days, the students had the opportunity to go to several activity booths set up on the ground floor of the school. They could try their hand at archery, carom, rugby, gasing, kendama, origami and tuho. As they completed each station, they collected stamps on a make-believe passport as a mark of achievement. It was heartening to see the students having fun and interacting with the parent volunteers and teachers supervising the booths. They also learned a little bit of history from the information pinned near the booths, for example, the country of origin of the respective games. During Friday assembly, our very own students of different nationalities shared on stage about their home country’s traditions such as their traditional clothing, games and cultures. Through their sharing, the rest of the students gained a better understanding of other cultures around the world and realised how different yet similar our cultures are.
