@@ -16,7 +16,7 @@ This scheme aims to expose students to Chinese language-related cultural perform
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/P4%20CL%20LJ%20to%20SG%20HHKA%202024/Show_is_starting_soon_.jpg" style="width:450px;height:300px;"><b>Show is starting soon!</b></td>
+		<td><img alt="childday01" src="/images/P4%20CL%20LJ%20to%20SG%20HHKA%202024/Show_is_starting_soon_.jpg" style="width:450px;height:280px;"><b>Show is starting soon!</b></td>
 		<td><img alt="childday02" src="/images/P4%20CL%20LJ%20to%20SG%20HHKA%202024/Engaged_in_the_show.jpg" style="width:300px;height:400px;"><b>Engaged in the show</b></td>
 </tr></tbody></table>
 
