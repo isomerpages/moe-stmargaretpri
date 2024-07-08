@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: School Highlights
 ---
-### One Earth Challenge 2024 - P4 level
+### OneEarth Challenge 2024 - P4 level
 
 ##### 8 - 9 April 2024
 
