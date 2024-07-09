@@ -32,12 +32,12 @@ The objectives of the ECHA are:
 
       * Charity - shows care and concern for others
       * Patience - exercises self-control for others
-      *  Devotion - remains loyal and committed
-      *   Lifelong Learning - learns continuously
-      *   Integrity - chooses to do what is right
-      *    Graciousness - has good manners
-      *    Humility - values others above self
-      *   Tenacity - perseveres and is resilient
+      * Devotion - remains loyal and committed
+      * Lifelong Learning - learns continuously
+      * Integrity - chooses to do what is right
+      * Graciousness - has good manners
+      * Humility - values others above self
+      * Tenacity - perseveres and is resilient
 
   
 *   A high level of civic responsibility:&nbsp;Students who are concerned about issues in the community or issues faced by others, initiate action to address these issues to improve the lives of others, and demonstrate commitment to make a positive difference.  
