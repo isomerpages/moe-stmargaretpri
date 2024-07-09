@@ -53,13 +53,11 @@ __________________________________________________________
 
 During these monthly meetings, the prefects come together to learn about what it means to be a servant leader through team-building games and group discussions. They are also given the opportunity to work in teams to initiate, design and execute projects that aim to serve their fellow school mates and meet specific areas of need in the school or larger community.  
 
-
-
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/Children's%20Day%202023/primary%206%20vs%20teachers.JPG" style="width:450px;height:300px;"><b></b></td>
-		<td><img alt="childday02" src="/images/Children's%20Day%202023/primary%202%20girls%20presenting%20a%20song%20and%20dance%20for%20us.JPG" style="width:450px;height:300px;"><b></b></td>
-	<td><img alt="childday02" src="/images/Children's%20Day%202023/primary%202%20girls%20presenting%20a%20song%20and%20dance%20for%20us.JPG" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="childday01" src="/images/Student%20Development/stdleaderstraining1.jpg" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining2.jpg" style="width:300px;height:400px;"><b></b></td>
+	<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining3.jpeg" style="width:450px;height:300px;"><b></b></td>
 </tr></tbody></table>
 
 #### Sports Jamboree
