@@ -104,8 +104,8 @@ __________________________________________________________
 
 <table style="border: 2px solid black;">
   <tbody><tr style="border: 2px solid black;">
-    <th>Module</th>
-    <th>Resources</th>
+    <td style="border: 1px solid black; font-size: 18px;"><b>Module</b></td>
+    <td style="border: 1px solid black; font-size: 18px;"><b>Resources</b></td>
   </tr>
   <tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 18px;"><b>Education and Career Guidance</b></td>
