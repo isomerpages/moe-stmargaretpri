@@ -117,7 +117,6 @@ __________________________________________________________
      <th>Cyberwellness</th>
     <td><li>How you can support your child</li></td><td>
   </td></tr>
-	
 	 <tr style="border: 1px solid black;">
      <th>Sexuality Education</th>
     <td><li>Please click here to find out more</li></td><td>
