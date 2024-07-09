@@ -66,7 +66,7 @@ __________________________________________________________
 <thead>
   <tr>
     <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Teaching and Learning</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Learning Experiences</span></th>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Student Development Experiences</span></th>
     <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Support Structures</span></th>
   </tr>
 </thead>
