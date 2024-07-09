@@ -83,6 +83,7 @@ __________________________________________________________
 __________________________________________________________
 
 *   Lessons will provide for the explicit teaching of the values, knowledge, skills and competencies that are critical for character and citizenship development. These lessons include the lessons for CCE (Form Teacher Guidance Period - FTGP) and \*CCE (Mother Tongue Languages - MT).
+*   Programme for Active Learning (PAL) is an integral part of the curriculum for all Primary 1 and 2 students. The programme offers hands-on and experiential learning through the following four domains: Sports &amp; Games, Outdoor Education, Visual Arts, and Performing Arts. PAL provides opportunities for students to discover new interests, develop character and enables them to develop social-emotional competencies.
 
 &nbsp; &nbsp; &nbsp;_\* Pupils exempted from MTL will have their CCE lessons in English._
 
