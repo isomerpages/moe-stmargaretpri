@@ -111,7 +111,7 @@ __________________________________________________________
      <td style="border: 1px solid black; font-size: 18px;"><b>Education and Career Guidance</b></td>
 <td style="border: 1px solid black;"><ul><li><a href="https://www.schoolbag.edu.sg/story/education-and-career-guidance/#.V4bbeOt97IU" target="_blank">How you can support your child</a></li>
 <li><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank">myskillsfuture.sg</a> (For P5 and P6 - Login required)</li>
-An online portal that facilitates education and career development among students.<br> This portal aims to help students discover their identity through awareness,<br> exploration and planning. Click&nbsp;[here](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)&nbsp;<br>for a glimpse into the myskillsfuture.sg Portal
+An online portal that facilitates education and career development among students.<br> This portal aims to help students discover their identity through awareness, exploration and planning. Click <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank">here</a> for a glimpse into the myskillsfuture.sg portal.
 <li><a href="https://www.schoolbag.edu.sg/features/teaching-learning/" target="_blank">Articles on Schoolbag</a></li></ul>
 </td></tr>
 	 <tr style="border: 1px solid black;">
