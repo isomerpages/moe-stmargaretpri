@@ -101,7 +101,28 @@ __________________________________________________________
 
 **For more information, click on the links below**
 
-
+<table style="border: 2px solid black;">
+  <tbody><tr style="border: 2px solid black;">
+    <th>Module</th>
+    <th>Resources</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+     <th>**Education and Career Guidance**</th>
+    <td><li>How you can support your child</li>
+<li>myskillsfuture.sg (For P5 and P6 - Login required)</li>
+<br>An online portal that facilitates education and career development among students.<br> This portal aims to help students discover their identity through awareness,<br> exploration and planning. Click&nbsp;[here](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)&nbsp;<br>for a glimpse into the myskillsfuture.sg Portal
+<li>Articles on Schoolbag</li>
+</td></tr>
+	 <tr style="border: 1px solid black;">
+     <th>Cyberwellness</th>
+    <td><li>How you can support your child</li></td><td>
+  </td></tr>
+	
+	 <tr style="border: 1px solid black;">
+     <th>Sexuality Education</th>
+    <td><li>Please click here to find out more</li></td><td>
+  </td></tr>
+</tbody></table>
 
 
 
