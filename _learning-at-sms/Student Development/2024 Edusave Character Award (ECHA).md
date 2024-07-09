@@ -1,8 +1,9 @@
 ---
-title: 2023 Edusave Character Award (ECHA)
+title: 2024 Edusave Character Award (ECHA)
 permalink: /learning-at-sms/student-development/echa-nomination/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ### Edusave Character Award (ECHA)
 __________________________________________________________
@@ -29,17 +30,16 @@ The objectives of the ECHA are:
 
 *   School motto and values:
 
-* Charity - shows care and concern for others
-* Patience - exercises self-control for others
-*  Devotion - remains loyal and committed
-*   Lifelong Learning - learns continuously
-*   Integrity - chooses to do what is right
-*    Graciousness - has good manners
-*    Humility - values others above self
-*   Tenacity - perseveres and is resilient
+      * Charity - shows care and concern for others
+      * Patience - exercises self-control for others
+      * Devotion - remains loyal and committed
+      * Lifelong Learning - learns continuously
+      * Integrity - chooses to do what is right
+      * Graciousness - has good manners
+      * Humility - values others above self
+      * Tenacity - perseveres and is resilient
 
   
-
 *   A high level of civic responsibility:&nbsp;Students who are concerned about issues in the community or issues faced by others, initiate action to address these issues to improve the lives of others, and demonstrate commitment to make a positive difference.  
       
     
@@ -50,9 +50,9 @@ The objectives of the ECHA are:
 #### Nomination
 
 
-The nomination period starts on 17 July 2023. Students can be nominated by staff, parents, coaches and other partners using the prescribed nomination form. In addition, they can be nominated by their peers (only P3-P6). The forms can be obtained&nbsp;[here](/files/annex a echa nomination form 2023.pdf) and P3-P6 Form Teachers.    
+The nomination period starts on **17 July 2024**. Students can be nominated by staff, parents, coaches and other partners using the prescribed nomination form. In addition, they can be nominated by their peers (only P3-P6). The forms can be obtained&nbsp;[here](/files/Annex_A_ECHA_nomination_form_2024.pdf) and P3-P6 Form Teachers.    
 
-The form must be duly completed, signed and submitted through Form Teachers or via email&nbsp;[stmargaretps@moe.edu.sg](mailto:stmargaretps@moe.edu.sg)&nbsp;&nbsp;by 31 July 2023. Incomplete forms will be rejected.  
+The form must be duly completed, signed and submitted through Form Teachers or via email&nbsp;[stmargaretps@moe.edu.sg](mailto:stmargaretps@moe.edu.sg)&nbsp;&nbsp;by **31 July 2024**. Incomplete forms will be rejected.  
 
   
 
