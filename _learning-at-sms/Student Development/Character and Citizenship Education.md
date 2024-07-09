@@ -116,7 +116,7 @@ An online portal that facilitates education and career development among student
 </td></tr>
 	 <tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 18px;"><b>Cyberwellness</b></td>
-    <td style="border: 1px solid black;"><ul><li><a href="[Cyber wellness | MOE](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)" target="_blank">How you can support your child</a></li></ul></td><td>
+    <td style="border: 1px solid black;"><ul><li><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" target="_blank">How you can support your child</a></li></ul></td><td>
   </td></tr>
 	 <tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 18px;"><b>Sexuality Education</b></td>
