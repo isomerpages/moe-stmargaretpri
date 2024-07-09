@@ -6,20 +6,16 @@ third_nav_title: Student Development
 variant: markdown
 ---
 ### Vision, Mission and Goals
-__________________________________________________________
+___________________________________________________________________
 
 
 #### Vision
 
 SMS(P) students will be servant leaders who display the spirit of excellence and good character.
 
-  
-
 #### Mission
 
-Train up a&nbsp;child in the way he should go and when he is old, he will not depart from it. (Proverbs 22:6)
-
-  
+Train up a&nbsp;child in the way he should go and when he is old, he will not depart from it. <br>(Proverbs 22:6)
 
 #### Goals
 
@@ -73,7 +69,7 @@ __________________________________________________________
 <tbody>
   <tr>
     <td class="tg-5env">CCE (FTGP) &amp; CCE (MT) lessons<br>Social Studies lessons<br>Programme for Active Learning (PAL)<br>Assemblies 1 &amp; 2<br>Infusion into other subjects  </td>
-    <td>Co-Curricular Activities <a href="/learning-at-sms/co-curricular-activities/cca-framework-and-policies/">CCA</a><br>Education and Career Guidance (ECG) Experiences<br>Values in Action (VIA)<br>National Education (NE) Days<br>Commemorative Days<br><a href="/learning-at-sms/student-development/student-leadership/">Student Leadership</a>Development Programmes<br>Cohort Learning Journeys<br>Level Camps<br><a href="/school-information/school-highlights/student-learning-festival-2023/">Student Learning Festival<br><br></a></td>
+    <td>Co-Curricular Activities <a href="/learning-at-sms/co-curricular-activities/cca-framework-and-policies/">CCA</a><br>Education and Career Guidance (ECG) Experiences<br>Values in Action (VIA)<br>National Education (NE) Days<br>Commemorative Days<br><a href="/learning-at-sms/student-development/student-leadership/">Student Leadership</a> Development Programmes<br>Cohort Learning Journeys<br>Level Camps<br><a href="/school-information/school-highlights/student-learning-festival-2023/">Student Learning Festival<br><br></a></td>
     <td class="tg-5env">Morning Devotion<br>Discipline<br>Counselling<br>Special Educational Needs<br>Student Recognition<br>Student Reflections<br>Partnerships<br>Staff Development<br><br></td>
   </tr>
 </tbody>
