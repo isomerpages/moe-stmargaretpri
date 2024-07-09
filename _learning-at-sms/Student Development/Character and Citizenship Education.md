@@ -109,19 +109,20 @@ __________________________________________________________
   </tr>
   <tr style="border: 1px solid black;">
      <td style="border: 1px solid black;"><b>Education and Career Guidance</b></td>
-<td style="border: 1px solid black;"><li>How you can support your child</li>
+<td style="border: 1px solid black;"><ul><li>How you can support your child</li>
 <li>myskillsfuture.sg (For P5 and P6 - Login required)</li>
 An online portal that facilitates education and career development among students.<br> This portal aims to help students discover their identity through awareness,<br> exploration and planning. Click&nbsp;[here](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)&nbsp;<br>for a glimpse into the myskillsfuture.sg Portal
-<li>Articles on Schoolbag</li>
+<li>Articles on Schoolbag</li></ul>
 </td></tr>
 	 <tr style="border: 1px solid black;">
      <td style="border: 1px solid black;"><b>Cyberwellness</b></td>
-    <td style="border: 1px solid black;"><li>How you can support your child</li></td><td>
+    <td style="border: 1px solid black;"><ul><li>How you can support your child</li></ul></td><td>
   </td></tr>
 	 <tr style="border: 1px solid black;">
      <td style="border: 1px solid black;"><b>Sexuality Education</b></td>
-    <td style="border: 1px solid black;"><li>Please click here to find out more</li></td><td>
-  </td></tr>
+    <td style="border: 1px solid black;"><ul><li>Please click here to find out more</li><ul></ul></ul></td><td>
+  </td>
+		</tr>
 </tbody></table>
 
 
