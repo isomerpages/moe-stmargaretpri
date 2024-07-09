@@ -109,18 +109,18 @@ __________________________________________________________
   </tr>
   <tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 20px;"><b>Education and Career Guidance</b></td>
-<td style="border: 1px solid black;"><ul><li>How you can support your child</li>
-<li>myskillsfuture.sg (For P5 and P6 - Login required)</li>
+<td style="border: 1px solid black;"><ul><li><a href="https://www.schoolbag.edu.sg/story/education-and-career-guidance/#.V4bbeOt97IU" target="_blank">How you can support your child</a></li>
+<li><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" target="_blank">myskillsfuture.sg</a>(For P5 and P6 - Login required)</li>
 An online portal that facilitates education and career development among students.<br> This portal aims to help students discover their identity through awareness,<br> exploration and planning. Click&nbsp;[here](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)&nbsp;<br>for a glimpse into the myskillsfuture.sg Portal
-<li>Articles on Schoolbag</li></ul>
+<li><a href="[Teaching &amp; Learning (schoolbag.edu.sg)](https://www.schoolbag.edu.sg/features/teaching-learning/)" target="_blank">Articles on Schoolbag</a></li></ul>
 </td></tr>
 	 <tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 20px;"><b>Cyberwellness</b></td>
-    <td style="border: 1px solid black;"><ul><li>How you can support your child</li></ul></td><td>
+    <td style="border: 1px solid black;"><ul><li><a href="[Cyber wellness | MOE](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)" target="_blank">How you can support your child</a></li></ul></td><td>
   </td></tr>
 	 <tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 20px;"><b>Sexuality Education</b></td>
-    <td style="border: 1px solid black;"><ul><li>Please click here to find out more</li><ul></ul></ul></td><td>
+    <td style="border: 1px solid black;"><ul><li>Please click <a href="[Cyber wellness | MOE](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)">here</a> to find out more</li><ul></ul></ul></td><td>
   </td>
 		</tr>
 </tbody></table>
