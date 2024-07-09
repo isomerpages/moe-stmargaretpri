@@ -30,14 +30,14 @@ The objectives of the ECHA are:
 
 *   School motto and values:
 
-* Charity - shows care and concern for others
-* Patience - exercises self-control for others
-*  Devotion - remains loyal and committed
-*   Lifelong Learning - learns continuously
-*   Integrity - chooses to do what is right
-*    Graciousness - has good manners
-*    Humility - values others above self
-*   Tenacity - perseveres and is resilient
+      * Charity - shows care and concern for others
+      * Patience - exercises self-control for others
+      *  Devotion - remains loyal and committed
+      *   Lifelong Learning - learns continuously
+      *   Integrity - chooses to do what is right
+      *    Graciousness - has good manners
+      *    Humility - values others above self
+      *   Tenacity - perseveres and is resilient
 
   
 
