@@ -40,7 +40,6 @@ The objectives of the ECHA are:
       *   Tenacity - perseveres and is resilient
 
   
-
 *   A high level of civic responsibility:&nbsp;Students who are concerned about issues in the community or issues faced by others, initiate action to address these issues to improve the lives of others, and demonstrate commitment to make a positive difference.  
       
     
