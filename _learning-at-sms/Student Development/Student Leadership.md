@@ -55,9 +55,9 @@ During these monthly meetings, the prefects come together to learn about what it
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/Student%20Development/stdleaderstraining1.jpg" style="width:450px;height:300px;"><b></b></td>
-		<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining2.jpg" style="width:300px;height:400px;"><b></b></td>
-	<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining3.jpeg" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="childday01" src="/images/Student%20Development/stdleaderstraining1.jpg" style="width:450px;height:270px;"><b></b></td>
+		<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining2.jpg" style="width:320px;height:350px;"><b></b></td>
+	<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining3.jpeg" style="width:450px;height:270px;"><b></b></td>
 </tr></tbody></table>
 
 #### Sports Jamboree
