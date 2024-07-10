@@ -89,7 +89,7 @@ The Art Department aims to nurture in pupils a love for the visual arts by devel
 *   Drawing&nbsp;
 *   Mixed media art&nbsp;&nbsp;
 *   Painting (Acrylic and Watercolour)
-*   Printmaking (Relief print, collagraph, foam print, lino print)
+*   3D Art forms (wire sculpture, clay-making, relief)
 *   Photography
 *   P6 Graduation Art Exhibition
 *   Art recess activities&nbsp;
