@@ -95,7 +95,6 @@ The Art Department aims to nurture in pupils a love for the visual arts by devel
 *   Art recess activities&nbsp;
 *   Museum-based Learning&nbsp;
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -109,24 +108,22 @@ The Art Department aims to nurture in pupils a love for the visual arts by devel
 <thead>
   <tr>
     <th class="tg-0lax"><img src="/images/artJuly01.jpg"></th>
-    <th class="tg-0lax"><img src="/images/artJuly02.jpg"></th>
+    <th class="tg-0lax"><img src="/images/Department/Aesthetic/P5_Photography_Programme_in_School.jpg"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-amwm">Observe, appreciate, and provide  
 feedback to peers</td>
-    <td class="tg-amwm">Self-directed learning at the  
-printmaking stations</td>
+    <td class="tg-amwm">Photography in school</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/artJuly03.jpg"></td>
-    <td class="tg-0lax"><img src="/images/artJuly04.jpg"></td>
+    <td class="tg-0lax"><img src="/images/Department/Aesthetic/Collaborative_learning_during_Art_lessons_1.jpg"></td>
+    <td class="tg-0lax"><img src="/images/Department/Aesthetic/Collaborative_learning_during_Art_lessons_2.jpg"></td>
   </tr>
   <tr>
-    <td class="tg-amwm">Photography in School</td>
-    <td class="tg-amwm">Collaborative learning during  
-P6 Graduation Art Project</td>
+    <td class="tg-amwm">Collaborative learning during Art lessons</td>
+    <td class="tg-amwm">Collaborative learning during Art lessons</td>
   </tr>
 </tbody>
 </table>
