@@ -113,7 +113,7 @@ The Art Department aims to nurture in pupils a love for the visual arts by devel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-amwm">Observe, appreciate, and provide  
+    <td class="tg-amwm">Observe, appreciate and provide  
 feedback to peers</td>
     <td class="tg-amwm">Photography in school</td>
   </tr>
