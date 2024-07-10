@@ -52,11 +52,18 @@ To add on to their primary school art education experience, learning journeys ar
 *   Learning journey to art gallery / public art
 
 ![](/images/CCAs/Art%20Club/artclub01.jpg)
-![](/images/CCAs/Art%20Club/artclub02.jpg)
 <center><b>Art Club members engaged in art-making for their SYF projects</b></center>
 
-![](/images/CCAs/Art%20Club/artclub03.jpg)
-<center><b>Learning Journey to The Children's Museum</b></center>
 
-![](/images/CCAs/Art%20Club/artclub04.jpg)
-<center><b>Paper Quilling Workshop by CCA leaders</b></center>
+<center><b>Learning Journey to The Children's Biennale <br>at National Gallery Singapore</b></center>
+
+
+
+
+<center><b>Clay Magnet Workshop by CCA leaders</b></center>
+
+
+
+
+
+<center><b>Calligraphy &amp; Floral Painting Workshop</b></center>
