@@ -47,15 +47,15 @@ The 2024 Hari Raya celebration began with a stunning exhibition in the school li
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya exhibition in the school library</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student ambassadors explaining about the Malay culture</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/students_participation.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/students_participation.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in interactive exhibition using iPads</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya performance in the Hall</b></font></center>
 </td>
 </tr>
 </tbody></table>
