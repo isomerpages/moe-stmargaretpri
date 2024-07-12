@@ -8,16 +8,22 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
-     Chinese Language
+     Mother Tongue Language
  </font></th>
 </tr>
 	<tr>
 </tr>
 </tbody></table>
 
-The school aims to cultivate pupils' interest in Chinese Language and further develop their listening, speaking, reading and writing skills through various platforms.
+#### Department Vision
 
-Programmes are organised to engage pupils and support learning. These programmes include the Mother Tongue Language Fortnight programmes, language and cultural camps, enrichment classes and Chinese theatre exposure programme.
+Empowering Bilingualism Learners: Cultivating Cultural Roots, Fostering Future Leaders 
+
+#### Student Outcomes
+
+1. Confident Bilingual Communicators: Students develop proficient communication skills in their mother tongue languages, empowering them to express themselves effectively in diverse contexts. 
+2. Cultural Stewards: Students love, appreciate, and perpetuate their traditional ethnic cultures, fostering a sense of belonging to their heritage and Singaporean identity. 
+3. Global Citizens: Students cultivate cross-cultural literacy and demonstrate kindness and sensitivity towards individuals from diverse backgrounds, preparing them to thrive in an interconnected world. 
 
 
 <table>
