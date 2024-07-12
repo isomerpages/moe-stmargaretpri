@@ -115,15 +115,15 @@ In alignment with our school theme, "A Heart of Thanksgiving to Love and Serve,"
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/p3_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/p3_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Performance by the P3 students</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/3d_cards.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/3d_cards.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students crafted own CNY 3D cards</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/mattar_mrt.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/mattar_mrt.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students wishing Mattar MRT staff Happy CNY</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/cny_gifts.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/cny_gifts.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students presenting CNY gifts to our neighbours!</b></font></center>
 </td>
 </tr>
 </tbody></table>
