@@ -92,63 +92,38 @@ Both experiences sparked curiosity and expanded horizons, enriching their educat
 </tr>
 </tbody></table>
 
-#### **4) Level Competitions - P1 to P6**
+#### **4) Chinese New Year Celebrations 2024**
 
-To create a vibrant MTL learning environment in school, level competitions are organised for all levels, such as story-telling, creative writing, language quizzes, etc. Besides aiming to raise pupils' Mother Tongue proficiency, the level competitions also serve as platforms for pupils to showcase their skills and talents.
+Amidst the festive spirit, the school welcomed Chinese New Year, commencing celebrations with recess activities, including engaging iPad games and lively card-matching challenges. The day's highlight unfolded in a vibrant concert, where students joyously sang and danced to the lively tunes of Chinese New Year songs. As the festivities peaked, students concluded the day with Chinese New Year decorations and craft hands-on activities.
+
+In alignment with our school theme, "A Heart of Thanksgiving to Love and Serve," a group of P5 students embraced the role of gratitude ambassadors. Venturing beyond the school walls, they generously gifted oranges and Chinese New Year cards to our neighbours. Public bus drivers who serve the bus-stops outside SMS(P), were also surprised to receive tokens of appreciation from teachers. Their joy was evident as they accepted these thoughtful gifts. The act of extending warm wishes for the festive season left a lasting impact not only within the school community, but also with the school's partners. This heartwarming gesture strengthened the bond between the school and its extended community, fostering a spirit of appreciation and goodwill.
+
 
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
-  Useful Chinese Websites
+  Useful MTL Websites
  </font></th>
 </tr>
 	<tr>
 </tr>
 </tbody></table>
+
+##### Chinese Language
 
 1. **知识网**
-<br><a href="https://www.ezhishi.net" target="_blank">www.ezhishi.net</a>
+<br><a href="https://www.ezhishi.net/" target="_blank">www.ezhishi.net</a>
     
 2.  **早报网**
-<br><a href="https://www.zaobao.com.sg" target="_blank">www.zaobao.com.sg</a>
+<br><a href="https://www.zaobao.com.sg/" target="_blank">www.zaobao.com.sg</a>
 
-<br>
-<table>
-	<tbody><tr>
-		<th><font size="6" color="maroon">
-    Achievements
- </font></th>
-</tr>
-	<tr>
-</tr>
-</tbody></table>
+##### Malay Language
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bzhr{background-color:#D6E6C7;color:#2A5629;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bzhr"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Title of Competition</span></th>
-    <th class="tg-bzhr"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Winners</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5">National YMCA Mandarin Speaking Competition 2023 <br>(12 Apr 2023)</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 student selected to Semi-Finalist</span></td>
-  </tr>
-	 <tr>
-    <td class="tg-dgl5">National Text Recitation Competition 2023 <br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Bronze Award</span></td>
-  </tr>
- 
-</tbody>
-</table>
+1. Kamus Dewan Online
+<br><a href="http://prpm.dbp.gov.my/" target="_blank">http://prpm.dbp.gov.my/</a>
+
+
+2. Berita Harian SG
+<br><a href="https://www.beritaharian.sg/" target="_blank">www.beritaharian.sg/
+</a>
+
