@@ -113,6 +113,27 @@ Amidst the festive spirit, the school welcomed Chinese New Year, commencing cele
 
 In alignment with our school theme, "A Heart of Thanksgiving to Love and Serve," a group of P5 students embraced the role of gratitude ambassadors. Venturing beyond the school walls, they generously gifted oranges and Chinese New Year cards to our neighbours. Public bus drivers who serve the bus-stops outside SMS(P), were also surprised to receive tokens of appreciation from teachers. Their joy was evident as they accepted these thoughtful gifts. The act of extending warm wishes for the festive season left a lasting impact not only within the school community, but also with the school's partners. This heartwarming gesture strengthened the bond between the school and its extended community, fostering a spirit of appreciation and goodwill.
 
+![](/images/Department/MT%20Language/p3_performance.jpg)
+![](/images/Department/MT%20Language/3d_cards.jpg)
+![](/images/Department/MT%20Language/mattar_mrt.jpg)
+![](/images/Department/MT%20Language/cny_gifts.jpg)
+
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/walk_at_museum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/opera_costume.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/watch_live.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/p5_hcl.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+</tr>
+</tbody></table>
+
 
 <table>
 	<tbody><tr>
