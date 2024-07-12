@@ -126,4 +126,3 @@ In alignment with our school theme, "A Heart of Thanksgiving to Love and Serve,"
 2. Berita Harian SG
 <br><a href="https://www.beritaharian.sg/" target="_blank">www.beritaharian.sg/
 </a>
-
