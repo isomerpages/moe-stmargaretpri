@@ -68,13 +68,18 @@ During MT Fortnight, students learnt about how cultures and values are tied in t
 Additionally, students also delved into the fascinating world of spices, exploring the diverse array of flavors and aromas used in different cultures. Utilizing their five senses, they embarked on a sensory journey to discover the unique characteristics of various spices. This immersive approach encouraged students to appreciate the richness of cultural diversity.
 
 Through these activities, students not only gained valuable knowledge but also developed a greater appreciation for the values and different cultures that shape our world.
-  
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20is%20doing%20great%20for%20her%20Rangoli%20Making.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Student is doing great for her Rangoli Making</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/recess_activity.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Student%20presenting%20her%20work%20proudly.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Student presenting her work proudly</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/indian_drum.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b></b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/bunga_rampai.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/design_kites.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b></b></font></center>
 </td>
 </tr>
 </tbody></table>
