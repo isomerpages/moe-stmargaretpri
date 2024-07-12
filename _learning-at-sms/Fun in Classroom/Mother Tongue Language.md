@@ -45,12 +45,22 @@ The school aims to cultivate students’ interest in their Mother Tongue Languag
 
 The 2024 Hari Raya celebration began with a stunning exhibition in the school library, featuring beautiful pop-up displays loaned from the Malay Heritage Centre. These exhibitions provided students with an opportunity to learn more about the Hari Raya celebration in Singapore. Malay Language students from P3 to P6 played a crucial role as Malay Language Culture Ambassadors, explaining Malay culture and the significance of Hari Raya to their peers. Additionally, students interacted with the exhibits through interactive questions on iPads. The Hari Raya celebration in the school hall featured a skit titled "Awakening Traditions". Students learnt about the cultural and religious significance of Hari Raya. 
 
+![](/images/Department/MT%20Language/student_embassador.jpg)
+![](/images/Department/MT%20Language/hari_raya_performance.jpg)
+![](/images/Department/MT%20Language/hari_raya_exhibition.jpg)
+
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Comics%20drawing%20activity.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Comics drawing activity</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/Guessing%20the%20riddles.jpeg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Guessing the riddles</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
 </tr>
 </tbody></table>
