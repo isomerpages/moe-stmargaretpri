@@ -92,12 +92,17 @@ Meanwhile, P5 HCL students ventured into the world of journalism at Singapore Pr
 
 Both experiences sparked curiosity and expanded horizons, enriching their educational journey at SMS(P).
 
-
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/IMG_0066.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Classroom Actvities</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/walk_at_museum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CL%20Dpt%202022/IMG_0021.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Dancing during Concert</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/opera_costume.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/watch_live.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/p5_hcl.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
 </tr>
 </tbody></table>
