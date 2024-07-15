@@ -25,7 +25,6 @@ __________________________________________________________
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leaders must be grounded in values
 
-![Servant Leadership.jpg](/images/Servant%20Leadership.jpg)  
 
 
 ### Student Leaders' Pledge
