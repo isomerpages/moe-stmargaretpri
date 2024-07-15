@@ -49,20 +49,20 @@ ___________________________________________________________
   
 
 **Social:**&nbsp;&nbsp;All the girls are put into squads which contain girls from Primary 3 all the way to Primary 6. The girls are given the opportunity to fellowship with others across all levels. With the interaction, stronger ties are forged between the girls and they become like family to one another. The younger girls look up to the older ones while the older ones learn to be responsible and to set a good example to their juniors. There are opportunities to fellowship every week but most especially during camps. The girls also learn through badges and activities to be of service to their Home, School, Community, Country and the World.
-![](/images/CCAs/Girls%20Brigade/pic__6_.jpg)
+
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" style="width:450px;height:300px;"><b>Primary 6 vs Teachers</b></td>
-		<td><img alt="childday02" src="/images/CCAs/Girls%20Brigade/pic__4_.jpg" style="width:450px;height:300px;"><b>Primary 2 girls presenting a song and dance for us</b></td>
+		<td><img alt="childday01" src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" style="width:450px;height:300px;"><b></b></td>
+		<td><img alt="childday02" src="/images/CCAs/Girls%20Brigade/pic__4_.jpg" style="width:450px;height:300px;"><b></b></td>
 </tr></tbody></table>	
 
-![](/images/CCAs/Girls%20Brigade/pic_5.jpg)
 ![](/images/CCAs/Girls%20Brigade/pic__5_.jpg)
+
 
 **Spiritual:**&nbsp;With Christ at the heart of The Girls’ Brigade, He plays a central role in this programme. Worship and devotions are held during every meeting and&nbsp;camp. The girls learn and understand Christ’s way of life during devotions and praise and worship so that they would be able to strive towards leading a similar one in their everyday&nbsp;life. 
 
-![](/images/CCAs/Girls%20Brigade/gb%20pic%2011.jpg)
+![](/images/CCAs/Girls%20Brigade/pic__6_.jpg)
 
 
 ## Annual Camp
@@ -72,15 +72,16 @@ Each year, our girls look forward to participating in our annual camp because th
 
 The theme of our 2024 camp was ‘Ladies of Character'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about how gems are mined and identified from a gemologist at The Gem Museum, how to be of service to one another through serving and cleaning up during meals. The also picked up a new skill of playing badminton. Their bonds were strengthened through teamwork during the activities.
 
+![](/images/CCAs/Girls%20Brigade/pic__7_.jpg)
+
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2013.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__8_.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
 </td>
 <td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2012.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__9_.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
 </td>
 </tr></tbody></table>
-
 
 
 Some activities organised by the Girls’ Brigade Headquarters include the Junior Leader Training Camp and the Fast, Food and Fuzz Camp 2024. Through these events, our girls get the opportunity to interact with GB members from the other primary companies and learn new things.&nbsp; &nbsp;
@@ -104,7 +105,7 @@ ___________________________________________________________
 -  SMS(P) Annual Camp 2024<br><br>
 </font>
 </td>
-<td><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+<td><img src="/images/CCAs/Girls%20Brigade/pic__10_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
 </td>
 </tr></tbody></table>
 
