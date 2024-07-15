@@ -105,7 +105,7 @@ ___________________________________________________________
 -  SMS(P) Annual Camp 2024<br><br>
 </font>
 </td>
-<td><img src="/images/CCAs/Girls%20Brigade/pic__10_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+<td><img src="/images/CCAs/Girls%20Brigade/pic__10_.jpg" alt="volunteer recess ministry pv" style="width:450px;height:300px;">
 </td>
 </tr></tbody></table>
 
