@@ -53,8 +53,8 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" style="width:400px;height:300px;"><b></b></td>
-		<td><img alt="childday02" src="/images/CCAs/Girls%20Brigade/pic__4_.jpg" style="width:400px;height:300px;"><b></b></td>
+		<td><img alt="childday01" src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" style="width:330px;height:300px;"><b></b></td>
+		<td><img alt="childday02" src="/images/CCAs/Girls%20Brigade/pic__4_.jpg" style="width:330px;height:300px;"><b></b></td>
 </tr></tbody></table>	
 
 ![](/images/CCAs/Girls%20Brigade/pic__5_.jpg)
