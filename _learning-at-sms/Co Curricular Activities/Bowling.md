@@ -82,6 +82,11 @@ To emerge as the Top 4 in the National Primary Schools Championships for both Ju
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-f4yw"> 2024</td>
+    <td class="tg-f4yw"> Nil<br></td>
+    <td class="tg-f4yw"> Nil</td>
+  </tr>
   <tr>
     <td class="tg-f4yw"> 2023</td>
     <td class="tg-f4yw"> Senior Division<br>Overall - 2nd<br>Singles - 3rd<br>Doubles – 2nd<br>Quartets - 4th<br></td>
