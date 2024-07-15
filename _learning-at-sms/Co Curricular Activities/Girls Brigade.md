@@ -145,7 +145,20 @@ ___________________________________________________________
   </tr>
 </thead>
 <tbody>
-	  <tr>
+	 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
+    <td class="tg-ktyi">Junior Brigader Brooch 2024 </td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Gold</span></td>
+  </tr>
+	 <tr>
+	  </tr><tr> 
+	</tr><tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
+    <td class="tg-ktyi">Company Award</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Bronze</span></td>
+  </tr>
+	 <tr>
+	  </tr><tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
     <td class="tg-ktyi">National Drill Competition Achievement 2023</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Gold</span></td>
