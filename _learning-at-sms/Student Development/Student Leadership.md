@@ -70,6 +70,6 @@ The Student Leaders’ Investiture takes place at the end of Semester 1 annually
 ![](/images/Student%20Development/1_Captains.jpg)<center><b>P5 CCA Leaders and P4 &amp; P5 Prefects and Prefect Captains</b></center>
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/Student%20Development/3_Speech.jpg" style="width:300px;height:400px;"><b>Head Prefect giving her Speech</b></td>
-		<td><img alt="childday02" src="/images/Student%20Development/2_Pledge.jpg" style="width:450px;height:280px;"><b>Taking the Student Leaders Pledge</b></td>
+		<td><img alt="childday01" src="/images/Student%20Development/3_Speech.jpg" style="width:300px;height:380px;"><b>Head Prefect giving her Speech</b></td>
+		<td><img alt="childday02" src="/images/Student%20Development/2_Pledge.jpg" style="width:400px;height:280px;"><b>Taking the Student Leaders Pledge</b></td>
 </tr></tbody></table>
