@@ -29,11 +29,11 @@ ___________________________________________________________
 
 Girls' Brigade 25th Company is a Christian uniformed-group organisation. We believe in developing every girl to their fullest potential by equipping, empowering and enabling-&nbsp;_Every Girl Becoming a Leader, Every Officer a Servant Leader_&nbsp;. The Girls' Brigade acknowledges Jesus Christ as Saviour and Lord according to the Scriptures, and seeks to help girls find true enrichment of life through self-control, reverence and a sense of responsibility.
 
-![](/images/CCAs/Girls%20Brigade/gb%20pic%201.jpg)
+![](/images/CCAs/Girls%20Brigade/pic__1_.jpg)
 
 We aim to offer our girls a holistic, all-rounded, four-fold programme.&nbsp;The programme is concerned with the SPIRITUAL, PHYSICAL, EDUCATIONAL and SOCIAL development of the girls. Each meeting starts with praise and worship and devotion.&nbsp;Thereafter, there will be badgework activities, squad time, station games and even foot drill. The girls are given opportunities during GB meetings, school and national events to love, lead and serve people around them.
 
-![](/images/CCAs/Girls%20Brigade/gb%20pic%202.jpg)
+![](/images/CCAs/Girls%20Brigade/pic__2_.jpg)
 
 ### Four-Fold Programme
 ___________________________________________________________
@@ -41,17 +41,7 @@ ___________________________________________________________
 
 **Educational:**&nbsp;The educational aspect of this programme involves widening interests, cultivating meaningful pursuits and improving the knowledge and skills of the girls. This aspect is seen most commonly through our Badge Work sessions. During the&nbsp;Badge Work sessions, girls are required to accomplish a great variety of tasks in order to earn their badges.&nbsp;
 
-
-<table>
-<tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%203.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-<td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%204.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%205.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-</tr></tbody></table>
+![](/images/CCAs/Girls%20Brigade/pic__3_.jpg)
 
 **Physical:**&nbsp;The physical aspect of this programme helps to develop the physical skills of the girls. They participate actively in physical activities and learn to care for themselves and develop important character traits such as discipline. Discipline is cultivated through drill which is one of the more prominent areas under this aspect. Time is set aside for the girls to engage in drill. However, drill is not the only component of the physical aspect of GB. Weekly games are often planned and led by the girls to develop their leadership qualities.&nbsp;&nbsp;
 
@@ -62,14 +52,8 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-<td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%208.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-	<td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%209.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
+		<td><img alt="childday01" src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" style="width:450px;height:300px;"><b>Primary 6 vs Teachers</b></td>
+		<td><img alt="childday02" src="/images/CCAs/Girls%20Brigade/pic__4_.jpg" style="width:450px;height:300px;"><b>Primary 2 girls presenting a song and dance for us</b></td>
 </tr></tbody></table>
 
 ![](/images/CCAs/Girls%20Brigade/gb%20pic%2010.jpg)
@@ -87,14 +71,14 @@ Each year, our girls look forward to participating in our annual camp because th
 The theme of our 2024 camp was ‘Ladies of Character'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about how gems are mined and identified from a gemologist at The Gem Museum, how to be of service to one another through serving and cleaning up during meals. The also picked up a new skill of playing badminton. Their bonds were strengthened through teamwork during the activities.
 
 
-![](/images/CCAs/Girls%20Brigade/gb%20pic%2012.jpg)
+![](/images/CCAs/Girls%20Brigade/pic__4_.jpg)
 
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2013.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
 </td>
 <td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2014.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2012.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
 </td>
 </tr></tbody></table>
 
