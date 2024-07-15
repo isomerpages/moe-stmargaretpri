@@ -1,6 +1,6 @@
 ---
 title: 2024 Edusave Character Award (ECHA)
-permalink: /learning-at-sms/student-development/echa-nomination/
+permalink: /learning-at-sms/student-development/2024-echa-nomination/
 description: ""
 third_nav_title: Student Development
 variant: markdown
@@ -49,12 +49,9 @@ The objectives of the ECHA are:
 
 #### Nomination
 
+Students can be nominated by staff or parents via the link shared on Parent Gateway by <br>**31 July 2024**. In addition, they can be nominated by their peers (P3-6) via hardcopy in school. Incomplete forms will be rejected.
 
-The nomination period starts on **17 July 2024**. Students can be nominated by staff, parents, coaches and other partners using the prescribed nomination form. In addition, they can be nominated by their peers (only P3-P6). The forms can be obtained&nbsp;[here](/files/Annex_A_ECHA_nomination_form_2024.pdf) and P3-P6 Form Teachers.    
 
-The form must be duly completed, signed and submitted through Form Teachers or via email&nbsp;[stmargaretps@moe.edu.sg](mailto:stmargaretps@moe.edu.sg)&nbsp;&nbsp;by **31 July 2024**. Incomplete forms will be rejected.  
-
-  
 
 ### Shortlisting and Selection
 
@@ -72,4 +69,6 @@ Similar to the practice for other Edusave awards, the ECHA awardees will receive
 | Primary 4 to 6 | $350 |
 
   
-If&nbsp;you have any queries or need clarifications regarding the award, please contact the General Office at 63394247.
+More details regarding Edusave awards can be found on the
+<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" target="_blank">MOE website</a>.
+If you have any queries or need clarifications regarding the award, please contact the General Office at 63394247.

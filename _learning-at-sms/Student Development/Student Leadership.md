@@ -25,7 +25,6 @@ __________________________________________________________
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leaders must be grounded in values
 
-![Servant Leadership.jpg](/images/Servant%20Leadership.jpg)  
 
 
 ### Student Leaders' Pledge
@@ -55,9 +54,9 @@ During these monthly meetings, the prefects come together to learn about what it
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/Student%20Development/stdleaderstraining1.jpg" style="width:450px;height:270px;"><b></b></td>
-		<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining2.jpg" style="width:320px;height:350px;"><b></b></td>
-	<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining3.jpeg" style="width:450px;height:270px;"><b></b></td>
+		<td><img alt="childday01" src="/images/Student%20Development/stdleaderstraining1.jpg" style="width:450px;height:250px;"><b></b></td>
+		<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining2.jpg" style="width:320px;height:330px;"><b></b></td>
+	<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining3.jpeg" style="width:450px;height:250px;"><b></b></td>
 </tr></tbody></table>
 
 #### Sports Jamboree
@@ -67,3 +66,10 @@ Student Leaders learn what it means to be servant leaders as they take the lead 
 #### Student Leaders’ Investiture
 
 The Student Leaders’ Investiture takes place at the end of Semester 1 annually. The investiture is a ceremony which formally confers our P4 and P5 Prefects as well as our P5 CCA Leaders. During the investiture, the school honours the P6 Student Leaders for their year of service to the school. This is also when the P6 Student Leaders officially hand over their duties to the P5 Student Leaders.
+
+![](/images/Student%20Development/1_Captains.jpg)<center><b>P5 CCA Leaders and P4 &amp; P5 Prefects and Prefect Captains</b></center>
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/Student%20Development/3_Speech.jpg" style="width:300px;height:380px;"><b>Head Prefect giving her Speech</b></td>
+		<td><img alt="childday02" src="/images/Student%20Development/2_Pledge.jpg" style="width:400px;height:280px;"><b>Taking the Student Leaders Pledge</b></td>
+</tr></tbody></table>
