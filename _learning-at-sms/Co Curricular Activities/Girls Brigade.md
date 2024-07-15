@@ -104,7 +104,7 @@ Some activities organised by the Girls’ Brigade Headquarters include the Junio
 All-in, the girls have gained valuable experiences, made good friends and developed leadership skills through their four years in the company. We pray that the girls learn to Seek, Serve and Follow Christ as a guide in all that they do.
 
 
-## Highlights for 2022
+## Highlights for 2024
 ___________________________________________________________
 
 <table>
@@ -115,8 +115,8 @@ ___________________________________________________________
 -  GB Friendship Day<br><br>
 -  GB Fortnight<br><br>
 -  Fast Food &amp; Fuzz Camp<br><br>
--  Online Learning Journeys<br><br>
--  SMS(P) Annual Camp 2022<br><br>
+-  Award Ceremony for presentation of Junior Brigader Booch Award &amp; Company Award<br><br>
+-  SMS(P) Annual Camp 2024<br><br>
 </font>
 </td>
 <td><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
