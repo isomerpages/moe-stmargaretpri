@@ -67,3 +67,12 @@ Student Leaders learn what it means to be servant leaders as they take the lead 
 
 The Student Leaders’ Investiture takes place at the end of Semester 1 annually. The investiture is a ceremony which formally confers our P4 and P5 Prefects as well as our P5 CCA Leaders. During the investiture, the school honours the P6 Student Leaders for their year of service to the school. This is also when the P6 Student Leaders officially hand over their duties to the P5 Student Leaders.
 
+![](/images/Student%20Development/1_Captains.jpg)<center><b>P5 CCA Leaders and P4 &amp; P5 Prefects and Prefect Captains</b></center>
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/Student%20Development/3_Speech.jpg" style="width:300px;height:400px;"><b>Head Prefect giving her Speech</b></td>
+		<td><img alt="childday02" src="/images/Student%20Development/2_Pledge.jpg" style="width:450px;height:280px;"><b>Taking the Student Leaders Pledge</b></td>
+</tr></tbody></table>
+
+
+
