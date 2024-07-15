@@ -18,7 +18,7 @@ variant: markdown
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Wednesdays</td>
 		<td>2 - 4 pm</td>
-	<td>5G, 5I, 5P and 5C classrooms</td>
+	<td>Performing Arts Studio</td>
 	<td>Ms Melody Soh (OIC)<br>Ms Chua Sue Ann<br>Mdm Tan Seow Wee<br>Ms Daphne Cheng</td>
 	<td>P3 - P6</td>
 </tr>
@@ -58,7 +58,7 @@ ___________________________________________________________
 ![](/images/CCAs/Girls%20Brigade/gb%20pic%206.jpg)
   
 
-**Social:**&nbsp;&nbsp;All the girls are put into squads which contain girls from Primary 3 all the way to Primary 6. The girls are given the opportunity to fellowship with others across all levels. With the interaction, stronger ties are forged between the girls and they become like family to one another. The younger girls look up to the older ones while the older ones learn to be responsible and to set a good example to their juniors. There are opportunities to fellowship every week but most especially during camps. The girls also learn through badges and activities to be of service to their Home, Church, Community, Country and the World.
+**Social:**&nbsp;&nbsp;All the girls are put into squads which contain girls from Primary 3 all the way to Primary 6. The girls are given the opportunity to fellowship with others across all levels. With the interaction, stronger ties are forged between the girls and they become like family to one another. The younger girls look up to the older ones while the older ones learn to be responsible and to set a good example to their juniors. There are opportunities to fellowship every week but most especially during camps. The girls also learn through badges and activities to be of service to their Home, School, Community, Country and the World.
 
 <table>
 <tbody><tr>
@@ -75,16 +75,16 @@ ___________________________________________________________
 ![](/images/CCAs/Girls%20Brigade/gb%20pic%2010.jpg)
 	
 
-**Spiritual:**&nbsp;With Christ at the heart of The Girls’ Brigade, He plays a central role in this programme. Worship and devotions are held during every meeting and&nbsp;camp. The girls learn and understand Christ’s way of life during devotions and praise and worship so that they would be able to strive towards leading a similar one in their everyday&nbsp;life. As the sessions are on a Friday, it is a wonderful time for the girls to conclude their school week with the Lord.
+**Spiritual:**&nbsp;With Christ at the heart of The Girls’ Brigade, He plays a central role in this programme. Worship and devotions are held during every meeting and&nbsp;camp. The girls learn and understand Christ’s way of life during devotions and praise and worship so that they would be able to strive towards leading a similar one in their everyday&nbsp;life. 
 
 ![](/images/CCAs/Girls%20Brigade/gb%20pic%2011.jpg)
 
 ## Annual Camp
 ___________________________________________________________
 
-Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as baking/cooking, self-defence and making craft work etc.   
+Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as laser tag and learning journeys.
 
-The theme of our 2022 camp was ‘Joyful'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about fire safety at Marine Parade Fire Station, how to be of service to one another through serving and cleaning up during meals. Their bonds were strengthened through teamwork during the role play activity.
+The theme of our 2024 camp was ‘Ladies of Character'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about how gems are mined and identified from a gemologist at The Gem Museum, how to be of service to one another through serving and cleaning up during meals. The also picked up a new skill of playing badminton. Their bonds were strengthened through teamwork during the role play activity.
 
 
 ![](/images/CCAs/Girls%20Brigade/gb%20pic%2012.jpg)
