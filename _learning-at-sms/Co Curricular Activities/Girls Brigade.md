@@ -98,7 +98,7 @@ The theme of our 2024 camp was ‘Ladies of Character'. During the camp, the gir
 </td>
 </tr></tbody></table>
 
-Some activities organised by the Girls’ Brigade Headquarters were conducted online, for instance, the Junior Leader Training Camp and the Fast, Food and Fuzz Camp 2022. Through these events, our girls get the opportunity to interact with GB members from the other primary companies and learn new things.&nbsp; &nbsp;
+Some activities organised by the Girls’ Brigade Headquarters include the Junior Leader Training Camp and the Fast, Food and Fuzz Camp 2024. Through these events, our girls get the opportunity to interact with GB members from the other primary companies and learn new things.&nbsp; &nbsp;
 
 
 All-in, the girls have gained valuable experiences, made good friends and developed leadership skills through their four years in the company. We pray that the girls learn to Seek, Serve and Follow Christ as a guide in all that they do.
