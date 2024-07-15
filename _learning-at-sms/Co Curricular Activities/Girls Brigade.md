@@ -84,7 +84,7 @@ ___________________________________________________________
 
 Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as laser tag and learning journeys.
 
-The theme of our 2024 camp was ‘Ladies of Character'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about how gems are mined and identified from a gemologist at The Gem Museum, how to be of service to one another through serving and cleaning up during meals. The also picked up a new skill of playing badminton. Their bonds were strengthened through teamwork during the role play activity.
+The theme of our 2024 camp was ‘Ladies of Character'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about how gems are mined and identified from a gemologist at The Gem Museum, how to be of service to one another through serving and cleaning up during meals. The also picked up a new skill of playing badminton. Their bonds were strengthened through teamwork during the activities.
 
 
 ![](/images/CCAs/Girls%20Brigade/gb%20pic%2012.jpg)
