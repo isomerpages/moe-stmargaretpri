@@ -73,6 +73,3 @@ The Student Leaders’ Investiture takes place at the end of Semester 1 annually
 		<td><img alt="childday01" src="/images/Student%20Development/3_Speech.jpg" style="width:300px;height:400px;"><b>Head Prefect giving her Speech</b></td>
 		<td><img alt="childday02" src="/images/Student%20Development/2_Pledge.jpg" style="width:450px;height:280px;"><b>Taking the Student Leaders Pledge</b></td>
 </tr></tbody></table>
-
-
-
