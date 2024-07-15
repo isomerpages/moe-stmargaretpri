@@ -101,7 +101,7 @@ ___________________________________________________________
 -  GB Friendship Day<br><br>
 -  GB Fortnight<br><br>
 -  Fast Food &amp; Fuzz Camp<br><br>
--  Award Ceremony for presentation of Junior Brigader Booch Award &amp; Company Award<br><br>
+-  Award Ceremony for presentation of <br>Junior Brigader Booch Award &amp;<br> Company Award<br><br>
 -  SMS(P) Annual Camp 2024<br><br>
 </font>
 </td>
