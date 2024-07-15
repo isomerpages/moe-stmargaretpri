@@ -69,4 +69,6 @@ Similar to the practice for other Edusave awards, the ECHA awardees will receive
 | Primary 4 to 6 | $350 |
 
   
-More details regarding Edusave awards can be found on the [MOE website](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards). If you have any queries or need clarifications regarding the award, please contact the General Office at 63394247.
+More details regarding Edusave awards can be found on the
+<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" target="_blank">MOE website</a>.
+If you have any queries or need clarifications regarding the award, please contact the General Office at 63394247.
