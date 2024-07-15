@@ -76,10 +76,10 @@ The theme of our 2024 camp was ‘Ladies of Character'. During the camp, the gir
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__8_.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__8_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
 </td>
 <td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__9_.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__9_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
 </td>
 </tr></tbody></table>
 
