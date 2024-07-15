@@ -44,9 +44,9 @@ The students train once or twice a week. They are taught the basic skills and ru
 
 <table><tbody>
 	<tr><td><center>
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg">
-</center>P3s, Trying Their First Time at Bowling!</td>
-		<td><center><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg">Practise Makes Perfect!
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+P3s, Trying Their First Time at Bowling!</b></center></td>
+		<td><center><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Practise Makes Perfect!</b>
 </center></td></tr>
 	<tr><td><center>
 		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Try_my_Best.jpg"><b>Trying my Best!</b>
