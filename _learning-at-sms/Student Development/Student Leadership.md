@@ -54,9 +54,9 @@ During these monthly meetings, the prefects come together to learn about what it
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/Student%20Development/stdleaderstraining1.jpg" style="width:450px;height:270px;"><b></b></td>
-		<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining2.jpg" style="width:320px;height:350px;"><b></b></td>
-	<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining3.jpeg" style="width:450px;height:270px;"><b></b></td>
+		<td><img alt="childday01" src="/images/Student%20Development/stdleaderstraining1.jpg" style="width:450px;height:250px;"><b></b></td>
+		<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining2.jpg" style="width:320px;height:330px;"><b></b></td>
+	<td><img alt="childday02" src="/images/Student%20Development/stdleaderstraining3.jpeg" style="width:450px;height:250px;"><b></b></td>
 </tr></tbody></table>
 
 #### Sports Jamboree
@@ -66,3 +66,4 @@ Student Leaders learn what it means to be servant leaders as they take the lead 
 #### Student Leaders’ Investiture
 
 The Student Leaders’ Investiture takes place at the end of Semester 1 annually. The investiture is a ceremony which formally confers our P4 and P5 Prefects as well as our P5 CCA Leaders. During the investiture, the school honours the P6 Student Leaders for their year of service to the school. This is also when the P6 Student Leaders officially hand over their duties to the P5 Student Leaders.
+
