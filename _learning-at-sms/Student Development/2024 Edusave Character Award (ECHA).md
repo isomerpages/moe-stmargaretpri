@@ -49,7 +49,7 @@ The objectives of the ECHA are:
 
 #### Nomination
 
-Students can be nominated by staff or parents via the link shared on Parent Gateway by **31 July 2024**. In addition, they can be nominated by their peers (P3-6) via hardcopy in school. Incomplete forms will be rejected.
+Students can be nominated by staff or parents via the link shared on Parent Gateway by <br>**31 July 2024**. In addition, they can be nominated by their peers (P3-6) via hardcopy in school. Incomplete forms will be rejected.
 
 
 
