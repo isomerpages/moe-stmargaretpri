@@ -34,7 +34,7 @@ Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from 
 
 1.  To introduce basic bowling techniques and skills drills so to improve the bowling, grips, stance, basic 4-steps approach, release, follow-through and targeting. Following that, is to build a competitive school bowling team capable of challenging for top honours in the Inter-School Bowling Championship.
 2.  To build leadership and sportsmanship among the bowlers.
-3.  To nurture girls of the character anchored on the values of&nbsp;**L**&nbsp;ife-long learner,&nbsp;**I**&nbsp;ntegrity,&nbsp;**G**&nbsp;raciousness,&nbsp;**H**&nbsp;umility and&nbsp; &nbsp;&nbsp;**T**&nbsp;enacity (LIGHT)
+3.  To nurture girls of the character anchored on the values of&nbsp;**L**&nbsp;ife-long learner,&nbsp;**I**&nbsp;ntegrity,&nbsp;**G**&nbsp;raciousness,&nbsp;**H**&nbsp;umility and&nbsp; &nbsp;**T**&nbsp;enacity (LIGHT)
 
   
 
