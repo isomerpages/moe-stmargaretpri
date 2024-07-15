@@ -6,4 +6,4 @@ description: ""
 ---
 Click on the link below for more information on **Edusave Character Award Nominations 2024**.
 
-##### [ECHA 2024](https://www.stmargaretspri.moe.edu.sg/learning-at-sms/student-development/echa-nomination/)
+##### [ECHA 2024](/learning-at-sms/student-development/2024-echa-nomination/)
