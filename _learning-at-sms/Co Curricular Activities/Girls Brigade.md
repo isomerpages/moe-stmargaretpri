@@ -133,7 +133,7 @@ ___________________________________________________________
 <tbody>
 	 <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
-    <td class="tg-ktyi">Junior Brigader Brooch 2024 </td>
+    <td class="tg-ktyi">Junior Brigader Brooch 2024</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">6 P6 students receive Junior Brigader Brooch.</span></td>
   </tr>
 	 <tr>
