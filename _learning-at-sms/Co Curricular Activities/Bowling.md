@@ -17,8 +17,8 @@ variant: markdown
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Mondays &amp; Wednesdays </td>
-		<td>1.50 pm - 4 pm</td>
-	<td>External venue / <br>Outside library / 5H, 5T &amp; 6C classrooms</td>
+		<td>1.50 pm -<br>4 pm</td>
+	<td>External venue / <br>Outside library /<br> 5H, 5T &amp; 6C classrooms</td>
 	<td>Ms Low Pei Lin (OIC)<br>Mdm Abigail Henry<br>Mr Eddie Chong<br>Ms Dinah Chan</td>
 	<td>P3 - P6</td>
 </tr>
@@ -34,7 +34,7 @@ Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from 
 
 1.  To introduce basic bowling techniques and skills drills so to improve the bowling, grips, stance, basic 4-steps approach, release, follow-through and targeting. Following that, is to build a competitive school bowling team capable of challenging for top honours in the Inter-School Bowling Championship.
 2.  To build leadership and sportsmanship among the bowlers.
-3.  To nurture girls of the character anchored on the values of&nbsp;**L**&nbsp;ife-long learner,&nbsp;**I**&nbsp;ntegrity,&nbsp;**G**&nbsp;raciousness,&nbsp;**H**&nbsp;umility and&nbsp; &nbsp;&nbsp;**T**&nbsp;enacity (LIGHT)
+3.  To nurture girls of the character anchored on the values of&nbsp;**L**&nbsp;ife-long learner,&nbsp;**I**&nbsp;ntegrity,&nbsp;**G**&nbsp;raciousness,&nbsp;**H**&nbsp;umility and&nbsp; &nbsp;**T**&nbsp;enacity (LIGHT)
 
   
 
@@ -43,16 +43,15 @@ Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from 
 The students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train in the school team in preparation for the National Inter-Primary Schools Bowling Championships.
 
 <table><tbody>
-	<tr><td><center>
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%201.jpeg">
-</center></td>
-		<td><center><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/bowling%20pic%202.jpeg">
+	<tr><td><center><font size="3">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+P3s, Trying Their First Time at Bowling!</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Practise Makes Perfect!</b></font>
 </center></td></tr>
-	<tr><td><center>
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/our senior division team at national school games bowling 2023.jpeg"><b>Our Senior Division Team at National School Games Bowling 2023</b>
+	<tr><td><center><font size="3">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Try_my_Best.jpg"><b>Trying my Best!</b></font>
 </center></td>
-		<td><center><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/senior division girls- quartet receiving their medals.jpeg"><b>Senior Division Girls - Quartet receiving their medals</b>
-</center></td></tr>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Go_Go_Go.jpg"><b>SMS(P) Go! Go! Go!</b></font></center></td></tr>
 </tbody></table>
 
 
@@ -82,6 +81,11 @@ To emerge as the Top 4 in the National Primary Schools Championships for both Ju
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-f4yw"> 2024</td>
+    <td class="tg-f4yw"> Nil<br></td>
+    <td class="tg-f4yw"> Nil</td>
+  </tr>
   <tr>
     <td class="tg-f4yw"> 2023</td>
     <td class="tg-f4yw"> Senior Division<br>Overall - 2nd<br>Singles - 3rd<br>Doubles – 2nd<br>Quartets - 4th<br></td>

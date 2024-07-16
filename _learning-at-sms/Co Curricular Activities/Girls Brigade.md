@@ -18,7 +18,7 @@ variant: markdown
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Wednesdays</td>
 		<td>2 - 4 pm</td>
-	<td>5G, 5I, 5P and 5C classrooms</td>
+	<td>Performing Arts Studio</td>
 	<td>Ms Melody Soh (OIC)<br>Ms Chua Sue Ann<br>Mdm Tan Seow Wee<br>Ms Daphne Cheng</td>
 	<td>P3 - P6</td>
 </tr>
@@ -29,11 +29,11 @@ ___________________________________________________________
 
 Girls' Brigade 25th Company is a Christian uniformed-group organisation. We believe in developing every girl to their fullest potential by equipping, empowering and enabling-&nbsp;_Every Girl Becoming a Leader, Every Officer a Servant Leader_&nbsp;. The Girls' Brigade acknowledges Jesus Christ as Saviour and Lord according to the Scriptures, and seeks to help girls find true enrichment of life through self-control, reverence and a sense of responsibility.
 
-![](/images/CCAs/Girls%20Brigade/gb%20pic%201.jpg)
+![](/images/CCAs/Girls%20Brigade/pic__1_.jpg)
 
 We aim to offer our girls a holistic, all-rounded, four-fold programme.&nbsp;The programme is concerned with the SPIRITUAL, PHYSICAL, EDUCATIONAL and SOCIAL development of the girls. Each meeting starts with praise and worship and devotion.&nbsp;Thereafter, there will be badgework activities, squad time, station games and even foot drill. The girls are given opportunities during GB meetings, school and national events to love, lead and serve people around them.
 
-![](/images/CCAs/Girls%20Brigade/gb%20pic%202.jpg)
+![](/images/CCAs/Girls%20Brigade/pic__2_.jpg)
 
 ### Four-Fold Programme
 ___________________________________________________________
@@ -41,70 +41,56 @@ ___________________________________________________________
 
 **Educational:**&nbsp;The educational aspect of this programme involves widening interests, cultivating meaningful pursuits and improving the knowledge and skills of the girls. This aspect is seen most commonly through our Badge Work sessions. During the&nbsp;Badge Work sessions, girls are required to accomplish a great variety of tasks in order to earn their badges.&nbsp;
 
-
-<table>
-<tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%203.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-<td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%204.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%205.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-</tr></tbody></table>
+![](/images/CCAs/Girls%20Brigade/pic__3_.jpg)
 
 **Physical:**&nbsp;The physical aspect of this programme helps to develop the physical skills of the girls. They participate actively in physical activities and learn to care for themselves and develop important character traits such as discipline. Discipline is cultivated through drill which is one of the more prominent areas under this aspect. Time is set aside for the girls to engage in drill. However, drill is not the only component of the physical aspect of GB. Weekly games are often planned and led by the girls to develop their leadership qualities.&nbsp;&nbsp;
 
 ![](/images/CCAs/Girls%20Brigade/gb%20pic%206.jpg)
   
 
-**Social:**&nbsp;&nbsp;All the girls are put into squads which contain girls from Primary 3 all the way to Primary 6. The girls are given the opportunity to fellowship with others across all levels. With the interaction, stronger ties are forged between the girls and they become like family to one another. The younger girls look up to the older ones while the older ones learn to be responsible and to set a good example to their juniors. There are opportunities to fellowship every week but most especially during camps. The girls also learn through badges and activities to be of service to their Home, Church, Community, Country and the World.
+**Social:**&nbsp;&nbsp;All the girls are put into squads which contain girls from Primary 3 all the way to Primary 6. The girls are given the opportunity to fellowship with others across all levels. With the interaction, stronger ties are forged between the girls and they become like family to one another. The younger girls look up to the older ones while the older ones learn to be responsible and to set a good example to their juniors. There are opportunities to fellowship every week but most especially during camps. The girls also learn through badges and activities to be of service to their Home, School, Community, Country and the World.
+
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-<td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%208.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-	<td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%209.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
-</td>
-</tr></tbody></table>
+		<td><img alt="childday01" src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" style="width:300px;height:300px;"><b></b></td>
+		<td><img alt="childday02" src="/images/CCAs/Girls%20Brigade/pic__4_.jpg" style="width:300px;height:300px;"><b></b></td>
+</tr></tbody></table>	
 
-![](/images/CCAs/Girls%20Brigade/gb%20pic%2010.jpg)
-	
+![](/images/CCAs/Girls%20Brigade/pic__5_.jpg)
 
-**Spiritual:**&nbsp;With Christ at the heart of The Girls’ Brigade, He plays a central role in this programme. Worship and devotions are held during every meeting and&nbsp;camp. The girls learn and understand Christ’s way of life during devotions and praise and worship so that they would be able to strive towards leading a similar one in their everyday&nbsp;life. As the sessions are on a Friday, it is a wonderful time for the girls to conclude their school week with the Lord.
 
-![](/images/CCAs/Girls%20Brigade/gb%20pic%2011.jpg)
+**Spiritual:**&nbsp;With Christ at the heart of The Girls’ Brigade, He plays a central role in this programme. Worship and devotions are held during every meeting and&nbsp;camp. The girls learn and understand Christ’s way of life during devotions and praise and worship so that they would be able to strive towards leading a similar one in their everyday&nbsp;life. 
+
+![](/images/CCAs/Girls%20Brigade/pic__6_.jpg)
+
 
 ## Annual Camp
 ___________________________________________________________
 
-Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as baking/cooking, self-defence and making craft work etc.   
+Each year, our girls look forward to participating in our annual camp because they enjoy doing special activities such as laser tag and learning journeys.
 
-The theme of our 2022 camp was ‘Joyful'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about fire safety at Marine Parade Fire Station, how to be of service to one another through serving and cleaning up during meals. Their bonds were strengthened through teamwork during the role play activity.
+The theme of our 2024 camp was ‘Ladies of Character'. During the camp, the girls had fun and made new friendships through the many games and activities. At the end of each day, the girls were guided to reflect on their learning. Throughout the camp, the girls learnt about how gems are mined and identified from a gemologist at The Gem Museum, how to be of service to one another through serving and cleaning up during meals. The also picked up a new skill of playing badminton. Their bonds were strengthened through teamwork during the activities.
 
-
-![](/images/CCAs/Girls%20Brigade/gb%20pic%2012.jpg)
+![](/images/CCAs/Girls%20Brigade/pic__7_.jpg)
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2013.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__8_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"></font></center>
 </td>
 <td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2014.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"></font></center>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__9_.jpg" alt="volunteer recess ministry pv" style="width:370px;height:280px;"></font></center>
 </td>
 </tr></tbody></table>
 
-Some activities organised by the Girls’ Brigade Headquarters were conducted online, for instance, the Junior Leader Training Camp and the Fast, Food and Fuzz Camp 2022. Through these events, our girls get the opportunity to interact with GB members from the other primary companies and learn new things.&nbsp; &nbsp;
+
+Some activities organised by the Girls’ Brigade Headquarters include the Junior Leader Training Camp and the Fast, Food and Fuzz Camp 2024. Through these events, our girls get the opportunity to interact with GB members from the other primary companies and learn new things.&nbsp; &nbsp;
 
 
 All-in, the girls have gained valuable experiences, made good friends and developed leadership skills through their four years in the company. We pray that the girls learn to Seek, Serve and Follow Christ as a guide in all that they do.
 
 
-## Highlights for 2022
+## Highlights for 2024
 ___________________________________________________________
 
 <table>
@@ -115,11 +101,11 @@ ___________________________________________________________
 -  GB Friendship Day<br><br>
 -  GB Fortnight<br><br>
 -  Fast Food &amp; Fuzz Camp<br><br>
--  Online Learning Journeys<br><br>
--  SMS(P) Annual Camp 2022<br><br>
+-  Award Ceremony for presentation of <br>Junior Brigader Booch Award &amp;<br> Company Award<br><br>
+-  SMS(P) Annual Camp 2024<br><br>
 </font>
 </td>
-<td><img src="/images/CCAs/Girls%20Brigade/gb%20pic%2015.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;">
+<td><img src="/images/CCAs/Girls%20Brigade/pic__10_.jpg" alt="volunteer recess ministry pv" style="width:550px;height:280px;">
 </td>
 </tr></tbody></table>
 
@@ -145,35 +131,48 @@ ___________________________________________________________
   </tr>
 </thead>
 <tbody>
-	  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
-    <td class="tg-ktyi">National Drill Competition Achievement 2023</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Gold</span></td>
+	 <tr>
+    <td class="tg-zr06">2024</td>
+    <td class="tg-zr06">Junior Brigader Brooch 2024</td>
+    <td class="tg-zr06">6 P6 students receive Junior Brigader Brooch</td>
   </tr>
 	 <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
-    <td class="tg-ktyi">Junior Brigader Brooch 2023</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+	  </tr><tr> 
+	</tr><tr>
+    <td class="tg-zr06">2024</td>
+    <td class="tg-zr06">Company Award</td>
+    <td class="tg-zr06">Bronze</td>
   </tr>
 	 <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2022</span></td>
-    <td class="tg-ktyi">Company Award for 2022</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Bronze</span></td>
+	  </tr><tr>
+    <td class="tg-zr06">2023</td>
+    <td class="tg-zr06">National Drill Competition Achievement 2023</td>
+    <td class="tg-zr06">Gold</td>
+  </tr>
+	 <tr>
+    <td class="tg-zr06">2023</td>
+    <td class="tg-zr06">Junior Brigader Brooch 2023</td>
+    <td class="tg-zr06">-</td>
+  </tr>
+	 <tr>
+    <td class="tg-zr06">2022</td>
+    <td class="tg-zr06">Company Award for 2022</td>
+    <td class="tg-zr06">Bronze</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
-    <td class="tg-ktyi">Creating Teachers’ Day video</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+    <td class="tg-zr06">2019</td>
+    <td class="tg-zr06">Creating Teachers’ Day video</td>
+    <td class="tg-zr06">-</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2018</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Creating Preshow video (Students Once More) for school concert (Yesterday Once More)</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+    <td class="tg-zr06">2018</td>
+    <td class="tg-zr06">Creating Preshow video (Students Once More) for school concert <br>(Yesterday Once More)</td>
+    <td class="tg-zr06">-</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2017</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Singapore Digital Media Awards 2017 - Video category (2017, Term 1 &amp; 2)</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Certificate of Participation</span></td>
+    <td class="tg-zr06">2017</td>
+    <td class="tg-zr06">Singapore Digital Media Awards 2017 <br>- Video category (2017, Term 1 &amp; 2)</td>
+    <td class="tg-zr06">Certificate of Participation</td>
   </tr>
 </tbody>
 </table>

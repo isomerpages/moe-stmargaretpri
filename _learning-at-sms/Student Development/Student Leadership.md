@@ -63,6 +63,22 @@ During these monthly meetings, the prefects come together to learn about what it
 
 Student Leaders learn what it means to be servant leaders as they take the lead to facilitate the games conducted all around the school building during the Sports Jamboree. Through facilitating the games, the students learn to put into practise communication skills and what it means to sacrifice their play time to serve their fellow schoolmates.
 
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Student%20Development/cheering.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>CCA Leader on the left cheering on the P1 girls</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Student%20Development/shoot_ball.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>CCA Leader teaching P1 girls how to shoot the ball into the hoop</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Student%20Development/give_instructions.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Prefects giving instructions to a class</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Student%20Development/prefect_stamp.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Prefect stamping on the Games Carnival card</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
+
 #### Student Leaders’ Investiture
 
 The Student Leaders’ Investiture takes place at the end of Semester 1 annually. The investiture is a ceremony which formally confers our P4 and P5 Prefects as well as our P5 CCA Leaders. During the investiture, the school honours the P6 Student Leaders for their year of service to the school. This is also when the P6 Student Leaders officially hand over their duties to the P5 Student Leaders.
