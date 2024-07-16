@@ -132,47 +132,47 @@ ___________________________________________________________
 </thead>
 <tbody>
 	 <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
-    <td class="tg-ktyi">Junior Brigader Brooch 2024</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">6 P6 students receive Junior Brigader Brooch.</span></td>
+    <td class="tg-zr06">2024</td>
+    <td class="tg-zr06">Junior Brigader Brooch 2024</td>
+    <td class="tg-zr06">6 P6 students receive Junior Brigader Brooch</td>
   </tr>
 	 <tr>
 	  </tr><tr> 
 	</tr><tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
-    <td class="tg-ktyi">Company Award</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Bronze</span></td>
+    <td class="tg-zr06">2024</td>
+    <td class="tg-zr06">Company Award</td>
+    <td class="tg-zr06">Bronze</td>
   </tr>
 	 <tr>
 	  </tr><tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
-    <td class="tg-ktyi">National Drill Competition Achievement 2023</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Gold</span></td>
+    <td class="tg-zr06">2023</td>
+    <td class="tg-zr06">National Drill Competition Achievement 2023</td>
+    <td class="tg-zr06">Gold</td>
   </tr>
 	 <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
-    <td class="tg-ktyi">Junior Brigader Brooch 2023</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+    <td class="tg-zr06">2023</td>
+    <td class="tg-zr06">Junior Brigader Brooch 2023</td>
+    <td class="tg-zr06">-</td>
   </tr>
 	 <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2022</span></td>
-    <td class="tg-ktyi">Company Award for 2022</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Bronze</span></td>
+    <td class="tg-zr06">2022</td>
+    <td class="tg-zr06">Company Award for 2022</td>
+    <td class="tg-zr06">Bronze</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
-    <td class="tg-ktyi">Creating Teachers’ Day video</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+    <td class="tg-zr06">2019</td>
+    <td class="tg-zr06">Creating Teachers’ Day video</td>
+    <td class="tg-zr06">-</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2018</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Creating Preshow video (Students Once More) for school concert <br>(Yesterday Once More)</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+    <td class="tg-zr06">2018</td>
+    <td class="tg-zr06">Creating Preshow video (Students Once More) for school concert <br>(Yesterday Once More)</td>
+    <td class="tg-zr06">-</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2017</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Singapore Digital Media Awards 2017 <br>- Video category (2017, Term 1 &amp; 2)</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Certificate of Participation</span></td>
+    <td class="tg-zr06">2017</td>
+    <td class="tg-zr06">Singapore Digital Media Awards 2017 <br>- Video category (2017, Term 1 &amp; 2)</td>
+    <td class="tg-zr06">Certificate of Participation</td>
   </tr>
 </tbody>
 </table>
