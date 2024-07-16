@@ -53,8 +53,8 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" style="width:330px;height:300px;"><b></b></td>
-		<td><img alt="childday02" src="/images/CCAs/Girls%20Brigade/pic__4_.jpg" style="width:330px;height:300px;"><b></b></td>
+		<td><img alt="childday01" src="/images/CCAs/Girls%20Brigade/gb%20pic%207.jpg" style="width:300px;height:300px;"><b></b></td>
+		<td><img alt="childday02" src="/images/CCAs/Girls%20Brigade/pic__4_.jpg" style="width:300px;height:300px;"><b></b></td>
 </tr></tbody></table>	
 
 ![](/images/CCAs/Girls%20Brigade/pic__5_.jpg)
@@ -76,10 +76,10 @@ The theme of our 2024 camp was ‘Ladies of Character'. During the camp, the gir
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__8_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__8_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"></font></center>
 </td>
 <td>
-<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__9_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"></font></center>
+<center><font size="3"><img src="/images/CCAs/Girls%20Brigade/pic__9_.jpg" alt="volunteer recess ministry pv" style="width:370px;height:280px;"></font></center>
 </td>
 </tr></tbody></table>
 
@@ -166,12 +166,12 @@ ___________________________________________________________
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2018</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Creating Preshow video (Students Once More) for school concert (Yesterday Once More)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Creating Preshow video (Students Once More) for school concert <br>(Yesterday Once More)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2017</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Singapore Digital Media Awards 2017 - Video category (2017, Term 1 &amp; 2)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Singapore Digital Media Awards 2017 <br>- Video category (2017, Term 1 &amp; 2)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Certificate of Participation</span></td>
   </tr>
 </tbody>
