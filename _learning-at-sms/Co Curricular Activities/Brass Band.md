@@ -50,5 +50,5 @@ ____________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/collab_with_SMSS.jpg" style="width:700px;height:380px;"><b>Collaboration with SMS(S) Band for SPOTLIGHT 2024</b> </font></center></td>
+		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/collab_with_SMSS.jpg" style="width:700px;height:350px;"><b>Collaboration with SMS(S) Band for SPOTLIGHT 2024</b> </font></center></td>
 </tr></tbody></table>
