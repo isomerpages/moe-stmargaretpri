@@ -47,3 +47,10 @@ ____________________________________________________________
 
 ![](/images/CCAs/Brass%20Band/collab_with_SMSS.jpg)
 Collaboration with SMS(S) Band for SPOTLIGHT 2024
+
+
+		<img alt="choirspotlight" src="/images/CCAs/Brass%20Band/spotlight_2024.jpg" style="width:500px;height:350px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b>
+
+
+
+		<img alt="choirspotlight" src="/images/CCAs/Brass%20Band/collab_with_SMSS.jpg" style="width:500px;height:350px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b>
