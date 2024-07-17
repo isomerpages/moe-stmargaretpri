@@ -35,7 +35,7 @@ ____________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><center><font size="3"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/balloon_exercise_2.jpg" style="width:400px;height:280px;"><b>Blowing balloon is an interesting way to learn how to blow into wind instruments.</b></font></center></td>
+		<td><center><font size="3"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/balloon_exercise_2.jpg" style="width:500px;height:280px;"><b>Blowing balloon is an interesting way to learn how to blow into wind instruments.</b></font></center></td>
 		<td><center><font size="3"><img alt="dancersspotlight" src="/images/CCAs/Brass%20Band/breathing_exercise_1.jpg" style="width:400px;height:280px;"><b>Breathing exercise (from the nose, mouth)</b> </font></center></td>
 </tr></tbody></table>
 
@@ -45,10 +45,10 @@ ____________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/spotlight_2024.jpg" style="width:500px;height:350px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b> </font></center></td>
+		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/spotlight_2024.jpg" style="width:800px;height:500px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b> </font></center></td>
 </tr></tbody></table>
 
 <table>
 <tbody><tr>
-		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/collab_with_SMSS.jpg" style="width:400px;height:280px;"><b>Collaboration with SMS(S) Band for SPOTLIGHT 2024</b> </font></center></td>
+		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/collab_with_SMSS.jpg" style="width:700px;height:380px;"><b>Collaboration with SMS(S) Band for SPOTLIGHT 2024</b> </font></center></td>
 </tr></tbody></table>
