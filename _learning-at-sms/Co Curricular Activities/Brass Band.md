@@ -43,14 +43,12 @@ ____________________________________________________________
 
 ##### Collaboration with SMS(S) Band for SPOTLIGHT 2024
 
-![](/images/CCAs/Brass%20Band/spotlight_2024.jpg)All ready for SPOTLIGHT 2024 with SMS(S) Band
+<table>
+<tbody><tr>
+		<td><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/spotlight_2024.jpg" style="width:500px;height:350px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b> </td>
+</tr></tbody></table>
 
-![](/images/CCAs/Brass%20Band/collab_with_SMSS.jpg)
-Collaboration with SMS(S) Band for SPOTLIGHT 2024
-
-
-		<img alt="choirspotlight" src="/images/CCAs/Brass%20Band/spotlight_2024.jpg" style="width:500px;height:350px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b>
-
-
-
-		<img alt="choirspotlight" src="/images/CCAs/Brass%20Band/collab_with_SMSS.jpg" style="width:500px;height:350px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b>
+<table>
+<tbody><tr>
+		<td><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/collab_with_SMSS.jpg" style="width:400px;height:280px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b> </td>
+</tr></tbody></table>
