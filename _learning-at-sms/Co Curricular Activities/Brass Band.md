@@ -28,7 +28,7 @@ variant: markdown
 ____________________________________________________________
 
 
-SMS(P) Brass Band plays music of different genres including classical and pop music. In the recent Arts Presentation, they played Dare to Dream by Johnson Lee (Director of Music, SAF Band) and Golden Legend Overture by Forest Butchel. The band seeks to inspire students to appreciate music through resilience and performance opportunities. Students also learn to encourage one another through games and leadership programmes during the school holidays. We aim to offer a holistic experience which encompasses music performance, breathing technique and peer mentoring.
+SMS(P) Brass Band plays music of different genres including classical and pop music. In the recent Spotlight concert, they played Music from Frozen arranged by Johnnie Vinson and ⁠Shake It Off arranged by Michael Brown. The band seeks to inspire students to appreciate music through resilience and performance opportunities. Students also learn to encourage one another through games and practices. We aim to offer a holistic experience which encompasses music performance, breathing technique and peer mentoring.
 
 ### Activities
 ____________________________________________________________
@@ -36,16 +36,15 @@ ____________________________________________________________
 <table>
 <tbody><tr>
 		<td><img alt="choirspotlight" src="/images/2021_band01.jpg" style="width:500px;height:280px;"><b>Blowing balloon is an interesting way to learn how to blow into wind instruments.</b></td>
-		<td><img alt="dancersspotlight" src="/images/2021_band02.jpg" style="width:500px;height:280px;"><b></b> </td>
+		<td><img alt="dancersspotlight" src="/images/2021_band02.jpg" style="width:500px;height:280px;"><b>Breathing exercise (from the nose, mouth)</b> </td>
 </tr></tbody></table>
 
 
 
-### Performance for SPOTLIGHT 2023
-____________________________________________________________
+##### Collaboration with SMS(S) Band for SPOTLIGHT 2024
 
 <table>
 <tbody><tr>
-		<td><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/band%20pic%201.jpg" style="width:500px;height:280px;"><b>Performance for the SPOTLIGHT 2023</b></td>
+		<td><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/band%20pic%201.jpg" style="width:500px;height:280px;"><b></b></td>
 		<td><img src="/images/CCAs/Brass%20Band/band%20pic%202.jpg" style="width:500px;height:280px;"><b></b> </td>
 </tr></tbody></table>
