@@ -28,7 +28,7 @@ variant: markdown
 ____________________________________________________________
 
 
-SMS(P) Brass Band plays music of different genres including classical and pop music. In the recent Spotlight concert, they played Music from Frozen arranged by Johnnie Vinson and ⁠Shake It Off arranged by Michael Brown. The band seeks to inspire students to appreciate music through resilience and performance opportunities. Students also learn to encourage one another through games and practices. We aim to offer a holistic experience which encompasses music performance, breathing technique and peer mentoring.
+SMS(P) Brass Band plays music of different genres including classical and pop music. In the recent Spotlight concert, they played *Music* from Frozen arranged by Johnnie Vinson and ⁠*Shake It Off *arranged by Michael Brown. The band seeks to inspire students to appreciate music through resilience and performance opportunities. Students also learn to encourage one another through games and practices. We aim to offer a holistic experience which encompasses music performance, breathing technique and peer mentoring.
 
 ### Activities
 ____________________________________________________________
