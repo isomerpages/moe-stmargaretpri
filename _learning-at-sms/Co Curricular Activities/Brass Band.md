@@ -16,7 +16,7 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Mondays &amp; Wednesdays</td>
+		<td>Mondays &amp; <br> Wednesdays</td>
 		<td>2 - 4 pm</td>
 	<td>3T, 3H, 3G and Band Room</td>
 	<td>Ms Samantha (OIC)<br>Ms Chua Chiow Yean<br>Mrs Heng Siqiao</td>
