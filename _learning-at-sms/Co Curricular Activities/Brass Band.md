@@ -35,8 +35,8 @@ ____________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/balloon_exercise_2.jpg" style="width:500px;height:280px;"><b>Blowing balloon is an interesting way to learn how to blow into wind instruments.</b></td>
-		<td><img alt="dancersspotlight" src="/images/CCAs/Brass%20Band/breathing_exercise_1.jpg" style="width:500px;height:280px;"><b>Breathing exercise (from the nose, mouth)</b> </td>
+		<td><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/balloon_exercise_2.jpg" style="width:400px;height:280px;"><b>Blowing balloon is an interesting way to learn how to blow into wind instruments.</b></td>
+		<td><img alt="dancersspotlight" src="/images/CCAs/Brass%20Band/breathing_exercise_1.jpg" style="width:400px;height:280px;"><b>Breathing exercise (from the nose, mouth)</b> </td>
 </tr></tbody></table>
 
 
