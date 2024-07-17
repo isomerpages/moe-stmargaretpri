@@ -83,7 +83,7 @@ To emerge as the Top 4 in the National Primary Schools Championships for both Ju
 <tbody>
 	  <tr>
     <td class="tg-f4yw"> 2024</td>
-    <td class="tg-f4yw"> Nil<br></td>
+    <td class="tg-f4yw"> Participation<br></td>
     <td class="tg-f4yw"> Nil</td>
   </tr>
   <tr>
