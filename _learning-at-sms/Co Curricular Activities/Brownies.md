@@ -18,23 +18,16 @@ variant: markdown
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Mondays </td>
 		<td>2 - 4 pm</td>
-	<td>2G, 2I, 2P, 2C classrooms </td>
-	<td>Ms Ng Xing Hwee (OIC)<br>Mdm Ngoh Moon Geok<br>Mdm Mageshwari<br>Mdm Shiem Shan Shan<br>Ms Seet See Lin</td>
+	<td>Performing Arts Studio (PAS) </td>
+	<td>Ms Ng Xing Hwee (OIC)<br>Mdm Ngoh Moon Geok<br>Mdm Mageshwari<br>Ms Shiem Shan Shan<br>Ms Seet See Lin</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
 
 ### Introduction
 
-Brownies are&nbsp;&nbsp;9- to 12-year-old girls who enjoy learning and having amazing adventures together!
+Brownies are 9- to 12-year-old girls who enjoy learning, exploring, and having adventures together. They acquire new life skills, work both independently and in teams, and participate in joint learning adventures with other Brownie or Girl Guide units. Through these activities, Brownies develop leadership, service, and innovation skills. They learn to care for each other, forming lasting friendships and a support network that will accompany them throughout life.
 
-Brownies are encouraged to explore and discover the world around them and to become more independent&nbsp;&nbsp;by acquiring new life skills&nbsp;. They are constantly learning new skills and challenged to try new and adventurous activities that will inspire them to think about what they want to be and do in the future.&nbsp;
-
-Brownies learn to work and play independently and also in teams. On special occasions, Brownies do fun things together with other Brownie or Girl Guide units for joint learning adventures! Activities may include Division Days, Learning Day, outdoor cooking, sewing and many more! Through such activities, brownies are developed for a lifetime of leadership, service and innovation. Brownies are continually spurred to step out, step up, step back and step in. Stepping out, brownies discover their strength within. Stepping up, brownies realise what they can achieve. Stepping back, brownies see the needs of others. Stepping in, brownies stand up and make a difference in the society and the world they are in.
-
-Along the way, Brownies learn to care for each other and the people around them, thereupon making lasting friendships. Through shared experiences, she forges friendships and a support network that will see her through life.
-
-  
 
 ### 5-Point Programme
 ___________________________________________________________
