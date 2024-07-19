@@ -40,12 +40,12 @@ Brownies are guided by a comprehensive 5-Point Programme, which develops them in
 
 *   Personal &amp; Social Development – Healthy Me, Courteous Me, Cultured Me&nbsp;  
     
-*   Home – Home Safety &amp; Duties&nbsp;  
+*   Home – Home Duties &amp; Home Safety  
     
 *   Outdoor – Discovering Nature, A Green World
 *   Community – My Country, My Neighbourhood, Helper&nbsp;  
     
-*   International – My Brownie Friend, My World
+*   International – My Globe, My Guiding World &amp; My Guiding Friend
 *   Brownies enjoy working for interest badges and awards that will help them develop new skills.
 
   
