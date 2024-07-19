@@ -51,7 +51,7 @@ Brownies are guided by a comprehensive 5-Point Programme, which develops them in
   
 
 For more information, please go to:
-[https://girlguides.org.sg/brownie/overview-of-programmes/](https://girlguides.org.sg/brownie/overview-of-programmes/)&nbsp;&nbsp;&nbsp;
+[https://girlguides.org.sg/brownie/overview-of-programmes/](https://girlguides.org.sg/brownie/overview-of-programmes/)nbsp;&nbsp;&nbsp;
 
 
 ### Vision  
