@@ -99,7 +99,7 @@ ___________________________________________________________
 	<tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">World Thinking Day 2024 – Onsite Station Games competition <br>South Division Day 2024 – Division Patch Design Competition<br>South Division Day 2024 – Dreamy Drift Relaxation Challenge </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">3rd<br>Merit<br>2nd, 3rd </span></td>
+    <td class="tg-dgl5"><span style="color:#000;background-color:#FFF">3rd<br><br>Merit<br><br>2nd, 3rd</span></td>
   </tr>
 	  <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
