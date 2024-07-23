@@ -80,9 +80,9 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya exhibition in the school library</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Participating in the games that our fellow Brownies prepared</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student ambassadors explaining about the Malay culture</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Team-bonding games with our Six</b></font></center>
 </td>
 </tr>
 </tbody></table>
@@ -94,9 +94,9 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya exhibition in the school library</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>World Thinking Day 2024 at Our Tampines Hub</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student ambassadors explaining about the Malay culture</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Working together to design our patch during South Division Day</b></font></center>
 </td>
 </tr>
 </tbody></table>
@@ -108,9 +108,15 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya exhibition in the school library</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Putting up posters to promote the cookies sale</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student ambassadors explaining about the Malay culture</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Giving out the cookies!</b></font></center>
+</td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Plogging around our neighbourhood during the SMS(P) Pack Holiday</b></font></center>
 </td>
 </tr>
 </tbody></table>
