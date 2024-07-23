@@ -70,6 +70,20 @@ ___________________________________________________________
 To enable girls and young women to develop their fullest potential as responsible citizens of the world.
 
 
+### Activities Outline
+___________________________________________________________
+
+##### 1. School-based Pack Meetings
+* Student-led activities/games
+* Badgework
+* Preparation for competitions
+
+
+
+##### 2. Inter-Pack Activities organised by Girl Guides Singapore
+* World Thinking Day
+* South Division Day
+* Brownie Revel
 
 
 ### Highlights &amp; Achievements
