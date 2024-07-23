@@ -107,18 +107,13 @@ ___________________________________________________________
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Nil</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Events/ Workshops Participated:<br>World Thinking Day Carnival @ Tampines Hub<br>-     Brownies who attended this event learned about participated in games and crafts at the carnival.<br>SCDF Workshop @ Central Fire Station<br><br>-   Brownies who attended this workshop learned about the vehicles used to fight fires, the different places and training rooms in the fire station, the things fire fighters do when activated and some basic first aid.<br>GBTB Workshop @ GBTB - Brownies who attended this workshop learned about the plants and flowers around the gardens <span style="color:#000;background-color:#FFF"> </span></span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Award Achieved:</span><br><span style="color:#000;background-color:#FFF">Chief Commissioner's Award</span><br><span style="color:#000;background-color:#FFF">Puan Noor Aishah Award For 2019 (Pack 1) Puan Noor Aishah Award For 2019 (Pack 2) </span><br><br></td>
-    <td class="tg-dgl5">2 brownies Gold Silver </td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2019</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"></span><span style="color:#000;background-color:#FFF">Chief Commissioner's Award</span><br><span style="color:#000;background-color:#FFF">Puan Noor Aishah Award 2019</span><br><br></td>
+    <td class="tg-dgl5">2 brownies Gold (1st Pack),<br>Silver (2nd Pack) </td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">  2018</span></td>
-    <td class="tg-ktyi">South Learning Day at Camp Christine<span style="background-color:initial">- Participated in the building of an Emergency Shelter</span>- Participated in learning Simple Map Reading</td>
+    <td class="tg-ktyi"><span style="color:#000;background-color:#FFF">South Learning Day at Camp Christine</span></td>
     <td class="tg-ktyi">Nil <span style="color:#000;background-color:#FFF"> </span></td>
   </tr>
   <tr>
