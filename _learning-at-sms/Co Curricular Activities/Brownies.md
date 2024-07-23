@@ -78,17 +78,42 @@ ___________________________________________________________
 * Badgework
 * Preparation for competitions
 
-
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya exhibition in the school library</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student ambassadors explaining about the Malay culture</b></font></center>
+</td>
+</tr>
+</tbody></table>
 
 ##### 2. Inter-Pack Activities organised by Girl Guides Singapore
 * World Thinking Day
 * South Division Day
 * Brownie Revel
 
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya exhibition in the school library</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student ambassadors explaining about the Malay culture</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
+
 
 ### Highlights for 2024
 ___________________________________________________________
 
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya exhibition in the school library</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student ambassadors explaining about the Malay culture</b></font></center>
+</td>
+</tr>
+</tbody></table>
 
 
 
