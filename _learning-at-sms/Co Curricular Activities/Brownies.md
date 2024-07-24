@@ -119,7 +119,7 @@ ___________________________________________________________
 </td>
 </tr>
 	<tr><td colspan="2"><b>Plogging around our neighbourhood during the SMS(P) Pack Holiday</b></td></tr>
-</tbody></table><font size="3">
+</tbody></table>
 
 
 
@@ -179,4 +179,4 @@ ___________________________________________________________
     <td class="tg-dgl5">3 brownies</td>
   </tr>
 </tbody>
-</table></font>
+</table>
