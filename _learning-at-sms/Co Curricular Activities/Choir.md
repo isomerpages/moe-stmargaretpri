@@ -30,31 +30,21 @@ The Choir is one of the performing arts groups in St. Margaret’s School (Prima
 
 In the choir, members sing as a group and learn to blend with one another. As a performing choir, members also learn to execute movements and exhibit good showmanship on stage.
 
-
-<p></p>
 <table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Performed at 180th St Margaret’s Founder Day Service at St Andrew’s Cathedral </font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:500px; alt=" src="/images/CCAs/Choir/Exchange_Programme.jpg">Performing at an Exchange Programme with Nan Chiau Primary and Methodist Girls’ School</font></p></th>
 </tr>
 </tbody></table>
 
-#### Vision
-___________________________________________________________
-Every Girl, A Shining Star on Stage
-
-#### Mission
-___________________________________________________________
-To be a children’s choir of excellence and one of the best school choirs in Singapore.
-
 #### Objectives
-___________________________________________________________
-1.  To nurture the pupils' vocal talents, each to their fullest potential
-2.  To instill discipline, build confidence in our young singers and put their artistic skills into practice
-3.  To nurture girls of the character anchored on the values of  **L**ife-long learner,**I**ntegrity, **G**raciousness, **H**umility and **T**enacity (LIGHT).
+__________________________________________________________
+1.	To nurture the pupils’ vocal talents, each to their fullest potential
+2.	To instill discipline, build confidence in our young singers and put their artistic skills into practice
+3.	To nurture girls of the character anchored on the values of Life-long learner,Integrity, Graciousness, Humility and Tenacity (LIGHT).
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2023.JPG">SPOTLIGHT 2023</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/SYF_2024.jpg">SYF Arts Presentation 2024</font></p></th>
 </tr>
 </tbody></table>
 
@@ -67,10 +57,9 @@ They learn to use the different voice registers, pitch accurately and have clear
 
 They are exposed to a wide repertoire of songs. Interpretation of songs is also part of the training as members sing them in different styles.
 
-
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Recess_Performance.jpeg">Recess Performance</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/SYF_journey.jpg">Reflecting on their SYF journey</font></p></th>
 </tr>
 </tbody></table>
 
@@ -83,7 +72,10 @@ __________________________________________________________
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Practising_during_a_choir_session.jpeg">Practising during a choir session</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2024_01.jpg"></font></p></th>
+</tr>
+	 <tr><td>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2024_02.jpg">Spotlight 2024</font></p></th>
 </tr>
 </tbody></table>
 
@@ -110,6 +102,11 @@ ___________________________________________________________
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation</td>
+    <td class="tg-ktyi">Accomplishment</td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
     <td class="tg-ktyi">ABRSM Choral Exam (Intermediate)<br>Singapore International Choral Festival</td>

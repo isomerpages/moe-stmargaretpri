@@ -18,7 +18,7 @@ variant: markdown
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Wednesdays</td>
 		<td>2 - 4 pm</td>
-	<td>Performing Arts Studio</td>
+	<td>Performing Arts Studio (PAS)</td>
 	<td>Ms Melody Soh (OIC)<br>Ms Chua Sue Ann<br>Mdm Tan Seow Wee<br>Ms Daphne Cheng</td>
 	<td>P3 - P6</td>
 </tr>
