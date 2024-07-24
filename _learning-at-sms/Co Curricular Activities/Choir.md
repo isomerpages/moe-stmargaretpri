@@ -32,7 +32,7 @@ In the choir, members sing as a group and learn to blend with one another. As a 
 
 <table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:700px;height:400px; alt=" src="/images/CCAs/Choir/Exchange_Programme.jpg">Performing at an Exchange Programme with Nan Chiau Primary and Methodist Girls’ School</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:500px; alt=" src="/images/CCAs/Choir/Exchange_Programme.jpg">Performing at an Exchange Programme with Nan Chiau Primary and Methodist Girls’ School</font></p></th>
 </tr>
 </tbody></table>
 
