@@ -36,6 +36,18 @@ In the choir, members sing as a group and learn to blend with one another. As a 
 </tr>
 </tbody></table>
 
+#### Objectives
+__________________________________________________________
+1.	To nurture the pupils’ vocal talents, each to their fullest potential
+2.	To instill discipline, build confidence in our young singers and put their artistic skills into practice
+3.	To nurture girls of the character anchored on the values of Life-long learner,Integrity, Graciousness, Humility and Tenacity (LIGHT).
+
+<p></p><table>
+ <tbody><tr><td>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/SYF_2024.jpg">SYF Arts Presentation 2024</font></p></th>
+</tr>
+</tbody></table>
+
 
 #### Activities Outline
 __________________________________________________________
