@@ -105,17 +105,17 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Brownies/cookies_sale.jpg" alt="volunteer recess ministry pv" style="width:380px;height:300px;"><b>Putting up posters to promote the cookies sale</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/cookies_sale.jpg" alt="volunteer recess ministry pv" style="width:360px;height:300px;"><b>Putting up posters to promote the cookies sale</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CCAs/Brownies/give_cookies.jpg" alt="volunteer recess ministry pv" style="width:380px;height:300px;"><b>Giving out the cookies!</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/give_cookies.jpg" alt="volunteer recess ministry pv" style="width:360px;height:300px;"><b>Giving out the cookies!</b></font></center>
 </td>
 </tr>
 </tbody></table>
 <center><font size="3"></font></center><font size="3"></font><center></center><p style="text-align: center;"></p><table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_1.jpg" alt="volunteer recess ministry pv" style="width:280px;height:380px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_1.jpg" alt="volunteer recess ministry pv" style="width:280px;height:360px;"><b></b></font></center>
 </td>
-	<td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_2.jpg" alt="volunteer recess ministry pv" style="width:280px;height:380px;"><b></b></font></center></td>
+	<td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_2.jpg" alt="volunteer recess ministry pv" style="width:280px;height:360px;"><b></b></font></center></td>
 </tr>
 	<tr><td colspan="2" style="text-align: center"><font size="3"><b>Plogging around our neighbourhood during the<br>SMS(P) Pack Holiday</b></font><p></p></td></tr>
 </tbody></table>
