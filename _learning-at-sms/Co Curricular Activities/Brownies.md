@@ -103,11 +103,6 @@ ___________________________________________________________
 ### Highlights for 2024
 ___________________________________________________________
 
-![](/images/CCAs/Brownies/cookies_sale.jpg)
-![](/images/CCAs/Brownies/give_cookies.jpg)
-![](/images/CCAs/Brownies/SMS_P__Pack_Holiday_1.jpg)
-![](/images/CCAs/Brownies/SMS_P__Pack_Holiday_2.jpg)
-
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/CCAs/Brownies/cookies_sale.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Putting up posters to promote the cookies sale</b></font></center>
