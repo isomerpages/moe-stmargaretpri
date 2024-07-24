@@ -91,9 +91,9 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>World Thinking Day 2024 at Our Tampines Hub</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/World_Thinking_Day_2024.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>World Thinking Day 2024 at Our Tampines Hub</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Working together to design our patch during<br>South Division Day</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/South_Division_Day.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Working together to design our patch during<br>South Division Day</b></font></center>
 </td>
 </tr>
 </tbody></table>
@@ -103,17 +103,24 @@ ___________________________________________________________
 ### Highlights for 2024
 ___________________________________________________________
 
+![](/images/CCAs/Brownies/cookies_sale.jpg)
+![](/images/CCAs/Brownies/give_cookies.jpg)
+![](/images/CCAs/Brownies/SMS_P__Pack_Holiday_1.jpg)
+![](/images/CCAs/Brownies/SMS_P__Pack_Holiday_2.jpg)
+
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Putting up posters to promote the cookies sale</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/cookies_sale.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Putting up posters to promote the cookies sale</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Giving out the cookies!</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/give_cookies.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Giving out the cookies!</b></font></center>
 </td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Plogging around our neighbourhood during the SMS(P) Pack Holiday</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_1.jpg" alt="volunteer recess ministry pv" style="width:280px;height:400px;"><b>Plogging around our neighbourhood during the SMS(P) Pack Holiday</b></font></center>
+</td>
+	<td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_2.jpg" alt="volunteer recess ministry pv" style="width:280px;height:400px;"><b></b></font></center>
 </td>
 </tr>
 </tbody></table>
