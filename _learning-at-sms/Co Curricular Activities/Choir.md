@@ -54,7 +54,7 @@ ___________________________________________________________
 
 </p><p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2023.JPG">SPOTLIGHT 2023</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2023.JPG">SYF Arts Presentation 2024</font></p></th>
 </tr>
 </tbody></table>
 
@@ -70,7 +70,7 @@ They are exposed to a wide repertoire of songs. Interpretation of songs is also 
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Recess_Performance.jpeg">Recess Performance</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Recess_Performance.jpeg">Reflecting on their SYF journey</font></p></th>
 </tr>
 </tbody></table>
 
@@ -83,7 +83,7 @@ __________________________________________________________
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Practising_during_a_choir_session.jpeg">Practising during a choir session</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Practising_during_a_choir_session.jpeg">Spotlight 2024</font></p></th>
 </tr>
 </tbody></table>
 
@@ -110,6 +110,11 @@ ___________________________________________________________
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation</td>
+    <td class="tg-ktyi">Accomplishment</td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
     <td class="tg-ktyi">ABRSM Choral Exam (Intermediate)<br>Singapore International Choral Festival</td>
