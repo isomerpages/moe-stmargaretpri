@@ -32,9 +32,6 @@ Brownies are 9- to 12-year-old girls who enjoy learning, exploring, and having a
 ### 5-Point Programme
 ___________________________________________________________
 
-
-
-
 Brownies are guided by a comprehensive 5-Point Programme, which develops them in 5 areas:  
   
 
@@ -80,9 +77,9 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Participating in the games that our<br>fellow Brownies prepared</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/games_participation.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Participating in the games that our<br>fellow Brownies prepared</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Team-bonding games with our Six</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/team_bonding.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Team-bonding games with our Six</b></font></center>
 </td>
 </tr>
 </tbody></table>
