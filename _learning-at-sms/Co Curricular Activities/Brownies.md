@@ -111,7 +111,7 @@ ___________________________________________________________
 </td>
 </tr>
 </tbody></table>
-<center><font size="3"></font></center><table>
+<center><font size="3"></font></center><font size="3"></font><table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_1.jpg" alt="volunteer recess ministry pv" style="width:280px;height:400px;"><b></b></font></center>
 </td>
