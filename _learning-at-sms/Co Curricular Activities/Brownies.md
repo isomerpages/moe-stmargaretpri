@@ -151,7 +151,7 @@ ___________________________________________________________
 	<tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">World Thinking Day 2024 – Onsite Station Games competition <br>South Division Day 2024 – Division Patch Design Competition<br>South Division Day 2024 – Dreamy Drift Relaxation Challenge </span></td>
-    <td class="tg-dgl5"><span style="color:#000;background-color:#FFF">3rd<br><br>Merit<br><br>2nd, 3rd</span></td>
+    <td class="tg-dgl5"><span style="color:#000;background-color:#FFF">3rd<br>Merit<br>2nd, 3rd</span></td>
   </tr>
 	  <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
@@ -166,7 +166,7 @@ ___________________________________________________________
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2019</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"></span><span style="color:#000;background-color:#FFF">Chief Commissioner's Award</span><br><span style="color:#000;background-color:#FFF">Puan Noor Aishah Award 2019</span><br><br></td>
-    <td class="tg-dgl5">2 brownies Gold (1st Pack),<br>Silver (2nd Pack) </td>
+    <td class="tg-dgl5">2 brownies<br>Gold (1st Pack),<br>Silver (2nd Pack) </td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">  2018</span></td>
