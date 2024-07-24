@@ -34,10 +34,6 @@ In the choir, members sing as a group and learn to blend with one another. As a 
  <tbody><tr><td>
 	 </td><th><p style="text-align:center"><font size="3"><img style="width:700px;height:400px; alt=" src="/images/CCAs/Choir/Exchange_Programme.jpg">Performing at an Exchange Programme with Nan Chiau Primary and Methodist Girls’ School</font></p></th>
 </tr>
-</tbody></table><p></p><table>
- <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2023.JPG">SYF Arts Presentation 2024</font></p></th>
-</tr>
 </tbody></table>
 
 
@@ -49,10 +45,9 @@ They learn to use the different voice registers, pitch accurately and have clear
 
 They are exposed to a wide repertoire of songs. Interpretation of songs is also part of the training as members sing them in different styles.
 
-
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Recess_Performance.jpeg">Reflecting on their SYF journey</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/SYF_journey.jpg">Reflecting on their SYF journey</font></p></th>
 </tr>
 </tbody></table>
 
@@ -65,7 +60,10 @@ __________________________________________________________
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Practising_during_a_choir_session.jpeg">Spotlight 2024</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2024_01.jpg"></font></p></th>
+</tr>
+	 <tr><td>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2024_02.jpg">Spotlight 2024</font></p></th>
 </tr>
 </tbody></table>
 
