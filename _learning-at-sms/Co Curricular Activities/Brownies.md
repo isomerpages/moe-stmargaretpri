@@ -105,9 +105,9 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/CCAs/Brownies/cookies_sale.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Putting up posters to promote the cookies sale</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/cookies_sale.jpg" alt="volunteer recess ministry pv" style="width:380px;height:300px;"><b>Putting up posters to promote the cookies sale</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/CCAs/Brownies/give_cookies.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Giving out the cookies!</b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/give_cookies.jpg" alt="volunteer recess ministry pv" style="width:380px;height:300px;"><b>Giving out the cookies!</b></font></center>
 </td>
 </tr>
 </tbody></table>
