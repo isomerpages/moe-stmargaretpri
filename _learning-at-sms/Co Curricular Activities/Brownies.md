@@ -115,8 +115,8 @@ ___________________________________________________________
 <tbody><tr>
 <td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_1.jpg" alt="volunteer recess ministry pv" style="width:280px;height:380px;"><b></b></font></center>
 </td>
-	<td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_2.jpg" alt="volunteer recess ministry pv" style="width:280px;height:380px;"><b></b></font></center>
-</td>
+	<td><center><font size="3"><img src="/images/CCAs/Brownies/SMS_P__Pack_Holiday_2.jpg" alt="volunteer recess ministry pv" style="width:280px;height:380px;"><b></b></font>
+</center></td>
 </tr>
 	<tr><td colspan="2"><font size="3"><b>Plogging around our neighbourhood during the SMS(P) Pack Holiday</b></font></td></tr>
 </tbody></table>
