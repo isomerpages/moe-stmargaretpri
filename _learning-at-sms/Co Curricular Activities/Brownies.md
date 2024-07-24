@@ -96,7 +96,7 @@ ___________________________________________________________
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>World Thinking Day 2024 at Our Tampines Hub</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Working together to design our patch during South Division Day</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Working together to design our patch during<br>South Division Day</b></font></center>
 </td>
 </tr>
 </tbody></table>
