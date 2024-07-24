@@ -31,10 +31,10 @@ The Choir is one of the performing arts groups in St. Margaret’s School (Prima
 In the choir, members sing as a group and learn to blend with one another. As a performing choir, members also learn to execute movements and exhibit good showmanship on stage.
 
 
-<p></p>
+<p>
 <table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Performed at 180th St Margaret’s Founder Day Service at St Andrew’s Cathedral </font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/performing at 180th founder's day service.jpg">Performing at an Exchange Programme with Nan Chiau Primary and Methodist Girls’ School</font></p></th>
 </tr>
 </tbody></table>
 
@@ -52,7 +52,7 @@ ___________________________________________________________
 2.  To instill discipline, build confidence in our young singers and put their artistic skills into practice
 3.  To nurture girls of the character anchored on the values of  **L**ife-long learner,**I**ntegrity, **G**raciousness, **H**umility and **T**enacity (LIGHT).
 
-<p></p><table>
+</p><p></p><table>
  <tbody><tr><td>
 	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2023.JPG">SPOTLIGHT 2023</font></p></th>
 </tr>
