@@ -71,7 +71,7 @@ Instructor coaching students on framing</b></font></center></td>
 		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%205.jpg"><b>Teacher guiding P3 students on taking Perspective shot</b></font>
 </center></td></tr>
 <tr><td><center><font size="3">
-		<img style="width:400px;height:320px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%2014.jpg"><b>
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%2014.jpg"><b>
 Juniors learning how to take photos with close up shot</b></font></center></td>
 		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%2015.jpg"><b>P3 and P4 student learning how to assemble a tripod</b></font>
 </center></td></tr>
