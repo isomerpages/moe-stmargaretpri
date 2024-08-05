@@ -80,6 +80,12 @@ The InfoComm Club serves as a platform for students to learn more about differen
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
+    <td class="tg-ktyi">Creating P6 Graduation video<br>
+Creating e-posters for school’s Mid-autumn festival activities</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
     <td class="tg-ktyi">Creating Teachers’ Day video</td>
