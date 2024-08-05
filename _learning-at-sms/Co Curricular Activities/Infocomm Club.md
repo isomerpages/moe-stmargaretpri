@@ -51,6 +51,34 @@ The InfoComm Club serves as a platform for students to learn more about differen
 * New Media tools (using iPad)
 * Basic game coding
 
+<table><tbody>
+			<tr><td><center><font size="3">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+Ready! Lights! Camera! Action! Seniors conducting an interview and producing a video</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Students bringing a butterfly to live using augmented reality</b></font>
+</center></td></tr>
+		<tr><td><center><font size="3">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+Students exploring the rainforest together using augmented reality app</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Students launching a virtual rocket in the classroom using augmented reality app</b></font>
+</center></td></tr>
+	<tr><td><center><font size="3">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+Juniors having on-the-job training on how to operate AV equipment</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Senior coaching juniors how to capture the desired shot</b></font>
+</center></td></tr>
+	<tr><td><center><font size="3">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+Instructor coaching students on framing</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Teacher guiding P3 students on taking Perspective shot</b></font>
+</center></td></tr>
+<tr><td><center><font size="3">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+Juniors learning how to take photos with close up shot</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>P3 and P4 student learning how to assemble a tripod</b></font>
+</center></td></tr>
+</tbody></table>
+
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; height: 654px; width: 738.345px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 378px;"><img src="/images/CCAs/Infocomm%20Club/infocomm24_01.jpg" width="100%" alt="AV equipment.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 285px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Ready! Lights! Camera! Action! Seniors conducting an interview and producing a video.</b></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 360px;"><img src="/images/CCAs/Infocomm%20Club/infocomm24_02.jpg" alt="coaching.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 287px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Students bringing a butterfly to live using augmented reality.</i></b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr>
 	<tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 378px;"><img src="/images/CCAs/Infocomm%20Club/infocomm24_03.jpg" width="100%" alt="AV equipment.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 285px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Students exploring the rainforest together using augmented reality app.</b></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 360px;"><img src="/images/CCAs/Infocomm%20Club/infocomm24_04.jpg" alt="coaching.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 287px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Students launching a virtual rocket in the classroom using augmented reality app.</i></b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr>
 <tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 378px;"><img src="/images/AV%20equipment.jpg" width="100%" alt="AV equipment.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 285px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Juniors having on-the-job training on how to operate AV equipment</b></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 360px;"><img src="/images/coaching.jpg" alt="coaching.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 287px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Senior coaching juniors how to capture<br style="margin: 0px; outline: 0px; padding: 0px;">the desired shot</i></b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr>
