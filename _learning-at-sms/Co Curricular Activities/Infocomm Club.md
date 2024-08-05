@@ -55,6 +55,8 @@ The InfoComm Club serves as a platform for students to learn more about differen
 ![](/images/CCAs/Infocomm%20Club/coaching.jpg)
 ![](/images/CCAs/Infocomm%20Club/2021infocomm01.jpg)
 ![](/images/CCAs/Infocomm%20Club/2021icc%205.jpg)
+![](/images/CCAs/Infocomm%20Club/2021icc%2014.jpg)
+![](/images/CCAs/Infocomm%20Club/2021icc%2015.jpg)
 
 <table><tbody>
 			<tr><td><center><font size="3">
@@ -65,22 +67,22 @@ Ready! Lights! Camera! Action! Seniors conducting an interview and producing a v
 		<tr><td><center><font size="3">
 		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_03.jpg"><b>
 Students exploring the rainforest together using augmented reality app</b></font></center></td>
-		<td><center><font size="3"><img style="width:280px;height:400px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_04.jpg"><b>Students launching a virtual rocket in the classroom using augmented reality app</b></font>
+		<td><center><font size="3"><img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_04.jpg"><b>Students launching a virtual rocket in the classroom using augmented reality app</b></font>
 </center></td></tr>
 	<tr><td><center><font size="3">
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+		<img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/AV%20equipment.jpg"><b>
 Juniors having on-the-job training on how to operate AV equipment</b></font></center></td>
-		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Senior coaching juniors how to capture the desired shot</b></font>
+		<td><center><font size="3"><img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/coaching.jpg"><b>Senior coaching juniors how to capture the desired shot</b></font>
 </center></td></tr>
 	<tr><td><center><font size="3">
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021infocomm01.jpg"><b>
 Instructor coaching students on framing</b></font></center></td>
-		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Teacher guiding P3 students on taking Perspective shot</b></font>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%205.jpg"><b>Teacher guiding P3 students on taking Perspective shot</b></font>
 </center></td></tr>
 <tr><td><center><font size="3">
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%2014.jpg"><b>
 Juniors learning how to take photos with close up shot</b></font></center></td>
-		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>P3 and P4 student learning how to assemble a tripod</b></font>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%2015.jpg"><b>P3 and P4 student learning how to assemble a tripod</b></font>
 </center></td></tr>
 </tbody></table>
 
