@@ -7,8 +7,6 @@ variant: markdown
 ---
 ## Infocomm Club
 
-
-
 <table>
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
@@ -28,36 +26,57 @@ variant: markdown
 
 ### Introduction  
 
-
-The InfoComm Club serves as a platform for pupils to learn more about different information and communications technology (ICT) skills. &nbsp;Photography (for P3 and P4) and Videography (for P5 and P6) workshops are incorporated into the programme to further develop the pupils' creative and innovative spirit.
+The InfoComm Club serves as a platform for students to learn more about different information and communications technology (ICT) skills.  Workshops incorporated into the programme include Photography and New Media tools for P3s and P4s, Videography and Game coding for P5s and P6s to further develop the students’ creative and innovative spirit.
 
   
 
 ### Objectives
 
+1.	To equip students with ICT skills for 21st century, contribute towards the club, school and most importantly the society.
+2.	To guide students to learn and make good use of technology in tasks assigned.
+3.	To nurture ICT talents of the character anchored on the values of Life-long learner, Integrity, Graciousness, Humility and Tenacity (LIGHT).
 
-1.  To equip pupils with ICT skills for 21st century, contribute towards the club, school and most importantly the society.
-2.  To guide pupils to learn and make good use of technology in tasks assigned.
-3.  To nurture ICT talents of the character anchored on the values of Life-long learner, Integrity, Graciousness, Humility and Tenacity (LIGHT)
-
-  
 
 ### Activities Outline
   
 
-### ICT Skills  
+#### ICT Skills  
   
+* Videography
+* Digital photography, photo editing &amp; photo collage
+* Poster/card/graphic design
+* MS PowerPoint animation
+* New Media tools (using iPad)
+* Basic game coding
 
-*   Videography
-*   Digital photography, photo editing &amp; photo collage  
-    
-*   Poster/card design
+<table><tbody>
+			<tr><td><center><font size="3">
+		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_01.jpg"><b>
+Ready! Lights! Camera! Action! Seniors conducting an interview and producing a video</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_02.jpg"><b>Students bringing a butterfly to live<br>using augmented reality</b></font>
+</center></td></tr>
+		<tr><td><center><font size="3">
+		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_03.jpg"><b>
+Students exploring the rainforest together using augmented reality app</b></font></center></td>
+		<td><center><font size="3"><img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_04.jpg"><b>Students launching a virtual rocket in the classroom using augmented reality app</b></font>
+</center></td></tr>
+	<tr><td><center><font size="3">
+		<img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/AV%20equipment.jpg"><b>
+Juniors having on-the-job training on how to operate<br>AV equipment</b></font></center></td>
+		<td><center><font size="3"><img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/coaching.jpg"><b>Senior coaching juniors how to capture<br>the desired shot</b></font>
+</center></td></tr>
+	<tr><td><center><font size="3">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021infocomm01.jpg"><b>
+Instructor coaching students on framing</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%205.jpg"><b>Teacher guiding P3 students on taking Perspective shot</b></font>
+</center></td></tr>
+<tr><td><center><font size="3">
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%2014.jpg"><b>
+Juniors learning how to take photos with close up shot</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/2021icc%2015.jpg"><b>P3 and P4 student learning how to assemble a tripod</b></font>
+</center></td></tr>
+</tbody></table>
 
-  
-
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; height: 654px; width: 738.345px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 378px;"><img src="/images/AV%20equipment.jpg" width="100%" alt="AV equipment.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 285px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Juniors having on-the-job training on how to operate AV equipment</b></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 360px;"><img src="/images/coaching.jpg" alt="coaching.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 287px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Senior coaching juniors how to capture<br style="margin: 0px; outline: 0px; padding: 0px;">the desired shot</i></b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021infocomm01.jpg" width="100%" alt="2021_infocomm01.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 367px;"><span style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">Instructor coaching students on framing</i></b></span><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021icc%205.jpg" width="100%" alt="2021_icc 5.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 366px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teacher guiding P3 students on taking<br style="margin: 0px; outline: 0px; padding: 0px;">Perspective shot</b></i><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021icc%2014.jpg" width="100%" alt="2021_icc 14.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 369px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">P3 and P4 student learning how to<br style="margin: 0px; outline: 0px; padding: 0px;">assemble a tripod</b></i></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021icc%2015.jpg" width="100%" alt="2021_icc 15.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 366px;"><i style="margin: 0px; outline: 0px; padding: 0px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Juniors learning how to take photos with<br style="margin: 0px; outline: 0px; padding: 0px;">close up shot</b></i></td></tr></tbody></table>
-
-  
 
 ### Highlights &amp; Achievements
 
@@ -81,6 +100,12 @@ The InfoComm Club serves as a platform for pupils to learn more about different 
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
+    <td class="tg-ktyi">Creating P6 Graduation video<br>
+Creating e-posters for school’s Mid-autumn festival activities</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
     <td class="tg-ktyi">Creating Teachers’ Day video</td>
