@@ -7,8 +7,6 @@ variant: markdown
 ---
 ## Infocomm Club
 
-
-
 <table>
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:18px"><td><b>Day</b></td>
