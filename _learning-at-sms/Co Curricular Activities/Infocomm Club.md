@@ -51,13 +51,6 @@ The InfoComm Club serves as a platform for students to learn more about differen
 * New Media tools (using iPad)
 * Basic game coding
 
-![](/images/CCAs/Infocomm%20Club/AV%20equipment.jpg)
-![](/images/CCAs/Infocomm%20Club/coaching.jpg)
-![](/images/CCAs/Infocomm%20Club/2021infocomm01.jpg)
-![](/images/CCAs/Infocomm%20Club/2021icc%205.jpg)
-![](/images/CCAs/Infocomm%20Club/2021icc%2014.jpg)
-![](/images/CCAs/Infocomm%20Club/2021icc%2015.jpg)
-
 <table><tbody>
 			<tr><td><center><font size="3">
 		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_01.jpg"><b>
