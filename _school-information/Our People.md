@@ -512,8 +512,8 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">S Kanimozhi (Mrs Ganesh)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) <br>Jamilah Bee (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)<br>Jamilah Bee (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
