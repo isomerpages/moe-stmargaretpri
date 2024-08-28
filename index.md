@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/2024-edusave-character-award-echa/
+          url: /teachers-day-2024-for-ex-students/
         - title: Fund Raising 2024
           description: ""
           url: /useful-links/fundraising2024/

@@ -512,8 +512,8 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">S Kanimozhi (Mrs Ganesh)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) <br>Jamilah Bee (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)<br>Jamilah Bee (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
@@ -725,6 +725,10 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Syafawati Binte Roslan</span></td>
     <td class="tg-fxx4"><span style="color:#222">Administration Executive (AE) </span></td>
   </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms Neo Mei Leng</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Relief Administration Executive (AE) </span></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Binte Johari</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
@@ -799,10 +803,6 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 </thead>
 <tbody>
-	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Kesumawati Binte Saimon</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Receptionist</span></td>
-  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Kartika Binte Jamil</span></td>
     <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
@@ -815,6 +815,9 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mr Amanjit Singh Tiwana</span></td>
     <td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
   </tr>
- 
+	 <tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr Admimustaqim Hazri bin Azahar
+    </span></td><td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
+  </tr>
 </tbody>
 </table>
