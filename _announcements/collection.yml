@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Teachers' Day 2024 for Ex Students.md
       - Edusave Character Award (ECHA) 2024.md
       - MOE Sexuality Education Programme 2024.md
       - Read for Books 2023.md
