@@ -37,7 +37,7 @@ SMS(P) has vacancy for
 * Contact No: **6339 4247**
 * Email: stmargaretps@moe.edu.sg 
 * Contact Person: Mdm Sally Tan (Operations Manager) 
-<br><br>
+<br>
 
 **How to get there?**
 * Nearest MRT: Mattar MRT (DT25 line) – 10 minutes walking distance
