@@ -43,7 +43,7 @@ SMS(P) has vacancy for
 * Nearest MRT: Mattar MRT (DT25 line) – 10 minutes walking distance
 * Bus number: 40, 61, 63, 65, 135, 154, 155, 158 - 1 minute walking distance
 
-***Note :** With effect from 2 Jan 2025, the school will be operating at 136 Sophia Road S(228197)*
+***Note :** With effect from 2 Jan 2025, the school will be operating at 136 Sophia Road S(228197).*
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
