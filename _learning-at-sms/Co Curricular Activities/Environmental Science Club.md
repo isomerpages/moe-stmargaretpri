@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-## Science and Environmental Club
+## Environmental Science Club
 
 <table>
 <tbody>
