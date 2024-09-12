@@ -123,7 +123,21 @@ Our primary 4 Eco-stewards played an active role in the daily check-in to report
 
 <table>
 <tbody><tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__23_.jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__14_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__23_.jpg" style="width:280px;height:300px;"><b>Eco-stewards</b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__14_.jpg" style="width:280px;height:300px;"><b>Tree Planting Ceremony</b></td>
 </tr>
 	</tbody></table>
+	
+##### Other CCA Activities
+
+
+	
+<table>
+<tbody><tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__10_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__11_.jpg" style="width:280px;height:300px;"><b></b></td>
+</tr>
+	<tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__1_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__5_.jpg" style="width:280px;height:300px;"><b></b></td>
+</tr></tbody></table>
