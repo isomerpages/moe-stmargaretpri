@@ -44,9 +44,9 @@ The club provides pupils with opportunities to learn and explore the environment
 
 #### 1. Semester Two 2023
 
-##### Hands on Projects
+##### ViART Competition 2023 
 
-Students engaged in mini-group projects such as magnetic games, shadow puppet shows, story writing, focusing on the theme of recycling and sustainability.
+In Term 4 of 2023, the club members took part in the ViART Competition, titled "ARTOCHANGE - Make an artwork or design item to help form sustainable habits" in support of the Recycle Right campaign by the National Environment Agency (NEA) to encourage the 3R culture. The members made beautiful upcycled tote bags to promote sustainable recycling habits. One of our members, Celeste Chen Enqi (5 Tenacity) won 3rd prize for PARKROYAL COLLECTION Marina Bay, Best Sustainable Message Award.
 
 <table>
 <tbody><tr>
@@ -54,19 +54,20 @@ Students engaged in mini-group projects such as magnetic games, shadow puppet sh
 		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(11).jpg" style="width:280px;height:300px;"><b></b></td>
 </tr></tbody></table>
 
-##### Mushroom Growing
-
-Mushroom growing programme was conducted for Environmental Science club members This hands-on activity to enable students to investigate the growth of mushroom and form a better understanding of the role of mushrooms as decomposers in a food chain and their importance in our environment.
+##### Other CCA Activities
 
 <table>
-<tbody><tr>
-		<td><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg" style="width:280px;height:300px;"><b></b></td>
+<tbody>
+	<tr>
+		<td><center><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg" style="width:280px;height:300px;"><b>Terrarium making workshop</b></center></td></tr>
+</tbody></table>
+
+<table>
+<tbody>
+	<tr>
+		<td><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(1).jpg" style="width:280px;height:300px;"><b>Learning Journey to Science Centre</b></td>
 		<td><img alt="mushrm02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(2).JPG" style="width:280px;height:300px;"><b></b></td>
 </tr></tbody></table>
 
 
 #### 1. Semester One 2024
-
-
-
-
