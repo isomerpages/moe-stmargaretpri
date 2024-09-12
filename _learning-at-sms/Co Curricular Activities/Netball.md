@@ -41,7 +41,7 @@ Every Netball Player, An Active Thinker and Problem-Solver
 
 <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/CCAs/Netball/Senior_Team.jpg" style="width:700px;height:550px;"><b></b><center><b>Our Senior team at the Singapore Sports School after the prize-presentation</b></center></td></tr>
+		<td><img alt="modsports01" src="/images/CCAs/Netball/Senior_Team.jpg" style="width:730px;height:550px;"><b></b><center><b>Our Senior team at the Singapore Sports School after the prize-presentation</b></center></td></tr>
 	<tr>
 		<td><img alt="modsports02" src="/images/CCAs/Netball/Warming_up_before_the_game.jpg" style="width:600px;height:400px;"><b></b><center><b>Warming up before the game</b></center></td>
 </tr>
