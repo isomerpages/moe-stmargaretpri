@@ -64,7 +64,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5" colspan="3">Clubs &amp; Societies</td>
+    <td class="tg-dgl5" colspan="3"><b>Clubs &amp; Societies</b></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span></td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Library</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5" colspan="3">Physical  Sports &amp;  <span style="background-color:initial">Games</span></td>
+    <td class="tg-dgl5" colspan="3"><b>Physical  Sports &amp; Games</b></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span></td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Playground<br>Behind canteen</span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5" colspan="3">Visual &amp; Performing Arts   <span style="color:#000;background-color:#FFF">     </span></td>
+    <td class="tg-dgl5" colspan="3"><b>Visual &amp; Performing Arts </b><span style="color:#000;background-color:#FFF">     </span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span></td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">PAL Room<br>Dance studio</span><br><span style="color:#000;background-color:#FFF"></span></td>
   </tr>
   <tr>
-    <td class="tg-dgl5" colspan="3">Uniformed Groups <span style="color:#000;background-color:#FFF">     </span></td>
+    <td class="tg-dgl5" colspan="3"><b>Uniformed Groups</b><span style="color:#000;background-color:#FFF">     </span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span></td>
   </tr>
   <tr>
