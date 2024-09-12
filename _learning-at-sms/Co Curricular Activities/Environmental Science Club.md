@@ -16,7 +16,7 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Wednesdays </td>
+		<td>Fridays </td>
 		<td>2 - 4 pm</td>
 	<td>Science Labs and <br>Maths Room </td>
 	<td>Mdm Chan Yen Peng (OIC)<br>Ms Low Wei Wen<br>Ms Ng Ley Tin (Advisor)</td>
