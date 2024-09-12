@@ -74,8 +74,8 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Computer labs </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/science-and-environmental-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Science &amp; Environment Club</span></a></td>
-    <td style="color:#000;background-color:#FFF">Wednesdays  <span style="color:#000;background-color:#FFF"> </span></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/science-and-environmental-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Environmental Science Club</span></a></td>
+    <td style="color:#000;background-color:#FFF">Fridays<span style="color:#000;background-color:#FFF"> </span></td>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Chan Yen Peng*</span><br><span style="font-weight:400;color:#000">Ms Low Wei Wen</span><br><span style="font-weight:400;color:#000">Ms Ng Ley Tin (Advisor)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Science Labs and Maths Room</span></td>
   </tr>
