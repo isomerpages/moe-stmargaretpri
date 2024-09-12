@@ -131,8 +131,8 @@ Our primary 4 Eco-stewards played an active role in the daily check-in to report
 ##### Other CCA Activities
 
 ![](/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__7_.jpg)
-
-
+![](/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__24_.jpg)
+![](/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__20_.jpg)
 
 
 	
