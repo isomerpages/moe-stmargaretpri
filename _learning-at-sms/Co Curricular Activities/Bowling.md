@@ -19,7 +19,7 @@ variant: markdown
 		<td>Mondays &amp; Wednesdays </td>
 		<td>1.50 pm -<br>4 pm</td>
 	<td>External venue / <br>Outside library /<br> 5H, 5T &amp; 6C classrooms</td>
-	<td>Ms Low Pei Lin (OIC)<br>Mdm Abigail Henry<br>Mr Eddie Chong<br>Ms Dinah Chan</td>
+	<td>Ms Low Pei Lin (OIC)<br>Mdm Abigail Henry<br>Mr Eddie Chong</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
