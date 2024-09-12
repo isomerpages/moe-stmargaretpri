@@ -37,10 +37,16 @@ To nurture netball players who will eventually become sportswomen to shine for t
 
 ### Mission
 
-
 Every Netball Player, An Active Thinker and Problem-Solver
 
-![IMG_6492 JPEG.jpg](/images/IMG6492.jpg)
+<table>
+<tbody><tr>
+		<td><img alt="modsports01" src="/images/CCAs/Netball/Senior_Team.jpg" style="width:700px;height:550px;"><b></b><center><b>Our Senior team at the Singapore Sports School after the prize-presentation</b></center></td></tr>
+	<tr>
+		<td><img alt="modsports02" src="/images/CCAs/Netball/Warming_up_before_the_game.jpg" style="width:600px;height:400px;"><b></b><center><b>Warming up before the game</b></center></td>
+</tr>
+		<tr>
+	</tr></tbody></table>
 
 ### Objectives
 
