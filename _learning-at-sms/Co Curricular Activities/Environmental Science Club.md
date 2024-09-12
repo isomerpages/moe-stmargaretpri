@@ -98,16 +98,24 @@ The members of the Environmental Science Club also planned a week-long activity 
 </tbody></table>
 
 
-
-<table>
-<tbody><tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__16_.jpg" style="width:280px;height:300px;"><b></b></td>
-</tr>
-</tbody></table>
+		<img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__8_.jpg" style="width:280px;height:300px;"><b>Recess exhibition</b>
 
 
 
 Not forgetting the wonderful Assembly programme put up by the Environmental Science Club members to share how we can do our part to reduce air pollution and climate change by promoting Car-Lite. The enthusiastic members put up a skit which promoted care for the environment by relating to our daily lives and taught students how they can also help to make a difference to the environment.
+
+
+
+
+<table>
+<tbody><tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__3_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__2_.jpg" style="width:280px;height:300px;"><b></b></td>
+</tr>
+	<tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__6_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__4_.jpg" style="width:280px;height:300px;"><b>Assembly sharing</b></td>
+</tr></tbody></table>
 
 
 ##### OneEarth Challenge
