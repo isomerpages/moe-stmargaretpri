@@ -26,18 +26,18 @@ variant: markdown
 
 ### Introduction
 
-Our mission is to see every member becoming&nbsp;a self-directed learner, an&nbsp;active contributor, a concerned citizen and a confident person as she explores science and the environment around her and comes up with creative and innovative solutions to mitigate the environmental issues raised.  
-  
-The club provides pupils with opportunities to learn and explore the environment through hands-on activities,&nbsp;research and investigation as well as collaboration with peers.  
+Our mission is to see every member becoming a self-directed learner, an active contributor, a concerned citizen and a confident person as she explores science and the environment around her and comes up with creative and innovative solutions to mitigate the environmental issues raised.
+
+The club provides pupils with opportunities to learn and explore the environment through hands-on activities, research and investigation as well as collaboration with peers. 
 
 ### Objectives
 
 
-*   To encourage students to understand the importance of 3Rs – Reduce, Reuse, Recycle
-    
-*   To provide opportunities for students to carry out research and exploration of the science in our environment
-    
-*   To nurture students to be girls of character anchored on the values of Lifelong Learning, Integrity, Graciousness, Humility, Tenacity (LIGHT) and the 21st CC skills.
+●	To encourage students to understand the importance of 3Rs – Reduce, Reuse, Recycle
+
+●	To provide opportunities for students to carry out research and exploration of the science in our environment
+
+●	To nurture students to be girls of character anchored on the values of Lifelong Learning, Integrity, Graciousness, Humility, Tenacity (LIGHT) and the 21st CC skills.
     
 
 ## Activities Outline
