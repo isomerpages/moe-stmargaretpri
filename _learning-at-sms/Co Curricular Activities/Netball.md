@@ -80,15 +80,13 @@ Every Netball Player, An Active Thinker and Problem-Solver
 
 The junior and senior training teams train twice a week to prepare for the annual South Zone and National Primary Schools Netball Championships. The teams undergo rigorous physical training which develops competent netball skills, fine strategy planning and keen mental skills. Through the training sessions, the players' character is also strengthened with sound values aligned to our school's vision and motto.
 
-  
+  <table>
+<tbody><tr>
+		<td><img alt="modsports01" src="/images/South%20Zone%20NSG%20Championship%20Senior%202022%204th%20in%20Position.jpg" style="width:7800px;height:550px;"><b></b><center><b>South Zone NSG Championship (Senior) 2022 : 4th in Position</b></center></td></tr>
+		<tr>
+	</tr></tbody></table>
 
-![South Zone NSG Championship Senior 2022 4th in Position.JPG](/images/South%20Zone%20NSG%20Championship%20Senior%202022%204th%20in%20Position.jpg)
-
-**South Zone NSG Championship (Senior) 2022 : 4th in Position**
-
-  
-
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 768.53px; height: 452px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 264px;"><img id="ive_eobj_carrier" src="https://stmargaretspri-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" width="16" style="margin: 0px; outline: 0px; padding: 0px; border: none; max-width: 100%;"><img src="/images/IMG6494.jpg" alt="IMG_6494 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 258px; height: 369px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 254px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/IMG6478.jpg" alt="IMG_6478 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 258px; height: 405px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 250px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/IMG6514.jpg" alt="IMG_6514 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 245px; height: 321px;"></td></tr></tbody></table>
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 768.53px; height: 452px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 264px;"><br><img src="/images/IMG6494.jpg" alt="IMG_6494 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 258px; height: 369px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 254px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/IMG6478.jpg" alt="IMG_6478 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 258px; height: 405px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 250px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/IMG6514.jpg" alt="IMG_6514 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 245px; height: 321px;"></td></tr></tbody></table>
 
   
 
