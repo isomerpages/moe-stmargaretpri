@@ -25,13 +25,11 @@ variant: markdown
 ### Introduction
 ___________________________________________________________
 
+The Modular Sports CCA provides students with a chance to improve their athletic abilities and refine their skills in sports movement and manipulation, focusing on football this year.
 
+Through these recreational sports sessions, students not only acquire physical skills and theoretical understanding but also actively engage in team-based activities. They delve into fundamental football techniques like mastering athletic stances and footwork while gaining insight into the game's rules and dynamics.
 
-The Modular Sports CCA provides a platform for the students to hone and improve on their sports movement and manipulative skills. The students will be learning Football in Semester 1 and Floorball in Semester 2.
-
-  
-
-The students will learn the fundamental football skills which consist of athletic stance and footwork. In floorball, students will learn the fundamental skills of dribbling, passing and shooting. In addition, students will learn the rules and gameplay of both sports.
+Alongside refining their athletic skills, students learn school values through both individual and collective efforts, emphasizing sportsmanship. The program aims to instill a lasting enthusiasm for sports participation in students' lives.
 
 ### Objectives  
 __________________________________________________________
@@ -47,11 +45,11 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/CCAs/Modular%20Sports/volleyball01.jpg" style="width:450px;height:300px;"><b></b><center><b>Practice agility doing ladder drills</b></center></td></tr>
+		<td><img alt="modsports01" src="/images/CCAs/Modular%20Sports/volleyball01.jpg" style="width:450px;height:300px;"><b></b><center><b>Individual dribbling drills to improve ball control</b></center></td></tr>
 	<tr>
-		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/floorball01.jpg" style="width:450px;height:300px;"><b></b><center><b>Floorball: 3v3 modified floorball game</b></center></td>
+		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/floorball01.jpg" style="width:450px;height:300px;"><b></b><center><b>Modified 3v3 football game</b></center></td>
 </tr>
 		<tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/floorball02.jpg" style="width:450px;height:300px;"><b></b><center><b>Floorball: 3v3 modified floorball game</b></center></td>
+		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/floorball02.jpg" style="width:450px;height:300px;"><b></b><center><b>Displaying school values like tenacity during a football game</b></center></td>
 </tr>
 	</tbody></table>
