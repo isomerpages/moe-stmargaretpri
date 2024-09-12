@@ -42,45 +42,7 @@ The club provides pupils with opportunities to learn and explore the environment
 
 ## Activities Outline
 
-
-#### 1.Semester One 2023
-
-##### Earth Day Programme, April 2023
-
-<table>
-<tbody><tr>
-		<td><img alt="earthday01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(5).jpg" style="width:450px;height:200px;"><b></b></td>
-		<td><img alt="earthday02" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(6).jpg" style="width:450px;height:200px;"><b></b></td>
-</tr></tbody></table>
-
-The Environmental Science Club members took charge of the Earth Day and rolled out exciting programmes to spread the Earth Day message.
-
-The members organized competitions for all levels to promote the theme of Earth Day, “Invest in Our Planet”. They also planned a week-long activity to spread awareness on how the students of St Margaret's School (Primary) can help to bring about a more sustainable environment, for example, short sharing after morning devotion about Earth Day and Earth Day recess exhibition.
-
-The members of the Environmental Science Club also put up a wonderful Assembly programme to share the plight of marine creatures due to plastic pollution, through Ariel, the Little Mermaid.
-
-Through these programmes, students of St Margaret’s School (Primary) are inspired to be our little Eco Stewards. A Primary one student even went beach cleaning with her family after that and was invited to share her findings with the school.
-
-<table>
-<tbody><tr>
-		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(9).jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="earthday03" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(4).JPG" style="width:280px;height:300px;"><b></b></td>
-</tr>
-	<tr>
-		<td><img alt="earthday04" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(3).JPG" style="width:300px;height:200px;"><b></b></td>
-		<td><img alt="earthday05" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(7).JPG" style="width:300px;height:200px;"><b></b></td>
-</tr>
-	</tbody></table>
-
-
-##### Champions of Bees
-
-Environmental Science club members became champions of bees. They researched about the importance of bees and designed sharing via SLS platform and short assembly talk to advocate for the bees. 
-
-![](/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(8).jpg)
-
-  
-#### 2. Semester Two 2023
+#### 1. Semester Two 2023
 
 ##### Hands on Projects
 
@@ -103,62 +65,8 @@ Mushroom growing programme was conducted for Environmental Science club members 
 </tr></tbody></table>
 
 
+#### 1. Semester One 2024
 
-### Primary 3 modular CCA program
 
-  
 
-1)&nbsp;&nbsp;&nbsp;&nbsp;The 3Rs – Reduce, Reuse, Recycle
 
-2)&nbsp;&nbsp;&nbsp;&nbsp;Why are plants important (explore our science garden!)
-
-3)&nbsp;&nbsp;&nbsp;&nbsp;Why butterflies and bees are important (Life cycle of bees)
-
-4)&nbsp;&nbsp;&nbsp;&nbsp;Plant focus: Let’s explore the Blue Pea flower&nbsp;(Natural blue food dye, use as a health tea, introduce how change in the blue color indicates the acidity or alkalinity of a liquid)
-
-  
-
-### Primary 4 CCA program
-
-  
-
-1)&nbsp;&nbsp;&nbsp;&nbsp;Participated in the preparation for Earth Day 2022 Assembly program
-
-2)&nbsp;&nbsp;&nbsp;&nbsp;Participation in Sembcorp&nbsp;Recycling Bin Decal Design Competition (ideation and creation of bin decal design in groups)
-
-3)&nbsp;&nbsp;&nbsp;&nbsp;Science activity: Let’s explore the Blue Pea Flower and its uses. (Natural blue food dye, use as a health tea, introduce how change in the blue color indicates the acidity or alkalinity of a liquid)
-
-![Earth Day 2022 Assembly - Invest in our Planet.JPG](/images/Earth%20Day%202022%20AssemblyInvest%20in%20our%20Planet.jpg)
-
-**Earth Day 2022 Assembly - Invest in our Planet**
-
-### Primary 5 CCA program
-
-  
-
-1)&nbsp;&nbsp;&nbsp;&nbsp;P5s prepared slides to rise awareness on Earth Hour 2022 (last Saturday of March) and share them via school canteen monitors
-
-2)&nbsp;&nbsp;&nbsp;&nbsp;P5s planned and prepared farewell gifts for the P6 members by upcycling plastic bottles into paper weights.
-
-3)&nbsp;&nbsp;&nbsp;&nbsp;Participated via online Young Scientist Badge Program: I am a Young Sustainability Champion (Junior) from the Science Centre
-
-4)&nbsp;&nbsp;&nbsp;&nbsp;Importance of Water and the Water cycle (Science activity: How to create a “cloud” in a jar)
-
-5)&nbsp;&nbsp;&nbsp;&nbsp;CCA showcase on 26 August: P5s leaders together with the P5 members planned and conducted the CCA showcase activities for the P2s and P3s, and planned and conducted an upcycling activity for the P4 members. The teachers were the advisors.  
-
-![our CCA leaders sharing upcycling activities.JPG](/images/our%20CCA%20leaders%20sharing%20upcycling%20activities.jpg)
-
-**Our CCA leaders sharing upcycling activities!**
-
-  
-
-### Primary 6 CCA program (Semester 1 only)
-
-  
-
-1)&nbsp;&nbsp;&nbsp;&nbsp;P6s planned with the teachers and participated in the Earth Day 2022 Assembly program. CCA President Alexis and CCA member Janella did the morning assembly presentation on 20 April.
-
-2)&nbsp;&nbsp;&nbsp;&nbsp;P6s President and members planned and conducted CCA activities for the P3s and P4s to celebrate Earth Day 2022 on 22 April.
-
-![some of our activities.JPG](/images/some%20of%20our%20activities.jpg)
-**Some of our activities**
