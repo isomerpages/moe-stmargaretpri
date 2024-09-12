@@ -70,13 +70,13 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/infocomm-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">InfoComm Club</span></a></td>
     <td class="tg-ktyi">Wednesdays <span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mrs Madelin Ang*</span><br><span style="background-color:initial">Mr Wu Shao Hai</span><br><span style="font-weight:400;color:#000">Mdm Geetha</span><span style="font-weight:400;color:#000"></span><br><span style="color:#222;background-color:#FBFFFA">Miss Nur A'zzah Bte Noh (Advisor) </span><br></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mrs Madelin Ang*</span><br><span style="font-weight:400;color:#000">Mr Wu Shao Hai</span><br><span style="font-weight:400;color:#000">Mdm Geetha</span><span style="font-weight:400;color:#000"></span><br><span style="font-weight:400;color:#000">Miss Nur A'zzah Bte Noh (Advisor) </span><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Computer labs </span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/science-and-environmental-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Science &amp; Environment Club</span></a></td>
     <td class="tg-ktyi">Wednesdays  <span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Chan Yen Peng*</span><br><span style="background-color:initial">Ms Low Wei Wen</span><br><span style="background-color:initial">Ms Ng Ley Tin (Advisor)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Chan Yen Peng*</span><br><span style="font-weight:400;color:#000">Ms Low Wei Wen</span><br><span style="font-weight:400;color:#000">Ms Ng Ley Tin (Advisor)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Science Labs and Maths Room</span></td>
   </tr>
   <tr>
