@@ -48,6 +48,9 @@ The club provides pupils with opportunities to learn and explore the environment
 
 In Term 4 of 2023, the club members took part in the ViART Competition, titled "ARTOCHANGE - Make an artwork or design item to help form sustainable habits" in support of the Recycle Right campaign by the National Environment Agency (NEA) to encourage the 3R culture. The members made beautiful upcycled tote bags to promote sustainable recycling habits. One of our members, Celeste Chen Enqi (5 Tenacity) won 3rd prize for PARKROYAL COLLECTION Marina Bay, Best Sustainable Message Award.
 
+![](/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__15_.jpg)
+
+
 <table>
 <tbody><tr>
 		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(10).JPG" style="width:280px;height:300px;"><b></b></td>
