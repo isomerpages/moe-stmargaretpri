@@ -80,16 +80,30 @@ The members organised competitions for all levels to promote the theme of Earth 
 
 The members of the Environmental Science Club also planned a week-long activity to spread awareness on how the students of St Margaret's School (Primary) can help to bring about a more sustainable environment. For one week, the members did short sharing after morning devotion on how we can do our part through Recycling Right, E-waste recycling and promoting Car-Lite. They also set up an Earth Day recess exhibition to showcase some of the students’ Earth Day poster designs, upcycling projects and educate students on Climate Change and How to Recycle Right. They also engaged students in recess play. The primary 4 members shared their upcycled magnetic board games with their peers during recess and the primary 5 and 6 members conducted Recycle Right games with their peers.
 
-![](/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__3_.jpg)
+<table>
+<tbody><tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__3_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__2_.jpg" style="width:280px;height:300px;"><b></b></td>
+</tr>
+	<tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__6_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__4_.jpg" style="width:280px;height:300px;"><b>Assembly sharing</b></td>
+</tr></tbody></table>
 
+<table>
+<tbody><tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__16_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__22_.jpg" style="width:280px;height:300px;"><b>Recess games conducted by Environmental Science Club members</b></td>
+</tr>
+</tbody></table>
 
 
 
 <table>
 <tbody><tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__15_.jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__26_.jpg" style="width:280px;height:300px;"><b></b></td>
-</tr></tbody></table>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__16_.jpg" style="width:280px;height:300px;"><b></b></td>
+</tr>
+</tbody></table>
 
 
 
