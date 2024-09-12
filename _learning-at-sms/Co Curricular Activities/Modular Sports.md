@@ -47,7 +47,7 @@ ___________________________________________________________
 <tbody><tr>
 		<td><img alt="modsports01" src="/images/CCAs/Modular%20Sports/modsports_1.jpg" style="width:500px;height:350px;"><b></b><center><b>Individual dribbling drills to improve ball control</b></center></td></tr>
 	<tr>
-		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/modsports_2.jpg" style="width:500px;height:350px;"><b></b><center><b>Modified 3v3 football game</b></center></td>
+		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/modsports_2.jpg" style="width:550px;height:300px;"><b></b><center><b>Modified 3v3 football game</b></center></td>
 </tr>
 		<tr>
 		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/modsports_3.jpg" style="width:500px;height:350px;"><b></b><center><b>Displaying school values like tenacity during a football game</b></center></td>
