@@ -83,12 +83,12 @@ The members of the Environmental Science Club also planned a week-long activity 
 
 <table>
 <tbody><tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__3_.jpg" style="width:320px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__2_.jpg" style="width:320px;height:300px;"><b></b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__3_.jpg" style="width:400px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__2_.jpg" style="width:300px;height:350px;"><b></b></td>
 </tr>
 	<tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__6_.jpg" style="width:320px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__4_.jpg" style="width:320px;height:300px;"><b></b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__6_.jpg" style="width:400px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__4_.jpg" style="width:400px;height:300px;"><b></b></td>
 		</tr><tr><td colspan="2"><center><b>Assembly sharing</b></center></td>
 </tr></tbody></table>
 <br>
