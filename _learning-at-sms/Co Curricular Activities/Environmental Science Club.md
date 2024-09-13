@@ -138,14 +138,16 @@ Our primary 4 Eco-stewards played an active role in the daily check-in to report
 	
 <table>
 <tbody><tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__7_.jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__24_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__7_.jpg" style="width:400px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__24_.jpg" style="width:400px;height:300px;"><b></b></td>
 </tr>
 	<tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__20_.jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__28_.jpg" style="width:280px;height:300px;"><b>Ang Pow Upcycled Activities</b></td>
-</tr></tbody></table>
-
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__20_.jpg" style="width:380px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__28_.jpg" style="width:400px;height:300px;"><b></b></td>
+			</tr><tr><td colspan="2"><center><b>Ang Pow Upcycled Activities</b></center></td>
+</tr>
+</tbody></table>
+<br>
 <table>
 <tbody><tr>
 		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__18_.jpg" style="width:280px;height:300px;"><b></b></td>
@@ -153,5 +155,7 @@ Our primary 4 Eco-stewards played an active role in the daily check-in to report
 </tr>
 	<tr>
 		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__9_.jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__21_.jpg" style="width:280px;height:300px;"><b>Paper Making</b></td>
-</tr></tbody></table>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__21_.jpg" style="width:280px;height:300px;"><b></b></td>
+			</tr><tr><td colspan="2"><center><b>Paper Making</b></center></td>
+</tr>
+</tbody></table>
