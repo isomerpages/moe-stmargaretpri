@@ -97,9 +97,10 @@ The members of the Environmental Science Club also planned a week-long activity 
 </tr>
 </tbody></table>
 
-
-		<img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__8_.jpg" style="width:280px;height:300px;"><b>Recess exhibition</b>
-
+<table>
+<tbody><tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__8_.jpg" style="width:280px;height:300px;"><b>Recess exhibition</b></td></tr>
+</tbody></table>
 
 
 Not forgetting the wonderful Assembly programme put up by the Environmental Science Club members to share how we can do our part to reduce air pollution and climate change by promoting Car-Lite. The enthusiastic members put up a skit which promoted care for the environment by relating to our daily lives and taught students how they can also help to make a difference to the environment.
