@@ -59,7 +59,7 @@ In Term 4 of 2023, the club members took part in the ViART Competition, titled "
 <table>
 <tbody>
 	<tr>
-		<td><center><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__13_.jpg" style="width:280px;height:300px;"><b>Terrarium making workshop</b></center></td></tr>
+		<td><center><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__13_.jpg" style="width:280px;height:400px;"><b>Terrarium making workshop</b></center></td></tr>
 </tbody></table>
 
 <table>
