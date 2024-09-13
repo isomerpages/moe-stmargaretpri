@@ -82,7 +82,7 @@ The junior and senior training teams train twice a week to prepare for the annua
 
   <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/South%20Zone%20NSG%20Championship%20Senior%202022%204th%20in%20Position.jpg" style="width:7800px;height:550px;"><b></b><center><b>South Zone NSG Championship (Senior) 2022 : 4th in Position</b></center></td></tr>
+		<td><img alt="modsports01" src="/images/South%20Zone%20NSG%20Championship%20Senior%202022%204th%20in%20Position.jpg" style="width:7800px;height:530px;"><b></b><center><b>South Zone NSG Championship (Senior) 2022 : 4th in Position</b></center></td></tr>
 		<tr>
 	</tr></tbody></table>
 
