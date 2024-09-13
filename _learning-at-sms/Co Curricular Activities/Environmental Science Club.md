@@ -83,18 +83,20 @@ The members of the Environmental Science Club also planned a week-long activity 
 
 <table>
 <tbody><tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__3_.jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__2_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__3_.jpg" style="width:320px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__2_.jpg" style="width:320px;height:300px;"><b></b></td>
 </tr>
 	<tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__6_.jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__4_.jpg" style="width:280px;height:300px;"><b>Assembly sharing</b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__6_.jpg" style="width:320px;height:300px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__4_.jpg" style="width:320px;height:300px;"><b></b></td>
+		</tr><tr><td colspan="2"><center><b>Assembly sharing</b></center></td>
 </tr></tbody></table>
-
+<br>
 <table>
 <tbody><tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__16_.jpg" style="width:280px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__22_.jpg" style="width:280px;height:300px;"><b>Recess games conducted by Environmental Science Club members</b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__16_.jpg" style="width:280px;height:400px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__22_.jpg" style="width:250px;height:300px;"><b></b></td>
+	</tr><tr><td colspan="2"><center><b>Recess games conducted by<br> Environmental ScienceClub members</b></center></td>
 </tr>
 </tbody></table>
 
