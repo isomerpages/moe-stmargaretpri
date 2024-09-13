@@ -67,7 +67,7 @@ In Term 4 of 2023, the club members took part in the ViART Competition, titled "
 	<tr>
 		<td><img alt="mushrm01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__25_.jpg" style="width:400px;height:300px;"><b></b></td>
 		<td><img alt="mushrm02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__19_.jpg" style="width:280px;height:300px;"><b></b></td>
-		</tr><tr><td><b>Learning Journey to Science Centre</b></td>
+		</tr><tr><td colspan="2"><center><b>Learning Journey to Science Centre</b></center></td>
 </tr></tbody></table>
 
 
