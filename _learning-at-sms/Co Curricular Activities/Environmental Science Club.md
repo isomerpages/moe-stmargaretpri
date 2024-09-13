@@ -50,8 +50,8 @@ In Term 4 of 2023, the club members took part in the ViART Competition, titled "
 
 <table>
 <tbody><tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__15_.jpg" style="width:400px;height:300px;"><b></b></td>
-		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__26_.jpg" style="width:250px;height:400px;"><b></b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__15_.jpg" style="width:500px;height:380px;"><b></b></td>
+		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__26_.jpg" style="width:300px;height:400px;"><b></b></td>
 </tr></tbody></table>
 
 ##### Other CCA Activities
