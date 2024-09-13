@@ -116,7 +116,7 @@ Not forgetting the wonderful Assembly programme put up by the Environmental Scie
 		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__11_.jpg" style="width:280px;height:300px;"><b></b></td>
 </tr>
 	<tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__1_.jpg" style="width:280px;height:300px;"><b></b></td>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__1_.jpg" style="width:350px;height:300px;"><b></b></td>
 		<td><img alt="handson02" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__5_.jpg" style="width:280px;height:300px;"><b></b></td>
 </tr></tbody></table>
 
