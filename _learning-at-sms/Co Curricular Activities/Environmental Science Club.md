@@ -99,10 +99,12 @@ The members of the Environmental Science Club also planned a week-long activity 
 	</tr><tr><td colspan="2"><center><b>Recess games conducted by<br> Environmental ScienceClub members</b></center></td>
 </tr>
 </tbody></table>
-
+<br>
 <table>
 <tbody><tr>
-		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__8_.jpg" style="width:280px;height:300px;"><b>Recess exhibition</b></td></tr>
+		<td><img alt="handson01" src="/images/CCAs/Sci%20and%20Environment%20Club/envsci_club__8_.jpg" style="width:280px;height:400px;"><b></b></td></tr>
+	<tr><td colspan="2"><center><b>Recess exhibition</b></center></td>
+</tr>
 </tbody></table>
 
 
