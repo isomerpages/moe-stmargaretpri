@@ -55,14 +55,14 @@ variant: markdown
 <td><font size="4">25 years Award</font></td>
 </tr>
 <tr>
-		<td><font size="4">Mrs Ong Shilin, Shirley</font></td>
-		<td><font size="4">HOD MTL</font></td>
-<td><font size="4">The Commendation Medal</font></td>
-</tr>
-<tr>
 		<td><font size="4">Mdm Abigail Inbam Henry</font></td>
 		<td><font size="4">Teacher</font></td>
-<td><font size="4">Long Service Medal</font></td>
+<td><font size="4">25 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Tan Seow Wee</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
 </tr>
 <tr>
 		<td><font size="4">Mdm Leong Seok Ling Amelia</font></td>
