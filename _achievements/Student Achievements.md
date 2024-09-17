@@ -449,6 +449,23 @@ variant: markdown
 		<td><font size="4"></font></td>
 </tr>
 	</tbody></table><br>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Choir
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Youth Festival Arts Presentation 2023</font></td>
+		<td><font size="4">Accomplishment</font></td>
+</tr>
+	</tbody></table><br>
+
 
 ### 2022 Achievements
 
