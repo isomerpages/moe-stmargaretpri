@@ -12,9 +12,13 @@ variant: markdown
      Chinese Department
  </font></th>
 </tr>
-	<tr>
+<tr>
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+<tr>
+		<td><font size="4">28th National On-the-spot Chinese Language Creative Writing Competition 2024</font></td>
+		<td><font size="4"><b>3rd position</b></font></td>
 </tr>
 	<tr>
 		<td><font size="4">National Chinese Language Super Star Reader Competition 2024</font></td>
@@ -37,7 +41,7 @@ variant: markdown
 		<td><font size="4">1st position<br>2nd position<br>3rd position</font></td>
 </tr>
 	<tr>
-		<td><font size="4">Amudhe Tamizhe Competition 2024 <br>*(conducted by Kalamanjari Singapore)*</font></td>
+		<td><font size="4">Amudhe Tamizhe Competition 2024 <br>(Tamil Language Essay Competition)<br>*(conducted by Kalamanjari Singapore)*</font></td>
 		<td><font size="4">2nd position</font></td>
 </tr>
 		<tr>
