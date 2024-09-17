@@ -41,6 +41,26 @@ variant: markdown
 		<td><font size="4">Top 6 award</font></td>
 </tr>
 	</tbody></table>
+<br>	
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     National School Games Competition
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Schools Games Bowling Championship 2024 </font></td>
+		<td><font size="4">Participation</font></td>
+</tr>
+		<tr>
+		<td><font size="4">National Junior Bowling Achievement 2024</font></td>
+		<td><font size="4">3 Bronze</font></td>
+</tr>
+	</tbody></table>
 
 
 ### 2023 Achievements
