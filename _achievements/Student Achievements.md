@@ -29,7 +29,7 @@ variant: markdown
 		<td><font size="4">Top 10 Outstanding Performers</font></td>
 </tr>
 	</tbody></table>
-	<br>
+<br>
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
@@ -41,7 +41,7 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 		<tr>
-		<td><font size="4">Raffles Mathematical Olympiad (RMO) 2024</font></td>
+		<td><font size="4">Raffles Mathematical Olympiad<br>(RMO) 2024</font></td>
 		<td><font size="4">2 Distinction<br>5 Merit</font></td>
 </tr>
 	</tbody></table>
