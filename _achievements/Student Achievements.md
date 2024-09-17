@@ -4,6 +4,221 @@ permalink: /achievements/student-achievements/
 description: ""
 variant: markdown
 ---
+### 2024 Achievements
+
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    English Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4">JAL World Children's Haiku Competition 2024</font></td>
+		<td><font size="4">JAL Prize</font></td>
+</tr>
+		<tr>
+		<td><font size="4">SOTA’s Nation-wide Creative Writing Competition 2024</font></td>
+		<td><font size="4">Top 50 Finalist</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mythos (Junior Orators) Competition 2024</font></td>
+		<td><font size="4">Top 10 Outstanding Performers</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    Mathematics Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4">Raffles Mathematical Olympiad<br>(RMO) 2024</font></td>
+		<td><font size="4">2 Distinction<br>5 Merit</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    Science Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4">Singapore Primary Science Olympiad 2024</font></td>
+		<td><font size="4">1 Silver<br>1 Bronze<br>13 Merit</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Chinese Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+<tr>
+		<td><font size="4">28th National On-the-spot Chinese Language Creative Writing Competition 2024</font></td>
+		<td><font size="4">3rd position</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ezhishi Hao Peng You Issue 10 (Creative Writing segment)</font></td>
+		<td><font size="4">Essay by P2 Tenacity student was selected and published</font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Chinese Language Super Star Reader Competition 2024</font></td>
+		<td><font size="4">Outstanding Award</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+   Tamil Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+<tr>
+		<td><font size="4">S5 Cluster Tamil Language Amazing Race Competition 2024 <br></font></td>
+		<td><font size="4">1st position<br>2nd position<br>3rd position</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Amudhe Tamizhe Competition 2024 <br>(Tamil Language Essay Competition)<br><i>(conducted by Kalamanjari Singapore)</i></font></td>
+		<td><font size="4">2nd position</font></td>
+</tr>
+		<tr>
+		<td><font size="4">MediaCorp Tamil News Pongal Contest 2024</font></td>
+		<td><font size="4">Top 6 award</font></td>
+</tr>
+	</tbody></table>
+<br>	
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     National School Games Competition
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Schools Games Bowling Championship 2024 </font></td>
+		<td><font size="4">Participation</font></td>
+</tr>
+		<tr>
+		<td><font size="4">National Junior Bowling Achievement 2024</font></td>
+		<td><font size="4">3 Bronze</font></td>
+</tr>
+<tr>
+		<td><font size="4">National School Games (Senior Netball Girls) 2024</font></td>
+		<td><font size="4">Tier 2 - 4th position</font></td>
+</tr>
+<tr>
+		<td><font size="4">Artistic Gymnastics 2024</font></td>
+		<td><font size="4">5 Achievement Pins<br>6 Bronze</font></td>
+</tr>
+<tr>
+		<td><font size="4">Rhythmic Gymnastics 2024</font></td>
+		<td><font size="4">2 Achievement Pins<br>2 Bronze</font></td>
+</tr>
+<tr>
+		<td><font size="4">Swimming 2024</font></td>
+		<td><font size="4">1 Bronze <br>(50 m Breaststrokes/Junior 2 Division)</font></td>
+	</tr>
+<tr>
+		<td><font size="4">Taekwando (Poomsae) 2024</font></td>
+		<td><font size="4">1 Achievement Pin<br>1 Bronze</font></td>
+</tr>
+<tr>
+		<td><font size="4">Table Tennis 2024</font></td>
+		<td><font size="4">1 Gold</font></td>
+</tr>
+<tr>
+		<td><font size="4">Track and Field 2024</font></td>
+		<td><font size="4">1 Bronze</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    Girls Brigade
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Dr Low Guat Tin (LGT) Challenge 2024</font></td>
+		<td><font size="4">Bronze Award</font></td>
+</tr>
+			<tr>
+		<td><font size="4">Company Award 2024</font></td>
+		<td><font size="4">Bronze Award</font></td>
+</tr>
+			<tr>
+		<td><font size="4">Junior Brigader Brooch Award 2024</font></td>
+		<td><font size="4">6 Junior Brigader Brooch Award</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    Brownies
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">World Thinking Day 2024<br>– Onsite Station Games competition<br>– Division Patch Design Competition<br>– Dreamy Drift Relaxation Challenge</font></td>
+		<td><font size="4"><br>3rd position<br>Merit<br>2nd &amp; 3rd position</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    International Dance 
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Youth Festival 2024</font></td>
+		<td><font size="4">Distinction</font></td>
+</tr>
+	</tbody></table>
+
+
+
 ### 2023 Achievements
 <table>
 	<tbody><tr>
@@ -226,10 +441,27 @@ variant: markdown
 		<td><font size="4">Gold</font></td>
 </tr>
 		<tr>
-		<td><font size="4">Junior Brigader Brooch 2023 </font></td>
-		<td><font size="4"></font></td>
+		<td><font size="4">Junior Brigader Brooch Award 2023 </font></td>
+		<td><font size="4">Junior Brigader Brooch Award</font></td>
 </tr>
 	</tbody></table><br>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Choir
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Youth Festival Arts Presentation 2023</font></td>
+		<td><font size="4">Accomplishment</font></td>
+</tr>
+	</tbody></table><br>
+
 
 ### 2022 Achievements
 

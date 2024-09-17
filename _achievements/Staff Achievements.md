@@ -4,6 +4,129 @@ permalink: /achievements/staff-achievements/
 description: ""
 variant: markdown
 ---
+### 2024 Achievements
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     National Day Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mrs Wendy See</font></td>
+		<td><font size="4">Vice-Principal</font></td>
+<td><font size="4">The Public Administration Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Ong Shilin, Shirley</font></td>
+		<td><font size="4">HOD MTL</font></td>
+<td><font size="4">The Commendation Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Abigail Inbam Henry</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Leong Seok Ling Amelia</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    MOE Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mrs Teo Wai Yee</font></td>
+		<td><font size="4">School Staff Developer</font></td>
+<td><font size="4">25 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Abigail Inbam Henry</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">25 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Siti Nurbaya Bte Mohd Jumain</font></td>
+		<td><font size="4">HOD Student Management</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Chew Huan Pei Pamela</font></td>
+		<td><font size="4">HOD CCE</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Lim Li Gek Pearlyn</font></td>
+		<td><font size="4">ST Mathematics</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Chua Seow Wee</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Suryanti Binte Fathillah</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mr Sim Liyang</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Yeo Hui Li Madelin</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">15 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Li Yuen Mun Mandy</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">15 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Chan Soek Yee Charissa</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">15 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Ganesh</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Melody Soh Ming Li</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Nur Fadhilah Binte Loakman</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">5 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Ng Xing Hwee</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">5 years Award</font></td>
+</tr>
+</tbody></table>
+
+
 ### 2023 Achievements
 <table>
 	<tbody><tr>
