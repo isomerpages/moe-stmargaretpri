@@ -122,7 +122,7 @@ variant: markdown
 </tr>
 <tr>
 		<td><font size="4">Swimming 2024</font></td>
-		<td><font size="4">1 Bronze (50 m Breaststrokes/Junior 2 Division)</font></td>
+		<td><font size="4">1 Bronze <br>(50 m Breaststrokes/Junior 2 Division)</font></td>
 </tr>
 	</tbody></table>
 <br>
