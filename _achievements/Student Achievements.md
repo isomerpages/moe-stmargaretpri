@@ -32,6 +32,10 @@ variant: markdown
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
+<tr>
+		<td><font size="4">S5 Cluster Tamil Language Amazing Race Competition 2024 <br></font></td>
+		<td><font size="4">1st position<br>2nd position<br>3rd position</font></td>
+</tr>
 	<tr>
 		<td><font size="4">Amudhe Tamizhe Competition 2024 <br>*(conducted by Kalamanjari Singapore)*</font></td>
 		<td><font size="4">2nd position</font></td>
