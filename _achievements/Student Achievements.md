@@ -20,6 +20,30 @@ variant: markdown
 		<td><font size="4">JAL World Children's Haiku Competition 2024</font></td>
 		<td><font size="4">JAL Prize</font></td>
 </tr>
+		<tr>
+		<td><font size="4">SOTA’s Nation-wide Creative Writing Competition 2024</font></td>
+		<td><font size="4">Top 50 Finalist</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mythos (Junior Orators) Competition 2024</font></td>
+		<td><font size="4">Top 10 Outstanding Performers</font></td>
+</tr>
+	</tbody></table>
+	<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    Mathematics Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4">Raffles Mathematical Olympiad (RMO) 2024</font></td>
+		<td><font size="4">2 Distinction<br>5 Merit</font></td>
+</tr>
 	</tbody></table>
 <br>
 <table>
