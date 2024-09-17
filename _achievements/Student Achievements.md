@@ -4,6 +4,45 @@ permalink: /achievements/student-achievements/
 description: ""
 variant: markdown
 ---
+### 2024 Achievements
+
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     Chinese Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Chinese Language Super Star Reader Competition 2024</font></td>
+		<td><font size="4">Outstanding Award</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+   Tamil Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Amudhe Tamizhe Competition 2024 <br>*(conducted by Kalamanjari Singapore)*</font></td>
+		<td><font size="4">2nd position</font></td>
+</tr>
+		<tr>
+		<td><font size="4">MediaCorp Tamil News Pongal Contest 2024</font></td>
+		<td><font size="4">Top 6 award</font></td>
+</tr>
+	</tbody></table>
+
+
 ### 2023 Achievements
 <table>
 	<tbody><tr>
