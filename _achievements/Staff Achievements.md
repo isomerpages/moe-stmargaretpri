@@ -65,14 +65,66 @@ variant: markdown
 <td><font size="4">20 years Award</font></td>
 </tr>
 <tr>
-		<td><font size="4">Mdm Leong Seok Ling Amelia</font></td>
+		<td><font size="4">Mdm Suryanti Binte Fathillah</font></td>
 		<td><font size="4">Teacher</font></td>
-<td><font size="4">Long Service Medal</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Siti Nurbaya Bte Mohd Jumain</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mr Sim Liyang</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Lim Li Gek Pearlyn</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Chew Huan Pei Pamela</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Yeo Hui Li Madelin</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">15 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Li Yuen Mun Mandy</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">15 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Chan Soek Yee</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">15 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs S Kanimozhi</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Melody Soh Ming Li</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Nur Fadhilah Binte Loakman</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">5 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Ng Xing Hwee</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">5 years Award</font></td>
 </tr>
 </tbody></table>
-
-
-
 
 
 ### 2023 Achievements
