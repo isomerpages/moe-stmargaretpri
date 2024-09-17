@@ -139,7 +139,8 @@ variant: markdown
 	</tbody></table>
 <br>
 <table>
-	<tbody><tr>
+	<tbody>
+<tr>
 		<th><font color="maroon" size="5">
     Girls Brigade
  </font></th>
@@ -156,7 +157,6 @@ variant: markdown
 		<td><font size="4">Company Award 2024</font></td>
 		<td><font size="4">Bronze Award</font></td>
 </tr>
-
 			<tr>
 		<td><font size="4">Junior Brigader Brooch Award 2024</font></td>
 		<td><font size="4">6 awards</font></td>
