@@ -112,6 +112,14 @@ variant: markdown
 		<td><font size="4">National School Games (Senior Netball Girls) 2024</font></td>
 		<td><font size="4">Tier 2 - 4th position</font></td>
 </tr>
+<tr>
+		<td><font size="4">Artistic Gymnastics 2024</font></td>
+		<td><font size="4">5 Achievement Pins<br>6 Bronze</font></td>
+</tr>
+<tr>
+		<td><font size="4">Rhythmic Gymnastics 2024</font></td>
+		<td><font size="4">2 Achievement Pins<br>2 Bronze</font></td>
+</tr>
 	</tbody></table>
 <br>
 <table>
