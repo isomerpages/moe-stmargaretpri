@@ -65,6 +65,16 @@ variant: markdown
 <td><font size="4">20 years Award</font></td>
 </tr>
 <tr>
+		<td><font size="4">Mrs Chew Huan Pei Pamela</font></td>
+		<td><font size="4">HOD CCE</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Lim Li Gek Pearlyn</font></td>
+		<td><font size="4">ST Mathematics</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
 		<td><font size="4">Mrs Chua Seow Wee</font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">20 years Award</font></td>
@@ -76,16 +86,6 @@ variant: markdown
 </tr>
 <tr>
 		<td><font size="4">Mr Sim Liyang</font></td>
-		<td><font size="4">Teacher</font></td>
-<td><font size="4">20 years Award</font></td>
-</tr>
-<tr>
-		<td><font size="4">Mrs Lim Li Gek Pearlyn</font></td>
-		<td><font size="4">Teacher</font></td>
-<td><font size="4">20 years Award</font></td>
-</tr>
-<tr>
-		<td><font size="4">Mrs Chew Huan Pei Pamela</font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">20 years Award</font></td>
 </tr>
