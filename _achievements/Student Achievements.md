@@ -120,6 +120,10 @@ variant: markdown
 		<td><font size="4">Rhythmic Gymnastics 2024</font></td>
 		<td><font size="4">2 Achievement Pins<br>2 Bronze</font></td>
 </tr>
+<tr>
+		<td><font size="4">Swimming 2024</font></td>
+		<td><font size="4">1 Bronze (50 m Breaststrokes/Junior 2 Division)</font></td>
+</tr>
 	</tbody></table>
 <br>
 <table>
