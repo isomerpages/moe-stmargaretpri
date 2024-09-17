@@ -4,6 +4,44 @@ permalink: /achievements/staff-achievements/
 description: ""
 variant: markdown
 ---
+### 2024 Achievements
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     National Day Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mrs Wendy See</font></td>
+		<td><font size="4">Vice-Principal</font></td>
+<td><font size="4">The Public Administration Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Ong Shilin, Shirley</font></td>
+		<td><font size="4">HOD MTL</font></td>
+<td><font size="4">The Commendation Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Abigail Inbam Henry</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Leong Seok Ling Amelia</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+</tbody></table>
+
+
+
+
+
 ### 2023 Achievements
 <table>
 	<tbody><tr>
