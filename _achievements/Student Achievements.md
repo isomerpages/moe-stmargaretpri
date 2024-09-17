@@ -199,8 +199,8 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">World Thinking Day 2024</font></td>
-		<td><font size="4">3rd place</font></td>
+		<td><font size="4">World Thinking Day 2024<br>– Onsite Station Games competition<br>– Division Patch Design Competition<br>– Dreamy Drift Relaxation Challenge</font></td>
+		<td><font size="4"><br>3rd place<br>Merit<br>2nd &amp; 3rd position</font></td>
 </tr>
 	</tbody></table>
 	<br>
