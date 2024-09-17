@@ -20,6 +20,10 @@ variant: markdown
 		<td><font size="4">28th National On-the-spot Chinese Language Creative Writing Competition 2024</font></td>
 		<td><font size="4">3rd position</font></td>
 </tr>
+<tr>
+		<td><font size="4">Ezhishi Hao Peng You Issue 10 (Creative Writing segment)</font></td>
+		<td><font size="4">Essay by P2 Tenacity student was selected and published</font></td>
+</tr>
 	<tr>
 		<td><font size="4">National Chinese Language Super Star Reader Competition 2024</font></td>
 		<td><font size="4">Outstanding Award</font></td>
