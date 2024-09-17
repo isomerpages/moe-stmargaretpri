@@ -101,7 +101,7 @@ variant: markdown
 		<td><font size="4">1st position<br>2nd position<br>3rd position</font></td>
 </tr>
 	<tr>
-		<td><font size="4">Amudhe Tamizhe Competition 2024 <br>(Tamil Language Essay Competition)<br>*(conducted by Kalamanjari Singapore)*</font></td>
+		<td><font size="4">Amudhe Tamizhe Competition 2024 <br>(Tamil Language Essay Competition)<br><i>(conducted by Kalamanjari Singapore)</i></font></td>
 		<td><font size="4">2nd position</font></td>
 </tr>
 		<tr>
