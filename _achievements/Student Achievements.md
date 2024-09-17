@@ -199,7 +199,7 @@ variant: markdown
 		<td><font size="4"><br>3rd place<br>Merit<br>2nd &amp; 3rd position</font></td>
 </tr>
 	</tbody></table>
-	<br>
+<br>
 <table>
 	<tbody>
 <tr>
