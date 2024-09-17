@@ -441,8 +441,8 @@ variant: markdown
 		<td><font size="4">Gold</font></td>
 </tr>
 		<tr>
-		<td><font size="4">Junior Brigader Brooch 2023 </font></td>
-		<td><font size="4"></font></td>
+		<td><font size="4">Junior Brigader Brooch Award 2023 </font></td>
+		<td><font size="4">Junior Brigader Brooch Award</font></td>
 </tr>
 	</tbody></table><br>
 <br>
