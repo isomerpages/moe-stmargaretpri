@@ -60,6 +60,30 @@ variant: markdown
 		<td><font size="4">National Junior Bowling Achievement 2024</font></td>
 		<td><font size="4">3 Bronze</font></td>
 </tr>
+<tr>
+		<td><font size="4">National School Games (Senior Netball Girls) 2024</font></td>
+		<td><font size="4">Tier 2 - 4th position</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    Girls Brigade
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Dr Low Guat Tin (LGT) Challenge 2024</font></td>
+		<td><font size="4">Bronze Award</font></td>
+</tr>
+			<tr>
+		<td><font size="4">Company Award 2024</font></td>
+		<td><font size="4">Bronze Award</font></td>
+</tr>
 	</tbody></table>
 
 
