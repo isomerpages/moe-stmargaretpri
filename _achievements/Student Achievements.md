@@ -162,6 +162,41 @@ variant: markdown
 		<td><font size="4">6 Junior Brigader Brooch Award</font></td>
 </tr>
 	</tbody></table>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    Brownies
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">World Thinking Day 2024</font></td>
+		<td><font size="4">3rd place</font></td>
+</tr>
+	</tbody></table>
+	<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    International Dance 
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Youth Festival 2024</font></td>
+		<td><font size="4">Distinction</font></td>
+</tr>
+	</tbody></table>
+
 
 
 ### 2023 Achievements
