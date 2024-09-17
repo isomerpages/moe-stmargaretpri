@@ -37,6 +37,39 @@ variant: markdown
 <td><font size="4">Long Service Medal</font></td>
 </tr>
 </tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    MOE Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mrs Teo Wai Yee</font></td>
+		<td><font size="4">SSD</font></td>
+<td><font size="4">25 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Ong Shilin, Shirley</font></td>
+		<td><font size="4">HOD MTL</font></td>
+<td><font size="4">The Commendation Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Abigail Inbam Henry</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mdm Leong Seok Ling Amelia</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Long Service Medal</font></td>
+</tr>
+</tbody></table>
 
 
 
