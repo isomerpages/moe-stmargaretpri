@@ -105,7 +105,7 @@ variant: markdown
 <td><font size="4">15 years Award</font></td>
 </tr>
 <tr>
-		<td><font size="4">Mrs S Kanimozhi</font></td>
+		<td><font size="4">Mrs Ganesh</font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">10 years Award</font></td>
 </tr>
