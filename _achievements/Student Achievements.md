@@ -18,7 +18,7 @@ variant: markdown
 </tr>
 <tr>
 		<td><font size="4">28th National On-the-spot Chinese Language Creative Writing Competition 2024</font></td>
-		<td><font size="4"><b>3rd position</b></font></td>
+		<td><font size="4">3rd position</font></td>
 </tr>
 	<tr>
 		<td><font size="4">National Chinese Language Super Star Reader Competition 2024</font></td>
