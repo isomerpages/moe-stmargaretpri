@@ -159,7 +159,7 @@ variant: markdown
 </tr>
 			<tr>
 		<td><font size="4">Junior Brigader Brooch Award 2024</font></td>
-		<td><font size="4">6 awards</font></td>
+		<td><font size="4">6 Junior Brigader Brooch Award</font></td>
 </tr>
 	</tbody></table>
 
