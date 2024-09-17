@@ -9,6 +9,22 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+    English Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4">JAL World Children's Haiku Competition 2024</font></td>
+		<td><font size="4">JAL Prize</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
      Chinese Department
  </font></th>
 </tr>
