@@ -146,7 +146,7 @@ variant: markdown
 	</tr>
 <tr>
 		<td><font size="4">Taekwando (Poomsae) 2024</font></td>
-		<td><font size="4">1 Achievement Pin<br>1 Bronze <br>(50 m Breaststrokes/Junior 2 Division)</font></td>
+		<td><font size="4">1 Achievement Pin<br>1 Bronze</font></td>
 </tr>
 <tr>
 		<td><font size="4">Table Tennis 2024</font></td>
