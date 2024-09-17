@@ -51,7 +51,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4">Mrs Teo Wai Yee</font></td>
-		<td><font size="4">SSD</font></td>
+		<td><font size="4">School Staff Developer</font></td>
 <td><font size="4">25 years Award</font></td>
 </tr>
 <tr>
@@ -60,17 +60,17 @@ variant: markdown
 <td><font size="4">25 years Award</font></td>
 </tr>
 <tr>
-		<td><font size="4">Ms Tan Seow Wee</font></td>
+		<td><font size="4">Mdm Siti Nurbaya Bte Mohd Jumain</font></td>
+		<td><font size="4">HOD Student Management</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Chua Seow Wee</font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">20 years Award</font></td>
 </tr>
 <tr>
 		<td><font size="4">Mdm Suryanti Binte Fathillah</font></td>
-		<td><font size="4">Teacher</font></td>
-<td><font size="4">20 years Award</font></td>
-</tr>
-<tr>
-		<td><font size="4">Mdm Siti Nurbaya Bte Mohd Jumain</font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">20 years Award</font></td>
 </tr>
