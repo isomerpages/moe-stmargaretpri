@@ -96,6 +96,10 @@ variant: markdown
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
+<tr>
+		<td><font size="4">National Schools Games Bowling Championship 2024 </font></td>
+		<td><font size="4">Participation</font></td>
+</tr>
 	<tr>
 		<td><font size="4">National Schools Games Bowling Championship 2024 </font></td>
 		<td><font size="4">Participation</font></td>
