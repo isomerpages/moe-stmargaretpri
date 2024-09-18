@@ -6,7 +6,8 @@ variant: markdown
 ---
 ### In Appreciation for your support
 
-
+![](/images/Parent%20Volunteers/Maths_Recess_Play_2024.gif)
+![](/images/Parent%20Volunteers/MT_Fortnight_2024.jpg)
 
 <table>
 	<tbody><tr>
@@ -15,6 +16,15 @@ variant: markdown
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
+			<tr>
+	<td><img src="/images/Parent%20Volunteers/Maths_Recess_Play_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/MT_Fortnight_2024.jpg" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Math Week Activities<br>(24 July 2024) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>MTL Fortnight<br>(13 - 17 May 2024)</b></font>
+</center></td>
+</tr>
 		<tr>
 	<td><img src="/images/Parent%20Volunteers/IFD_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/Hari_Raya_2024.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
