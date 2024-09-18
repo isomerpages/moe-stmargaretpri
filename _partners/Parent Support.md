@@ -6,9 +6,6 @@ variant: markdown
 ---
 ### In Appreciation for your support
 
-![](/images/Parent%20Volunteers/P5_LJ_Indian_HC_2024.jpg)
-![](/images/Parent%20Volunteers/P1LJ_Wet_market_2024.gif)
-
 <table>
 	<tbody><tr>
 		<th><center><font color="maroon" size="6">
@@ -40,7 +37,7 @@ variant: markdown
 </tr>
 			<tr width="10 px" height="10 px"><td><center><font size="4"><b>International Friendship Day<br>(19 Apr 2024) </b></font></center></td> 
 		<td><center>
-		<font size="4"><b>Hari Raya Celebration<br>(12 - 16 Apr 2024)</b></font>
+		<font size="4"><b>Hari Raya Recess Play<br>(12 - 16 Apr 2024)</b></font>
 </center></td>
 </tr>
 			<tr>
