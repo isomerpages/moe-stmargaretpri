@@ -6,8 +6,7 @@ variant: markdown
 ---
 ### In Appreciation for your support
 
-![](/images/Parent%20Volunteers/Maths_Recess_Play_2024.gif)
-![](/images/Parent%20Volunteers/MT_Fortnight_2024.jpg)
+
 
 <table>
 	<tbody><tr>
@@ -16,7 +15,16 @@ variant: markdown
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
-			<tr>
+<tr>
+	<td><img src="/images/Parent%20Volunteers/Maths_Recess_Play_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/MT_Fortnight_2024.jpg" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>P1 Learning Journey to Macpherson Wet Market <br>(22 - 28 Aug 2024) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>P5 Learning Journey to Indian Heritage Centre<br>(July 2024)</b></font>
+</center></td>
+</tr>
+<tr>
 	<td><img src="/images/Parent%20Volunteers/Maths_Recess_Play_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/MT_Fortnight_2024.jpg" alt="ifd pv" style="width:400px;height:280px;"></td>
 </tr>
