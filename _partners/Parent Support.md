@@ -6,7 +6,8 @@ variant: markdown
 ---
 ### In Appreciation for your support
 
-
+![](/images/Parent%20Volunteers/P5_LJ_Indian_HC_2024.jpg)
+![](/images/Parent%20Volunteers/P1LJ_Wet_market_2024.gif)
 
 <table>
 	<tbody><tr>
@@ -16,8 +17,8 @@ variant: markdown
 <table>
 	<tbody>
 <tr>
-	<td><img src="/images/Parent%20Volunteers/Maths_Recess_Play_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
-<td><img src="/images/Parent%20Volunteers/MT_Fortnight_2024.jpg" alt="ifd pv" style="width:400px;height:280px;"></td>
+	<td><img src="/images/Parent%20Volunteers/P1LJ_Wet_market_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/P5_LJ_Indian_HC_2024.jpg" alt="ifd pv" style="width:400px;height:280px;"></td>
 </tr>
 			<tr width="10 px" height="10 px"><td><center><font size="4"><b>P1 Learning Journey to Macpherson Wet Market <br>(22 - 28 Aug 2024) </b></font></center></td> 
 		<td><center>
