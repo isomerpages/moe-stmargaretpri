@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### In Appreciation for your support
 
+
+
 <table>
 	<tbody><tr>
 		<th><center><font color="maroon" size="6">
@@ -13,6 +15,15 @@ variant: markdown
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
+		<tr>
+	<td><img src="/images/Parent%20Volunteers/IFD_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/Hari_Raya_2024.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>International Friendship Day<br>(19 Apr 2024) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>Hari Raya Celebration<br>(12 - 16 Apr 2024)</b></font>
+</center></td>
+</tr>
 			<tr>
 	<td><img src="/images/Parent%20Volunteers/TDD_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/P2_Camp_2024.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
