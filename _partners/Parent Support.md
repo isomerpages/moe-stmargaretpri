@@ -13,6 +13,33 @@ variant: markdown
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
+<tr>
+	<td><img src="/images/Parent%20Volunteers/P1LJ_Wet_market_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/Maths_Recess_Play_2024.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>P1 Learning Journey to Macpherson Wet Market <br>(22 - 27 Aug 2024) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>Math Week Activities<br>(24 July 2024)</b></font>
+</center></td>
+</tr>
+<tr>
+	<td><img src="/images/Parent%20Volunteers/P5_LJ_Indian_HC_2024.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/MT_Fortnight_2024.jpg" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>P5 Learning Journey to Indian Heritage Centre<br>(7 - 9 May 2024)</b></font></center></td> 
+		<td><center>
+		<font size="4"><b>MTL Fortnight<br>(13 - 17 May 2024)</b></font>
+</center></td>
+</tr>
+		<tr>
+	<td><img src="/images/Parent%20Volunteers/IFD_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/Hari_Raya_2024.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
+</tr>
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>International Friendship Day<br>(5 Apr 2024) </b></font></center></td> 
+		<td><center>
+		<font size="4"><b>Hari Raya Recess Play<br>(12 - 16 Apr 2024)</b></font>
+</center></td>
+</tr>
 			<tr>
 	<td><img src="/images/Parent%20Volunteers/TDD_2024.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/P2_Camp_2024.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
