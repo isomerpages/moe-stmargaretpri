@@ -57,51 +57,46 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">6</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mrs Alice Tan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Diocesan Secretary for Schools </span></td>
-  </tr>
-  <tr>
-    <td class="tg-tojq"><span style="color:#222">7</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mrs Irene Chua </span></td>
     <td class="tg-fxx4"><span style="color:#222">Bishop's Nominee </span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">8</span></td>
+    <td class="tg-tojq"><span style="color:#222">7</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms Chew Siew Kheng</span></td>
     <td class="tg-fxx4"><span style="color:#222">SMESA Rep</span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">9</span></td>
+    <td class="tg-tojq"><span style="color:#222">8</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mrs Cheryl Teo</span></td>
     <td class="tg-fxx4"><span style="color:#222">SMS(P) Parents' Rep</span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">10</span></td>
+    <td class="tg-tojq"><span style="color:#222">9</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mrs Jun Pang</span></td>
     <td class="tg-fxx4"><span style="color:#222">SMS(S) Parents' Rep</span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">11</span></td>
+    <td class="tg-tojq"><span style="color:#222">10</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms Lee Soo Kwan</span></td>
     <td class="tg-fxx4"><span style="color:#222">St Andrew's Cathedral PCC Rep</span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">12</span></td>
+    <td class="tg-tojq"><span style="color:#222">11</span></td>
     <td class="tg-emg8">Canon Barry Leong<br></td>
     <td class="tg-fxx4"><span style="color:#222">Chaplain, St John's Chapel (SJCP)</span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">13</span></td>
+    <td class="tg-tojq"><span style="color:#222">12</span></td>
     <td class="tg-fxx4"><span style="color:#222">Revd Bertram Cheong</span></td>
     <td class="tg-fxx4"><span style="color:#222">Chaplain, Chapel of Christ the King (CCK)</span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">14</span></td>
+    <td class="tg-tojq"><span style="color:#222">13</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms Leong Wee Lee</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">15</span></td>
+    <td class="tg-tojq"><span style="color:#222">14</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms Lee Zhuomin</span></td>
     <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
