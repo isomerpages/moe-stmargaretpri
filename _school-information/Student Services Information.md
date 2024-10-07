@@ -39,7 +39,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-f4yw"> School Bus<br></td>
-    <td class="tg-zr06">RS Transport Services<br>Blk 212 Hougang Street 21 #04-325<br>Singapore 530212<br><br>Tel: 62510281, 62510283<br>Fax: 62510283<br>Email: <u>smps@rstransport.com.sg</u><br><br>Open Monday to Friday<br>10 am to 5.30 pm<br><br>For <b>New P1</b> application, click <a href="/files/smps request for school bus services (rs transport) 2024 p1 registration use.pdf" target="_blank">BUS 2024 P1 REG. FORM</a><br>For <b>Renewal/New</b> application, click <a href="/files/smps renewal &amp; new request for school bus services 2024 (rs transport).pdf" target="_blank">BUS RENEWAL/NEW FORM</a><br><br>Application is to be completed &amp; emailed to <u>smps@rstransport.com.sg</u>
+    <td class="tg-zr06">RS Transport Services<br>Blk 212 Hougang Street 21 #04-325<br>Singapore 530212<br><br>Tel: 62510281, 62510283<br>Fax: 62510283<br>Email: <u>smps@rstransport.com.sg</u><br><br>Open Monday to Friday<br>10 am to 5.30 pm<br><br>For <b>New P1</b> application, click <a href="/files/SMSP_Bus_2025_P1_Registration_Form.pdf" target="_blank">BUS 2025 P1 REG. FORM</a><br><br>For <b>Renewal</b> application, click <a href="/files/SMSP_Bus_Renewal_for_2025.pdf" target="_blank">BUS RENEWAL FORM 2025</a><br><br>
+For <b>New</b> application, click <a href="/files/SMSP_Bus_NEW_Application_2025.pdf" target="_blank">BUS NEW APPLICATION FORM 2025</a><br><br>Application is to be completed &amp; emailed to <u>smps@rstransport.com.sg</u>
   </td></tr>
   <tr>
     <td class="tg-f4yw"> Replacement of Student<br>Smart Card<br>(Lost or damaged)</td>
