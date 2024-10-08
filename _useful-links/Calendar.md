@@ -14,14 +14,14 @@ variant: markdown
 </tr>
 </tbody></table>
 
-![](/images/Calendar%202024/Term_4_Final_01.jpg)
-![](/images/Calendar%202024/Term_4_Final_02.jpg)
+![](/images/Calendar%202024/Term_4_Final_01_v2.jpg)
+![](/images/Calendar%202024/Term_4_Final_02_v2.jpg)
 		
 <font size="3">  
       * Parents/Guardians will be notified of the details or any changes closer to the date of the event.
 </font><font size="3"><br>
 </font><font size="3">
-			* Updated as of 9 Sep 2024
+			* Updated as of 8 Oct 2024
 </font><table>
 	<tbody>
 		<tr>
