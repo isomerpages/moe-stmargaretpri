@@ -104,7 +104,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4">Mr Jamaludin Bin A Rahman </font></td>
-		<td><font size="4">OSO</font></td>
+		<td><font size="4">Operation Support Officer</font></td>
 <td><font size="4">10 years Award</font></td>
 </tr>
 </tbody></table>
