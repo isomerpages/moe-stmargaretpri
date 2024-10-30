@@ -224,15 +224,15 @@ variant: markdown
 		<td><font size="4"><b>Title</b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">Mandy Li Yuen Mun</font></td>
+		<td><font size="4">Mrs Mandy Li Yuen Mun</font></td>
 		<td><font size="4">Teacher</font></td>
 </tr>
 		<tr>
-		<td><font size="4">Joanne Lee May Lyn</font></td>
+		<td><font size="4">Mrs Joanne Lee May Lyn</font></td>
 		<td><font size="4">Teacher</font></td>
 </tr>
 		<tr>
-		<td><font size="4">Esther James</font></td>
+		<td><font size="4">Mdm Esther James</font></td>
 		<td><font size="4">Teacher</font></td> 
 </tr>
 </tbody></table>
