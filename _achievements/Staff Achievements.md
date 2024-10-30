@@ -41,6 +41,44 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+     MOE Service Excellence Award (MSEA)
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Julia Li </font></td>
+		<td><font size="4">HOD ICT</font></td>
+<td><font size="4">Gold</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Dharshini Ravichandran</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Gwee Hui Jun</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Anna Lau</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Ms Zhuang Siqiao </font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
     MOE Long Service Award
  </font></th>
 </tr>
