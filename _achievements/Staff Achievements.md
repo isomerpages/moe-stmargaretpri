@@ -79,6 +79,39 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+    SMC Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Ng Ley Tin</font></td>
+		<td><font size="4">LH Science</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Ms Lin Linli  </font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mr Jamaludin Bin A Rahman </font></td>
+		<td><font size="4">OSO</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Pamela Yeo Yun Fen</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
     MOE Long Service Award
  </font></th>
 </tr>
