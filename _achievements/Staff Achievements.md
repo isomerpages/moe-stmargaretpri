@@ -93,7 +93,7 @@ variant: markdown
 <td><font size="4">20 years Award</font></td>
 </tr>
 		<tr>
-		<td><font size="4">Ms Lin Linli  </font></td>
+		<td><font size="4">Mdm Lin Linli  </font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">20 years Award</font></td>
 </tr>
@@ -103,7 +103,7 @@ variant: markdown
 <td><font size="4">10 years Award</font></td>
 </tr>
 <tr>
-		<td><font size="4">Ms Pamela Yeo Yun Fen</font></td>
+		<td><font size="4">Mrs Pamela Yeo Yun Fen</font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">10 years Award</font></td>
 </tr>
