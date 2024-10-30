@@ -65,12 +65,12 @@ variant: markdown
 <td><font size="4">Silver</font></td>
 </tr>
 <tr>
-		<td><font size="4">Ms Anna Lau</font></td>
+		<td><font size="4">Ms Anna Lau Li Keow</font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">Silver</font></td>
 </tr>
 		<tr>
-		<td><font size="4">Ms Zhuang Siqiao </font></td>
+		<td><font size="4">Mrs Zhuang Siqiao</font></td>
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">Silver</font></td>
 </tr>
