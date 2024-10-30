@@ -112,6 +112,22 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+    2024 Academy Award for Professional Development
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Pearlyn Lim Li Gek</font></td>
+		<td><font size="4">ST Mathematics</font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
     MOE Long Service Award
  </font></th>
 </tr>
