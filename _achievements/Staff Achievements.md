@@ -216,24 +216,20 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
-    The Caring Teacher Award<br>(School Level)
+    The Caring Teacher Award (School Level)
  </font></th>
 </tr>
 	<tr>
 		<td><font size="4"><b>Name</b></font></td>
-		<td><font size="4"><b>Title</b></font></td>
 </tr>
 	<tr>
 		<td><font size="4">Mrs Mandy Li Yuen Mun</font></td>
-		<td><font size="4">Teacher</font></td>
 </tr>
 		<tr>
 		<td><font size="4">Mrs Joanne Lee May Lyn</font></td>
-		<td><font size="4">Teacher</font></td>
 </tr>
 		<tr>
 		<td><font size="4">Mdm Esther James</font></td>
-		<td><font size="4">Teacher</font></td> 
 </tr>
 </tbody></table>
 <br>
