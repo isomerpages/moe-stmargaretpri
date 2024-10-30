@@ -97,14 +97,14 @@ variant: markdown
 		<td><font size="4">Teacher</font></td>
 <td><font size="4">20 years Award</font></td>
 </tr>
-	<tr>
-		<td><font size="4">Mr Jamaludin Bin A Rahman </font></td>
-		<td><font size="4">OSO</font></td>
-<td><font size="4">10 years Award</font></td>
-</tr>
 <tr>
 		<td><font size="4">Mrs Pamela Yeo Yun Fen</font></td>
 		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mr Jamaludin Bin A Rahman </font></td>
+		<td><font size="4">OSO</font></td>
 <td><font size="4">10 years Award</font></td>
 </tr>
 </tbody></table>
