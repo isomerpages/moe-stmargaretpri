@@ -112,7 +112,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
-    2024 Academy Award for Professional Development
+    2024 Academy Award for <br>Professional Development
  </font></th>
 </tr>
 	<tr>
