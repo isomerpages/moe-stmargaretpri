@@ -41,8 +41,8 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
-     MOE Service Excellence Award (MSEA)
- </font></th>
+     MOE Service Excellence Award <br>(MSEA)
+</font></th>
 </tr>
 	<tr>
 		<td><font size="4"><b>Name</b></font></td>
