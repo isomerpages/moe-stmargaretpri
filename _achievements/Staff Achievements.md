@@ -216,7 +216,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
-    The Caring Teacher Award (School Level)
+    The Caring Teacher Award<br>(School Level)
  </font></th>
 </tr>
 	<tr>
