@@ -212,6 +212,31 @@ variant: markdown
 <td><font size="4">5 years Award</font></td>
 </tr>
 </tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    The Caring Teacher Award (School Level)
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mandy Li Yuen Mun</font></td>
+		<td><font size="4">Teacher</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Joanne Lee May Lyn</font></td>
+		<td><font size="4">Teacher</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Esther James</font></td>
+		<td><font size="4">Teacher</font></td> 
+</tr>
+</tbody></table>
+<br>
 
 
 ### 2023 Achievements
