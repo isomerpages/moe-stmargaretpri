@@ -245,7 +245,7 @@ Tennis
 		<td><font size="4">Distinction</font></td>
 </tr>
 	</tbody></table>
-	<br>
+<br>
 <table>
 	<tbody>
 <tr>
