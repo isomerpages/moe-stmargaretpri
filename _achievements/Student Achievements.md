@@ -42,7 +42,7 @@ variant: markdown
 </tr>
 		<tr>
 		<td><font size="4">Raffles Mathematical Olympiad<br>(RMO) 2024</font></td>
-		<td><font size="4">**Junior Category**<br>1 Distinction<br>5 Merit<br><br>**Open Category**<br>1 Distinction</font></td>
+		<td><font size="4"><b>Junior Category</b><br>1 Distinction<br>5 Merit<br><br><b>Open Category</b><br>1 Distinction</font></td>
 </tr>
 	<tr>
 		<td><font size="4">Annual Mathlympics</font></td>
@@ -183,7 +183,7 @@ Tennis
 </tr>
 			<tr>
 		<td><font size="4">Tennis Junior Division Girls</font></td>
-		<td><font size="4">**Green Ball**<br>Singles: 1st in Position in Classification Competition<br>**Orange Ball**<br>Singles: 1st Position in Tier 2 Competition</font></td>
+		<td><font size="4"><b>Green Ball</b><br>Singles: 1st in Position in Classification Competition<br><b>Orange Ball</b><br>Singles: 1st Position in Tier 2 Competition</font></td>
 </tr>
 	</tbody></table>
 <br>
