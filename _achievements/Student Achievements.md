@@ -242,7 +242,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4">Anglo-Chinese Junior College (ACJS) Mythos Storytelling Competition</font></td>
-		<td><font size="4">1 Finalist (Top 10 Outstanding Performer)<br>1 Semi-finalist</font></td>
+		<td><font size="4">1 Finalist also Top 10 Outstanding Performer<br>1 Semi-finalist</font></td>
 </tr>
 	</tbody></table>
 
