@@ -183,7 +183,7 @@ Tennis
 </tr>
 			<tr>
 		<td><font size="4">Tennis Junior Division Girls</font></td>
-		<td><font size="4"><b>Green Ball</b><br>Singles: 1st in Position in Classification Competition<br><b>Orange Ball</b><br>Singles: 1st Position in Tier 2 Competition</font></td>
+		<td><font size="4"><b>Green Ball</b><br>Singles: 1st in Position in Classification Competition<br><br><b>Orange Ball</b><br>Singles: 1st Position in Tier 2 Competition</font></td>
 </tr>
 	</tbody></table>
 <br>
