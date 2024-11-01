@@ -169,6 +169,23 @@ variant: markdown
 		<td><font size="4">1 Bronze</font></td>
 </tr>
 	</tbody></table>
+	<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+Tennis
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+			<tr>
+		<td><font size="4">Tennis Junior Division Girls</font></td>
+		<td><font size="4">*Green Ball*<br>Singles: 1st in Position in Classification Competition<br>*Orange Ball*<br>Singles: 1st Position in Tier 2 Competition</font></td>
+</tr>
+	</tbody></table>
 <br>
 <table>
 	<tbody>
