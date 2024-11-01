@@ -94,7 +94,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4">National Chinese Language Super Star Reader Competition 2024</font></td>
-		<td><font size="4">2 Commendation Award<br>Outstanding Award</font></td>
+		<td><font size="4">2 Commendation Award<br>1 Outstanding Award</font></td>
 </tr>
 	</tbody></table>
 <br>
