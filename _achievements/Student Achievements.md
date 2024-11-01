@@ -44,6 +44,10 @@ variant: markdown
 		<td><font size="4">Raffles Mathematical Olympiad<br>(RMO) 2024</font></td>
 		<td><font size="4">2 Distinction<br>5 Merit</font></td>
 </tr>
+		<tr>
+		<td><font size="4">Annual Mathlympics</font></td>
+		<td><font size="4">1 Gold<br>5 Silver<br>4 Bronze<br>5 Merit</font></td>
+</tr>
 	</tbody></table>
 <br>
 <table>
