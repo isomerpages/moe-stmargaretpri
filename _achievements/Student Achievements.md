@@ -68,6 +68,10 @@ variant: markdown
 		<td><font size="4">Singapore Primary Science Olympiad 2024</font></td>
 		<td><font size="4">1 Silver<br>1 Bronze<br>13 Merit</font></td>
 </tr>
+		<tr>
+		<td><font size="4">NUS High School of Math &amp; Science 2024</font></td>
+		<td><font size="4">2 MCURIE award</font></td>
+</tr>
 	</tbody></table>
 <br>
 <table>
