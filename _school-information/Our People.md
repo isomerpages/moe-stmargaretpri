@@ -725,7 +725,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Administration Executive (AE) </span></td>
   </tr>
 	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms Marine Chew</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Marine Chew Lay Leng</span></td>
     <td class="tg-fxx4"><span style="color:#222">Relief Administration Executive (AE) </span></td>
   </tr>
   <tr>

@@ -42,7 +42,15 @@ variant: markdown
 </tr>
 		<tr>
 		<td><font size="4">Raffles Mathematical Olympiad<br>(RMO) 2024</font></td>
-		<td><font size="4">2 Distinction<br>5 Merit</font></td>
+		<td><font size="4"><b>Junior Category</b><br>1 Distinction<br>5 Merit<br><br><b>Open Category</b><br>1 Distinction</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Annual Mathlympics</font></td>
+		<td><font size="4">1 Gold<br>5 Silver<br>4 Bronze<br>5 Merit</font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Mathematical Olympiad<br>of Singapore 2024 (NMO∑)</font></td>
+		<td><font size="4">2 Silver<br>9 Bronze<br>9 Honorable Mention</font></td>
 </tr>
 	</tbody></table>
 <br>
@@ -59,6 +67,10 @@ variant: markdown
 		<tr>
 		<td><font size="4">Singapore Primary Science Olympiad 2024</font></td>
 		<td><font size="4">1 Silver<br>1 Bronze<br>13 Merit</font></td>
+</tr>
+		<tr>
+		<td><font size="4">NUS High School of Math &amp; Science 2024</font></td>
+		<td><font size="4">2 MCURIE award</font></td>
 </tr>
 	</tbody></table>
 <br>
@@ -82,7 +94,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4">National Chinese Language Super Star Reader Competition 2024</font></td>
-		<td><font size="4">Outstanding Award</font></td>
+		<td><font size="4">2 Commendation Award<br>1 Outstanding Award</font></td>
 </tr>
 	</tbody></table>
 <br>
@@ -162,6 +174,23 @@ variant: markdown
 	<tbody>
 <tr>
 		<th><font color="maroon" size="5">
+Tennis
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+			<tr>
+		<td><font size="4">Tennis Junior Division Girls</font></td>
+		<td><font size="4"><b>Green Ball</b><br>Singles: 1st in Position in Classification Competition<br><br><b>Orange Ball</b><br>Singles: 1st Position in Tier 2 Competition</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
     Girls Brigade
  </font></th>
 </tr>
@@ -214,6 +243,23 @@ variant: markdown
 	<tr>
 		<td><font size="4">Singapore Youth Festival 2024</font></td>
 		<td><font size="4">Distinction</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    STAR
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Anglo-Chinese Junior College (ACJS) Mythos Storytelling Competition</font></td>
+		<td><font size="4">1 Finalist also Top 10 Outstanding Performer<br>1 Semi-finalist</font></td>
 </tr>
 	</tbody></table>
 

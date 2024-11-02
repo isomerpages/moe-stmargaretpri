@@ -41,6 +41,93 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+     MOE Service Excellence Award <br>(MSEA)
+</font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Julia Li </font></td>
+		<td><font size="4">HOD ICT</font></td>
+<td><font size="4">Gold</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Dharshini Ravichandran</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Gwee Hui Jun</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+<tr>
+		<td><font size="4">Ms Anna Lau Li Keow</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mrs Zhuang Siqiao</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">Silver</font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    SMC Long Service Award
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+<td><font size="4"><b>Award</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Ng Ley Tin</font></td>
+		<td><font size="4">LH Science</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mdm Lin Linli  </font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">20 years Award</font></td>
+</tr>
+<tr>
+		<td><font size="4">Mrs Pamela Yeo Yun Fen</font></td>
+		<td><font size="4">Teacher</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mr Jamaludin Bin A Rahman </font></td>
+		<td><font size="4">Operation Support Officer</font></td>
+<td><font size="4">10 years Award</font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    2024 Academy Award for <br>Professional Development
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+		<td><font size="4"><b>Title</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Ms Pearlyn Lim Li Gek</font></td>
+		<td><font size="4">ST Mathematics</font></td>
+</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
     MOE Long Service Award
  </font></th>
 </tr>
@@ -125,6 +212,27 @@ variant: markdown
 <td><font size="4">5 years Award</font></td>
 </tr>
 </tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    The Caring Teacher Award (School Level)
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Name</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mrs Mandy Li Yuen Mun</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mrs Joanne Lee May Lyn</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mdm Esther James</font></td>
+</tr>
+</tbody></table>
+<br>
 
 
 ### 2023 Achievements
