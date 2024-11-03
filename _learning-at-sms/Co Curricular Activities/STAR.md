@@ -61,6 +61,6 @@ STAR’s programme is curated and designed to hone the pupils’ oratorical and 
 		<td><center><font size="3"><img src="/images/CCAs/STAR/star_06.jpg" alt="bacalah adikku 2022" style="width:360px;height:300px;"><b>The girls' creativity and imagination shine through as they use everyday items as props</b></font></center></td>
 </tr>
 			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_07.jpg" alt="bacalah adikku 2022" style="width:360px;height:300px;"><b>The girls really know how to strike a pose!</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star_08.jpg" alt="bacalah adikku 2022" style="width:360px;height:300px;"><b>Can you guess what common object these girls are mimicking? If you guessed a traffic light, you're right!</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star_08.jpg" alt="bacalah adikku 2022" style="width:350px;height:320px;"><b>Can you guess what common object these girls are mimicking? If you guessed a traffic light, you're right!</b></font></center></td>
 </tr>
 </tbody></table>
