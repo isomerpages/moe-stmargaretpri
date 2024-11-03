@@ -49,10 +49,11 @@ STAR’s programme is curated and designed to hone the pupils’ oratorical and 
 **R** - Recitation
 
 <table>
-	<tbody>
-		<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Exploring a chosen theme, the girls skillfully create scenes that capture the theme’s tension and emotions.</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star_03.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b></b></font></center></td>
+	<tbody><tr><td>John
+		</td></tr><tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>
+		</b></font></center></td><td><center><font size="3"><img src="/images/CCAs/STAR/star_03.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b></b></font></center></td>
 </tr>
+		<tr><td colspan="2"><center>Exploring a chosen theme, the girls skillfully create scenes that capture the theme’s tension and emotions.</center></td></tr>
 			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>In this freeze frame, the girls bring the moment to life when the genie bursts out of the lamp in Aladdin!</b></font></center></td>
 		<td><center><font size="3"><img src="/images/CCAs/STAR/star_04.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Can you guess which famous fairytale scene these girls are recreating?</b></font></center></td>
 </tr>
