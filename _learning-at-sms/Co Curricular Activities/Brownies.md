@@ -119,12 +119,12 @@ ___________________________________________________________
 </tr>
 	<tr><td colspan="2" style="text-align: center"><font size="3"><b>Plogging around our neighbourhood during the<br>SMS(P) Pack Holiday</b></font><p></p></td></tr>
 	<tr>
-<td><center><font size="3"><img src="/images/CCAs/Brownies/pack01.jpg" alt="volunteer recess ministry pv" style="width:280px;height:360px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/CCAs/Brownies/pack01.jpg" alt="volunteer recess ministry pv" style="width:360px;height:300px;"><b></b></font></center>
 </td>
-	<td><center><font size="3"><img src="/images/CCAs/Brownies/pack02.jpg" alt="volunteer recess ministry pv" style="width:280px;height:360px;"><b></b></font></center></td>
+	<td><center><font size="3"><img src="/images/CCAs/Brownies/pack02.jpg" alt="volunteer recess ministry pv" style="width:360px;height:300px;"><b></b></font></center></td>
 </tr>
 	<tr><td colspan="2" style="text-align: center"><font size="3"><b>Participating in the South Division Pack Holiday,
-where one of the activities included cooking our own lunch!</b></font><p></p></td></tr>
+<br>where one of the activities included cooking our own lunch!</b></font><p></p></td></tr>
 </tbody></table>
 
 
