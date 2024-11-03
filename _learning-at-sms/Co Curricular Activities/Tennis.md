@@ -31,8 +31,8 @@ The SMS(P) Tennis Programme serves as an avenue to promote greater interest in t
 Through a series of training programmes prepared by our coaches, we hope to help students pick up a new skill.
 
 <table>
-	<tbody><tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis_training_01.jpg" alt="mastering skill" style="width:600px;height:400px;"><b></b></font></center></td></tr>
-		<tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis_training_02.jpg" alt="student in action" style="width:600px;height:400px;"><b>Training sessions</b></font></center></td>
+	<tbody><tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis_training_01.jpg" alt="mastering skill" style="width:550px;height:400px;"><b></b></font></center></td></tr>
+		<tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis_training_02.jpg" alt="student in action" style="width:550px;height:400px;"><b>Training sessions</b></font></center></td>
 </tr>
 </tbody></table>
 
