@@ -97,7 +97,7 @@ To prepare the junior and senior teams for&nbsp; the National Games Tennis Champ
 </table>
 
 <table>
-	<tbody><tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis06.jfif" alt="tennis 06" style="width:400px;height:400px;"></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis07.jfif" alt="tennis 07" style="width:350px;height:400px;"></font></center></td>
+	<tbody><tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis_ZhuShiYu.jpg" alt="tennis 06" style="width:400px;height:400px;">Gold Achievement Pin</font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis_Kiara.jpg" alt="tennis 07" style="width:350px;height:400px;">Silver Achievement Pin</font></center></td>
 </tr>
 </tbody></table>
