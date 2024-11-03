@@ -27,18 +27,18 @@ variant: markdown
 
 ### Introduction
 
-STAR’s programme is curated and designed to hone the pupils’ oratorical and interpersonal skills. It allows pupils to showcase their talents in public speaking, acting and poetry recitation. Through the weekly sessions, the pupils will be exposed to different genres and modes of presentations like theatre, poetry, musicals, puppetry, monologues and Reader’s Theatre. These activities provide platforms for pupils to use their creativity and express themselves through their performances.
+STAR’s programme is curated and designed to hone the pupils’ oratorical and interpersonal skills. It allows pupils to showcase their talents in public speaking, acting and poetry recitation. Through the weekly sessions, the pupils will be exposed to different genres and modes of presentations like theatre, poetry and Readers’ Theatre. These activities provide platforms for pupils to use their creativity and express themselves through their performances.
 
 ### Objectives
 
 
 *   To nurture an interest in Language Arts and performances
-*   To develop creativity and self- expression
+*   To develop creativity and self-expression
 *   To hone their skills in public speaking &amp; teamwork
 *   To nurture in pupils a love of reading and literary works
 *   To nurture girls of character
 
-**STAR** stands for : 
+**STAR** stands for: 
 
 **S** - Speech
 
@@ -51,7 +51,17 @@ STAR’s programme is curated and designed to hone the pupils’ oratorical and 
 
 
 <table>
-	<tbody><tr><td><center><font size="3"><img src="/images/CCAs/STAR/star01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
+	<tbody>
+		<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+</tr>
+			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+</tr>
+			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+</tr>
+			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
 		<td><center><font size="3"><img src="/images/CCAs/STAR/star02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
 </tr>
 </tbody></table>
