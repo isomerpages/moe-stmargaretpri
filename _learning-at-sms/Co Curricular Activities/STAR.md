@@ -48,21 +48,18 @@ STAR’s programme is curated and designed to hone the pupils’ oratorical and 
 
 **R** - Recitation
 
-![](/images/CCAs/STAR/star_02.jpg)
-![](/images/CCAs/STAR/star_03.jpg)
-
 <table>
 	<tbody>
-		<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star_03.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+		<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Exploring a chosen theme, the girls skillfully create scenes that capture the theme’s tension and emotions.</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star_03.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b></b></font></center></td>
 </tr>
-			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star_04.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>In this freeze frame, the girls bring the moment to life when the genie bursts out of the lamp in Aladdin!</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star_04.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Can you guess which famous fairytale scene these girls are recreating?</b></font></center></td>
 </tr>
-			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_05.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star_06.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_05.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>The girls learn to capture their audience's attention by using various levels, large physical gestures, and exaggerated facial expressions</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star_06.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>The girls' creativity and imagination shine through as they use everyday items as props</b></font></center></td>
 </tr>
-			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_07.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star_08.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_07.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>The girls really know how to strike a pose!</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star_08.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Can you guess what common object these girls are mimicking? If you guessed a traffic light, you're right!</b></font></center></td>
 </tr>
 </tbody></table>
