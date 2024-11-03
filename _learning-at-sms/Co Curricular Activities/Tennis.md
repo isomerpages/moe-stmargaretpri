@@ -85,13 +85,17 @@ To prepare the junior and senior teams for&nbsp; the National Games Tennis Champ
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-dgl5">Tennis Senior Girls Singles League 2024<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"><b>Green Ball</b><br>Singles: 1st Position in Classification Competition<br><br><b>Orange Ball</b><br>Singles: 1st Position in Tier 2 Competition</span></td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Tennis Senior Girls Singles League 2023<br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2nd in position</span></td>
   </tr>
 	 <tr>
-    <td class="tg-dgl5">Tennis Junior Division Girls   <br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Tier 2 Green Singles: 1st Position</span></td>
+    <td class="tg-dgl5">National School Games Tennis Championship 2021<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Senior Girls: 4th Position</span></td>
   </tr>
 </tbody>
 </table>
