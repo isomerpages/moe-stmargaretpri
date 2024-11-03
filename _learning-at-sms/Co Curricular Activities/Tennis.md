@@ -52,22 +52,6 @@ A skillful tennis player with life-long pursuit of excellence in the sport.
 
 To nurture girls with the right attitudes, skills and passion for the sport.
 
-
-<table>
-	<tbody><tr><td><center><font size="3"><img src="/images/2021SMPS%20won%204th%20place%20in%20the%202021%20National%20School%20Games%20Tennis%20ChampionshipSenior%20Girls.jpeg" alt="bacalah adikku 2022" style="width:550px;height:300px;"><b>SMS(P) won 4th place in the 2021 National School Games Tennis Championship (Senior Girls)</b></font></center></td>
-</tr>
-		<tr><td><center><font size="3"><img src="/images/2021Learning%20from%20the%20coach.jpeg" alt="bacalah adikku 2022" style="width:520px;height:300px;"><b>Learning from the coach</b></font></center></td>
-		<td><center><font size="3"><img src="/images/2021P3%20students%20in%20training.jpeg" alt="bacalah adikku 2022" style="width:400px;height:400px;"><b>P3 students in training</b></font></center></td>
-</tr></tbody></table>
-
-<table>
-<tbody><tr><td><center><font size="3"><img src="/images/CCAs/Tennis/tennis05.jfif" alt="bacalah adikku 2022" style="width:400px;height:300px;"></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis03.jfif" alt="bacalah adikku 2022" style="width:400px;height:300px;"><b>Catch a glimpse of our<br>students
-Tennis Trainings <br>@ St Wilfred Tennis Centre</b></font></center></td>
-				<td><center><font size="3"><img src="/images/CCAs/Tennis/tennis04.jfif" alt="bacalah adikku 2022" style="width:400px;height:300px;"></font></center></td>
-</tr>
-</tbody></table>
-
 ### Target  
 
 To prepare the junior and senior teams for&nbsp; the National Games Tennis Championships.
