@@ -18,7 +18,7 @@ variant: markdown
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Mondays &amp; Wednesdays </td>
 		<td>2 - 4 pm</td>
-	<td>External venue / foyer /<br>6G &amp; 6H classrooms</td>
+	<td>External venue / foyer <br>/ 6G &amp; 6H classrooms</td>
 	<td>Mr Derek Wong (OIC)<br>Ms Gwee Hui Jun<br>Ms Dharshini<br>Mr Huang Wenshan Eric</td>
 	<td>P5 &amp; P6<br>P3 &amp; P4</td>
 </tr>
