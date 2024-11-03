@@ -11,7 +11,7 @@ variant: markdown
 <td><a href="/learning-at-sms/co-curricular-activities/infocomm-club/"><img alt="infocc" src="/images/CCAs/Infocomm%20Club/2021icc%2015.jpg" style="width:450px;height:300px;"><center><font size="5"><b>Infocomm Club</b></font></center></a></td>
 </tr>
 	<tr>
-		<td><a href="/learning-at-sms/co-curricular-activities/science-and-environmental-club/"><img alt="sciclub" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(7).JPG" style="width:450px;height:300px;"><center><font size="5"><b>Science and Environmental Club</b></font></center></a></td>
+		<td><a href="/learning-at-sms/co-curricular-activities/science-and-environmental-club/"><img alt="sciclub" src="/images/CCAs/Sci%20and%20Environment%20Club/sci%20env%20club%20(7).JPG" style="width:450px;height:300px;"><center><font size="5"><b>Environmental Science Club</b></font></center></a></td>
 		<td><a href="/learning-at-sms/co-curricular-activities/star/"><img alt="star" src="/images/CCAs/STAR/star_01.jpg" style="width:450px;height:300px;"><center><font size="5"><b>STAR</b></font></center></a></td>
 </tr>
 	</tbody></table>
