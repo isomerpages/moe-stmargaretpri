@@ -48,20 +48,21 @@ STAR’s programme is curated and designed to hone the pupils’ oratorical and 
 
 **R** - Recitation
 
-
+![](/images/CCAs/STAR/star_02.jpg)
+![](/images/CCAs/STAR/star_03.jpg)
 
 <table>
 	<tbody>
-		<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+		<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star_03.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
 </tr>
-			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star_04.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
 </tr>
-			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_05.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star_06.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
 </tr>
-			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star01.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
-		<td><center><font size="3"><img src="/images/CCAs/STAR/star02.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
+			<tr><td><center><font size="3"><img src="/images/CCAs/STAR/star_07.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Role play and interviews</b></font></center></td>
+		<td><center><font size="3"><img src="/images/CCAs/STAR/star_08.jpg" alt="bacalah adikku 2022" style="width:520px;height:350px;"><b>Working as a group and helping their junior members with their script.</b></font></center></td>
 </tr>
 </tbody></table>
