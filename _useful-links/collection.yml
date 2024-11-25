@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - School Relocation.md
       - Calendar.md
       - Fundraising 2024.md
       - Resources for Teachers.md
