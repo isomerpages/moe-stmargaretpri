@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Calendar.md
+      - School Relocation.md
       - Fundraising 2024.md
       - Resources for Teachers.md
       - Resources for Students.md

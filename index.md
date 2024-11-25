@@ -12,6 +12,9 @@ sections:
         - title: Announcement
           description: ""
           url: /announcements/2024-edusave-character-award-echa/
+        - title: School Relocation
+          description: ""
+          url: /useful-links/school-relocation/
         - title: Fund Raising 2024
           description: ""
           url: /useful-links/fundraising2024/
