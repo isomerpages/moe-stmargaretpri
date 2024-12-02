@@ -2,12 +2,13 @@
 title: Contact Us
 permalink: /school-information/contact-us/
 description: ""
+variant: markdown
 ---
 ### Address
 
-2 Mattar Road,
+136 Sophia Road
 
-Singapore 387724
+Singapore 228197
 
   
 
