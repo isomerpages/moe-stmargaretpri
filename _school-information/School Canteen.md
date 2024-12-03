@@ -15,7 +15,7 @@ SMS(P) has vacancy for
 </tr>
 	<tr>
 		<td>Halal Cuisine (Noodle/Rice)</td>
-		<td>15 Nov 2024</td>
+		<td>31 Dec 2024</td>
 	  <td>Rice or noodle stalls are acceptable</td>
 </tr>
 	</tbody></table>
@@ -33,15 +33,16 @@ SMS(P) has vacancy for
 
 3\. Submit the completed application form and documents by closing date via email OR personally to the School's General Office.
 
-* Address: **2 Mattar Road S387724**
+* Address: **136 Sophia Road (228197)**
 * Contact No: **6339 4247**
 * Email: stmargaretps@moe.edu.sg 
 * Contact Person: Mdm Sally Tan (Operations Manager) 
 <br>
 
 **How to get there?**
-* Nearest MRT: Mattar MRT (DT25 line) – 10 minutes walking distance
-* Bus number: 40, 61, 63, 65, 135, 154, 155, 158 - 1 minute walking distance
+* Nearest MRT: <br>Dhoby Ghaut (CC1/NE6/NS24)
+ <br>Little India (NE7/DT12)
+* Bus number: 64, 65, 131, 139, 147, 857, 166 (alight in front of Peace Centre)
 
 ***Note :** With effect from 2 Jan 2025, the school will be operating at 136 Sophia Road S(228197).*<br>
 

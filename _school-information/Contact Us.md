@@ -2,12 +2,13 @@
 title: Contact Us
 permalink: /school-information/contact-us/
 description: ""
+variant: markdown
 ---
 ### Address
 
-2 Mattar Road,
+136 Sophia Road
 
-Singapore 387724
+Singapore 228197
 
   
 
@@ -27,8 +28,10 @@ stmargaretps@moe.edu.sg
 
 ### Directions via Public Transport
 
-Nearest MRT : Mattar Station (DT25)
+Nearest MRT : 
+<br>Dhoby Ghaut (CC1/NE6/NS24)
+<br>Little India (NE7/DT12)
 
-Bus Services : 40, 61, 63, 65, 135, 154, 155, 158
+Bus Services : 64, 65, 131, 139, 147, 857, 166 (alight in front of Peace Centre)
 
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.505091381091!2d103.881686!3d1.324352!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1827bad8a47d%3A0x6460b1317cf2d1a5!2s2%20Mattar%20Rd%2C%20Singapore%20387724!5e0!3m2!1sen!2ssg!4v1677051967845!5m2!1sen!2ssg"></iframe>
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.785465372537!2d103.84310357310046!3d1.303737361726228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190225a6abd3%3A0x7a7e531272e6e459!2s136%20Sophia%20Rd%2C%20Singapore%20228197!5e0!3m2!1sen!2ssg!4v1733117012486!5m2!1sen!2ssg"></iframe>

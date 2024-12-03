@@ -27,6 +27,16 @@ These are the activities that the students participated for holistic learning.
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
+			<tr>
+<td><a href="/school-information/school-highlights/p6-learning-journey-to-sungei-buloh-2024/"><img src="/images/Thumbnails/p6ljsungeibuloh24_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p4-learning-journey-to-kreta-ayer-2024/"><img src="/images/Thumbnails/p4ljkretaayer24_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/p5-camp-2024/"><img src="/images/Thumbnails/p5camp24_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>P6 Learning Journey to <br>Sungei Buloh 2024</center></th> 
+		<th><center>P4 Learning Journey to <br>Kreta Ayer 2024</center></th> 
+		<th><center>P5 Camp 2024</center></th> 			
+			</tr>
 				<tr>
 <td><a href="/school-information/school-highlights/p4-cl-lj-to-sg-hhka-2024/"><img src="/images/Thumbnails/p4cllj_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/spotlight-2024/"><img src="/images/Thumbnails/spotlight_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
