@@ -33,8 +33,8 @@ These are the activities that the students participated for holistic learning.
 	<td><a href="/school-information/school-highlights/p5-camp-2024/"><img src="/images/Thumbnails/p5camp24_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>P6 Learning Journey to Sungei Buloh 2024</center></th> 
-		<th><center>P4 Learning Journey to Kreta Ayer 2024</center></th> 
+			<th><center>P6 Learning Journey to <br>Sungei Buloh 2024</center></th> 
+		<th><center>P4 Learning Journey to <br>Kreta Ayer 2024</center></th> 
 		<th><center>P5 Camp 2024</center></th> 			
 			</tr>
 				<tr>
