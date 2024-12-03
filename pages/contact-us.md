@@ -13,7 +13,7 @@ locations:
         time: 7.00am - 5.00pm
         description: Closed on weekends and Public Holidays
     maps_link: https://maps.app.goo.gl/vmBGARVZBi2FtRPk7
-    title: Actual Site
+    title: Address
 contacts:
   - content:
       - phone: +65 6339 4247
