@@ -11,7 +11,7 @@ Safety and security of our students are of utmost importance, it is therefore ne
 The following videos are created to help you and/or your girl find the way up to the school via the few suggested routes. 
 Please play close attention to the crossings, depending which route you are using. Hope this guide will be useful.
 
-**From Dhoby Ghaut MRT to Sophia Road**
+**From Dhoby Ghaut MRT**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3h1-F5GP2sk?si=q38ZCWC6f3HTAxcm" height="315" width="560"></iframe>
 
 **SMS(P) From Little India MRT**
@@ -24,3 +24,5 @@ Please play close attention to the crossings, depending which route you are usin
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hAV3EmoR0KI?si=PlieEfvzK_h1Ax6M" height="315" width="560"></iframe>
 
 #### **Pick-Up &amp; Drop Off**
+
+![](/images/School%20Information/trafficmgt_comingsoon.jpg)
