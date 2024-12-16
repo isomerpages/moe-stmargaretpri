@@ -6,7 +6,7 @@ variant: markdown
 ---
 Safety and security of our students are of utmost importance, it is therefore necessary to reiterate the following points and we ask that you adhere to them.  
 
-##### Your walking guide to St. Margaret’s School (Primary)
+#### **Your walking guide to St. Margaret’s School (Primary)**
 
 The following videos are created to help you and/or your girl find the way up to the school via the few suggested routes. 
 Please play close attention to the crossings, depending which route you are using. Hope this guide will be useful.
@@ -22,5 +22,8 @@ Please play close attention to the crossings, depending which route you are usin
 
 **SMS(P) From Niven Road**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hAV3EmoR0KI?si=PlieEfvzK_h1Ax6M" height="315" width="560"></iframe>
+
+#### **Pick-Up &amp; Drop Off **
+
 
 
