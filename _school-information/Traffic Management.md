@@ -14,13 +14,13 @@ Please play close attention to the crossings, depending which route you are usin
 **From Dhoby Ghaut MRT**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3h1-F5GP2sk?si=q38ZCWC6f3HTAxcm" height="315" width="560"></iframe>
 
-**SMS(P) From Little India MRT**
+**From Little India MRT**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/23B-snv7Kyk?si=05OlkEbtGyG3ztmd" height="315" width="560"></iframe>
 
-**SMS(P) From Peace Centre**
+**From Peace Centre**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3GMVi2tu3ks?si=IWMQ-s5nuSOlDAjg" height="315" width="560"></iframe>
 
-**SMS(P) From Niven Road**
+**From Niven Road**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hAV3EmoR0KI?si=PlieEfvzK_h1Ax6M" height="315" width="560"></iframe>
 
 #### **Pick-Up &amp; Drop Off**
