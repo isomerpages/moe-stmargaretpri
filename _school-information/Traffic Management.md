@@ -28,4 +28,3 @@ Please pay close attention to the crossings, depending which route you are using
 PUDO procedures for parents who are driving into the school. Please adhere to the arrangement to ensure a safe environment for our girls.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UaoWBnZ0gqU?si=kgnvk3q38ogey_Ts" height="315" width="560"></iframe>
-
