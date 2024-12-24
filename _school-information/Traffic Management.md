@@ -23,6 +23,8 @@ Please pay close attention to the crossings, depending which route you are using
 **From Niven Road**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hAV3EmoR0KI?si=PlieEfvzK_h1Ax6M" height="315" width="560"></iframe>
 
-#### **Pick-Up &amp; Drop Off**
+#### **Pick Up &amp; Drop Off (PUDO)**
 
-![](/images/School%20Information/trafficmgt_comingsoon.jpg)
+PUDO procedures for parents who are driving into the school. Please adhere to the arrangement to ensure a safe environment for our girls.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UaoWBnZ0gqU?si=kgnvk3q38ogey_Ts" height="315" width="560"></iframe>
