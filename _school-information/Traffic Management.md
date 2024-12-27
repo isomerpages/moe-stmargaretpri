@@ -35,12 +35,12 @@ Safety and security of our students are of utmost importance, it is therefore ne
   <tr>
     <td class="tg-pdeq"><font size="3">Walk in/out by Gate 1 (Sophia Linkway)</font></td>
     <td class="tg-jxgv"><font size="3">6.30 a.m. to 7.30 a.m.<br>1.30 p.m. to 2.00 p.m.<br>4.10 p.m. to 4.30 p.m.<br></font></td>
-    <td class="tg-ktyi"><font size="3">Situated along Sophia Road</font></td>
+    <td class="tg-jxgv"><font size="3">Situated along Sophia Road</font></td>
   </tr>
   <tr>
     <td class="tg-pdeq"><font size="3">Walk in/out by Gate 6 (Wilkie Linkway)</font></td>
     <td class="tg-0ys1"><font size="3"> 6.45 a.m. to 7.30 a.m.<br>1.30 p.m. to 1.50 p.m.<br>4.10 p.m. to 4.20 p.m.<br></font></td>
-    <td class="tg-zr06"><font size="3">Situated along Wilkie Road</font></td>
+    <td class="tg-jxgv"><font size="3">Situated along Wilkie Road</font></td>
   </tr>
   <tr>
     <td class="tg-dgl5"><font size="3">Drive in by Gate 2 (Main gate)</font></td>
