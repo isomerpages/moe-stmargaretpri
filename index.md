@@ -15,9 +15,6 @@ sections:
         - title: School Relocation
           description: ""
           url: /useful-links/school-relocation/
-        - title: Fund Raising 2024
-          description: ""
-          url: /useful-links/fundraising2024/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
