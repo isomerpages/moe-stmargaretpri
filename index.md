@@ -39,10 +39,4 @@ sections:
       url: /useful-links/resources-for-teachers/
       image: /images/Thumbnails/masterhead for resources.JPG
       alt: masterhead for resources
-  - infopic:
-      title: Fundraising
-      button: Find out more
-      url: /useful-links/fundraising2024/
-      image: /images/Fundraising/PERI_Upgrading_Fundraising_2024.jpg
-      alt: Image alt text
 ---
