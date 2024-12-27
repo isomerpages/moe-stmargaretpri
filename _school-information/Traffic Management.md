@@ -28,7 +28,7 @@ Safety and security of our students are of utmost importance, it is therefore ne
   <tr>
     <th class="tg-7dbo"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Gates</span></th>
     <th class="tg-7dbo"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Opening Hours</span></th>
-    <th class="tg-bzhr"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Location</span></th>
+   <th class="tg-7dbo"><span style="font-weight:bold;color:#2A5629;background-color:#D6E6C7">Location</span></th>
   </tr>
 </thead>
 <tbody>
