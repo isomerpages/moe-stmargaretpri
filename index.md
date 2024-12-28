@@ -15,9 +15,6 @@ sections:
         - title: School Relocation
           description: ""
           url: /useful-links/school-relocation/
-        - title: Fund Raising 2024
-          description: ""
-          url: /useful-links/fundraising2024/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
@@ -42,10 +39,4 @@ sections:
       url: /useful-links/resources-for-teachers/
       image: /images/Thumbnails/masterhead for resources.JPG
       alt: masterhead for resources
-  - infopic:
-      title: Fundraising
-      button: Find out more
-      url: /useful-links/fundraising2024/
-      image: /images/Fundraising/PERI_Upgrading_Fundraising_2024.jpg
-      alt: Image alt text
 ---
