@@ -38,14 +38,14 @@ Safety and security of our students are of utmost importance, it is therefore ne
     <td class="tg-jxgv"><font size="3">Situated along Sophia Road</font></td>
   </tr>
   <tr>
-    <td class="tg-pdeq"><font size="3">Walk in/out by Gate 6 (Wilkie Linkway)</font></td>
-    <td class="tg-0ys1"><font size="3"> 6.45 a.m. to 7.30 a.m.<br>1.30 p.m. to 1.50 p.m.<br>4.10 p.m. to 4.20 p.m.<br></font></td>
-    <td class="tg-jxgv"><font size="3">Situated along Wilkie Road</font></td>
-  </tr>
-  <tr>
     <td class="tg-dgl5"><font size="3">Drive in by Gate 2 (Main gate)</font></td>
     <td class="tg-ktyi"><font size="3">6.30 a.m. to 7.30 a.m.<br>1.50 p.m. to 2.15 p.m.<br>4.10 p.m. to 4.20 p.m.<br></font></td>
     <td class="tg-ktyi"><font size="3">Situated along Sophia Road <br></font></td>
+  </tr>
+	<tr>
+    <td class="tg-pdeq"><font size="3">Walk in/out by Gate 6 (Wilkie Linkway)</font></td>
+    <td class="tg-0ys1"><font size="3"> 6.45 a.m. to 7.30 a.m.<br>1.30 p.m. to 1.50 p.m.<br>4.10 p.m. to 4.20 p.m.<br></font></td>
+    <td class="tg-jxgv"><font size="3">Situated along Wilkie Road</font></td>
   </tr>
 </tbody>
 </table>
@@ -71,4 +71,4 @@ Please pay close attention to the crossings, depending which route you are using
 
 PUDO procedures for parents who are driving into the school. Please adhere to the arrangement to ensure a safe environment for our girls.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UaoWBnZ0gqU?si=kgnvk3q38ogey_Ts" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UTEBNYUO_lI?si=P6PfVkTkNaNXarog" height="315" width="560"></iframe>
