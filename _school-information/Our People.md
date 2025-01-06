@@ -720,10 +720,6 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Syafawati Binte Roslan</span></td>
     <td class="tg-fxx4"><span style="color:#222">Administration Executive (AE) </span></td>
   </tr>
-	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms Marine Chew Lay Leng</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Relief Administration Executive (AE) </span></td>
-  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Binte Johari</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
@@ -749,7 +745,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
   </tr>
 	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Brenda Koh </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Brenda Koh Chin Chin</span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
   </tr>
 	<tr>
@@ -758,10 +754,6 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Nur Fadhilah Binte Loakman </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms Uma Elengoven </span></td>
     <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
   </tr>
 	 <tr>
@@ -797,6 +789,10 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Ismalyia Binte Ismail</span></td>
     <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
+  </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms Ng Beng Cheng Irene</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Printing Assistant</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Amanjit Singh Tiwana</span></td>
