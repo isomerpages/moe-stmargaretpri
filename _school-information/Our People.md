@@ -4,7 +4,7 @@ permalink: /school-information/our-people/
 description: ""
 variant: markdown
 ---
-### School Management Committee 2024
+### School Management Committee 2025
 
 The Functions and Duties of the School Management Committee are found in the Constitution
 
@@ -139,7 +139,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-580q">Admin Manager</td>
-    <td class="tg-mqlv">Ms Loh Wei Tiang</td>
+    <td class="tg-mqlv">Mr Kenneth Tan Keng Ghee</td>
   </tr>
   <tr>
     <td class="tg-580q">Operations Manager</td>
@@ -190,10 +190,6 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-mqlv">Mdm Shahirah Bte Mohd Shariff</td>
   </tr>
   <tr>
-    <td class="tg-580q">ST Mathematics </td>
-    <td class="tg-mqlv">Mrs Pearlyn Gan</td>
-  </tr>
-  <tr>
     <td class="tg-580q">HOD Mother Tongue</td>
     <td class="tg-mqlv">Ms Shirley Ong</td>
   </tr>
@@ -207,7 +203,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 	<tr>
     <td class="tg-580q">HOD ICT </td>
-    <td class="tg-mqlv">Ms Julia Li </td>
+    <td class="tg-mqlv">Ms Julia Li Wai See</td>
   </tr>
   <tr>
   </tr><tr>
@@ -227,7 +223,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 ### Primary 1 Teachers
 
-**Year 2024**
+**Year 2025**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -248,7 +244,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-b4br">Wong Way Lin (Mrs Fam)</td>
+    <td class="tg-b4br">Lin Linli (Mdm) (LM)</td>
   </tr>
 </tbody>
 </table>
@@ -273,33 +269,33 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Daphne Cheng Lai Peng (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Weiling Samantha (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Madelin Yeo (Mrs Ang)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wang Peiqi (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Esther James (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Seet See Lin (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Tew Hwee Gee Angela (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Shiem Shan Shan (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Lin Linli (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Low Wei Wen (Mrs Ng)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Chua Chiow Yean (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Poon Chye Hong Bernice (Mrs)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 PATIENCE </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Anna Lau Li Keow (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Sara George (Ms)  &amp; <br>  Poon Chye Hong Bernice (Mrs) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Abigail Inbam Henry (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Esther James (Mdm)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wong Way Lin (Mrs Fam) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Foo Ngiap Leng (Mdm) &amp; <br>Lim Ai Kiok (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Zhang Miao (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Duchess Kiran Jacqueline Joshua (Mrs Joshua)</span><br></td>
   </tr>
 </tbody>
 </table>
