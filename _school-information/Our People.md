@@ -660,28 +660,28 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 CHARITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Yen Peng (Mdm) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Pamela Chew Huan Pei (Mrs Yeo) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Tan Seow Wee (Mrs Chua)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Rajkumar Geetha (Mdm) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 GRACIOUSNESS </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Xing Hwee (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Shahirah Bte Mohd Shariff (Mdm)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Derek Wong Jyunwei (Mr)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Goh Bee Ling (Mrs Ong)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pearlyn Lim Li Gek (Mrs Gan)<br>Eric Seah (Mr) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Huang Wenshan Eric (Mr)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Goh Bee Ling (Mrs Ong) </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 INTEGRITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Eddie Chong Chon Kar (Mr) </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Rozita Binte Sulaiman (Mdm) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sim Liyang (Mr)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Shahirah Bte Mohd Shariff (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 TENACITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Christina Yong (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm)<br>Low Pei Chi (Mrs Ong) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Charissa Chan Soek Yee (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Nur A'zzah Binte Noh (Ms)</span></td>
   </tr>
 </tbody>
 </table>
