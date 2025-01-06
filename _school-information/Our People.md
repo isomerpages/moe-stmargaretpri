@@ -384,9 +384,9 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 ### Primary 3 Teachers
 
-**Year 2024**
+**Year 2025**
 
-<style type="text/css">
+<style type="text/cs">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -406,7 +406,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-b4br">Rajkumar Geetha (Mdm)</td>
+    <td class="tg-b4br">Pamela Yeo Yun Fen (Mrs Yeow) (LM)</td>
   </tr>
 </tbody>
 </table>
@@ -431,28 +431,28 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Dharshini (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Derek Wong Jyunwei (Mr)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Amelia Leong Seok Ling (Mrs Goh)<br>Jamilah Bee Bte Mohamed Ghani (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Huang Li (Mdm)   </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Zhuang Siqiao (Mrs Heng) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Shirley Ong Shilin (Ms)<br>Chan Siew Kheng Dinah (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Low Wei Wen (Mrs Ng)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Wu Shao Hai (Mr) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Soomathy D/O Veeraya (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Wong Wai Yee (Mrs Teo) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Yun Fen (Mrs Yeow)<br>Alaghimanavalan Sarala Devi (Mdm) (TL) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Seah Hou Kiat (Mr) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Suryanti Binte Fathillah (Ms) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Madeline Koo Hwee Neo (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Chan Mei Sze (Mrs Lim)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Lay Cheng (Mrs Loo)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Rajkumar Geetha (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Low Pei Lin (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ngoh Moon Geok (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Angel Soh Siu Ling (Mrs Chan) </span><br></td>
   </tr>
 </tbody>
 </table>
