@@ -303,7 +303,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 ### Primary 2 Teachers
 
-**Year 2024**
+**Year 2025**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -324,7 +324,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-b4br">Lin Linli (Mdm)</td>
+    <td class="tg-b4br">Wong Way Lin (Mrs Fam) (LM)</td>
   </tr>
 </tbody>
 </table>
@@ -349,33 +349,33 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Yun Fen (Mrs Yeow)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Madelin Yeo (Mrs Ang)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Weiling Samantha (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Daphne Cheng Lai Peng (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Lin Linli (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Loganathan Mageshwari (Mdm) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Wang Peiqi (Mdm) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Leow Hua Chin (Mrs Lee) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Abigail Inbam Henry (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"></span>Seet See Lin (Ms)<br></td>
+    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222"></span>Shiem Shan Shan (Ms)<br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Mei Sze (Mrs Lim)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Wu Shao Hai (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sundra Gaytri Meriange (Mdm)<br>Mrs Elango Anggammal (TL)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 PATIENCE </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Amelia Leong Seok Ling (Mrs Goh) </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Chiow Yean (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Anna Lau Li Keow (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Madeline Koo Hwee Neo (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Zhang Miao (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh (Ms)<br>Angela Tew Hwee Gee (Ms) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Wong Way Lin (Mrs Fam)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Lim Ai Kiok (Ms)</span></td>
   </tr>
 </tbody>
 </table>
