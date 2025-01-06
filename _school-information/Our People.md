@@ -590,22 +590,22 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 GRACIOUSNESS </span></td>
     <td class="tg-fxx4"><span style="color:#222">Ng Xing Hwee (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Kok Meixia Michelle (Ms) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Wong Wai Yee (Mrs Teo)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 HUMILITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Huang Wenshan Eric (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Angel Soh Siu Ling (Mrs Chan)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ong Shilin, Shirley (Ms)<span><br></span></span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Sim Liyang (Mr)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Haryati Bte Hassan (Mrs Zulkifli) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Rozita Binte Sulaiman (Mdm) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Thavaselvi d/o Selliah (Mdm Selvi)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Charissa Chan Soek Yee (Ms) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Nur A'zzah Binte Noh (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Eddie Chong Chon Kar (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Julia Li Wai See (Li Huishi) (Ms)</span></td>
   </tr>
 </tbody>
 </table>
@@ -613,7 +613,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 
 ### Primary 6 Teachers
 
-**Year 2024**
+**Year 2025**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -635,7 +635,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-b4br">Level Manager </td>
-    <td class="tg-b4br">Eddie Chong Chon Kar (Mr)</td>
+    <td class="tg-b4br">Charissa Chan Soek Yee (Ms) (LM)</td>
   </tr>
 </tbody>
 </table>
