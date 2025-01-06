@@ -32,72 +32,73 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-tojq"><span style="color:#222">1</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Prof Lawrence Boo</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chairman / Supervisor</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Charis Tan
+</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Chairperson</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">2</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Charis Tan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Vice-Chair</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Irene Chua</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Vice Chairperson</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">3</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mrs Ko-Tan Li Ling</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Secretary/Principal, SMS(P)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Leong Wee Lee</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Hon Treasurer</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">4</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Linda Lim</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Principal, SMS(S)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Ko-Tan Li Ling </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Secretary / Principal/ SMS(P)</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">5</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Deborah Tengara</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Treasurer/SJSM Rep Member</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Linda Lim Hui Kheng </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Principal / SMS(S)</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">6</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mrs Irene Chua </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Bishop's Nominee </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Revd Bertram Cheong </span></td>
+    <td class="tg-fxx4"><span style="color:#222">SMSP Chaplain</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">7</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Chew Siew Kheng</span></td>
-    <td class="tg-fxx4"><span style="color:#222">SMESA Rep</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Revd Christopher Ng</span></td>
+    <td class="tg-fxx4"><span style="color:#222">SMSS Chaplain</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">8</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mrs Cheryl Teo</span></td>
-    <td class="tg-fxx4"><span style="color:#222">SMS(P) Parents' Rep</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Dr Tan Bee Geok</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">9</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mrs Jun Pang</span></td>
-    <td class="tg-fxx4"><span style="color:#222">SMS(S) Parents' Rep</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Miss Lee Soo Kwan</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">10</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Lee Soo Kwan</span></td>
-    <td class="tg-fxx4"><span style="color:#222">St Andrew's Cathedral PCC Rep</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Chay Siew Ping</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">11</span></td>
-    <td class="tg-emg8">Canon Barry Leong<br></td>
-    <td class="tg-fxx4"><span style="color:#222">Chaplain, St John's Chapel (SJCP)</span></td>
+    <td class="tg-emg8">Ms Lee Zhuomin <br></td>
+    <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">12</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Revd Bertram Cheong</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chaplain, Chapel of Christ the King (CCK)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Chew Siew Kheng</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">13</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Leong Wee Lee</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Cheryl Teo </span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">14</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Lee Zhuomin</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Jun Pang</span></td>
     <td class="tg-fxx4"><span style="color:#222">Member</span></td>
   </tr>
 </tbody>
