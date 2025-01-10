@@ -133,8 +133,8 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 <tr>
-		<td><font size="4">Singapore Chinese Music Competition<br>*(Organised by Singapore Chinese Orchestra)*</font></td>
-		<td><font size="4">Guzheng Junior category<br>3rd prize for solo section</font></td>
+		<td><font size="4">Singapore Chinese Music Competition<br><i>Organised by Singapore Chinese Orchestra</i></font></td>
+		<td><font size="4">Guzheng Junior category : <br>3rd prize for solo section</font></td>
 </tr>
 	</tbody></table>
 <br>	
