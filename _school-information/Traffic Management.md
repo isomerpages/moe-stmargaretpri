@@ -39,7 +39,7 @@ Safety and security of our students are of utmost importance, it is therefore ne
   </tr>
   <tr>
     <td class="tg-dgl5"><font size="3">Drive in by Gate 2 (Main gate)</font></td>
-    <td class="tg-ktyi"><font size="3">6.30 a.m to 7.30 a.m<br>2.00 p.m to 2.25 p.m<br>3.30 p.m to 3.45 p.m<br>4.20 p.m to 4.40 p.m<br></font></td>
+    <td class="tg-ktyi"><font size="3">6.30 a.m to 7.30 a.m<br>2.00 p.m to 2.25 p.m<br>3.15 p.m to 3.40 p.m<br>4.20 p.m to 4.40 p.m<br></font></td>
     <td class="tg-ktyi"><font size="3">Situated along Sophia Road <br></font></td>
   </tr>
 	<tr>
