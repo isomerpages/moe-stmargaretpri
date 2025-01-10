@@ -35,11 +35,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax"><font size="4">Term 3</font></td>
-    <td class="tg-0lax"><font size="4">Monday 24 Jun - Fri 30 Aug 2024</font></td>
+    <td class="tg-0lax"><font size="4">Monday 30 Jun - Fri 5 Sep 2025</font></td>
   </tr>
   <tr>
     <td class="tg-0lax"><font size="4">Term 4</font></td>
-    <td class="tg-0lax"><font size="4">Monday 9 Sep - Friday 15 Nov 2024</font></td>
+    <td class="tg-0lax"><font size="4">Monday 15 Sep - Friday 21 Nov 2025</font></td>
   </tr>
 </tbody>
 </table>
