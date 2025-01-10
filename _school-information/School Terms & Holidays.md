@@ -151,7 +151,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Youth Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday 6 July 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday 6 July 2025<br><i>The following Mon 7 Jul will be a school holiday</i></font></span></td>
   </tr>
 </thead>
 <tbody>
