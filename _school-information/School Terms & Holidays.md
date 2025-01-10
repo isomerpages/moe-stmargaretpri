@@ -35,7 +35,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0lax"><font size="4">Term 3</font></td>
-    <td class="tg-0lax"><font size="4">Monday 30 Jun - Fri 5 Sep 2025</font></td>
+    <td class="tg-0lax"><font size="4">Monday 30 Jun - Friday 5 Sep 2025</font></td>
   </tr>
   <tr>
     <td class="tg-0lax"><font size="4">Term 4</font></td>
@@ -44,7 +44,7 @@ variant: markdown
 </tbody>
 </table>
 
-### School Holidays 2024
+### School Holidays 2025
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -59,28 +59,28 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig" colspan="2">Semester 1</th>
+    <th class="tg-1wig" colspan="2"><font size="4">Semester 1</font></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Between Term 1 and 2</span></td>
-    <td class="tg-0lax">Saturday 9 Mar - Sunday 17 Mar 2024</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Between Term 1 &amp; 2</font></span></td>
+    <td class="tg-0lax"><font size="4">Saturday 15 Mar to Sunday 23 Mar 2025</font></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Between Semester 1 &amp; 2</span></td>
-    <td class="tg-0lax">Saturday 25 May - Sunday 23 Jun 2024</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Between Semester 1 &amp; 2</font></span></td>
+    <td class="tg-0lax"><font size="4">Saturday 31 May to Sunday 29 Jun 2025</font></td>
   </tr>
   <tr>
-    <td class="tg-1wig" colspan="2">Semester 2</td>
+    <td class="tg-1wig" colspan="2"><font size="4">Semester 2</font></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Between Term 3 and 4</span></td>
-    <td class="tg-0lax">Saturday 31 Aug - Sunday 8 Sep 2024</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Between Term 3 &amp; 4</font></span></td>
+    <td class="tg-0lax"><font size="4">Saturday 6 Sep to Sunday 14 Sep 2025</font></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">At End of School Year</span></td>
-    <td class="tg-0lax">Saturday 16 Nov - Tuesday 31 Dec 2024</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">At End of School Year</font></span></td>
+    <td class="tg-0lax"><font size="4">Saturday 22 Nov to Wednesday 31 Dec 2025</font></td>
   </tr>
 </tbody>
 </table>
