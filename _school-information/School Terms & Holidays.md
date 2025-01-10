@@ -103,21 +103,22 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">New Year’s Day</font></span></th>
-    <th class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Monday, 1 Jan 2024</font></span></th>
+    <th class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 1 Jan 2025</font></span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Chinese New Year</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday 10 Feb &amp; Sunday, 11 Feb 2024 (Monday, 12 Feb will be a public holiday and Tuesday, 13 Feb will be a school holiday and a designated day off-in-lieu)</font></span></td></tr>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday 29 Jan &amp; <br>Thursday 30 Jan 2025</font></span></td></tr>
+	<tr>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Puasa</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Monday 31 March 2025</font></span></td>
+  </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Good Friday</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 29 Mar 2024</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 18 April 2025</font></span></td>
   </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Puasa</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 10 Apr 2024</font></span></td>
-  </tr>
+  
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Labour Day</font></span></td>
     <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 1 May 2024</font></span></td>
