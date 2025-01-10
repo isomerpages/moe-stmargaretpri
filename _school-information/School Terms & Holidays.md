@@ -147,17 +147,17 @@ variant: markdown
 <thead>
 	<tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Haji</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday 7 June 2025<br><i>Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office and Student Care Centres.</i></font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday 7 June 2025<br><font size="2"><i>Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office and Student Care Centres.</i></font></font></span></td>
   </tr>
 	<tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Youth Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday 6 July 2025<br><i>The following Mon 7 Jul will be a school holiday</i></font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday 6 July 2025<br><font size="2"><i>The following Mon 7 Jul will be a school holiday</i></font></font></span></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">National Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday, 9 Aug 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday, 9 Aug 2025<br><font size="2"><i>Mon, 11 Aug will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office and Student Care Centres.</i></font></font></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Teacher’s Day</font></span></td>
