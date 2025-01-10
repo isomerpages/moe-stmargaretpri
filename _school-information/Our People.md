@@ -164,7 +164,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
     <tr>
     <td class="tg-tojq"><span style="color:#222"> Assistant Year Head</span></td>
-    <td class="tg-ltu5"><span style="color:#222">    Ms Christina Yong</span></td>
+    <td class="tg-ltu5"><span style="color:#222">Ms Christina Yong</span></td>
   </tr>
 	 <tr>
     <td class="tg-580q">HOD Student Management</td>
@@ -183,8 +183,12 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-mqlv">Mrs Ong Bee Ling </td>
   </tr>
   <tr>
-    <td class="tg-tojq"><span style="color:#222">    LH English Language </span></td>
+    <td class="tg-tojq"><span style="color:#222">LH English Language </span></td>
     <td class="tg-ltu5"><span style="color:#222">    Mrs Angel Soh Siu Ling </span></td>
+  </tr>
+	<tr>
+    <td class="tg-tojq"><span style="color:#222">ST English Language </span></td>
+    <td class="tg-ltu5"><span style="color:#222">Ms Munawarrah Sultana Unwar</span></td>
   </tr>
   <tr>
     <td class="tg-580q">HOD Mathematics</td>
