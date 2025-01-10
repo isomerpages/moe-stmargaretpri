@@ -4,7 +4,7 @@ permalink: /school-information/school-terms-n-holidays/
 description: ""
 variant: markdown
 ---
-### School Terms 2024
+### School Terms 2025
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -18,28 +18,28 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1wig" colspan="2">Semester 1</th>
+    <th class="tg-1wig" colspan="2"><font size="4">Semester 1</font></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Term 1</td>
-    <td class="tg-0lax">Tuesday 2 Jan&nbsp;- Friday 8 Mar 2024</td>
+    <td class="tg-0lax"><font size="4">Term 1</font></td>
+    <td class="tg-0lax"><font size="4">Tuesday 2 Jan&nbsp;- Friday 8 Mar 2024</font></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Term 2</td>
-    <td class="tg-0lax">Monday 18 Mar - Friday 24 May 2024</td>
+    <td class="tg-0lax"><font size="4">Term 2</font></td>
+    <td class="tg-0lax"><font size="4">Monday 18 Mar - Friday 24 May 2024</font></td>
   </tr>
   <tr>
-    <td class="tg-1wig" colspan="2">Semester 2</td>
+    <td class="tg-1wig" colspan="2"><font size="4">Semester 2</font></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Term 3</td>
-    <td class="tg-0lax">Monday 24 Jun - Fri 30 Aug 2024</td>
+    <td class="tg-0lax"><font size="4">Term 3</font></td>
+    <td class="tg-0lax"><font size="4">Monday 24 Jun - Fri 30 Aug 2024</font></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Term 4</td>
-    <td class="tg-0lax">Monday 9 Sep - Friday 15 Nov 2024</td>
+    <td class="tg-0lax"><font size="4">Term 4</font></td>
+    <td class="tg-0lax"><font size="4">Monday 9 Sep - Friday 15 Nov 2024</font></td>
   </tr>
 </tbody>
 </table>
