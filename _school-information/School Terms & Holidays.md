@@ -147,7 +147,7 @@ variant: markdown
 <thead>
 	<tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Haji</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday 7 June 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday 7 June 2025<br><i>Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office and Student Care Centres.</i></font></span></td>
   </tr>
 	<tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Youth Day</font></span></td>
