@@ -121,11 +121,11 @@ variant: markdown
   
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Labour Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 1 May 2024</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Thursday, 1 May 2025</font></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Vesak Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 22 May 2024</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Monday, 12 May 2025</font></span></td>
   </tr>
 </tbody>
 </table>
