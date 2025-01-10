@@ -24,11 +24,11 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax"><font size="4">Term 1</font></td>
-    <td class="tg-0lax"><font size="4">Tuesday 2 Jan&nbsp;- Friday 8 Mar 2024</font></td>
+    <td class="tg-0lax"><font size="4">Thursday 2 Jan&nbsp;- Friday 14 Mar 2025</font></td>
   </tr>
   <tr>
     <td class="tg-0lax"><font size="4">Term 2</font></td>
-    <td class="tg-0lax"><font size="4">Monday 18 Mar - Friday 24 May 2024</font></td>
+    <td class="tg-0lax"><font size="4">Monday 24 Mar - Friday 30 May 2025</font></td>
   </tr>
   <tr>
     <td class="tg-1wig" colspan="2"><font size="4">Semester 2</font></td>
