@@ -85,7 +85,8 @@ variant: markdown
 </tbody>
 </table>
 
-### Public Holidays 2024
+### Public Holidays 2025
+
 ##### Semester 1
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -101,30 +102,29 @@ variant: markdown
   <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ktyi"><span style="font-weight:400;color:#000">New Year’s Day</span></th>
-    <th class="tg-eelb"><span style="font-weight:400;color:#000">Monday, 1 Jan 2024</span></th>
+    <th class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">New Year’s Day</font></span></th>
+    <th class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Monday, 1 Jan 2024</font></span></th>
   </tr>
 </thead>
 <tbody>
-  
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Chinese New Year</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Saturday 10 Feb &amp; Sunday, 11 Feb 2024<br>(Monday, 12 Feb will be a public holiday <br>and Tuesday, 13 Feb will be a school holiday <br>and a designated day off-in-lieu)</span></td></tr>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Chinese New Year</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday 10 Feb &amp; Sunday, 11 Feb 2024 (Monday, 12 Feb will be a public holiday and Tuesday, 13 Feb will be a school holiday and a designated day off-in-lieu)</font></span></td></tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Good Friday</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 29 Mar 2024</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Good Friday</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 29 Mar 2024</font></span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Hari Raya Puasa</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Wednesday, 10 Apr 2024</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Puasa</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 10 Apr 2024</font></span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Labour Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Wednesday, 1 May 2024</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Labour Day</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 1 May 2024</font></span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Vesak Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Wednesday, 22 May 2024</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Vesak Day</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 22 May 2024</font></span></td>
   </tr>
 </tbody>
 </table>
