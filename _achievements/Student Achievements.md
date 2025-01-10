@@ -125,6 +125,22 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+   Aesthetic Department
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+<tr>
+		<td><font size="4">Singapore Chinese Music Competition<br><i>Organised by Singapore Chinese Orchestra</i></font></td>
+		<td><font size="4">Guzheng Junior category : <br>3rd prize for solo section</font></td>
+</tr>
+	</tbody></table>
+<br>	
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
      National School Games Competition
  </font></th>
 </tr>
