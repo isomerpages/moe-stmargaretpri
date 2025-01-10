@@ -136,14 +136,6 @@ variant: markdown
 		<td><font size="4">Singapore Chinese Music Competition<br>*(Organised by Singapore Chinese Orchestra)*</font></td>
 		<td><font size="4">Guzheng Junior category<br>3rd prize for solo section</font></td>
 </tr>
-	<tr>
-		<td><font size="4">Amudhe Tamizhe Competition 2024 <br>(Tamil Language Essay Competition)<br><i>(conducted by Kalamanjari Singapore)</i></font></td>
-		<td><font size="4">2nd position</font></td>
-</tr>
-		<tr>
-		<td><font size="4">MediaCorp Tamil News Pongal Contest 2024</font></td>
-		<td><font size="4">Top 6 award</font></td>
-</tr>
 	</tbody></table>
 <br>	
 <table>
