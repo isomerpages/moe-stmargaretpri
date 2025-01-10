@@ -145,35 +145,35 @@ variant: markdown
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-ktyi"><span style="font-weight:400;color:#000">Youth Day</span></th>
-    <th class="tg-eelb"><span style="font-weight:400;color:#000">*Sunday, 30 Jun 2024 <br>(Monday, 1 July will be a school holiday)</span></th>
+	<tr>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Haji</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday 7 June 2025</font></span></td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Youth Day</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Monday 7 July 2025</font></span></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Hari Raya Haji</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Monday, 17 Jun 2024</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">National Day</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday, 9 Aug 2025</font></span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">National Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 9 Aug 2024</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Teacher’s Day</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 5 Sep 2025</font></span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Teacher’s Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 30 Aug 2024</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Childrens’ Day</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 3 Oct 2025</font></span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Childrens’ Day</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Friday, 4 Oct 2024</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Deepavali</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Monday, 20 Oct 2025</font></span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Deepavali</span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000">Thursday, 31 Oct 2024</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;color:#000">Christmas</span></td>
-    <td class="tg-lqy6"><span style="font-weight:400;color:#000">Wednesday, 25 Dec 2024</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;color:#000"><font size="4">Christmas</font></span></td>
+    <td class="tg-lqy6"><span style="font-weight:400;color:#000"><font size="4">Thursday, 25 Dec 2025</font></span></td>
   </tr>
 </tbody>
 </table>
