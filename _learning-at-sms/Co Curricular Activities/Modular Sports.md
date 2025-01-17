@@ -17,7 +17,7 @@ variant: markdown
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Wednesdays </td>
 		<td>2 - 4 pm</td>
-	<td>Playground<br>Behind canteen</td>
+	<td>Parade Square</td>
 	<td>Mr Zhang Miao (OIC) <br>Ms Dinah Chan</td>
 </tr>
 </tbody></table>
