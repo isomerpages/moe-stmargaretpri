@@ -160,7 +160,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 	 <tr>
     <td class="tg-tojq"><span style="color:#222">Year Head (P5 &amp; P6) </span></td>
-    <td class="tg-ltu5"><span style="color:#222">    Ms Michelle Kok</span></td>
+    <td class="tg-ltu5"><span style="color:#222"> Ms Michelle Kok</span></td>
   </tr>
     <tr>
     <td class="tg-tojq"><span style="color:#222"> Assistant Year Head</span></td>
@@ -197,6 +197,10 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-580q">HOD Mother Tongue</td>
     <td class="tg-mqlv">Ms Shirley Ong</td>
+  </tr>
+	<tr>
+    <td class="tg-580q">LH Mother Tongue</td>
+    <td class="tg-mqlv">Ms Gwee Hui Jun</td>
   </tr>
   <tr>
     <td class="tg-580q">HOD Science</td>
