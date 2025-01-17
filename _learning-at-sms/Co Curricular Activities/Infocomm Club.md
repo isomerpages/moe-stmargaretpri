@@ -18,8 +18,8 @@ variant: markdown
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Wednesdays</td>
 		<td>2 - 4 pm</td>
-	<td>Computer Labs </td>
-	<td>Mrs Madelin Ang (OIC)<br>Mr Wu Shao Hai<br>Mdm Geetha<br>Ms Nur A'zzah Bte Noh (Advisor)</td>
+	<td>Computer Lab</td>
+	<td>Mrs Madelin Ang (OIC)<br>Mdm Geetha<br>Ms Wang Peiqi</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
