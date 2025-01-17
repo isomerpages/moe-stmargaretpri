@@ -164,8 +164,8 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/brownies/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Brownies</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Ms Ng Xing Hwee*</span><br><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok </span><br><span style="font-weight:400;color:#000">Mdm Mageshwari</span><br><span style="font-weight:400;color:#000">Ms Shiem Shan Shan<br>Ms Seet See Lin</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Performing Arts Studio</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok*</span><br><span style="font-weight:400;color:#000">Ms Ng Xing Hwee</span><br><span style="font-weight:400;color:#000">Ms Shiem Shan Shan<br>Ms Seet See Lin</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 5 CH<br>5 GR<br>5 HU classrooms</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/girls-brigade/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Girls' Brigade</span></a><span style="color:#000;background-color:#FFF"> </span></td>
