@@ -170,8 +170,8 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/girls-brigade/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Girls' Brigade</span></a><span style="color:#000;background-color:#FFF"> </span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Melody Soh*</span><br><span style="color:#000;background-color:#FFF">Ms Chua Sue Ann</span><br><span style="color:#000;background-color:#FFF">Mdm Tan Seow Wee</span><br><span style="color:#000;background-color:#FFF">Ms Daphne Cheng</span><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Performing Arts Studio</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Daphne Cheng*</span><br><span style="color:#000;background-color:#FFF">Mdm Tan Seow Wee<br><span style="color:#000;background-color:#FFF">Ms Chua Sue Ann</span><br>Ms Chua Sue Ann</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">5 IN, 5 TE &amp; 6 CH classrooms</span></td>
   </tr>
 </tbody>
 </table>
