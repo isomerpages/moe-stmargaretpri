@@ -144,7 +144,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-580q">Operations Manager</td>
-    <td class="tg-mqlv">Ms Tan Bee Lian</td>
+    <td class="tg-mqlv">Ms Sally Tan Bee Lian</td>
   </tr>
   <tr>
     <td class="tg-580q">School Staff Developer </td>
@@ -160,11 +160,11 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 	 <tr>
     <td class="tg-tojq"><span style="color:#222">Year Head (P5 &amp; P6) </span></td>
-    <td class="tg-ltu5"><span style="color:#222">    Ms Michelle Kok</span></td>
+    <td class="tg-ltu5"><span style="color:#222">Ms Michelle Kok Meixia </span></td>
   </tr>
     <tr>
     <td class="tg-tojq"><span style="color:#222"> Assistant Year Head</span></td>
-    <td class="tg-ltu5"><span style="color:#222">Ms Christina Yong</span></td>
+    <td class="tg-ltu5"><span style="color:#222">Ms Christina Yong Yuen Fang</span></td>
   </tr>
 	 <tr>
     <td class="tg-580q">HOD Student Management</td>
@@ -172,7 +172,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-580q">HOD Character and Citizenship Education (CCE)</td>
-    <td class="tg-mqlv">Mrs Pamela Yeo </td>
+    <td class="tg-mqlv">Mrs Pamela Yeo Huan Pei</td>
   </tr>
   <tr>
     <td class="tg-580q">SH CCE </td>
@@ -184,7 +184,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-tojq"><span style="color:#222">LH English Language </span></td>
-    <td class="tg-ltu5"><span style="color:#222">    Mrs Angel Soh Siu Ling </span></td>
+    <td class="tg-ltu5"><span style="color:#222">Mrs Angel Soh Siu Ling </span></td>
   </tr>
 	<tr>
     <td class="tg-tojq"><span style="color:#222">ST English Language </span></td>
@@ -196,7 +196,11 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-580q">HOD Mother Tongue</td>
-    <td class="tg-mqlv">Ms Shirley Ong</td>
+    <td class="tg-mqlv">Ms Shirley Ong Shilin</td>
+  </tr>
+	<tr>
+    <td class="tg-580q">LH Mother Tongue</td>
+    <td class="tg-mqlv">Ms Gwee Hui Jun</td>
   </tr>
   <tr>
     <td class="tg-580q">HOD Science</td>
@@ -204,7 +208,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-580q">LH Science </td>
-    <td class="tg-mqlv">Mrs Chin Ley Tin </td>
+    <td class="tg-mqlv">Mrs Chin Ley Tin</td>
   </tr>
 	<tr>
     <td class="tg-580q">HOD ICT </td>
@@ -213,15 +217,15 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
   </tr><tr>
     <td class="tg-580q">LH ICT </td>
-    <td class="tg-mqlv">Ms Nur A'zzah Noh </td>
+    <td class="tg-mqlv">Ms Nur A'zzah Bte Noh </td>
   </tr>
   <tr>
     <td class="tg-580q">HOD PE &amp; CCA</td>
-    <td class="tg-mqlv">Mr Neo Kian Chye Roland</td>
+    <td class="tg-mqlv">Mr Roland Neo Kian Chye</td>
   </tr>
   <tr>
     <td class="tg-580q">ST PE </td>
-    <td class="tg-mqlv">Mr Derek Wong  </td>
+    <td class="tg-mqlv">Mr Derek Wong Jyunwei</td>
   </tr>
 </tbody>
 </table>
