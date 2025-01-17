@@ -20,7 +20,7 @@ variant: markdown
 		<td>Mondays &amp; Wednesdays</td>
 		<td>2 - 4 pm</td>
 	<td>School Hall / Indoor Sports Hall</td>
-	<td>Mdm Madeline Koo (OIC)<br>Mdm Lew Nyet Mee<br>Ms Tiffany Goh (P3 &amp; P6 developmental team)<br>Mrs Gerry Ong (P5 &amp; P6 development)<br>(P5 &amp; P6 school training team)<br></td>
+	<td>Mdm Madeline Koo (OIC)<br>Ms Tiffany Goh (P3 &amp; P6 developmental team)<br>Mrs Gerry Ong (P5 &amp; P6 development)<br>(P5 &amp; P6 school training team)<br></td>
 </tr>
 </tbody></table>
 
