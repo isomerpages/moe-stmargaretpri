@@ -82,7 +82,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/star/"><span>Star</span></a><span style="color:#000;background-color:#FFF"> (Formerly Learning Haven)</span></td>
     <td style="color:#000;background-color:#FFF">Wednesdays </td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mr Sim Liyang*</span><br><span style="font-weight:400;color:#000">Ms Lin Linli</span><br><span style="font-weight:400;color:#000">Ms Wang Peiqi</span><br><span style="font-weight:400;color:#000">Mrs Angel Chan (Advisor)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mr Sim Liyang*</span><br><span style="font-weight:400;color:#000">Ms Munawarrah</span><br><span style="font-weight:400;color:#000">Ms Huang Li</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Library</span></td>
   </tr>
   <tr>
