@@ -19,7 +19,7 @@ variant: markdown
 		<td>Mondays &amp; Wednesdays </td>
 		<td>2 - 4 pm</td>
 	<td>PAL Room<br>Dance studio</td>
-	<td>Ms Nadine Soraya (OIC)<br>Ms Soomathy<br>Mdm Foo Ngiap Leng<br>Ms Anna Lau</td>
+	<td>Ms Anna Lau (OIC)<br>Mdm Lin Linli<br>Mdm Abigail Inbam Henry<br></td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
