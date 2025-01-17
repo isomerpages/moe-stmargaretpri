@@ -154,7 +154,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/international-dance/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">International Dance</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays &amp; Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Nadine Soraya* </span><br><span style="color:#000;background-color:#FFF">Ms Soomathy</span><span style="color:#000;background-color:#FFF"></span><br><span style="color:#000;background-color:#FFF">Mdm Foo Ngiap Leng<br>Ms Anna Lau</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Anna Lau* </span><br><span style="color:#000;background-color:#FFF">Mdm Lin Linli</span><span style="color:#000;background-color:#FFF"></span><br><span style="color:#000;background-color:#FFF">Mdm Abigail Inbam Henry<br></span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">PAL Room<br>Dance studio</span><br><span style="color:#000;background-color:#FFF"></span></td>
   </tr>
   <tr>
