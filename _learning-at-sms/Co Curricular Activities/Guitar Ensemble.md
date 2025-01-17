@@ -17,7 +17,7 @@ variant: markdown
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Wednesdays </td>
 		<td>2 - 4 pm</td>
-	<td>3I classroom</td>
+	<td>Music Room 1</td>
 	<td>Mdm Esther James (OIC)<br>Ms Amelia Leong</td>
 </tr>
 </tbody></table>
