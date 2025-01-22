@@ -19,7 +19,7 @@ variant: markdown
 		<td>Wednesdays </td>
 		<td>2 - 4 pm</td>
 	<td>School Library</td>
-	<td>Mr Sim Liyang (OIC)<br>Ms Munawarrah<br>Ms Huang Li</td>
+	<td>Mr Sim Liyang (OIC)<br>Ms Munawarrah Sultana Unwar<br>Ms Huang Li</td>
 	<td>P4 - P6</td>
 </tr>
 </tbody></table>
