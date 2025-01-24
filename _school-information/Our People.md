@@ -128,11 +128,11 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-580q">Vice-Principal (Acad)</td>
-    <td class="tg-mqlv">Mrs Wendy See</td>
+    <td class="tg-mqlv">Mrs Wendy See Gek Cheng</td>
   </tr>
 	<tr>
     <td class="tg-580q">Vice-Principal (Acad)</td>
-    <td class="tg-mqlv">Mrs Cherlyn Tan</td>
+    <td class="tg-mqlv">Mrs Cherlyn Tan Hui En</td>
   </tr>
   <tr>
     <td class="tg-580q">Vice-Principal (Admin)</td>

@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/2024-edusave-character-award-echa/
+          url: /announcements/moe-sexuality-edu-2025/
         - title: School Relocation
           description: ""
           url: /useful-links/school-relocation/
