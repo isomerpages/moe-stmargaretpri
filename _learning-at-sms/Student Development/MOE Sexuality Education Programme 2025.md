@@ -149,7 +149,7 @@ __________________________________________________________
 8.&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
 
-9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/GYS_Opt_out_Form_2024.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by <b>07/02/2025</b>. 
+9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/GYS_opt_out_form_2025.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by <b>07/02/2025</b>. 
 
 
 10.&nbsp;Parents can contact the school at <b>stmargaretps@moe.edu.sg</b> for discussion or to seek clarification about the school’s Sexuality Education programme.
