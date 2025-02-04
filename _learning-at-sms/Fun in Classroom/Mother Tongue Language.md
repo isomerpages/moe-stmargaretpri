@@ -41,7 +41,7 @@ The school aims to cultivate students’ interest in their Mother Tongue Languag
 </tr>
 </tbody></table>
 
-#### **1) Hari Raya Celebrations 2024**
+#### **4) Hari Raya Celebrations 2024**
 
 The 2024 Hari Raya celebration began with a stunning exhibition in the school library, featuring beautiful pop-up displays loaned from the Malay Heritage Centre. These exhibitions provided students with an opportunity to learn more about the Hari Raya celebration in Singapore. Malay Language students from P3 to P6 played a crucial role as Malay Language Culture Ambassadors, explaining Malay culture and the significance of Hari Raya to their peers. Additionally, students interacted with the exhibits through interactive questions on iPads. The Hari Raya celebration in the school hall featured a skit titled "Awakening Traditions". Students learnt about the cultural and religious significance of Hari Raya. 
 
@@ -61,7 +61,7 @@ The 2024 Hari Raya celebration began with a stunning exhibition in the school li
 </tbody></table>
 
 
-#### **2) Mother Tongue Language Fortnight 2024**
+#### **5) Mother Tongue Language Fortnight 2024**
 
 During MT Fortnight, students learnt about how cultures and values are tied in together. For example, P6 students learnt about a historical figure and engaged in a hands-on activity to design their own kite. They not only learnt about the importance of perseverance but also had the opportunity to demonstrate their creativity.
 
@@ -84,7 +84,7 @@ Through these activities, students not only gained valuable knowledge but also d
 </tr>
 </tbody></table>
 
-#### **3) P3 to P5 Higher Chinese Language Learning Journey 2024**  
+#### **6) P3 to P5 Higher Chinese Language Learning Journey 2024**  
 
 P3 and P4 HCL students embarked on a Learning Journey at Sun Yat Sen Nanyang Memorial Hall, delving into the rich tapestry of traditions and heritage. Through this journey, they gained a deeper understanding of the rich history, heritage, and cultural significance of the Chinese community in Singapore, while also gaining insights into the socio-cultural diversity of the nation.
 
@@ -107,7 +107,7 @@ Both experiences sparked curiosity and expanded horizons, enriching their educat
 </tr>
 </tbody></table>
 
-#### **4) Chinese New Year Celebrations 2024**
+#### **7) Chinese New Year Celebrations 2024**
 
 Amidst the festive spirit, the school welcomed Chinese New Year, commencing celebrations with recess activities, including engaging iPad games and lively card-matching challenges. The day's highlight unfolded in a vibrant concert, where students joyously sang and danced to the lively tunes of Chinese New Year songs. As the festivities peaked, students concluded the day with Chinese New Year decorations and craft hands-on activities.
 
@@ -156,3 +156,8 @@ In alignment with our school theme, "A Heart of Thanksgiving to Love and Serve,"
 2. Berita Harian SG
 <br><a href="https://www.beritaharian.sg/" target="_blank">www.beritaharian.sg/
 </a>
+
+##### Tamil Language
+
+1. Tamil Murasu Online
+<br><a href="https://www.tamilmurasu.com.sg/singapore" target="_blank">www.tamilmurasu.com.sg</a>
