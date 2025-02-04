@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/moe-sexuality-edu-2025/
+          url: /inspiring-teacher-of-english-award-2025/
         - title: School Relocation
           description: ""
           url: /useful-links/school-relocation/
