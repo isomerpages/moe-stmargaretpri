@@ -68,6 +68,26 @@ Students from Hong Wen School visited our school and SMS(P) students took the le
 
 SMS (P) students also visited Hong Wen School. They were engaged in a variety of Chinese Cultural activities. They watched drum and wushu performances by Hong Wen Students. Our students also participated in a Chinese drawing workshop where they  explored traditional Chinese art, creating beautiful pieces that reflected their newfound knowledge and appreciation of this art form. 
 
+![](/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg)
+![](/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg)
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_away_with_Umbrellas.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Dancing away<br>with umbrellas</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_gracefully.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Instructor demonstrating<br>some dance moves</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/How_much_do_you_know_about_Chinese_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning about the types of<br>traditional dances</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Jumping with joy</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
+
+
 #### **3) P4 CL LJ to Singapore Hokkien Huay Kuan Arts &amp; Cultural Troupe**
 
 The Primary 4 CL students embarked on a learning journey to the theatre under the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划). This scheme aims to expose students to Chinese language-related cultural performances by local and foreign performing arts groups. The students watched a performance on one of the famous scenarios in the story of “Journey to the west”.  It was an enriching and engaging learning journey for the students as the performance was customised to include aspects of local culture. 
