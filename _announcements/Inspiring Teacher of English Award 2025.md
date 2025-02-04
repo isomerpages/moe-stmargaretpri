@@ -11,4 +11,4 @@ description: ""
 
 Nominations for the award opens on **3 Feb 2025**. 
 
-More details can be found at [www.goodenglish.org.sg](www.goodenglish.org.sg).
+More details can be found at [www.goodenglish.org.sg](https://www.languagecouncils.sg/goodenglish/).
