@@ -45,6 +45,21 @@ The school aims to cultivate students’ interest in their Mother Tongue Languag
 
 The P4 level camp integrates Physical Education (focusing on skill-related fitness components such as coordination, balance, varying speed, pace, power, and agility) with Mother Tongue lessons by introducing students to various traditional ethnic dances. The approach enhances cultural learning and physical fitness simultaneously, as we value diverse ethnic cultures through their traditional dances. Students learn about the artistic expressions of different cultural aspects, including various dance moves, music, and props used in each dance. Each culture has its unique artistic traditions that reflect its rich heritage and values.
 
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_away_with_Umbrellas.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Dancing away<br>with umbrellas</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_gracefully.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Instructor demonstrating<br>some dance moves</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/How_much_do_you_know_about_Chinese_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning about the types of<br>traditional dances</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Jumping with joy</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
 #### **2) P5 Local Immersion Trip with Hong Wen School**
 
 Our P5 students embarked on an enriching exchange program with Hong Wen School. Students from various cultural backgrounds came together, fostering mutual understanding and respect. This interaction allowed them to appreciate and celebrate their differences, forming bonds that transcend cultural barriers.
