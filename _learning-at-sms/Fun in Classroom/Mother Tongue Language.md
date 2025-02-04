@@ -41,6 +41,23 @@ The school aims to cultivate students’ interest in their Mother Tongue Languag
 </tr>
 </tbody></table>
 
+#### **1) P4 Level Camp**
+
+The P4 level camp integrates Physical Education (focusing on skill-related fitness components such as coordination, balance, varying speed, pace, power, and agility) with Mother Tongue lessons by introducing students to various traditional ethnic dances. The approach enhances cultural learning and physical fitness simultaneously, as we value diverse ethnic cultures through their traditional dances. Students learn about the artistic expressions of different cultural aspects, including various dance moves, music, and props used in each dance. Each culture has its unique artistic traditions that reflect its rich heritage and values.
+
+#### **2) P5 Local Immersion Trip with Hong Wen School**
+
+Our P5 students embarked on an enriching exchange program with Hong Wen School. Students from various cultural backgrounds came together, fostering mutual understanding and respect. This interaction allowed them to appreciate and celebrate their differences, forming bonds that transcend cultural barriers.
+
+Students from Hong Wen School visited our school and SMS(P) students took the lead in sharing our rich heritage. As the visit coincides with our school's Racial Harmony Day celebration, our students also facilitated multi-racial activities and learning programmes for their Hong Wen friends.
+
+SMS (P) students also visited Hong Wen School. They were engaged in a variety of Chinese Cultural activities. They watched drum and wushu performances by Hong Wen Students. Our students also participated in a Chinese drawing workshop where they  explored traditional Chinese art, creating beautiful pieces that reflected their newfound knowledge and appreciation of this art form. 
+
+#### **3) P4 CL LJ to Singapore Hokkien Huay Kuan Arts &amp; Cultural Troupe**
+
+The Primary 4 CL students embarked on a learning journey to the theatre under the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划). This scheme aims to expose students to Chinese language-related cultural performances by local and foreign performing arts groups. The students watched a performance on one of the famous scenarios in the story of “Journey to the west”.  It was an enriching and engaging learning journey for the students as the performance was customised to include aspects of local culture. 
+
+
 #### **4) Hari Raya Celebrations 2024**
 
 The 2024 Hari Raya celebration began with a stunning exhibition in the school library, featuring beautiful pop-up displays loaned from the Malay Heritage Centre. These exhibitions provided students with an opportunity to learn more about the Hari Raya celebration in Singapore. Malay Language students from P3 to P6 played a crucial role as Malay Language Culture Ambassadors, explaining Malay culture and the significance of Hari Raya to their peers. Additionally, students interacted with the exhibits through interactive questions on iPads. The Hari Raya celebration in the school hall featured a skit titled "Awakening Traditions". Students learnt about the cultural and religious significance of Hari Raya. 
