@@ -127,7 +127,7 @@ Through these activities, students not only gained valuable knowledge but also d
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/recess_activity.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Recess Activity_Spice Exploration</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/recess_activity.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Recess Activity : Spice Exploration</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/indian_drum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning to play the Indian drum</b></font></center>
 </td>
