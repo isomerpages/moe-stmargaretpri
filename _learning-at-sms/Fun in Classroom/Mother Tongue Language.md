@@ -53,9 +53,9 @@ The P4 level camp integrates Physical Education (focusing on skill-related fitne
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/How_much_do_you_know_about_Chinese_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:500px;"><b>Learning about the types of<br>traditional dances</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/How_much_do_you_know_about_Chinese_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Learning about the types of<br>traditional dances</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:500px;"><b>Jumping with joy</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Jumping with joy</b></font></center>
 </td>
 </tr>
 </tbody></table>
