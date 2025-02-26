@@ -45,6 +45,21 @@ The school aims to cultivate students’ interest in their Mother Tongue Languag
 
 The P4 level camp integrates Physical Education (focusing on skill-related fitness components such as coordination, balance, varying speed, pace, power, and agility) with Mother Tongue lessons by introducing students to various traditional ethnic dances. The approach enhances cultural learning and physical fitness simultaneously, as we value diverse ethnic cultures through their traditional dances. Students learn about the artistic expressions of different cultural aspects, including various dance moves, music, and props used in each dance. Each culture has its unique artistic traditions that reflect its rich heritage and values.
 
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_away_with_Umbrellas.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Dancing away with umbrellas</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_gracefully.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Instructor demonstrating<br>some dance moves</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/How_much_do_you_know_about_Chinese_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Learning about the types of<br>traditional dances</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Jumping with joy</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
 #### **2) P5 Local Immersion Trip with Hong Wen School**
 
 Our P5 students embarked on an enriching exchange program with Hong Wen School. Students from various cultural backgrounds came together, fostering mutual understanding and respect. This interaction allowed them to appreciate and celebrate their differences, forming bonds that transcend cultural barriers.
@@ -53,10 +68,34 @@ Students from Hong Wen School visited our school and SMS(P) students took the le
 
 SMS (P) students also visited Hong Wen School. They were engaged in a variety of Chinese Cultural activities. They watched drum and wushu performances by Hong Wen Students. Our students also participated in a Chinese drawing workshop where they  explored traditional Chinese art, creating beautiful pieces that reflected their newfound knowledge and appreciation of this art form. 
 
-#### **3) P4 CL LJ to Singapore Hokkien Huay Kuan Arts &amp; Cultural Troupe**
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Visiting our Heritage Hub</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Traditional Chinese drawing</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Chinese_painting_at_Hong_Wen_School.jpg" alt="volunteer recess ministry pv" style="width:360px;height:380px;"><b>Chinese painting at Hong Wen School</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Drawing_a_Panda.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Drawing a panda</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
+
+#### **3) P4 CL Learning Journey to Singapore Hokkien Huay Kuan Arts &amp; Cultural Troupe**
 
 The Primary 4 CL students embarked on a learning journey to the theatre under the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划). This scheme aims to expose students to Chinese language-related cultural performances by local and foreign performing arts groups. The students watched a performance on one of the famous scenarios in the story of “Journey to the west”.  It was an enriching and engaging learning journey for the students as the performance was customised to include aspects of local culture. 
 
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Show_is_starting_soon_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Ready to watch performance in the theatre</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Being_part_of_the_flames.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in the theatre activities</b></font></center>
+</td>
+</tr>
+</tbody></table>
 
 #### **4) Hari Raya Celebrations 2024**
 
@@ -70,7 +109,7 @@ The 2024 Hari Raya celebration began with a stunning exhibition in the school li
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/students_participation.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in interactive exhibition using iPads</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/students_participation.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in interactive exhibition<br>using iPads</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya performance in the Hall</b></font></center>
 </td>
@@ -88,7 +127,7 @@ Through these activities, students not only gained valuable knowledge but also d
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/recess_activity.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Recess Activity_Spice Exploration</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/recess_activity.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Recess Activity : Spice Exploration</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/indian_drum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning to play the Indian drum</b></font></center>
 </td>
@@ -111,9 +150,9 @@ Both experiences sparked curiosity and expanded horizons, enriching their educat
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/walk_at_museum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P3 and P4 HCL students taking a  walk around the museum</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/walk_at_museum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P3 and P4 HCL students taking a walk around<br>the museum</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/opera_costume.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>P3 and P4 HCL students trying  out Chinese Opera Costumes</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/opera_costume.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>P3 and P4 HCL students trying out<br>Chinese Opera Costumes</b></font></center>
 </td>
 </tr>
 	<tr>

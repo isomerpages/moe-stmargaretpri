@@ -722,7 +722,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mr Kenneth Tan Keng Ghee</span></td>
     <td class="tg-fxx4"><span style="color:#222">Administration Manager</span></td>
   </tr><tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms Tan Bee Lian</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Sally Tan Bee Lian</span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Manager </span></td>
   </tr>
   <tr>
@@ -770,7 +770,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
   </tr>
 	 <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Loh Moh Khiaw</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Lilia Loh Moh Khiaw</span></td>
     <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
   </tr>
   <tr>
@@ -799,6 +799,10 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms Tan Siew Kiau</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Receptionist</span></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Ismalyia Binte Ismail</span></td>
     <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
