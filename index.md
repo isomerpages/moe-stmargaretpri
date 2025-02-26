@@ -12,9 +12,6 @@ sections:
         - title: Announcement
           description: ""
           url: /inspiring-teacher-of-english-award-2025/
-        - title: School Relocation
-          description: ""
-          url: /useful-links/school-relocation/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
