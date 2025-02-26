@@ -152,7 +152,7 @@ Both experiences sparked curiosity and expanded horizons, enriching their educat
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/walk_at_museum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P3 and P4 HCL students taking a walk around<br>the museum</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/opera_costume.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>P3 and P4 HCL students trying  out Chinese Opera Costumes</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/opera_costume.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>P3 and P4 HCL students trying out<br>Chinese Opera Costumes</b></font></center>
 </td>
 </tr>
 	<tr>
