@@ -38,8 +38,6 @@ These are the activities that the students participated for holistic learning.
 		<th><center>Back to School 2025</center></th> 			
 			</tr></tbody></table>
 
-
-
 <table>
 	<tbody><tr>
 		<th><center><font color="maroon" size="6">
