@@ -16,4 +16,4 @@ The entire staff and faculty were there to warmly welcome the students and paren
 Meanwhile, the eager Primary 1 students spent time getting to know each other, playing fun games with their teachers and new classmates. They also had their first recess in the canteen and some even knew how to buy food and drinks from the stalls. Later, the students were guided through key locations in the school, helping them feel comfortable and excited for the year ahead.
 
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/En-Gwq1TIKc?si=lnhP5lXHI526ktC7" height="415" width="700"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/StYfcE1QQ7U?si=O6MglDhrDJheQzP2" height="415" width="700"></iframe></center>
