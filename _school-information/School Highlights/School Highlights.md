@@ -20,9 +20,6 @@ These are the activities that the students participated for holistic learning.
 
 2. ####  Featured Events
 
-![](/images/Thumbnails/p1orient2025_thumb_01.jpg)
-![](/images/Thumbnails/bts2025_thumb_01.jpg)
-![](/images/Thumbnails/bsp2025_thumb_01.jpg)
 
 <table>
 	<tbody><tr>
@@ -32,7 +29,7 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 			<tr>
-<td><a href="/school-information/school-highlights/p6-learning-journey-to-sungei-buloh-2024/"><img src="/images/Thumbnails/p1orient2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+<td><a href="/school-information/school-highlights/p1-orientation-2025/"><img src="/images/Thumbnails/p1orient2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/p4-learning-journey-to-kreta-ayer-2024/"><img src="/images/Thumbnails/bsp2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/p5-camp-2024/"><img src="/images/Thumbnails/bts2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
