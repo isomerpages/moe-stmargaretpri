@@ -36,7 +36,7 @@ These are the activities that the students participated for holistic learning.
 		<tr>
 			<th><center>P1 Orientation 2025</center></th> 
 		<th><center>Big Sister Programme 2025</center></th> 
-		<th><center>Back to School 2025</center></th> 			
+		<th><center>Back to School Programme 2025</center></th> 			
 			</tr></tbody></table>
 
 <table>
