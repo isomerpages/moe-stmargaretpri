@@ -608,7 +608,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Rozita Binte Sulaiman (Mdm) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Rozita Bte Sulaiman (Mdm) </span></td>
     <td class="tg-fxx4"><span style="color:#222">Thavaselvi d/o Selliah (Mdm Selvi)</span><br></td>
   </tr>
   <tr>
