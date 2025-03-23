@@ -289,7 +289,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Lin Linli (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh Shi Yun (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh Shi Yun (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
@@ -369,7 +369,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"></span>Shiem Shan Shan (Ms)<br></td>
+    <td class="tg-fxx4"><span style="color:#222"></span>Shiem Shan Shan (Mdm)<br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
@@ -522,7 +522,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
     <td class="tg-fxx4"><span style="color:#222">Zhuang Siqiao (Mrs Heng)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Dinah Chan Siew Kheng (Ms)</span><br><span style="color:#222"></span></td>
+    <td class="tg-fxx4"><span style="color:#222">Dinah Chan Siew Kheng (Mdm)</span><br><span style="color:#222"></span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 HUMILITY</span></td>
@@ -531,7 +531,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Suryanti Binte Fathillah (Ms) </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Suryanti Binte Fathillah (Mdm) </span></td>
     <td class="tg-fxx4"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo) </span></td>
   </tr>
   <tr>
