@@ -517,12 +517,12 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 CHARITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Dharshini (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Low Pei Chi (Mrs Ong)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Gerry Low Pei Chi (Mrs Ong)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
     <td class="tg-fxx4"><span style="color:#222">Zhuang Siqiao (Mrs Heng)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Siew Kheng Dinah (Ms)</span><br><span style="color:#222"></span></td>
+    <td class="tg-fxx4"><span style="color:#222">Dinah Chan Siew Kheng (Ms)</span><br><span style="color:#222"></span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 HUMILITY</span></td>
