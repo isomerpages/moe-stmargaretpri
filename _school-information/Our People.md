@@ -561,7 +561,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <thead>
   <tr>
     <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Michelle Kok (Ms)</th>
+    <th class="tg-b4br">Michelle Kok Meixia (Ms)</th>
   </tr>
 </thead>
 <tbody>
