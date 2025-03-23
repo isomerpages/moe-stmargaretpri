@@ -441,7 +441,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 CHARITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Amelia Leong Seok Ling (Mrs Goh)<br></span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Huang Li (Mdm)<br>Jamilah Bee Bte Mohamed Ghani (Mdm)   </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Huang Li (Mdm)<br>Jamilah Bee Bte Mohd Ghani (Mdm)   </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 GRACIOUSNESS</span></td>
@@ -690,7 +690,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 TENACITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Charissa Chan Soek Yee (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Nur A'zzah Binte Noh (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Nur A'zzah Bte Noh (Ms)</span></td>
   </tr>
 </tbody>
 </table>
@@ -726,7 +726,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Operations Manager </span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Nur Syafawati Binte Roslan</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Nur Syafawati Bte Roslan</span></td>
     <td class="tg-fxx4"><span style="color:#222">Administration Executive (AE) </span></td>
   </tr>
 	<tr>
@@ -734,7 +734,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Administration Executive (AE) </span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Binte Johari</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Bte Johari</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
   </tr>
 	<tr>
@@ -804,7 +804,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Receptionist</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Ismalyia Binte Ismail</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Ismalyia Bte Ismail</span></td>
     <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
   </tr>
 	<tr>
