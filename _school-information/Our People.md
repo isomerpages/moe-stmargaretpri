@@ -373,8 +373,8 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Sundra Gaytri Meriange (Mdm)<br>Mrs Elango Anggammal (TL)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Sundra Gaytri Meriange (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)<br>Mrs Elango Anggammal</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 PATIENCE </span></td>
