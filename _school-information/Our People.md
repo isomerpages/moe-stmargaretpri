@@ -451,12 +451,12 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Yun Fen (Mrs Yeow)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Seah Hou Kiat (Mr) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Eric Seah Hou Kiat (Mr) </span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 INTEGRITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Chan Mei Sze (Mrs Lim)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Lay Cheng (Mrs Loo)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Doris Ng Lay Cheng (Mrs Loo)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 TENACITY </span></td>
