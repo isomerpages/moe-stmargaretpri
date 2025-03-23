@@ -212,7 +212,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 	<tr>
     <td class="tg-580q">HOD ICT </td>
-    <td class="tg-mqlv">Ms Julia Li Wai See</td>
+    <td class="tg-mqlv">Mdm Julia Li Wai See</td>
   </tr>
   <tr>
   </tr><tr>
