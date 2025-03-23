@@ -440,8 +440,8 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Amelia Leong Seok Ling (Mrs Goh)<br>Jamilah Bee Bte Mohamed Ghani (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Huang Li (Mdm)   </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Amelia Leong Seok Ling (Mrs Goh)<br></span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Huang Li (Mdm)<br>Jamilah Bee Bte Mohamed Ghani (Mdm)   </span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 GRACIOUSNESS</span></td>
@@ -450,7 +450,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Yun Fen (Mrs Yeow)<br>Alaghimanavalan Sarala Devi (Mdm) (TL) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Yun Fen (Mrs Yeow)</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Seah Hou Kiat (Mr) </span><br></td>
   </tr>
   <tr>
