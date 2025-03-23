@@ -561,7 +561,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <thead>
   <tr>
     <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Michelle Kok Meixia (Ms)</th>
+    <th class="tg-b4br">Michelle Kok Meixia (Mrs Ng)</th>
   </tr>
 </thead>
 <tbody>
@@ -614,7 +614,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">5 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Eddie Chong Chon Kar (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Julia Li Wai See (Li Huishi) (Ms)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Julia Li Wai See (Li Huishi) (Mdm)</span></td>
   </tr>
 </tbody>
 </table>
@@ -638,7 +638,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <thead>
   <tr>
     <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Michelle Kok Meixia (Ms)</th>
+    <th class="tg-b4br">Michelle Kok Meixia (Mrs Ng)</th>
   </tr>
 </thead>
 <tbody>
