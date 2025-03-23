@@ -284,7 +284,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 GRACIOUSNESS</span></td>
     <td class="tg-fxx4"><span style="color:#222">Seet See Lin (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Tew Hwee Gee Angela (Mdm)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Angela Tew Hwee Gee (Mdm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 HUMILITY</span></td>
@@ -294,7 +294,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Chua Chiow Yean (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Poon Chye Hong Bernice (Mrs)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Bernice Poon Chye Hong (Mrs)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 PATIENCE </span></td>
