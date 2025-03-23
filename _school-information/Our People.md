@@ -358,7 +358,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Weiling Samantha (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Samantha Ng Weiling  (Ms)</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Daphne Cheng Lai Peng (Ms)</span><br></td>
   </tr>
   <tr>
