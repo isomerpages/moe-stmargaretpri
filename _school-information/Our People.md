@@ -278,8 +278,8 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Madelin Yeo (Mrs Ang)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Neo Kian Chye Roland (Mr)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Madelin Yeo Hui Li (Mrs Ang)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Roland Neo Kian Chye Roland (Mr)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 GRACIOUSNESS</span></td>
