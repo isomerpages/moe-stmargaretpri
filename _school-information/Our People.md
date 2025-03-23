@@ -289,7 +289,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Lin Linli (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh Shi Yun (Ms)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
