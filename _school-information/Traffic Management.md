@@ -8,7 +8,6 @@ Safety and security of our students are of utmost importance, it is therefore ne
 
 ![](/images/School%20Information/Traffic_mgt_2025.jpg)
 
-
 #### **Your walking guide to St. Margaret’s School (Primary)**
 
 The following videos are created to help you and/or your girl find the way up to the school via the few suggested routes. 
