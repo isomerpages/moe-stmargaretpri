@@ -6,6 +6,8 @@ variant: markdown
 ---
 Safety and security of our students are of utmost importance, it is therefore necessary to reiterate the following points and we ask that you adhere to them.  
 
+![](/images/School%20Information/Traffic_mgt_2025.jpg)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
