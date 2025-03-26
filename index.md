@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /inspiring-teacher-of-english-award-2025/
+          url: /2025-moe-sexuality-education-programme/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
