@@ -304,7 +304,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Zhang Miao (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Peggy Ng Ah Eng (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Labelle Lee Kum Foong (Ms) </span><br></td>
   </tr>
 </tbody>
 </table>
