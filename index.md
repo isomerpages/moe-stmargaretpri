@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /learning-at-sms/student-development/2025-moe-sexuality-education-programme/
+          url: /announcements/moe-sexuality-edu-2025/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
