@@ -773,6 +773,10 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Ms Veronica Tang Sok Siah </span></td>
     <td class="tg-fxx4"><span style="color:#222">School Counselor</span></td>
   </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Yap Cheng </span></td>
+    <td class="tg-fxx4"><span style="color:#222">School Counselor</span></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Nur Fadhilah Binte Loakman </span></td>
     <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
