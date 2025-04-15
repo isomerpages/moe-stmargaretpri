@@ -8,7 +8,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
-     Mother Tongue Language
+     Mother Tongue Languages
  </font></th>
 </tr>
 	<tr>
