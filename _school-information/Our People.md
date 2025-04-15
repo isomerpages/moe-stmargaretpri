@@ -683,7 +683,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 GRACIOUSNESS </span></td>
     <td class="tg-fxx4"><span style="color:#222">Derek Wong Jyunwei (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)<br>Chung Hui Yee (Mrs Thong)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
@@ -823,12 +823,12 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Ms Irene Ng Beng Cheng</span></td>
     <td class="tg-fxx4"><span style="color:#222">Printing Assistant</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr Amanjit Singh Tiwana</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
-  </tr>
-	 <tr>
+	<tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Admimustaqim Hazri bin Azahar
+    </span></td><td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
+  </tr>
+		<tr>
+    <td class="tg-fxx4"><span style="color:#222">Mr Muhd Faruq Bin Noorfauzi 
     </span></td><td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
   </tr>
 </tbody>

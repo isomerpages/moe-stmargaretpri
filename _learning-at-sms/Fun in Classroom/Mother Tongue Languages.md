@@ -1,5 +1,5 @@
 ---
-title: Mother Tongue Language
+title: Mother Tongue Languages
 permalink: /learning-at-sms/fun-in-classroom/mt-language/
 description: ""
 third_nav_title: Fun in Classroom
@@ -8,7 +8,7 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
-     Mother Tongue Language
+     Mother Tongue Languages
  </font></th>
 </tr>
 	<tr>
