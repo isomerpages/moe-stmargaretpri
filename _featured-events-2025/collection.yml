@@ -2,5 +2,6 @@ collections:
   featured-events-2025:
     output: true
     order:
+      - Back to School Programme 2025.md
       - Big Sisters Programme 2025.md
       - P1 Orientation 2025.md
