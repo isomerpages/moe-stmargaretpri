@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - P3 Learning Journey to Zoo 2023.md
       - Racial Harmony Day 2023.md
       - P6 Learning Journey to Sungei Buloh 2023.md
       - P4 Learning Journey to Geylang Serai 2023.md
