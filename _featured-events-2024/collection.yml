@@ -1,4 +1,5 @@
 collections:
   featured-events-2024:
     output: true
-    order: []
+    order:
+      - P6 Learning Journey to Sungei Buloh 2024.md
