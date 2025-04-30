@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - P5 Sports Education Programme 2023.md
       - P5 Learning Journey to Bus Train Depot 2023.md
       - Teachers' Day 2023.md
       - RSAF55 Open House 2023.md
