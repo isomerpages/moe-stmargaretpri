@@ -2,4 +2,5 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - P6 Graduation Camp 2023.md
       - Celebrating Our Successes Day 2023.md
