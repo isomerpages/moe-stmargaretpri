@@ -4,7 +4,7 @@ permalink: /p3-learning-journey-to-geylang-serai-2025/
 variant: markdown
 description: ""
 ---
-### **P3 Social Studies Learning Journey to Geylang Serai Heritage Gallery**
+### **P3 Social Studies Learning Journey to Geylang Serai Heritage Gallery 2025**
 
 ##### 18, 19 &amp; 20 Feb 2025
 
