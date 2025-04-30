@@ -2,6 +2,7 @@ collections:
   featured-events-2024:
     output: true
     order:
+      - Sports Jamboree 2024.md
       - English Language (EL) Week 2024.md
       - P6 Learning Journey to Singapore Discovery Centre 2024.md
       - P3 Learning Journey to the Void Deck Art Gallery 2024.md
