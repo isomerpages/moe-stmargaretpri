@@ -13,9 +13,9 @@ third_nav_title: School Highlights
 <table>
 	<tbody>
 					<tr>
-<td><a href="/school-information/school-highlights/p1-orientation-2025/"><img src="/images/Thumbnails/pongal2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/big-sisters-programme-2025/"><img src="/images/Thumbnails/p3ljgeylang2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-	<td><a href="/school-information/school-highlights/back-to-school-programme-2025/"><img src="/images/Thumbnails/p5ljindianheritage2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+<td><a href="/school-information/school-highlights/pongal-2025/"><img src="/images/Thumbnails/pongal2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p3-learning-journey-to-geylang-serai-2025/"><img src="/images/Thumbnails/p3ljgeylang2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/p5-learning-journey-to-indian-heritage-centre-2025/"><img src="/images/Thumbnails/p5ljindianheritage2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>Pongal 2025</center></th> 
