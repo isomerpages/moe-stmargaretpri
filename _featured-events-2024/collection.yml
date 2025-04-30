@@ -2,6 +2,7 @@ collections:
   featured-events-2024:
     output: true
     order:
+      - Student Learning Festival 2024.md
       - P2 Plant Workshop 2024.md
       - Hari Raya Celebration 2024.md
       - OneEarth Challenge 2024.md
