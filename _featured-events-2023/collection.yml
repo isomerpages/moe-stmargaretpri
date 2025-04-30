@@ -2,5 +2,6 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - Nativity Play 2023.md
       - P6 Graduation Camp 2023.md
       - Celebrating Our Successes Day 2023.md
