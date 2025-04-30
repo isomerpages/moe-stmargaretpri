@@ -1,4 +1,5 @@
 collections:
   featured-events-2023:
     output: true
-    order: []
+    order:
+      - Celebrating Our Successes Day 2023.md
