@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - S5 Cluster Tamil Language Programme 2023.md
       - P3 Learning Journey to Giant Hypermarket 2023.md
       - Student Learning Festival 2023.md
       - P3 Learning Journey to IFLY 2023.md
