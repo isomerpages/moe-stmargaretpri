@@ -10,4 +10,4 @@ The Primary 4 Tamil pupils embarked on a cultural immersion journey to Campbell 
 
 We hope this invaluable experience foster a deeper appreciation for the rich tapestry of Indian heritage and instill a sense of community spirit within the young learners.
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oSsNoOipkoA?si=iM2kmmYLfvj1etgk" height="415" width="700"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cgnKHOU3kS8?si=wxXM7f7KCSPAe9fM" height="415" width="700"></iframe></center>
