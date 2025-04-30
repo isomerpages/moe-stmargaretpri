@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - MT Fortnight 2023.md
       - P3 TEA 2023.md
       - S5 Cluster Tamil Language Programme 2023.md
       - P3 Learning Journey to Giant Hypermarket 2023.md
