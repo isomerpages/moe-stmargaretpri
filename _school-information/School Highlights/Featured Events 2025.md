@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: School Highlights
 ---
+
+
 <table>
 	<tbody><tr>
 		<th><center><font color="maroon" size="6">
