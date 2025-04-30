@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - Sports Jamboree 2023.md
       - P4 Learning Journey 2023.md
       - International Friendship Day 2023.md
       - P2 Level Camp 2023.md
