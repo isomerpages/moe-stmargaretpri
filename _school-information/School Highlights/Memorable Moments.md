@@ -8,12 +8,12 @@ variant: markdown
 #### Appreciation to our PERI Partners 2022
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hx7-Tc8I8Rs?si=wCZ7l3bsl1dW9qc4" height="315" width="560"></iframe>
 
-<a href="/files/Appreciation to our PERI partners 2022.pdf" target="_blank"><b>Appreciation to our PERI Partners 2022</b></a>
+<a href="/files/Appreciation_to_our_PERI_partners_2022.pdf" target="_blank"><b>Appreciation to our PERI Partners 2022</b></a>
 
 #### Oldest Girls School 2022
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KgelNtPdOVo?si=pZ2Ry8zpwU0D_s64" height="315" width="560"></iframe>
 
-<a href="/files/Oldest Girls School 2022.pdf" target="_blank"><b>Oldest Girls School 2022</b></a>
+<a href="/files/Oldest_Girls_School_2022.pdf" target="_blank"><b>Oldest Girls School 2022</b></a>
 
 
 #### National Day 2022
