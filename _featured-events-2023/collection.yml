@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - Total Defence Day 2023.md
       - P3 Sports Education Programme 2023.md
       - P1 Level Camp 2023.md
       - Sports Jamboree 2023.md
