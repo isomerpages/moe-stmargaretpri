@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - P3 Learning Journey to IFLY 2023.md
       - SPOTLIGHT.md
       - P4 Level Camp 2023.md
       - P3 Learning Journey to Zoo 2023.md
