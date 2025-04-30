@@ -2,6 +2,7 @@ collections:
   featured-events-2024:
     output: true
     order:
+      - P3 Level Camp to iFLY 2024.md
       - MT Fortnight 2024.md
       - Student Learning Festival 2024.md
       - P2 Plant Workshop 2024.md
