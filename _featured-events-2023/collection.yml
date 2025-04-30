@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - NE Show 2023.md
       - National Day 2023.md
       - Heritage Trail 2023.md
       - P4 Sports Education Programme 2023.md
