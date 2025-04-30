@@ -2,6 +2,7 @@ collections:
   featured-events-2024:
     output: true
     order:
+      - OneEarth Challenge 2024.md
       - P4 Sports Education Programme 2024 (SEP).md
       - International Friendship Day 2024.md
       - Spotlight 2024.md
