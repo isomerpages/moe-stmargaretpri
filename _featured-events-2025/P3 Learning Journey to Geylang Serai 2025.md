@@ -16,4 +16,4 @@ At the gallery, students also explored leisure activities from the past, includi
 
 This learning journey provided students with valuable insights into the heritage of Geylang Serai, fostering a greater appreciation for the diversity and history that shape our nation today.
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oSsNoOipkoA?si=iM2kmmYLfvj1etgk" height="415" width="700"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1mu6zw4zXdQ?si=cCWK73DhkC78uZvx" height="415" width="700"></iframe></center>
