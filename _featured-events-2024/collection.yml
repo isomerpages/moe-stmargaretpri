@@ -2,6 +2,7 @@ collections:
   featured-events-2024:
     output: true
     order:
+      - International Friendship Day 2024.md
       - Spotlight 2024.md
       - P4 CL Learning Journey to Singapore Hokkien Huay Kuan Arts & Cultural
         Troupe 2024.md
