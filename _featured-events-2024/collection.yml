@@ -2,6 +2,7 @@ collections:
   featured-events-2024:
     output: true
     order:
+      - Total Defence Day 2024.md
       - P1 Level Camp 2024.md
       - P3 Sports Education Programme 2024.md
       - Sports Jamboree 2024.md
