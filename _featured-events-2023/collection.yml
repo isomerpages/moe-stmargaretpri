@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - International Friendship Day 2023.md
       - P2 Level Camp 2023.md
       - P5 Camp 2023.md
       - Hari Raya Celebration 2023.md
