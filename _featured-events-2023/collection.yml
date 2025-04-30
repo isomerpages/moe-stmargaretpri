@@ -2,6 +2,7 @@ collections:
   featured-events-2023:
     output: true
     order:
+      - National Day 2023.md
       - Heritage Trail 2023.md
       - P4 Sports Education Programme 2023.md
       - P5 Sports Education Programme 2023.md
