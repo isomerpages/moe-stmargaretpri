@@ -16,4 +16,4 @@ The visit also featured interactive displays and hands-on experiences. Students 
 
 This meaningful experience deepened the students’ understanding of Indian culture and its role in Singapore’s multicultural society. The trip sparked curiosity, appreciation, and respect for the diverse traditions that make our community so special.
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oSsNoOipkoA?si=iM2kmmYLfvj1etgk" height="415" width="700"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Tr3Pt0ew24Q?si=MGe8kJk95zZLXeFw" height="415" width="700"></iframe></center>
