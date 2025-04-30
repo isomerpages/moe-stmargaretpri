@@ -2,5 +2,6 @@ collections:
   featured-events-2024:
     output: true
     order:
+      - P5 Camp 2024.md
       - P4 Learning Journey to Kreta Ayer 2024.md
       - P6 Learning Journey to Sungei Buloh 2024.md
