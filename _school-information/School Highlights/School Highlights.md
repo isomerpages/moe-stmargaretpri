@@ -18,7 +18,6 @@ These are the activities that the students participated for holistic learning.
 
 2. ####  Featured Events
 
-
 <table>
 	<tbody><tr>
 		<th><center><font color="maroon" size="6">
@@ -26,6 +25,16 @@ These are the activities that the students participated for holistic learning.
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
+					<tr>
+<td><a href="/school-information/school-highlights/pongal-2025/"><img src="/images/Thumbnails/pongal2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p3-learning-journey-to-geylang-serai-2025/"><img src="/images/Thumbnails/p3ljgeylang2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/p5-learning-journey-to-indian-heritage-centre-2025/"><img src="/images/Thumbnails/p5ljindianheritage2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>Pongal 2025</center></th> 
+		<th><center>P3 Learning Journey to<br>Geylang Serai 2025</center></th> 
+		<th><center>P5 Learning Journey to<br>Indian Heritage Centre 2025</center></th> 			
+			</tr>
 			<tr>
 <td><a href="/school-information/school-highlights/p1-orientation-2025/"><img src="/images/Thumbnails/p1orient2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/big-sisters-programme-2025/"><img src="/images/Thumbnails/bsp2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
