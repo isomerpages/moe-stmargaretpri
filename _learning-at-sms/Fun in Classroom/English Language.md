@@ -159,22 +159,22 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 	</tbody></table>
 
@@ -196,8 +196,6 @@ We would like to extend a special appreciation to the students and teachers of S
 ![](/images/Read%20for%20Books%202023/readforbooks01.jpg)
 
 ![](/images/Read%20for%20Books%202023/readforbooks02.jpg)
-
-
 
   <table>
 	<tbody><tr>
