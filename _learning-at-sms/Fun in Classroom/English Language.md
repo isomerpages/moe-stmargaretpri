@@ -47,7 +47,7 @@ Creating a vibrant atmosphere for the teaching and learning of the English Langu
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 	</tbody></table>
  
