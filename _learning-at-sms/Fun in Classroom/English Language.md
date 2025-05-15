@@ -232,6 +232,12 @@ We would like to extend a special appreciation to the students and teachers of S
   </tr>
 </thead>
 <tbody>
+<tr>
+    <td class="tg-pdeq">2024 Queen’s Commonwealth Essay Competition</td>
+    <td class="tg-jxgv">Gold ⚜️ 2 winners <br>
+Bronze ⚜️ 16 winners
+</td>
+  </tr>
 	<tr>
     <td class="tg-pdeq">ACS Mythos (Junior Orators) 2023</td>
     <td class="tg-jxgv">Top 5 Finalists for Best Costume
