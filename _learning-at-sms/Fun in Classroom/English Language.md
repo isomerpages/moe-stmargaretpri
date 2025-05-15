@@ -62,7 +62,7 @@ To encourage a love for reading in the girls:
 <tbody>
 <tr>
 		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_02.jpg" style="width:340px;height:400px;"><b></b><center><b>Eager readers waiting to borrow their books!</b></center></td>
-	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_03.jpg" style="width:450px;height:400px;"><b></b><center><b>Staying connected with the world through reading the newspapers.</b></center></td>
+	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_03.jpg" style="width:450px;height:400px;"><b></b><center><b>Staying connected with the world through reading<br>the newspapers.</b></center></td>
 </tr>
 	</tbody></table>
 
