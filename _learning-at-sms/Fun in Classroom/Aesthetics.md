@@ -168,7 +168,7 @@ One of the signature programmes in the school is the djembe performance workshop
 *   Djembes
 *   Cajons
 *   Music Theory
-*   Songs from Different Cultures and traditions
+*   Songs from different cultures and traditions
 *   Lyric writing&nbsp;
 *   Digital music workshops
 
@@ -196,7 +196,7 @@ One of the signature programmes in the school is the djembe performance workshop
 </td>
 </tr>
 <tr>
-<td><center><font size="3"><img src="/images/Experiencing%20rhythms%20through%20magnets.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b>Experiencing rhythms through magnet</b>
+<td><center><font size="3"><img src="/images/Experiencing%20rhythms%20through%20magnets.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b>Experiencing rhythms<br>through magnets</b>
 </font></center>
 </td>
 <td><center><font size="3"><img src="/images/Music%20and%20the%20Keyboard.jpg" alt="volunteer recess ministry pv" style="width:400px;height:220px;"><b> Music and the Keyboard</b>
