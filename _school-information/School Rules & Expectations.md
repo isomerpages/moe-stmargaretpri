@@ -24,7 +24,7 @@ variant: markdown
 *   Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others and self.
 *   Students are discouraged from using a trolley bag as they may have difficulty moving up and down the stairs.
 *   Students are not allowed to run or play along the corridors, in the classrooms/canteen, up and down the stairs and in places where there is potential danger.
-*   Students are only allowed to play with the equipment in the playground/hall or be in any of the special rooms, if there is adult supervision.
+*   Students are only allowed to play with the equipment in the playground/hall/PE store or be in any of the special rooms, if there is adult supervision.
 *   Students are to use the school facilities responsibly and in the way they are intended for.
 
 
@@ -55,6 +55,13 @@ variant: markdown
 
 * Be alert and check for safety when walking in public areas and crossing the pedestrian crossings.
 * Always do the kerb drill and obey all traffic signals and signs. 
+
+**Outside of School Premises**
+
+* Loitering in shopping malls, void decks, and playgrounds in school uniform after school hours is not allowed unless accompanied by a parent or guardian.
+* Always demonstrate respectful behavior in public places, including on buses and MRT trains.
+* Queue in an orderly manner when boarding buses or MRT trains.
+* Show graciousness and consideration toward others when on the public transport.
 
 ### CONDUCT
 
