@@ -142,22 +142,19 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:350px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:350px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:350px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:380px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
-</tr>
-<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:300px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:350px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
 </tr>
 	</tbody></table>
 
@@ -168,11 +165,7 @@ Read for Books is a charity book drive organised by NLB and we are proud to supp
 Let us continue to nurture the love for reading among our girls! Remember, reading is not just a pastime; it’s a lifelong habit that enriches our lives in countless ways.
 
 
-##### **Read for Books 2023**
-
-School have received a token of appreciation from the NLB (National Library Board) for our participation in Read for Books 2023! Thank You to all teachers and students for your active involvement in the charity book drive. With our efforts, we donated about 125 books to the selected beneficiaries.
-
-![](/images/Announcement/Read_for_Books_2023_Certificate.jpg)
+![](/images/Announcement/Read_for_Books_2023_Certificate.jpg)<center><b>School have received a token of appreciation from the NLB (National Library Board) for our participation in Read for Books 2023!</b>
 
 We would like to extend a special appreciation to the students and teachers of STAR who went above and beyond by providing emcees and having students dress up as book characters to read on stage. Your creative contributions added a unique and engaging dimension to the event.
 
@@ -243,4 +236,4 @@ Bronze ⚜️ 16 winners
     <td class="tg-ktyi"> 1 student from 6 Integrity won 1st place<br> 1 student from 5 Integrity won 3rd place <br></td>
   </tr>
 </tbody>
-</table>
+</table></center>
