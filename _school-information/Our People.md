@@ -757,11 +757,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mr Lee Siong Kit</span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr Munthaha Bin Snib </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
-  </tr>
-	<tr>
+<tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Brenda Koh Chin Chin</span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
   </tr>
