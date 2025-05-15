@@ -223,10 +223,6 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-580q">HOD PE &amp; CCA</td>
     <td class="tg-mqlv">Mr Roland Neo Kian Chye</td>
   </tr>
-  <tr>
-    <td class="tg-580q">ST PE </td>
-    <td class="tg-mqlv">Mr Derek Wong Jyunwei</td>
-  </tr>
 	<tr>
     <td class="tg-580q">Administration Executive (In Attendance) </td>
     <td class="tg-mqlv">Mdm Nur Syafawati Bte Roslan</td>
