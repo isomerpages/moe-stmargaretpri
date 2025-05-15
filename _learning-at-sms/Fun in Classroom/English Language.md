@@ -126,13 +126,11 @@ We invite authors to our school to share their passion for writing and their sto
 * Digits (0-9);
 * Special Characters (!, $, #, %, etc)
 
-  <table>
+<table>
 	<tbody><tr>
-		<th><font size="6" color="maroon">
+	<th><font size="6" color="maroon">
    Activities
  </font></th>
-</tr>
-	<tr>
 </tr>
 </tbody></table>
 
