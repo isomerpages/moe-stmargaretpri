@@ -143,16 +143,16 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:350px;height:380px;"><b></b><center><b>Extended recess play featuring a myriad of English language related  games.<br>Thankful for our Parent Support that manned the booths!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:350px;height:380px;"><b></b><center><b>Our students got into the characters in the books and presented with poise<br>and confidence to their peers!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:400px;height:380px;"><b></b><center><b>Our students got into the characters in the books and presented with poise<br>and confidence to their peers!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:350px;height:380px;"><b></b><center><b>Class time set aside for the students to collaborate and have fun <br>through English language related games!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:400px;height:380px;"><b></b><center><b>Class time set aside for the students to collaborate and have fun <br>through English language related games!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:380px;height:380px;"><b></b><center><b>An interactive story-telling session conducted by our Vice Principal Mrs See!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:450px;height:380px;"><b></b><center><b>An interactive story-telling session conducted by our Vice Principal Mrs See!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:350px;height:380px;"><b></b><center><b>Our Vice Principal Mrs Tan shared with our student the story of<br>James and the Giant Peach. </b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:400px;height:380px;"><b></b><center><b>Our Vice Principal Mrs Tan shared with our student the story of<br>James and the Giant Peach. </b></center></td>
 </tr>
 	</tbody></table>
 
