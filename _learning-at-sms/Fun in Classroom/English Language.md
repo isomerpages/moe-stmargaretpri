@@ -233,7 +233,7 @@ We would like to extend a special appreciation to the students and teachers of S
 </thead>
 <tbody>
 <tr>
-    <td class="tg-pdeq">2024 Queen’s Commonwealth Essay Competition</td>
+    <td class="tg-pdeq">Queen’s Commonwealth Essay Competition 2024</td>
     <td class="tg-jxgv">Gold ⚜️ 2 winners <br>
 Bronze ⚜️ 16 winners
 </td>
