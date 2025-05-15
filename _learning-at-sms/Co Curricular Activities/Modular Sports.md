@@ -45,11 +45,11 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/CCAs/Modular%20Sports/Agility_skills.jpg" style="width:300px;height:350px;"><b></b><center><b>Individual agility and dribbling drills to improve ball control</b></center></td></tr>
+		<td><img alt="modsports01" src="/images/CCAs/Modular%20Sports/Agility_skills.jpg" style="width:300px;height:380px;"><b></b><center><b>Individual agility and dribbling drills to improve ball control</b></center></td></tr>
 	<tr>
-		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/Teamwork.jpg" style="width:500px;height:300px;"><b></b><center><b>Working together to achieve success in a team game</b></center></td>
+		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/Teamwork.jpg" style="width:500px;height:340px;"><b></b><center><b>Working together to achieve success in a team game</b></center></td>
 </tr>
 		<tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:350px;"><b></b><center><b>Displaying school values like tenacity during a <br>modified football game</b></center></td>
+		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:380px;"><b></b><center><b>Displaying school values like tenacity during a <br>modified football game</b></center></td>
 </tr>
 	</tbody></table>
