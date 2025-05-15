@@ -119,7 +119,7 @@ variant: markdown
 
 *   Students are to be punctual for tests and examinations.
 *   If students are unable to sit for a test/examination, they must produce a medical certificate.
-*   Students must not bring into the waiting, examination and quarantine areas any unauthorised electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include mobile phones, cameras, tablets, wired and wireless earpieces/earphones, smart wrist watches, fitness trackers and any unauthorised materials. Examples of unauthorised materials include any books, papers, notes, unapproved dictionaries and calculators, and non-standard mathematical instruments.
+*   Students must not bring into the assessment venue any unauthorised electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include mobile phones, cameras, tablets, wired and wireless earpieces/earphones, smart wrist watches, fitness trackers and any unauthorised materials. Examples of unauthorised materials include any books, papers, notes, unapproved dictionaries and calculators, and non-standard mathematical instruments.
 *   If students are found with any of these items or communicating by any means with other candidates during the test/examination, it will be considered as cheating. Cheating is a serious offence. They may be disqualified from the test/examination if they are caught cheating or attempting to cheat.
 
 
