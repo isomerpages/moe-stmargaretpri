@@ -95,7 +95,7 @@ variant: markdown
 *   Hairstyles are to be neat and appropriate.
 *   Hair should be tied up neatly as a ponytail once it reaches the uniform collar.
 *   Long ponytails (longer than a 15-cm ruler) are to be neatly plaited. 
-*   Fringes are to be kept above the eyebrows.
+*   Fringes should not touch the eyebrows.
 *   Students with long fringes are to wear a hairband or use hair clips to keep hair away from the face.
 *   Only dark green or black hair accessories are to be used.
 *   Hair should not be tinted, highlighted, bleached or dyed. Fancy haircuts/hairstyles are not allowed.
