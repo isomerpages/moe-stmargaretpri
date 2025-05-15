@@ -145,7 +145,7 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:400px;height:380px;"><b></b><center><b>Class time set aside for the students to collaborate and have fun <br>through English language related games!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:500px;height:380px;"><b></b><center><b>An interactive story-telling session conducted by our Vice Principal Mrs See!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:600px;height:380px;"><b></b><center><b>An interactive story-telling session conducted by our Vice Principal Mrs See!</b></center></td>
 </tr>
 <tr>
 		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:400px;height:380px;"><b></b><center><b>Our Vice Principal Mrs Tan shared with our student the story of<br>James and the Giant Peach. </b></center></td>
