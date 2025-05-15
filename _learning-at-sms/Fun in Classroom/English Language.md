@@ -229,4 +229,4 @@ Bronze ⚜️ 16 winners
     <td class="tg-ktyi"> 1 student from 6 Integrity won 1st place<br> 1 student from 5 Integrity won 3rd place <br></td>
   </tr>
 </tbody>
-</table></center>
+	</table></center>
