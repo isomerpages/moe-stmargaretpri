@@ -68,8 +68,6 @@ To encourage a love for reading in the girls:
 </tr>
 	</tbody></table>
 
-
-
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
@@ -81,8 +79,6 @@ To encourage a love for reading in the girls:
 </tbody></table>
 
 We invite authors to our school to share their passion for writing and their stories with our students. This way, we get our students excited about reading and inspired for writing! 
-
-<br>
 
 <table>
 	<tbody><tr>
@@ -103,25 +99,15 @@ We invite authors to our school to share their passion for writing and their sto
 
 **Borrowing Privileges:**
 
-
-
 1.  All students are entitled to borrow four library books for two weeks.
 2.  Each book can only be renewed once. Students will need to renew the item in person at the library.
 
   
-
-
-
 **Penalty for Overdue items**&nbsp;:
 
-
-
-1.   Students’ borrowing privileges will be suspended once overdue items are incurred in their library account. Their library accounts will be restored once the books are returned to the library.
-
-  
+1.   Students’ borrowing privileges will be suspended once overdue items are incurred in their library account. Their library accounts will be restored once the books are returned to the library.  
 
 **Penalty for lost/damaged items:**
-
 
 1. For every item lost/damaged, the student will have to compensate with a new book of similar cost. 
 2. A list of suitable titles will be given to the pupil by the librarian.
@@ -131,8 +117,7 @@ We invite authors to our school to share their passion for writing and their sto
 
 **Online Library System (OPAC):**
 
-
-1.  Students will be able to view their borrowers’ status by accessing the online library system (OPAC) at: https://schoolibrary.moe.edu.sg/stmargaretspri
+1.  Students will be able to view their borrowers’ status by accessing the online library system (OPAC) at: [https://schoolibrary.moe.edu.sg/stmargaretspri](https://schoolibrary.moe.edu.sg/stmargaretspri)
 
 2.  Default OPAC password for all patrons (Students).  Please be advised the current password using NRIC will be changed to Moe@DDMMYYYY (DDMMYYYY is the DOB of the student) as a default password for all users.  Upon login, all patrons are required to change the password under “My Account” page.  The new password will have be made up of at least 12 characters and should contain characters from at least two of the following four categories:
 
