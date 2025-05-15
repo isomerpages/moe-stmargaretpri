@@ -142,19 +142,19 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:350px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:350px;height:380px;"><b></b><center><b>Extended recess play featuring a myriad of English language related  games.<br>Thankful for our Parent Support that manned the booths!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:350px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:350px;height:380px;"><b></b><center><b>Our students got into the characters in the books and presented with poise<br>and confidence to their peers!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:350px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:350px;height:380px;"><b></b><center><b>Class time set aside for the students to collaborate and have fun <br>through English language related games!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:380px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:380px;height:380px;"><b></b><center><b>An interactive story-telling session conducted by our Vice Principal Mrs See!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:350px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:350px;height:380px;"><b></b><center><b>Our Vice Principal Mrs Tan shared with our student the story of<br>James and the Giant Peach. </b></center></td>
 </tr>
 	</tbody></table>
 
@@ -163,7 +163,6 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 Read for Books is a charity book drive organised by NLB and we are proud to support this meaningful movement as a whole school.
 
 Let us continue to nurture the love for reading among our girls! Remember, reading is not just a pastime; it’s a lifelong habit that enriches our lives in countless ways.
-
 
 ![](/images/Announcement/Read_for_Books_2023_Certificate.jpg)<center><b>School have received a token of appreciation from the NLB (National Library Board) for our participation in Read for Books 2023!</b>
 
