@@ -24,7 +24,7 @@ variant: markdown
 *   Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others and self.
 *   Students are discouraged from using a trolley bag as they may have difficulty moving up and down the stairs.
 *   Students are not allowed to run or play along the corridors, in the classrooms/canteen, up and down the stairs and in places where there is potential danger.
-*   Students are only allowed to play with the equipment in the playground/hall or be in any of the special rooms, if there is adult supervision.
+*   Students are only allowed to play with the equipment in the playground/hall/PE store or be in any of the special rooms, if there is adult supervision.
 *   Students are to use the school facilities responsibly and in the way they are intended for.
 
 
@@ -53,8 +53,15 @@ variant: markdown
 
 **Pedestrian Crossing**
 
-* Be alert and check for safety when walking in public areas and crossing the pedestrian crossings.
+* Students are to be alert and check for safety when walking in public areas and crossing the pedestrian crossings.
 * Always do the kerb drill and obey all traffic signals and signs. 
+
+**Outside of School Premises**
+
+* Loitering in shopping malls, void decks, and playgrounds in school uniform after school hours is not allowed unless accompanied by a parent or guardian.
+* Students must demonstrate respectful behavior in public places, including on buses and MRT trains.
+* Students are to queue in an orderly manner when boarding buses or MRT trains.
+* Show graciousness and consideration toward others when on the public transport.
 
 ### CONDUCT
 
@@ -68,12 +75,13 @@ variant: markdown
 
 ### USE OF MOBILE PHONE AND/OR SMART WATCH
 
-* It is to be switched off upon arrival at school, during lessons and school activities.
-* It should not be worn on the wrist/displayed during school hours or during school activities.
-* It should only be used at the dismissal points after school hours. 
-* It is to be used only for calling/messaging parents/guardians and not for other purposes such as taking/viewing pictures/videos, listening to music, playing games or accessing social media.
-* If it is misused, consequences will be meted out. The mobile phone/smart watch may be confiscated, and parents will have to personally collect it from school.
-* Students must be responsible for the care of their mobile phone/smart watch and label it. The school will not be responsible for its loss or damage.
+* Students are not to use smartphones and/or smartwatches, during school hours including recess, CCA and after-school programmes (e.g. supplementary/ enrichment/remedial lessons)
+* Students' devices are to be switched off upon arrival at school, during lessons and school activities.
+* Students who bring such devices are to put them in designated storage areas under lock and key before school start time. They can retrieve the devices after school ends. They should not be worn on the wrist/displayed during school hours or during school activities.
+* Students should bear responsibility for safekeeping of your devices and label them.
+* Students are only allowed to use smartphones and/or smartwatches after school hours at dismissal points.
+* The devices are to be used only for calling/messaging parents/guardians and not for other purposes such as taking/viewing pictures/videos, listening to music, playing games or accessing social media.
+* If they are misused, consequences will be meted out. The devices may be confiscated, and parents will have to personally collect them from school.
 
 
 ### UNIFORM AND PE ATTIRE
@@ -95,7 +103,7 @@ variant: markdown
 *   Hairstyles are to be neat and appropriate.
 *   Hair should be tied up neatly as a ponytail once it reaches the uniform collar.
 *   Long ponytails (longer than a 15-cm ruler) are to be neatly plaited. 
-*   Fringes are to be kept above the eyebrows.
+*   Fringes should not touch the eyebrows.
 *   Students with long fringes are to wear a hairband or use hair clips to keep hair away from the face.
 *   Only dark green or black hair accessories are to be used.
 *   Hair should not be tinted, highlighted, bleached or dyed. Fancy haircuts/hairstyles are not allowed.
@@ -111,7 +119,7 @@ variant: markdown
 
 *   Students are to be punctual for tests and examinations.
 *   If students are unable to sit for a test/examination, they must produce a medical certificate.
-*   Students must not bring into the waiting, examination and quarantine areas any unauthorised electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include mobile phones, cameras, tablets, wired and wireless earpieces/earphones, smart wrist watches, fitness trackers and any unauthorised materials. Examples of unauthorised materials include any books, papers, notes, unapproved dictionaries and calculators, and non-standard mathematical instruments.
+*   Students must not bring into the assessment venue any unauthorised electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information. Examples of prohibited items include mobile phones, cameras, tablets, wired and wireless earpieces/earphones, smart wrist watches, fitness trackers and any unauthorised materials. Examples of unauthorised materials include any books, papers, notes, unapproved dictionaries and calculators, and non-standard mathematical instruments.
 *   If students are found with any of these items or communicating by any means with other candidates during the test/examination, it will be considered as cheating. Cheating is a serious offence. They may be disqualified from the test/examination if they are caught cheating or attempting to cheat.
 
 
@@ -120,23 +128,23 @@ variant: markdown
 
 **Before the Lesson**
 
-1.  Be in your uniform/PE attire.
+1.  Be in school uniform/PE attire.
 2.  Be punctual – Join the “room” 5 min beforehand.
-3.  Log in using your name.
-4.  Ensure you are in a quiet area, if possible.
-5.  Mute your microphone.
-6.  Enable your video camera.
-7.  Ensure your background does not contain inappropriate words or distracting pictures.
+3.  Log in using credentials given by school.
+4.  Ensure students are in a quiet area, if possible.
+5.  Mute the microphone.
+6.  Enable the video camera.
+7.  Ensure the background does not contain inappropriate words or distracting pictures.
 8.  Have all the lesson materials ready.
 9.  Wait for the teacher to start the lesson.
 
 
 **During the Lesson**
 
-1.  Listen to your teacher’s instructions.
+1.  Listen to the teacher’s instructions.
 2.  Sit through the whole lesson.
-3.  Ensure the camera is switched on the entire lesson. Your face should be visible during the lesson.
+3.  Ensure the camera is switched on the entire lesson. Students' face should be visible during the lesson.
 4.  Participate fully in the lesson.
-5.  Take down notes if you need to.
+5.  Take down notes if need to.
 6.  Do not play with the background, filters or emojis during the lesson.
 7.  No eating.

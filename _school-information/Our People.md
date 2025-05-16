@@ -223,10 +223,6 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-580q">HOD PE &amp; CCA</td>
     <td class="tg-mqlv">Mr Roland Neo Kian Chye</td>
   </tr>
-  <tr>
-    <td class="tg-580q">ST PE </td>
-    <td class="tg-mqlv">Mr Derek Wong Jyunwei</td>
-  </tr>
 	<tr>
     <td class="tg-580q">Administration Executive (In Attendance) </td>
     <td class="tg-mqlv">Mdm Nur Syafawati Bte Roslan</td>
@@ -682,8 +678,8 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 GRACIOUSNESS </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Derek Wong Jyunwei (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)<br>Chung Hui Yee (Mrs Thong)</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Chung Hui Yee (Mrs Thong)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
@@ -761,11 +757,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mr Lee Siong Kit</span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
   </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr Munthaha Bin Snib </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
-  </tr>
-	<tr>
+<tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Brenda Koh Chin Chin</span></td>
     <td class="tg-fxx4"><span style="color:#222">Operations Support Officer (OSO)</span></td>
   </tr>
@@ -816,7 +808,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Receptionist</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Ismalyia Bte Ismail</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Eleanor Chow Ee Ching</span></td>
     <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
   </tr>
 	<tr>
@@ -828,7 +820,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     </span></td><td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
   </tr>
 		<tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr Muhd Faruq Bin Noorfauzi 
+    <td class="tg-fxx4"><span style="color:#222">Mr Mohd Nizam Bin Mohd Nor
     </span></td><td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
   </tr>
 </tbody>
