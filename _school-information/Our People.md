@@ -808,7 +808,7 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Receptionist</span></td>
   </tr>
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Ismalyia Bte Ismail</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Eleanor Chow Ee Ching</span></td>
     <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
   </tr>
 	<tr>
