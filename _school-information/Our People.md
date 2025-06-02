@@ -231,6 +231,10 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-580q">Administration Executive (In Attendance) </td>
     <td class="tg-mqlv">Ms Marine Chew Lay Leng</td>
   </tr>
+		<tr>
+    <td class="tg-580q">Administration Executive (In Attendance) </td>
+    <td class="tg-mqlv">Ms Joleen Lee Jia Ern</td>
+  </tr>
 </tbody>
 </table>
 
@@ -737,6 +741,10 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Ms Marine Chew Lay Leng</span></td>
     <td class="tg-fxx4"><span style="color:#222">Administration Executive (AE) </span></td>
   </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222">Ms Joleen Lee Jia Ern</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Administration Executive (AE) </span></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Nur Hidayah Bte Johari</span></td>
     <td class="tg-fxx4"><span style="color:#222">Corporate Support Officer (CSO)</span></td>
@@ -803,10 +811,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 </thead>
 <tbody>
-	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Ms Tan Siew Kiau</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Receptionist</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Mdm Eleanor Chow Ee Ching</span></td>
     <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
