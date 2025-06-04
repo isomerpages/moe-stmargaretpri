@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/moe-sexuality-edu-2025/
+          url: /announcements/hari-raya-haji-off-in-liew//
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
