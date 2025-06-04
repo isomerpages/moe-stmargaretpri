@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/hari-raya-haji-off-in-liew//
+          url: /announcements/hari-raya-haji-off-in-liew/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
