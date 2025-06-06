@@ -6,7 +6,7 @@ description: ""
 ---
 ### **Sports Jamboree 2025**
 
-##### 14 March 25 
+##### 14 March 2025 
 
 Sports Jamboree 2025 was nothing short of legendary, and this year was extra special - we held it at our brand-new school campus site! With bigger spaces, fresh new facilities, and endless excitement in the air, the atmosphere was absolutely buzzing with energy!
 
