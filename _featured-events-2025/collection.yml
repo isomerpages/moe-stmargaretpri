@@ -2,6 +2,7 @@ collections:
   featured-events-2025:
     output: true
     order:
+      - Sports Jamboree 2025.md
       - Total Defence Day 2025.md
       - Chinese New Year 2025.md
       - P5 Learning Journey to Indian Heritage Centre 2025.md
