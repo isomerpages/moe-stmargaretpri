@@ -5,11 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: School Highlights
 ---
-
-![](/images/Thumbnails/sportsjam2025_thumb_01.jpg)
-![](/images/Thumbnails/cny2025_thumb_01.jpg)![](/images/Thumbnails/tdd2025_thumb_01.jpg)
-
-
 <table>
 	<tbody><tr>
 		<th><center><font color="maroon" size="6">
