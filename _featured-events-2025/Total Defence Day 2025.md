@@ -6,7 +6,7 @@ description: ""
 ---
 ### **Total Defence Day 2025**
 
-##### 5 - 17 Feb 25 
+##### 5 - 17 Feb 2025 
 
 Total Defence Day is commemorated on 15 February. Total Defence Day reminds us that resilience and the ability to be prepared for and overcome crises and challenges are a key part of who we are as Singaporeans. The theme for Total Defence this year is Together We Keep Singapore Strong.
 
