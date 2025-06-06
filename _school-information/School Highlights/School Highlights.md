@@ -25,10 +25,10 @@ These are the activities that the students participated for holistic learning.
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
-				<tr>
-<td><a href="/school-information/school-highlights/pongal-2025/"><img src="/images/Thumbnails/cny2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/p3-learning-journey-to-geylang-serai-2025/"><img src="/images/Thumbnails/tdd2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
-	<td><a href="/school-information/school-highlights/p5-learning-journey-to-indian-heritage-centre-2025/"><img src="/images/Thumbnails/sportsjam2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+	<tr>
+<td><a href="/school-information/school-highlights/chinese-new-year-2025/"><img src="/images/Thumbnails/cny2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/total-defence-day-2025/"><img src="/images/Thumbnails/tdd2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/sports-jamboree-2025/"><img src="/images/Thumbnails/sportsjam2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
 			<th><center>Chinese New Year 2025</center></th> 
