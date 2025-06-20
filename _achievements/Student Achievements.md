@@ -62,6 +62,11 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 		<tr>
+		<td><font size="4">Queen’s Commonwealth Essay Competition 2024</font></td>
+		<td><font size="4">Gold ⚜️ 2 winners<br>
+Bronze ⚜️ 16 winners</font></td>
+</tr>
+		<tr>
 		<td><font size="4">JAL World Children's Haiku Competition 2024</font></td>
 		<td><font size="4">JAL Prize</font></td>
 </tr>
