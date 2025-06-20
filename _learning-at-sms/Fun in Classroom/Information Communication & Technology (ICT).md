@@ -52,11 +52,11 @@ Vision: To leverage Educational Technology to transform teaching and learning, n
 Aligning to the MOE EdTech Masterplan 2030, we are committed to leveraging Educational Technology to enhance teaching and learning, with the aim of developing our students into confident and future-ready learners. One of the focuses of this masterplan is the enhancement of students’ Digital Literacy and Technology Skills (DLTS).
 
 To support students in developing DLTS, the school adopts three broad approaches:
-1. **Aligning the curriculum to MOE’s 9 Digital Competencies**, ensuring that students develop these essential skills through authentic learning experiences across subject areas.<br>
+1. **Aligning the curriculum to MOE’s 9 Digital Competencies**, ensuring that students develop these essential skills through authentic learning experiences across subject areas.
 
-2. **Fostering self-directed learning in DLTS**, where curated SLS modules are assigned at each level to guide students in building digital proficiency at their own pace.<br>
+2. **Fostering self-directed learning in DLTS**, where curated SLS modules are assigned at each level to guide students in building digital proficiency at their own pace.
 
-3.**Embedding DLTS development in level-wide programmes, school activities and CCAs**, providing students with real-world contexts to apply and deepen their digital skills.<br>
+3.**Embedding DLTS development in level-wide programmes, school activities and CCAs**, providing students with real-world contexts to apply and deepen their digital skills.
 
 ![](/images/Department/ICT%20Department/Digital_Competency.jpg)
 Table1: Descriptions of the 9 Digital Competencies
