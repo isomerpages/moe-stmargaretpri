@@ -93,7 +93,7 @@ Through this holistic and structured approach, our school hopes to equip student
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_07.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students recording Science experimental data into a Google sheet and<br> generating a graph to understand the relationship</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_07.jpg" alt="volunteer recess ministry pv" style="width:440px;height:480px;"><b>Students recording Science experimental data into a Google sheet and<br> generating a graph to understand the relationship</b></font></center>
 </td>
 </tr>
 </tbody></table>
