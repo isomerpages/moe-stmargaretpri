@@ -17,44 +17,34 @@ variant: markdown
 
 #### **Vision**
 
-A passion for Science for service
+Inspired by the wonders of science, our students inquire with curiosity and innovate with purpose – becoming thinkers, problem solvers and creators of a better tomorrow.
 
-  
 
 #### **Goals (ACE)**
 
-**A**&nbsp;rouse our girls' curiosity for Science
+**A** rouse our girls’ curiosity for science and interest in the world around them as concerned citizens
 
-  
+**C** ultivate confidence and critical thinking in our girls
 
-**C**&nbsp;ultivate confidence and critical thinking in our girls
+**E** quip our girls with strong foundation of science scientific knowledge and skills imbibed with attitudes and ethics
 
-  
+The Science department adopts an inquiry-based approach in the teaching and learning of science. This pedagogy enables our students to acquire knowledge and skills and understanding of science through active learning with their friends and teachers.
 
-**E**&nbsp;quip our girls with Science knowledge and skills imbibed with attitudes and ethics
-
-The Science department adopts an inquiry-based approach in the teaching and learning of Science. This pedagogy enables our students to acquire knowledge and skills and understanding of Science through active learning with their friends and teachers.
-
-  
-
-Science in St Margaret’s School (Primary) is also celebrated through the multi-faceted activities at different levels. The learning of Science is extended beyond the classrooms to enrich students’ experiences and to support their mastery in the subject by allowing them to relate and apply their knowledge in the real-world context.
+Science in St Margaret’s School (Primary) is also celebrated through the multi-faceted activities at different levels. The learning of science is extended beyond the classrooms to enrich students’ experiences and to support their mastery in the subject by allowing them to relate and apply their knowledge in the real-world context.
 
   
 **Learning Experience/ Programme** includes:
 
-*   Authentic Tasks
-
-*   ‘Fun with magnets’, ‘Fun with electricity’, ‘Each child a seed programme’  
-    
-
-*   Outdoor experiential learning
-
-*   Exploring SMS(P) Science Garden
-*   Learning Journeys
-*   Level Camps
-
+*   Authentic Tasks<br>
+               * ‘Fun with magnets’, ‘Fun with electricity’, ‘Each child a seed programme’   
+*   Outdoor experiential learning<br>
+                *   Exploring SMS(P) Science Garden<br>
+                *   Learning Journeys<br>
+                *   Extended recess<br>
 *   Assembly Talks
-*   E2K
+*   Environment Education
+*   Scientist@play
+*   The E2K Science Programme
 
 
 <table>
