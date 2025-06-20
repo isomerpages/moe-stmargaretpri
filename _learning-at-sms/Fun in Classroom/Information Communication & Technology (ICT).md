@@ -77,14 +77,14 @@ Through this holistic and structured approach, our school hopes to equip student
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"><b>P5 SLF - student building a circuit</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P5 SLF - student building a circuit</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_04.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"><b>Students leveraging A.I and Google drive in English writing
 </b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_05.jpg" alt="volunteer recess ministry pv" style="width:440px;height:330px;"><b>Students attending a live-sharing and<br> Q&amp;A session with a local female scientist</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_05.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students attending a live-sharing and<br> Q&amp;A session with a local female scientist</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_06.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students engaged in collaborative learning. </b></font></center>
 </td>
