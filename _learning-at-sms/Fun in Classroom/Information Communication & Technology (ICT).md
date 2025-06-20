@@ -73,7 +73,7 @@ Through this holistic and structured approach, our school hopes to equip student
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_01.jpg" alt="volunteer recess ministry pv" style="width:300px;height:400px;"><b>P6 Code For Fun - Students coordinating the movement of their spherical robots</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_02.jpg" alt="volunteer recess ministry pv" style="width:370px;height:270px;"><b>Virtual Trip - The Primary 6 students embarked on a virtual trip<br>to Vietnam and learnt more about the vibrant Vietnamese culture</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_02.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Virtual Trip - The Primary 6 students embarked on a virtual trip to Vietnam and learnt more about the vibrant Vietnamese culture</b></font></center>
 </td>
 </tr>
 	<tr>
