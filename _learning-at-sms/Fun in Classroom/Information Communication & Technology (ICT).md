@@ -77,9 +77,9 @@ Through this holistic and structured approach, our school hopes to equip student
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:400px;height:440px;"><b>P5 SLF - student building a circuit</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"><b>P5 SLF - student building a circuit</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_04.jpg" alt="volunteer recess ministry pv" style="width:400px;height:440px;"><b>Students leveraging A.I and Google drive in English writing
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_04.jpg" alt="volunteer recess ministry pv" style="width:440px;height:350px;"><b>Students leveraging A.I and Google drive in English writing
 </b></font></center>
 </td>
 </tr>
