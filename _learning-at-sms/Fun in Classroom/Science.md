@@ -54,7 +54,7 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/Science%20Department/demonstrating_a_safe_and_responsible.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Demonstrating a safe and responsible encounters with urban birds</b></font></center>
+<td><center><font size="3"><img src="/images/Department/Science%20Department/demonstrating_a_safe_and_responsible.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Demonstrating a safe and responsible encounters<br> with urban birds</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/Science%20Department/discovering_animal_covering.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Discovering animal covering@P3 Learning Journey</b></font></center>
 </td>
@@ -63,7 +63,7 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/Science%20Department/spotted_oriental_whip_snake.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Spotted oriental whip snake@P6 Learning Journey</b></font></center>
+<td><center><font size="3"><img src="/images/Department/Science%20Department/spotted_oriental_whip_snake.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Spotted oriental whip snake@P6 Learning Journey</b></font></center>
 </td>
 </tr>
 </tbody></table>
