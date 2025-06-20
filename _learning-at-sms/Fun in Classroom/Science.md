@@ -57,24 +57,8 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 </tr>
 </tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
 
-<tbody>
-  <tr>
-    <td><img src="/images/2021OurLittleBotanist03.jpg" style="width:480px;height:500px;"></td>
-  </tr>
-</tbody>
-</table>
+
 
 
 <table>
@@ -106,6 +90,13 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-dgl5">Singapore Primary Science Olympiad 2024
+    </td><td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver<br>
+1 Bronze<br>
+15 Merit</span></td>
+  </tr>
+	<tr>
+	</tr><tr>
     <td class="tg-dgl5">NUS High School of Math &amp; Science 2023
     </td><td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 MCurie Awards</span><br>2 Da Vinci Awards</td>
   </tr>
