@@ -69,28 +69,29 @@ Through this holistic and structured approach, our school hopes to equip student
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_01.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Bird paradise@extended recess</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_01.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>P6 Code For Fun - Students coordinating the movement of their spherical robots</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_02.jpg" alt="volunteer recess ministry pv" style="width:400px;height:270px;"><b>Demonstrating ways of thinking and doing in science</b></font></center>
-</td>
-</tr>
-	<tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Demonstrating a safe and responsible encounters<br> with urban birds</b></font></center>
-</td>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_04.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Discovering animal covering@P3 Learning Journey</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_02.jpg" alt="volunteer recess ministry pv" style="width:400px;height:270px;"><b>Virtual Trip - The Primary 6 students embarked on a virtual trip to Vietnam and learnt more about the vibrant Vietnamese culture</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_05.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Demonstrating a safe and responsible encounters<br> with urban birds</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>P5 SLF - student building a circuit</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_06.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Discovering animal covering@P3 Learning Journey</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_04.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Students leveraging A.I and Google drive in English writing
+</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_05.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Students attending a live-sharing and Q&amp;A session with a local female scientist</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_06.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Students engaged in collaborative learning. </b></font></center>
 </td>
 </tr>
 </tbody></table>
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_07.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Spotted oriental whip snake@P6 Learning Journey</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_07.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students recording Science experimental data into a Google sheet and generating a graph to understand the relationship</b></font></center>
 </td>
 </tr>
 </tbody></table>
