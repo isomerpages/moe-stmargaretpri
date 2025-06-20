@@ -46,19 +46,27 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 *   Scientist@play
 *   The E2K Science Programme
 
-
 <table>
-	<tbody><tr>
-		<th><font size="6" color="maroon">
-     Programmes
- </font></th>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_away_with_Umbrellas.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Bird paradise@extended recess</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_gracefully.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Demonstrating ways of thinking and doing in science</b></font></center>
+</td>
 </tr>
 	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/How_much_do_you_know_about_Chinese_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Demonstrating a safe and responsible encounters with urban birds</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Discovering animal covering@P3 Learning Journey</b></font></center>
+</td>
 </tr>
 </tbody></table>
 
-
-
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Spotted oriental whip snake@P6 Learning Journey</b></font></center>
+</td>
+</tr>
+</tbody></table>
 
 
 <table>
