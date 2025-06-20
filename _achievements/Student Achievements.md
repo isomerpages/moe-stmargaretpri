@@ -29,6 +29,24 @@ variant: markdown
 		<td><font size="4">1 student from 2 Charity<br> achieved Encouragement Prize</font></td>
 </tr>
 	</tbody></table>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    STAR
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mythos (Junior Orators) Storytelling Competition 2025</font></td>
+		<td><font size="4">1 Finalist<br>1 Semi-finalist</font></td>
+</tr>
+	</tbody></table>
+
 
 
 ### 2024 Achievements
