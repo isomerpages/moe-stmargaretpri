@@ -57,6 +57,11 @@ To support students in developing DLTS, the school adopts three broad approaches
 3.**Embedding DLTS development in level-wide programmes, school activities and CCAs**, providing students with real-world contexts to apply and deepen their digital skills.<br>
 
 
+
+Table1: Descriptions of the 9 Digital Competencies
+
+
+
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
