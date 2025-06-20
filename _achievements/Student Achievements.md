@@ -42,7 +42,7 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">Mythos (Junior Orators) Storytelling Competition 2025</font></td>
+		<td><font size="4">Mythos (Junior Orators) Storytelling<br> Competition 2025</font></td>
 		<td><font size="4">1 Finalist<br>1 Semi-finalist</font></td>
 </tr>
 	</tbody></table>
