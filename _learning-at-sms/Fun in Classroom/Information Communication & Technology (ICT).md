@@ -67,13 +67,33 @@ The school also develops student leadership by training IT/AV Assistants in each
 
 Through this holistic and structured approach, our school hopes to equip students with the skills, knowledge, and values needed to thrive in a technology-rich and rapidly evolving future.
 
-![](/images/Department/ICT%20Department/ict_01.jpg)
-![](/images/Department/ICT%20Department/ict_02.jpg)
-![](/images/Department/ICT%20Department/ict_03.jpg)
-![](/images/Department/ICT%20Department/ict_04.jpg)
-![](/images/Department/ICT%20Department/ict_05.jpg)
-![](/images/Department/ICT%20Department/ict_06.jpg)
-![](/images/Department/ICT%20Department/ict_07.jpg)
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_01.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Bird paradise@extended recess</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_02.jpg" alt="volunteer recess ministry pv" style="width:400px;height:270px;"><b>Demonstrating ways of thinking and doing in science</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Demonstrating a safe and responsible encounters<br> with urban birds</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_04.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Discovering animal covering@P3 Learning Journey</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_05.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Demonstrating a safe and responsible encounters<br> with urban birds</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_06.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Discovering animal covering@P3 Learning Journey</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_07.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Spotted oriental whip snake@P6 Learning Journey</b></font></center>
+</td>
+</tr>
+</tbody></table>
 
 
 
