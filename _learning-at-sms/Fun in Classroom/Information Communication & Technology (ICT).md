@@ -67,6 +67,13 @@ The school also develops student leadership by training IT/AV Assistants in each
 
 Through this holistic and structured approach, our school hopes to equip students with the skills, knowledge, and values needed to thrive in a technology-rich and rapidly evolving future.
 
+![](/images/Department/ICT%20Department/ict_01.jpg)
+![](/images/Department/ICT%20Department/ict_02.jpg)
+![](/images/Department/ICT%20Department/ict_03.jpg)
+![](/images/Department/ICT%20Department/ict_04.jpg)
+![](/images/Department/ICT%20Department/ict_05.jpg)
+![](/images/Department/ICT%20Department/ict_06.jpg)
+![](/images/Department/ICT%20Department/ict_07.jpg)
 
 
 
