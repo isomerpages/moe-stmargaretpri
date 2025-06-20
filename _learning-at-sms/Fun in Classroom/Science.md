@@ -50,7 +50,7 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/Science%20Department/bird_paradise.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Bird paradise@extended recess</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/Science%20Department/demonstrating_ways_of_science.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Demonstrating ways of thinking and doing in science</b></font></center>
+<td><center><font size="3"><img src="/images/Department/Science%20Department/demonstrating_ways_of_science.jpg" alt="volunteer recess ministry pv" style="width:400px;height:270px;"><b>Demonstrating ways of thinking and doing in science</b></font></center>
 </td>
 </tr>
 	<tr>
