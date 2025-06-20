@@ -77,12 +77,6 @@ Through this holistic and structured approach, our school hopes to equip student
 </tr>
 </tbody></table>
 
-  <center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TfcdP-iBl9o" height="415" width="700"></iframe>
-</center>
-
-
-
 #### **PERMISSION to enter the computer labs**
 
 *   Do not enter the computer labs without a teacher. This is for safety reasons.
@@ -91,14 +85,15 @@ Through this holistic and structured approach, our school hopes to equip student
 
 #### **During lessons in the computer labs**
 
-*   Do not run or play in the laboratory
-*   Do not eat or drink in the laboratory so to prevent water or any other liquid to spill on computers.
-*   Do not use the computers when your hands are wet.
-*   Do not attempt to open any machines, and do not touch the backs of machines when they are switched on.
-*   Do not insert metal objects such as clips, pins and needles into the computer casings. This may cause fire.
-*   Do not touch, connect or disconnect any plug or cable without your teacher's permission.
-*   Report any broken plugs or exposed electrical wires to your teacher immediately.
-*   Avoid stepping on electrical wires or any other computer cables.&nbsp;Do not touch any exposed wires or sockets.
+* Do not run or play in the laboratory
+* Do not eat or drink in the laboratory so to prevent water or any other liquid to spill on computers.
+* Do not use the computers when your hands are wet.
+* Do not attempt to open any machines, and do not touch the backs of machines when they are switched on.
+* Do not insert metal objects such as clips, pins and needles into the computer casings. This may cause fire.
+* Do not touch, connect or disconnect any plug or cable without your teacher’s permission.
+* Report any broken plugs or exposed electrical wires to your teacher immediately.
+* Avoid stepping on electrical wires or any other computer cables. Do not touch any exposed wires or sockets.
+
 
   
 
