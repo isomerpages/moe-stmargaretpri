@@ -56,8 +56,7 @@ To support students in developing DLTS, the school adopts three broad approaches
 2. **Fostering self-directed learning in DLTS**, where curated SLS modules are assigned at each level to guide students in building digital proficiency at their own pace.<br>
 3.**Embedding DLTS development in level-wide programmes, school activities and CCAs**, providing students with real-world contexts to apply and deepen their digital skills.<br>
 
-
-
+![](/images/Department/ICT%20Department/Digital_Competency.jpg)
 Table1: Descriptions of the 9 Digital Competencies
 
 
