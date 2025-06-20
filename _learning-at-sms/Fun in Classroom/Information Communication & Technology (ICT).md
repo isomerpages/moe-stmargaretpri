@@ -15,19 +15,9 @@ variant: markdown
 </tr>
 </tbody></table>
 
-#### **Vision**
 
-Students: Quality learning in the hands of Self-Directed, Collaborative and Responsible digital learners.
+Vision: To leverage Educational Technology to transform teaching and learning, nurturing students to become confident, self-directed, and future-ready learners.
 
-Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and learning resources and lessons with ICT.
-
-  
-
-#### **Goals**
-
-*   Develop students to be responsible digital online citizens when using technology for learning.&nbsp;
-*   Develop students&nbsp;to become self-directed and collaborative learners using ICT tools for learning.&nbsp;
-*   Develop staff and students competency in the use of technology for teaching and learning.&nbsp;
 
 <table>
 	<tbody><tr>
@@ -57,13 +47,14 @@ Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and l
 </tbody></table>
 
 
-![](/images/smps_ict_roadmap_2015_02.jpg)
+#### **SMSP Whole-School Approach to Leveraging Educational Technology** 
 
+Aligning to the MOE EdTech Masterplan 2030, we are committed to leveraging Educational Technology to enhance teaching and learning, with the aim of developing our students into confident and future-ready learners. One of the focuses of this masterplan is the enhancement of students’ Digital Literacy and Technology Skills (DLTS).
 
-#### **Service to the school ** 
-
-*   IT/AV Monitresses to serve the classes' AV needs&nbsp;&nbsp;&nbsp;
-*   Cyberwellness advocates
+To support students in developing DLTS, the school adopts three broad approaches:
+1. **Aligning the curriculum to MOE’s 9 Digital Competencies**, ensuring that students develop these essential skills through authentic learning experiences across subject areas.<br>
+2. **Fostering self-directed learning in DLTS**, where curated SLS modules are assigned at each level to guide students in building digital proficiency at their own pace.<br>
+3.**Embedding DLTS development in level-wide programmes, school activities and CCAs**, providing students with real-world contexts to apply and deepen their digital skills.<br>
 
 
 <table>
