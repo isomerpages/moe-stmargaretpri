@@ -15,19 +15,9 @@ variant: markdown
 </tr>
 </tbody></table>
 
-#### **Vision**
 
-Students: Quality learning in the hands of Self-Directed, Collaborative and Responsible digital learners.
+Vision: To leverage Educational Technology to transform teaching and learning, nurturing students to become confident, self-directed, and future-ready learners.
 
-Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and learning resources and lessons with ICT.
-
-  
-
-#### **Goals**
-
-*   Develop students to be responsible digital online citizens when using technology for learning.&nbsp;
-*   Develop students&nbsp;to become self-directed and collaborative learners using ICT tools for learning.&nbsp;
-*   Develop staff and students competency in the use of technology for teaching and learning.&nbsp;
 
 <table>
 	<tbody><tr>
@@ -57,13 +47,57 @@ Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and l
 </tbody></table>
 
 
-![](/images/smps_ict_roadmap_2015_02.jpg)
+#### **SMSP Whole-School Approach to Leveraging Educational Technology** 
 
+Aligning to the MOE EdTech Masterplan 2030, we are committed to leveraging Educational Technology to enhance teaching and learning, with the aim of developing our students into confident and future-ready learners. One of the focuses of this masterplan is the enhancement of students’ Digital Literacy and Technology Skills (DLTS).
 
-#### **Service to the school ** 
+To support students in developing DLTS, the school adopts three broad approaches:
+1. **Aligning the curriculum to MOE’s 9 Digital Competencies**, ensuring that students develop these essential skills through authentic learning experiences across subject areas.
 
-*   IT/AV Monitresses to serve the classes' AV needs&nbsp;&nbsp;&nbsp;
-*   Cyberwellness advocates
+2. **Fostering self-directed learning in DLTS**, where curated SLS modules are assigned at each level to guide students in building digital proficiency at their own pace.
+
+3. **Embedding DLTS development in level-wide programmes, school activities and CCAs**, providing students with real-world contexts to apply and deepen their digital skills.
+
+![](/images/Department/ICT%20Department/Digital_Competency.jpg)
+Table1: Descriptions of the 9 Digital Competencies
+
+As part of this effort, the school has undertaken a whole-school curriculum review to ensure alignment with the 9 Digital Competencies. In parallel, we have been actively upgrading and expanding students’ access to learning devices to ensure they are equipped to engage in technology-enabled learning during curriculum time.
+
+In addition, we place strong emphasis on cyber wellness and responsible digital citizenship. Through assembly programmes, FTGP lessons, and daily practices such as managing their own login credentials, students are guided to navigate the digital world safely and responsibly.
+
+The school also develops student leadership by training IT/AV Assistants in each class and appointing Cyber Wellness Ambassadors to promote responsible digital use among peers.
+
+Through this holistic and structured approach, our school hopes to equip students with the skills, knowledge, and values needed to thrive in a technology-rich and rapidly evolving future.
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_01.jpg" alt="volunteer recess ministry pv" style="width:370px;height:400px;"><b>P6 Code For Fun - Students coordinating the movement of their spherical robots</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_02.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Virtual Trip - The Primary 6 students embarked on a virtual trip to Vietnam and learnt more about the vibrant Vietnamese culture</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:500px;height:300px;"><b>P5 SLF - student building a circuit</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_04.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"><b>Students leveraging A.I and Google drive in English writing
+</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_05.jpg" alt="volunteer recess ministry pv" style="width:500px;height:300px;"><b>Students attending a live-sharing and<br> Q&amp;A session with a local female scientist</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_06.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students engaged in collaborative learning. </b></font></center>
+</td>
+</tr>
+</tbody></table>
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_07.jpg" alt="volunteer recess ministry pv" style="width:500px;height:500px;"><b>Students recording Science experimental data into a Google sheet and<br> generating a graph to understand the relationship</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
 
 
 <table>
@@ -76,12 +110,6 @@ Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and l
 </tr>
 </tbody></table>
 
-  <center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TfcdP-iBl9o" height="415" width="700"></iframe>
-</center>
-
-
-
 #### **PERMISSION to enter the computer labs**
 
 *   Do not enter the computer labs without a teacher. This is for safety reasons.
@@ -90,14 +118,15 @@ Staff:&nbsp;Be the lead learner in the classroom to build quality teaching and l
 
 #### **During lessons in the computer labs**
 
-*   Do not run or play in the laboratory
-*   Do not eat or drink in the laboratory so to prevent water or any other liquid to spill on computers.
-*   Do not use the computers when your hands are wet.
-*   Do not attempt to open any machines, and do not touch the backs of machines when they are switched on.
-*   Do not insert metal objects such as clips, pins and needles into the computer casings. This may cause fire.
-*   Do not touch, connect or disconnect any plug or cable without your teacher's permission.
-*   Report any broken plugs or exposed electrical wires to your teacher immediately.
-*   Avoid stepping on electrical wires or any other computer cables.&nbsp;Do not touch any exposed wires or sockets.
+* Do not run or play in the laboratory
+* Do not eat or drink in the laboratory so to prevent water or any other liquid to spill on computers.
+* Do not use the computers when your hands are wet.
+* Do not attempt to open any machines, and do not touch the backs of machines when they are switched on.
+* Do not insert metal objects such as clips, pins and needles into the computer casings. This may cause fire.
+* Do not touch, connect or disconnect any plug or cable without your teacher’s permission.
+* Report any broken plugs or exposed electrical wires to your teacher immediately.
+* Avoid stepping on electrical wires or any other computer cables. Do not touch any exposed wires or sockets.
+
 
   
 
