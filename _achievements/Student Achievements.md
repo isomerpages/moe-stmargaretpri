@@ -18,11 +18,11 @@ variant: markdown
 </tr>
 		<tr>
 		<td><font size="4">Malay Language Ambassadors 2025</font></td>
-		<td><font size="4">2 students from 5 Humility<br>are appointed as Rakan Bahasa (Malay Language Ambassadors), representing school in 2025  </font></td>
+		<td><font size="4">2 students from 5 Humility<br>are appointed as Rakan Bahasa (Malay Language Ambassadors) representing school in 2025  </font></td>
 </tr>
 		<tr>
 		<td><font size="4">Seithi Pongal Contest 2025</font></td>
-		<td><font size="4">1 student from 5 Humility<br>&amp; 1 student fron 2 Charity achieved the Top 6 award</font></td>
+		<td><font size="4">1 student from 5 Humility<br>&amp; 1 student from 2 Charity achieved the Top 6 award</font></td>
 </tr>
 		<tr>
 		<td><font size="4">Fancy Dress Competition 2025<br>(Association of Singapaore Tamil Writers Muthamizh Vizha 2025)</font></td>
