@@ -59,7 +59,13 @@ To support students in developing DLTS, the school adopts three broad approaches
 ![](/images/Department/ICT%20Department/Digital_Competency.jpg)
 Table1: Descriptions of the 9 Digital Competencies
 
+As part of this effort, the school has undertaken a whole-school curriculum review to ensure alignment with the 9 Digital Competencies. In parallel, we have been actively upgrading and expanding students’ access to learning devices to ensure they are equipped to engage in technology-enabled learning during curriculum time.
 
+In addition, we place strong emphasis on cyber wellness and responsible digital citizenship. Through assembly programmes, FTGP lessons, and daily practices such as managing their own login credentials, students are guided to navigate the digital world safely and responsibly.
+
+The school also develops student leadership by training IT/AV Assistants in each class and appointing Cyber Wellness Ambassadors to promote responsible digital use among peers.
+
+Through this holistic and structured approach, our school hopes to equip students with the skills, knowledge, and values needed to thrive in a technology-rich and rapidly evolving future.
 
 <table>
 	<tbody><tr>
