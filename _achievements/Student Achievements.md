@@ -4,6 +4,33 @@ permalink: /achievements/student-achievements/
 description: ""
 variant: markdown
 ---
+### 2025 Achievements
+
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    Malay Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4">Malay Language Ambassadors 2025</font></td>
+		<td><font size="4">2 students from 5 Humility<br>are appointed as Rakan Bahasa (Malay Language Ambassadors), representing school in 2025  </font></td>
+</tr>
+		<tr>
+		<td><font size="4">SOTA’s Nation-wide Creative Writing Competition 2024</font></td>
+		<td><font size="4">Top 50 Finalist</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Mythos (Junior Orators) Competition 2024</font></td>
+		<td><font size="4">Top 10 Outstanding Performers</font></td>
+</tr>
+	</tbody></table>
+
+
 ### 2024 Achievements
 
 <table>
