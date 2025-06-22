@@ -20,7 +20,7 @@ third_nav_title: School Highlights
 		<tr>
 			<th><center>English Comes Alive 2025</center></th> 
 		<th><center>P3 Sports Education Programme 2025</center></th> 
-		<th><center>P3,4,6 Learning Journey to <br>Singapore Chinese Cultural Centre 2025</center></th> 			
+		<th><center>HCL Learning Journey to <br>Singapore Chinese Cultural Centre 2025</center></th> 			
 			</tr>
 			<tr>
 <td><a href="/school-information/school-highlights/chinese-new-year-2025/"><img src="/images/Thumbnails/cny2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
