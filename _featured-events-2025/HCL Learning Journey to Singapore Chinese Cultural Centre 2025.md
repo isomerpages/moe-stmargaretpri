@@ -13,3 +13,5 @@ Through interactive exhibits and object-based discussions, students delved into 
 A key highlight of the visit was the exploration of multicultural influences on food, language, and art. Through hands-on activities, students discovered how Singapore’s diverse cultural landscape has shaped local Chinese customs. They also reflected on their personal connections to these traditions in today’s modern society.
 
 This immersive experience deepened students’ appreciation of Singapore’s rich cultural heritage and encouraged them to think critically about their own identities. It was a meaningful journey that fostered a stronger sense of belonging and understanding of Chinese culture within a multicultural society.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HaQ5P048gM4?si=JWdJtxLNrX0AOXCh" height="415" width="700"></iframe></center>
