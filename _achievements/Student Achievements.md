@@ -4,6 +4,51 @@ permalink: /achievements/student-achievements/
 description: ""
 variant: markdown
 ---
+### 2025 Achievements
+
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    MTL Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4">Malay Language Ambassadors 2025</font></td>
+		<td><font size="4">2 students from 5 Humility<br>are appointed as Rakan Bahasa (Malay Language Ambassadors) representing school in 2025  </font></td>
+</tr>
+		<tr>
+		<td><font size="4">Seithi Pongal Contest 2025</font></td>
+		<td><font size="4">1 student from 5 Humility<br>&amp; 1 student from 2 Charity achieved the Top 6 award</font></td>
+</tr>
+		<tr>
+		<td><font size="4">Fancy Dress Competition 2025<br>(Association of Singapaore Tamil Writers Muthamizh Vizha 2025)</font></td>
+		<td><font size="4">1 student from 2 Charity<br> achieved Encouragement Prize</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    STAR
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Mythos (Junior Orators) Storytelling<br> Competition 2025</font></td>
+		<td><font size="4">1 Finalist<br>1 Semi-finalist</font></td>
+</tr>
+	</tbody></table>
+
+
+
 ### 2024 Achievements
 
 <table>
@@ -15,6 +60,11 @@ variant: markdown
 <tr>
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+		<tr>
+		<td><font size="4">Queen’s Commonwealth Essay Competition 2024</font></td>
+		<td><font size="4">Gold ⚜️ 2 winners<br>
+Bronze ⚜️ 16 winners</font></td>
 </tr>
 		<tr>
 		<td><font size="4">JAL World Children's Haiku Competition 2024</font></td>

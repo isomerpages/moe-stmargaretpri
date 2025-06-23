@@ -17,74 +17,56 @@ variant: markdown
 
 #### **Vision**
 
-A passion for Science for service
+Inspired by the wonders of science, our students inquire with curiosity and innovate with purpose – becoming thinkers, problem solvers and creators of a better tomorrow.
 
-  
 
 #### **Goals (ACE)**
 
-**A**&nbsp;rouse our girls' curiosity for Science
+**A** rouse our girls’ curiosity for science and interest in the world around them as concerned citizens
 
-  
+**C** ultivate confidence and critical thinking in our girls
 
-**C**&nbsp;ultivate confidence and critical thinking in our girls
+**E** quip our girls with strong foundation of science scientific knowledge and skills imbibed with attitudes and ethics
 
-  
+The Science department adopts an inquiry-based approach in the teaching and learning of science. This pedagogy enables our students to acquire knowledge and skills and understanding of science through active learning with their friends and teachers.
 
-**E**&nbsp;quip our girls with Science knowledge and skills imbibed with attitudes and ethics
-
-The Science department adopts an inquiry-based approach in the teaching and learning of Science. This pedagogy enables our students to acquire knowledge and skills and understanding of Science through active learning with their friends and teachers.
-
-  
-
-Science in St Margaret’s School (Primary) is also celebrated through the multi-faceted activities at different levels. The learning of Science is extended beyond the classrooms to enrich students’ experiences and to support their mastery in the subject by allowing them to relate and apply their knowledge in the real-world context.
+Science in St Margaret’s School (Primary) is also celebrated through the multi-faceted activities at different levels. The learning of science is extended beyond the classrooms to enrich students’ experiences and to support their mastery in the subject by allowing them to relate and apply their knowledge in the real-world context.
 
   
 **Learning Experience/ Programme** includes:
 
-*   Authentic Tasks
-
-*   ‘Fun with magnets’, ‘Fun with electricity’, ‘Each child a seed programme’  
-    
-
-*   Outdoor experiential learning
-
-*   Exploring SMS(P) Science Garden
-*   Learning Journeys
-*   Level Camps
-
+*   Authentic Tasks<br>
+               * ‘Fun with magnets’, ‘Fun with electricity’, ‘Each child a seed programme’   
+*   Outdoor experiential learning<br>
+                *   Exploring SMS(P) Science Garden<br>
+                *   Learning Journeys<br>
+                *   Extended recess<br>
 *   Assembly Talks
-*   E2K
-
+*   Environment Education
+*   Scientist@play
+*   The E2K Science Programme
 
 <table>
-	<tbody><tr>
-		<th><font size="6" color="maroon">
-     Programmes
- </font></th>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Science%20Department/bird_paradise.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Bird paradise@extended recess</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/Science%20Department/demonstrating_ways_of_science.jpg" alt="volunteer recess ministry pv" style="width:400px;height:270px;"><b>Demonstrating ways of thinking and doing in science</b></font></center>
+</td>
 </tr>
 	<tr>
+<td><center><font size="3"><img src="/images/Department/Science%20Department/demonstrating_a_safe_and_responsible.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Demonstrating a safe and responsible encounters<br> with urban birds</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/Science%20Department/discovering_animal_covering.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Discovering animal covering@P3 Learning Journey</b></font></center>
+</td>
 </tr>
 </tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-
-<tbody>
-  <tr>
-    <td><img src="/images/2021OurLittleBotanist03.jpg" style="width:480px;height:500px;"></td>
-  </tr>
-</tbody>
-</table>
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Science%20Department/spotted_oriental_whip_snake.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Spotted oriental whip snake@P6 Learning Journey</b></font></center>
+</td>
+</tr>
+</tbody></table>
 
 
 <table>
@@ -116,6 +98,13 @@ Science in St Margaret’s School (Primary) is also celebrated through the multi
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-dgl5">Singapore Primary Science Olympiad 2024
+    </td><td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver<br>
+1 Bronze<br>
+15 Merit</span></td>
+  </tr>
+	<tr>
+	</tr><tr>
     <td class="tg-dgl5">NUS High School of Math &amp; Science 2023
     </td><td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 MCurie Awards</span><br>2 Da Vinci Awards</td>
   </tr>

@@ -2,6 +2,9 @@ collections:
   featured-events-2025:
     output: true
     order:
+      - HCL Learning Journey to Singapore Chinese Cultural Centre 2025.md
+      - P3 Sports Education Programme 2025.md
+      - English Comes Alive 2025.md
       - Sports Jamboree 2025.md
       - Total Defence Day 2025.md
       - Chinese New Year 2025.md
