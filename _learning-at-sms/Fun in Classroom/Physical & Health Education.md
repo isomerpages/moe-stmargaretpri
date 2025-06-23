@@ -3,6 +3,7 @@ title: Physical & Health Education
 permalink: /learning-at-sms/fun-in-classroom/physical-n-health-education/
 description: ""
 third_nav_title: Fun in Classroom
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -55,24 +56,17 @@ Every girl is Physically Educated &amp; leads an active lifestyle.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-kpb2" colspan="2">Mr Roland Neo (HOD PE/CCA)</th>
+		    <td class="tg-zr06">Mr Roland Neo (HOD PE/CCA</td>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-f4yw" colspan="2">Mr Derek Wong (ST/PE) </td>
-  </tr>
   <tr>
     <td class="tg-zr06">Ms Low Pei Lin</td>
     <td class="tg-zr06">Mrs Gerry Ong</td>
   </tr>
   <tr>
     <td class="tg-zr06">Mdm Madeline Koo</td>
-    <td class="tg-zr06">Mdm Lew Nyet Mee<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Dinah Chan</td>
-    <td class="tg-f4yw"> </td>
+    <td class="tg-zr06">Ms Dinah Chan<br></td>
   </tr>
 </tbody>
 </table>
