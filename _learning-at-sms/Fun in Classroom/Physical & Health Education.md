@@ -56,7 +56,7 @@ Every girl is Physically Educated &amp; leads an active lifestyle.
 <table class="tg">
 <thead>
   <tr>
-		    <td class="tg-zr06">Mr Roland Neo (HOD PE/CCA</td>
+		    <td class="tg-zr06">Mr Roland Neo (HOD PE/CCA)</td>
   </tr>
 </thead>
 <tbody>
