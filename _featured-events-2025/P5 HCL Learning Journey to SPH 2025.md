@@ -5,5 +5,3 @@ variant: markdown
 description: ""
 ---
 ### **P5 Higher Chinese Language Learning Journey to Singapore Press Holding 2025**
-
-##### 5 - 17 Feb 2025 
