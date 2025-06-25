@@ -16,5 +16,7 @@ The production’s vivid storytelling, imaginative set designs, and dynamic perf
 
 Overall, this TEA programme was an invaluable occasion, nurturing both artistic appreciation and personal growth in the young participants.
 
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MDkc17z4cR0?si=d-zscVolCPRjt35e" height="415" width="700"></iframe></center>
+
 Written by Mdm Lin Linli, <br>
 Primary 1 English representative
