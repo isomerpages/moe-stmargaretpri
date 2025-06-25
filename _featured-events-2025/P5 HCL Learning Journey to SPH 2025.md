@@ -14,3 +14,5 @@ To reinforce their learning, students participated in Chinese language games, ma
 The journey concluded with a guided tour of the SPH facilities, where they got a behind-the-scenes look at how newspapers are produced, from interviewing, editorial planning to printing.
 
 This eye-opening experience deepened their appreciation for journalism, enhanced their critical thinking skills, and encouraged them to be more discerning news readers.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/v3drh91Vgc4?si=p_A1_agGJeqHaP3B" height="415" width="700"></iframe></center>
