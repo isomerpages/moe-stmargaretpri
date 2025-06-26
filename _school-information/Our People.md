@@ -381,8 +381,8 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Sundra Gaytri Meriange (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)<br>Elango Anggammal (Mrs)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Divashini (Ms)<br>Elango Anggammal (Mrs)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2 PATIENCE </span></td>
@@ -819,10 +819,6 @@ The Functions and Duties of the School Management Committee are found in the Con
 	<tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Irene Ng Beng Cheng</span></td>
     <td class="tg-fxx4"><span style="color:#222">Printing Assistant</span></td>
-  </tr>
-	<tr>
-    <td class="tg-fxx4"><span style="color:#222">Mr Admimustaqim Hazri bin Azahar
-    </span></td><td class="tg-fxx4"><span style="color:#222">Desktop Engineer  </span></td>
   </tr>
 		<tr>
     <td class="tg-fxx4"><span style="color:#222">Mr Mohd Nizam Bin Mohd Nor
