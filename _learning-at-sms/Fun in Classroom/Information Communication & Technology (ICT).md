@@ -89,7 +89,7 @@ Through this holistic and structured approach, our school hopes to equip student
 	<tr>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_05.jpg" alt="volunteer recess ministry pv" style="width:500px;height:300px;"><b>Students attending a live-sharing and<br> Q&amp;A session with a local female scientist</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_09.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students engaged in collaborative learning. </b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_09.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students uses information on SLS to complement learning</b></font></center>
 </td>
 </tr>
 </tbody></table>
