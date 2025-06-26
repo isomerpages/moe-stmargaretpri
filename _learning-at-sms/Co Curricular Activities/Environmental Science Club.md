@@ -19,7 +19,7 @@ variant: markdown
 		<td>Wednesday</td>
 		<td>2 - 4 pm</td>
 	<td>Science Lab</td>
-	<td>Mdm Chan Yen Peng (OIC)<br>Ms Low Wei Wen<br>Mdm Sundra Gaytri Meriange</td>
+	<td>Mdm Chan Yen Peng (OIC)<br>Ms Low Wei Wen<br>Mrs Heng Siqiao</td>
 	<td>P5 - P6<br>P3 - P4</td>
 </tr>
 </tbody></table>

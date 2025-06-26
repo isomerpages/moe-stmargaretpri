@@ -71,13 +71,13 @@ Through this holistic and structured approach, our school hopes to equip student
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_01.jpg" alt="volunteer recess ministry pv" style="width:370px;height:400px;"><b>P6 Code For Fun - Students coordinating the movement of their spherical robots</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_01.jpg" alt="volunteer recess ministry pv" style="width:390px;height:400px;"><b>P6 Code For Fun - Students coordinating the movement of their spherical robots</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_02.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Virtual Trip - The Primary 6 students embarked on a virtual trip to Vietnam and learnt more about the vibrant Vietnamese culture</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:500px;height:300px;"><b>P5 SLF - student building a circuit</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_08.jpg" alt="volunteer recess ministry pv" style="width:500px;height:300px;"><b>Students leveraged EdTech to make learning more interactive and engaging</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_04.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"><b>Students leveraging A.I and Google drive in English writing
 </b></font></center>
@@ -86,7 +86,7 @@ Through this holistic and structured approach, our school hopes to equip student
 	<tr>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_05.jpg" alt="volunteer recess ministry pv" style="width:500px;height:300px;"><b>Students attending a live-sharing and<br> Q&amp;A session with a local female scientist</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_06.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students engaged in collaborative learning. </b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_09.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students uses information on SLS to complement learning</b></font></center>
 </td>
 </tr>
 </tbody></table>
