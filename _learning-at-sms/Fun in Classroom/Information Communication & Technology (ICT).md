@@ -69,6 +69,9 @@ The school also develops student leadership by training IT/AV Assistants in each
 
 Through this holistic and structured approach, our school hopes to equip students with the skills, knowledge, and values needed to thrive in a technology-rich and rapidly evolving future.
 
+![](/images/Department/ICT%20Department/ict_08.jpg)
+![](/images/Department/ICT%20Department/ict_09.jpg)
+
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_01.jpg" alt="volunteer recess ministry pv" style="width:370px;height:400px;"><b>P6 Code For Fun - Students coordinating the movement of their spherical robots</b></font></center>
@@ -77,7 +80,7 @@ Through this holistic and structured approach, our school hopes to equip student
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_03.jpg" alt="volunteer recess ministry pv" style="width:500px;height:300px;"><b>P5 SLF - student building a circuit</b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_08.jpg" alt="volunteer recess ministry pv" style="width:500px;height:300px;"><b>Students leveraged EdTech to make learning more interactive and engaging</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_04.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"><b>Students leveraging A.I and Google drive in English writing
 </b></font></center>
@@ -86,7 +89,7 @@ Through this holistic and structured approach, our school hopes to equip student
 	<tr>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_05.jpg" alt="volunteer recess ministry pv" style="width:500px;height:300px;"><b>Students attending a live-sharing and<br> Q&amp;A session with a local female scientist</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_06.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students engaged in collaborative learning. </b></font></center>
+<td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_09.jpg" alt="volunteer recess ministry pv" style="width:380px;height:480px;"><b>Students engaged in collaborative learning. </b></font></center>
 </td>
 </tr>
 </tbody></table>
