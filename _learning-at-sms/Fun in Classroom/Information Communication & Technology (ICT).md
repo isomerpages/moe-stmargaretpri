@@ -69,9 +69,6 @@ The school also develops student leadership by training IT/AV Assistants in each
 
 Through this holistic and structured approach, our school hopes to equip students with the skills, knowledge, and values needed to thrive in a technology-rich and rapidly evolving future.
 
-![](/images/Department/ICT%20Department/ict_08.jpg)
-![](/images/Department/ICT%20Department/ict_09.jpg)
-
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/ICT%20Department/ict_01.jpg" alt="volunteer recess ministry pv" style="width:370px;height:400px;"><b>P6 Code For Fun - Students coordinating the movement of their spherical robots</b></font></center>
