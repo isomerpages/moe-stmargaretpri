@@ -76,8 +76,8 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/science-and-environmental-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Environmental Science Club</span></a></td>
     <td style="color:#000;background-color:#FFF">Wednesdays<span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Chan Yen Peng*</span><br><span style="font-weight:400;color:#000">Ms Low Wei Wen</span><br>
-    </td><td class="tg-zr06"><span style="color:#000;background-color:#FFF">Science Lab</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Chan Yen Peng*</span><br><span style="font-weight:400;color:#000">Ms Low Wei Wen</span><br><span style="font-weight:400;color:#000">Mrs Heng Siqiao
+    </span></td><td class="tg-zr06"><span style="color:#000;background-color:#FFF">Science Lab</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/star/"><span>Star</span></a><span style="color:#000;background-color:#FFF"> (Formerly Learning Haven)</span></td>
@@ -114,7 +114,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/tennis/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Tennis</span></a></td>
     <td class="tg-7yig"><span style="color:#000;background-color:#FFF">Mondays &amp; Wednesdays </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><span style="font-weight:400;color:#000">Mr Huang Wenshan Eric*<br>Ms Dharshini</span></span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><span style="font-weight:400;color:#000">Mr Huang Wenshan Eric*<br>Ms Dharshini Ravichandran</span><br><span style="font-weight:400;color:#000">Ms Angela Tew</span><br><span style="font-weight:400;color:#000">Ms Divashini</span></span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Out of school</span></td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/brass-band/"><span style="font-weight:500;text-decoration:underline;color:#2A5629;background-color:transparent">Brass Band</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Monday &amp; Wednesdays </span></td>
-    <td style="font-weight:400;color:#000">Ms Chua Chiow Yean*<br>Ms Samantha<br>Mrs Heng Siqiao</td>
+    <td style="font-weight:400;color:#000">Ms Chua Chiow Yean*<br>Ms Samantha</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Band Room</span></td>
   </tr>
   <tr>
