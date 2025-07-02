@@ -8,6 +8,9 @@ Launched in 2008, Schoolbag is MOE’s signature repository of school stories th
 
 Do access through [go.gov.sg/schoolbag-subscribe](https://www.schoolbag.edu.sg/subscribe/) or scan the QR code below to subscribe for stories and insights from fellow parents and MOE educators.
 
+<a target="_blank" href="https://www.schoolbag.edu.sg/subscribe/">go.gov.sg/schoolbag-subscribe</a>
+
+
 ![](/images/Announcement/Welcome_to_SchoolBag_2025.jpg)
 <br>
 ![](/images/Announcement/Partnering_on_Education_Journey_2025.jpg)
