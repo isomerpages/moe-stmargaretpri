@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/moe-sexuality-edu-2025/
+          url: /announcements/moe-schoolbag/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
