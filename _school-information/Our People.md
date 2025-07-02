@@ -312,7 +312,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Zhang Miao (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Labelle Lee Kum Foong (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Yeo Hwee Khim (Ms) </span><br></td>
   </tr>
 </tbody>
 </table>
@@ -459,7 +459,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Yun Fen (Mrs Yeow)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Eric Seah Hou Kiat (Mr) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Eric Seah Hou Kiat (Mr) </span><br>Alice Toh Peck Hoon (Ms)</td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 INTEGRITY</span></td>
@@ -525,7 +525,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 CHARITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Dharshini Ravichandran (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Gerry Low Pei Chi (Mrs Ong)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Gerry Low Pei Chi (Mrs Ong)</span><br>Low Joo Tatt (Mr)</td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
