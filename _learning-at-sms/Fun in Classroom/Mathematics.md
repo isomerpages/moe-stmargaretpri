@@ -64,9 +64,9 @@ At SMS(P), we also strive to build confidence and foster interest in Mathematics
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/Math%20Department/CPA_Approach_2.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/CPA_Approach_2.jpg" alt="volunteer recess ministry pv" style="width:250px;height:400px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/Math%20Department/CPA_Approach_3.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/CPA_Approach_3.jpg" alt="volunteer recess ministry pv" style="width:250px;height:400px;"><b></b></font></center>
 </td>
 </tr>
 </tbody></table>
