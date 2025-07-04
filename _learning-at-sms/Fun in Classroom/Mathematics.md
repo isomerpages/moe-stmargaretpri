@@ -102,7 +102,7 @@ Students are invited to play and enjoy the Mathematical games that focus on logi
 </td></tr>
 </tbody></table>
 
-#### **3.Journalling**
+#### **3. Journalling**
 
 At St Margaret’s, Math journalling is an integral part of our curriculum. Through journalling, students develop their mathematical thinking by reflecting on concepts, explaining their reasoning, and making sense of problem-solving strategies.
 
