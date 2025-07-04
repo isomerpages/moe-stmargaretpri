@@ -77,6 +77,12 @@ At Upper Primary, lessons are also planned using the CPA approach but a greater 
 
 ![](/images/Department/Math%20Department/Working_together.jpg)
   
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Working_together.jpg" alt="volunteer recess ministry pv" style="width:500px;height:500px;"><b></b></font></center>
+</td></tr>
+</tbody></table>
+
 
 #### **2. Math Recess Play Programme**
 
