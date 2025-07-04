@@ -82,8 +82,21 @@ At Upper Primary, lessons are also planned using the CPA approach but a greater 
 
 Beyond the usual Mathematics lessons in classrooms, the school continues to cultivate students’ love for Mathematics through Math Recess Play.
 
-
 Students are invited to play and enjoy the Mathematical games that focus on logical thinking skills and problem solving skills.&nbsp; Through these activities, students get the opportunity to think out-of-the-box and test their strategies till they derive at the solution in a stress-free environment. These skills are essential and beneficial to children’s development.
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Recess_Play_1_2025.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Recess_Play_3_2025.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Recess_Play_2_2025.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td></tr>
+</tbody></table>
 
 #### **3.Journalling**
 
