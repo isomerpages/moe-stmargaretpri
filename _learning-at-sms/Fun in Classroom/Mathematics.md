@@ -61,7 +61,7 @@ At SMS(P), we also strive to build confidence and foster interest in Mathematics
 #### **1. Hands-on activities during daily lessons**
 
 ![](/images/Department/Math%20Department/CPA_Approach_1.jpg)
-##### <center>**CPA Approach**
+##### **<center>CPA Approach</center>**
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/Math%20Department/CPA_Approach_2.jpg" alt="volunteer recess ministry pv" style="width:320px;height:400px;"><b></b></font></center>
@@ -205,4 +205,4 @@ By making thinking visible, math journalling supports students in becoming more 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver</span><br> 1 Bronze<br><span style="font-weight:400;color:#000"> 1 Honorable Mention</span></td>
   </tr>
 </tbody>
-</table></center>
+</table>
