@@ -75,8 +75,6 @@ At Lower Primary, lessons are mainly designed using the Concrete-Pictorial-Abstr
 
 At Upper Primary, lessons are also planned using the CPA approach but a greater emphasis is placed on the thinking process rather than the final answer. Thus, we create more opportunities for students to be engaged in group work, active class discussions and presentations. Through these processes, we hope to nurture students who are able to use multiple ways to solve a question and to effectively communicate their solutions and ideas.
 
-![](/images/Department/Math%20Department/Working_together.jpg)
-  
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/Math%20Department/Working_together.jpg" alt="volunteer recess ministry pv" style="width:500px;height:500px;"><b></b></font></center>
