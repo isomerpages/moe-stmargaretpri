@@ -68,41 +68,36 @@ At SMS(P), we also strive to build confidence and foster interest in Mathematics
 </tr>
 </tbody></table>
 
-#### **1. Hands-on activities on daily lesson**
+#### **1. Hands-on activities during daily lessons**
 
-![maths.jpg](/images/maths.jpg)
 
-At Lower Primary, lessons are mainly designed using Concrete-Pictorial-Abstract (CPA) approach to allow students to use real or physical objects for exploration, relating them to visual summary and eventually be able to represent them mentally. Through this approach, we aim to better support students’ learning of fundamental concepts as well as to infuse an element of fun to arouse students’ interest and desire to acquire mathematical skills and knowledge.
 
-  
+At Lower Primary, lessons are mainly designed using the Concrete-Pictorial-Abstract (CPA) approach to allow students to use real or physical objects for exploration, relating them to visual summary and eventually be able to represent them mentally. Through this approach, we aim to better support students’ learning of fundamental concepts as well as to infuse an element of fun to arouse students’ interest and desire to acquire mathematical skills and knowledge.
 
-At Upper Primary, lessons are also planned via CPA approach but a greater emphasis is placed on the thinking process rather than the solution. Thus, we create more opportunities for students to be engaged in group work, active class discussions and presentations. Through these processes, we hope to nurture students who are able to use multiple ways to solve a question and to effectively communicate their solutions and doubts.
+At Upper Primary, lessons are also planned using the CPA approach but a greater emphasis is placed on the thinking process rather than the final answer. Thus, we create more opportunities for students to be engaged in group work, active class discussions and presentations. Through these processes, we hope to nurture students who are able to use multiple ways to solve a question and to effectively communicate their solutions and ideas.
 
   
 
-#### **2. Math Recess Play Programme (Learn and Play Beyond Classrooms)**
+#### **2. Math Recess Play Programme**
 
-Beyond the usual Mathematics lessons in classrooms, the school continued to cultivate students’ love for Mathematics through “Math Recess Play” programme.&nbsp;
+Beyond the usual Mathematics lessons in classrooms, the school continues to cultivate students’ love for Mathematics through Math Recess Play.
 
 
-Students are invited to play and enjoy the Mathematical games that focus on logical thinking skills and problem solving skills.&nbsp; Through these activities, students get the opportunity to think out-of-the-box and test their strategies till they derive at the solution in a stress-free environment. These skills are essential and beneficial to the children’s development.&nbsp;&nbsp;
-<center>
- <center>
-</center><table>
-	<tbody><tr><td><center><font size="3"><img src="/images/MathCorner_01.jpg" alt="volunteer recess ministry pv" style="width:520px;height:400px;"><b>How many cans are used to build the structure?</b></font></center></td>
-</tr>
-</tbody></table></center>
+Students are invited to play and enjoy the Mathematical games that focus on logical thinking skills and problem solving skills.&nbsp; Through these activities, students get the opportunity to think out-of-the-box and test their strategies till they derive at the solution in a stress-free environment. These skills are essential and beneficial to children’s development.
 
-#### **3. Fast &amp; Furious Math Challenge (Mental Sums)**
+#### **3.Journalling**
 
-Mental sums is always a challenge to students! We made it easier with systematic and progressive learning from Primary 1 to 5 via mental sum booklets and challenges. We hope to train our students to calculate fast and accurate!
+At St Margaret’s, Math journalling is an integral part of our curriculum. Through journalling, students develop their mathematical thinking by reflecting on concepts, explaining their reasoning, and making sense of problem-solving strategies.
 
-  
+We believe that when students articulate their thoughts in writing, they deepen their understanding, build confidence, and strengthen their communication skills. Math journals provide opportunities for students to:
 
-#### **4. Math Journal**
+* Reflect on their learning and problem-solving processes
+* Express their mathematical reasoning clearly
+* Make connections between concepts
+* Identify and correct misconceptions
+* Develop metacognitive awareness
 
-We train students to be self-directed and independent learners who pens down her daily learning points, examples and notes. With these, students are able to use them as reference for revision at anytime, anywhere!
-
+By making thinking visible, math journalling supports students in becoming more independent, thoughtful, and confident learners of mathematics!
 
 <table>
 	<tbody><tr>
