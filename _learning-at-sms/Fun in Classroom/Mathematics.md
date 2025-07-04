@@ -26,14 +26,10 @@ Every staff and student to be an analytical and creative mathematical problem so
 
 The goals of SMS(P) Mathematics Department are to guide students and teachers to exhibit the value of PACE.
 
-  
-
 *   **P**&nbsp;ersevere when faced with a challenging problem
 *   **A**&nbsp;ctively seek to learn the concept and explore deeper
 *   **C**&nbsp;reatively and flexibly think of varied solutions to solve Mathematical problems
 *   **E**&nbsp;xcel in the subject area of Mathematics
-
-  
 
 <table>
 	<tbody><tr>
@@ -47,15 +43,9 @@ The goals of SMS(P) Mathematics Department are to guide students and teachers to
 
 In order to develop our staff and students towards values of PACE, SMS(P) adopts the use of PACE Strategy.
 
-  
-
 ![PACE.png](/images/PACE.png)
 
-  
-
 At SMS(P), we also strive to build confidence and foster interest in Mathematics through meaningful learning experiences. Maths comes ALIVE at St Margaret's through Maths Trails, hands-on activities and games.&nbsp;
-
-  
 
 
 <table>
@@ -68,41 +58,63 @@ At SMS(P), we also strive to build confidence and foster interest in Mathematics
 </tr>
 </tbody></table>
 
-#### **1. Hands-on activities on daily lesson**
+#### **1. Hands-on activities during daily lessons**
 
-![maths.jpg](/images/maths.jpg)
-
-At Lower Primary, lessons are mainly designed using Concrete-Pictorial-Abstract (CPA) approach to allow students to use real or physical objects for exploration, relating them to visual summary and eventually be able to represent them mentally. Through this approach, we aim to better support students’ learning of fundamental concepts as well as to infuse an element of fun to arouse students’ interest and desire to acquire mathematical skills and knowledge.
-
-  
-
-At Upper Primary, lessons are also planned via CPA approach but a greater emphasis is placed on the thinking process rather than the solution. Thus, we create more opportunities for students to be engaged in group work, active class discussions and presentations. Through these processes, we hope to nurture students who are able to use multiple ways to solve a question and to effectively communicate their solutions and doubts.
-
-  
-
-#### **2. Math Recess Play Programme (Learn and Play Beyond Classrooms)**
-
-Beyond the usual Mathematics lessons in classrooms, the school continued to cultivate students’ love for Mathematics through “Math Recess Play” programme.&nbsp;
-
-
-Students are invited to play and enjoy the Mathematical games that focus on logical thinking skills and problem solving skills.&nbsp; Through these activities, students get the opportunity to think out-of-the-box and test their strategies till they derive at the solution in a stress-free environment. These skills are essential and beneficial to the children’s development.&nbsp;&nbsp;
-<center>
- <center>
-</center><table>
-	<tbody><tr><td><center><font size="3"><img src="/images/MathCorner_01.jpg" alt="volunteer recess ministry pv" style="width:520px;height:400px;"><b>How many cans are used to build the structure?</b></font></center></td>
+![](/images/Department/Math%20Department/CPA_Approach_1.jpg)
+##### **<center>CPA Approach</center>**
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/CPA_Approach_2.jpg" alt="volunteer recess ministry pv" style="width:320px;height:400px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/CPA_Approach_3.jpg" alt="volunteer recess ministry pv" style="width:320px;height:400px;"><b></b></font></center>
+</td>
 </tr>
-</tbody></table></center>
+</tbody></table>
 
-#### **3. Fast &amp; Furious Math Challenge (Mental Sums)**
+At Lower Primary, lessons are mainly designed using the Concrete-Pictorial-Abstract (CPA) approach to allow students to use real or physical objects for exploration, relating them to visual summary and eventually be able to represent them mentally. Through this approach, we aim to better support students’ learning of fundamental concepts as well as to infuse an element of fun to arouse students’ interest and desire to acquire mathematical skills and knowledge.
 
-Mental sums is always a challenge to students! We made it easier with systematic and progressive learning from Primary 1 to 5 via mental sum booklets and challenges. We hope to train our students to calculate fast and accurate!
+At Upper Primary, lessons are also planned using the CPA approach but a greater emphasis is placed on the thinking process rather than the final answer. Thus, we create more opportunities for students to be engaged in group work, active class discussions and presentations. Through these processes, we hope to nurture students who are able to use multiple ways to solve a question and to effectively communicate their solutions and ideas.
 
-  
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Working_together.jpg" alt="volunteer recess ministry pv" style="width:530px;height:450px;"><b>Working together to match the angles to its correct properties!</b></font></center>
+</td></tr>
+</tbody></table>
 
-#### **4. Math Journal**
 
-We train students to be self-directed and independent learners who pens down her daily learning points, examples and notes. With these, students are able to use them as reference for revision at anytime, anywhere!
+#### **2. Math Recess Play Programme**
 
+Beyond the usual Mathematics lessons in classrooms, the school continues to cultivate students’ love for Mathematics through Math Recess Play.
+
+Students are invited to play and enjoy the Mathematical games that focus on logical thinking skills and problem solving skills.&nbsp; Through these activities, students get the opportunity to think out-of-the-box and test their strategies till they derive at the solution in a stress-free environment. These skills are essential and beneficial to children’s development.
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Recess_Play_1_2025.jpg" alt="volunteer recess ministry pv" style="width:320px;height:400px;"><b>Happy Pi Day!</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Recess_Play_3_2025.jpg" alt="volunteer recess ministry pv" style="width:320px;height:400px;"><b>Drawing using circle cut-outs!</b></font></center>
+</td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Recess_Play_2_2025.jpg" alt="volunteer recess ministry pv" style="width:600px;height:400px;"><b>Exploring and making circular objects using air clay</b></font></center>
+</td></tr>
+</tbody></table>
+
+#### **3. Journalling**
+
+At St Margaret’s, Math journalling is an integral part of our curriculum. Through journalling, students develop their mathematical thinking by reflecting on concepts, explaining their reasoning, and making sense of problem-solving strategies.
+
+We believe that when students articulate their thoughts in writing, they deepen their understanding, build confidence, and strengthen their communication skills. Math journals provide opportunities for students to:
+
+* Reflect on their learning and problem-solving processes
+* Express their mathematical reasoning clearly
+* Make connections between concepts
+* Identify and correct misconceptions
+* Develop metacognitive awareness
+
+By making thinking visible, math journalling supports students in becoming more independent, thoughtful, and confident learners of mathematics!
 
 <table>
 	<tbody><tr>
@@ -132,6 +144,26 @@ We train students to be self-directed and independent learners who pens down her
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-dgl5">Asia Pacific Mathematical Olympiad for Primary Schools 2025<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver</span><br><span style="color:#000;background-color:#FFF">3 Bronze</span><span style="color:#000;background-color:#FFF"></span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Raffles Mathematical Olympiad 2025<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> <u>Junior Category</u><br>2 Distinction<br>3 Merit</span><br><br><span style="color:#000;background-color:#FFF"><u>Open Category</u><br>3 Distinction<br>4 Merit</span><span style="color:#000;background-color:#FFF"></span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Annual Mathlympics 2024<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Gold<br>5 Silver<br>4 Bronze<br>5 Merit<br></span></td>
+  </tr>
+		<tr>
+    <td class="tg-dgl5">National Mathematical Olympiad of Singapore 2024<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Silver<br>9 Bronze<br>9 Honourable Mention<br></span></td>
+  </tr>
+		<tr>
+    <td class="tg-dgl5">Raffles Mathematical Olympiad 2024<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> <u>Junior Category</u><br>1 Distinction<br>5 Merit</span><br><br><span style="color:#000;background-color:#FFF"><u>Open Category</u><br>1 Distinction</span><span style="color:#000;background-color:#FFF"></span><br></td>
+  </tr>
 	<tr>
     <td class="tg-dgl5">Annual Mathlympics 2023<br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Gold</span><br><span style="color:#000;background-color:#FFF"> 2 Credit</span><span style="color:#000;background-color:#FFF"></span><br></td>
