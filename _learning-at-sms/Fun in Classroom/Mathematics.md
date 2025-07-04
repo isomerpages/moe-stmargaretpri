@@ -26,14 +26,10 @@ Every staff and student to be an analytical and creative mathematical problem so
 
 The goals of SMS(P) Mathematics Department are to guide students and teachers to exhibit the value of PACE.
 
-  
-
 *   **P**&nbsp;ersevere when faced with a challenging problem
 *   **A**&nbsp;ctively seek to learn the concept and explore deeper
 *   **C**&nbsp;reatively and flexibly think of varied solutions to solve Mathematical problems
 *   **E**&nbsp;xcel in the subject area of Mathematics
-
-  
 
 <table>
 	<tbody><tr>
@@ -47,15 +43,9 @@ The goals of SMS(P) Mathematics Department are to guide students and teachers to
 
 In order to develop our staff and students towards values of PACE, SMS(P) adopts the use of PACE Strategy.
 
-  
-
 ![PACE.png](/images/PACE.png)
 
-  
-
 At SMS(P), we also strive to build confidence and foster interest in Mathematics through meaningful learning experiences. Maths comes ALIVE at St Margaret's through Maths Trails, hands-on activities and games.&nbsp;
-
-  
 
 
 <table>
@@ -70,6 +60,9 @@ At SMS(P), we also strive to build confidence and foster interest in Mathematics
 
 #### **1. Hands-on activities during daily lessons**
 
+![](/images/Department/Math%20Department/CPA_Approach_1.jpg)
+![](/images/Department/Math%20Department/CPA_Approach_2.jpg)
+![](/images/Department/Math%20Department/CPA_Approach_3.jpg)
 
 
 At Lower Primary, lessons are mainly designed using the Concrete-Pictorial-Abstract (CPA) approach to allow students to use real or physical objects for exploration, relating them to visual summary and eventually be able to represent them mentally. Through this approach, we aim to better support students’ learning of fundamental concepts as well as to infuse an element of fun to arouse students’ interest and desire to acquire mathematical skills and knowledge.
