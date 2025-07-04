@@ -98,7 +98,7 @@ Students are invited to play and enjoy the Mathematical games that focus on logi
 </tbody></table>
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/Math%20Department/Recess_Play_2_2025.jpg" alt="volunteer recess ministry pv" style="width:500px;height:400px;"><b>Exploring and making circular objects using air clay</b></font></center>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Recess_Play_2_2025.jpg" alt="volunteer recess ministry pv" style="width:600px;height:400px;"><b>Exploring and making circular objects using air clay</b></font></center>
 </td></tr>
 </tbody></table>
 
