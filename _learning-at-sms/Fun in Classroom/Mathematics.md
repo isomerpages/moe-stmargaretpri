@@ -61,14 +61,21 @@ At SMS(P), we also strive to build confidence and foster interest in Mathematics
 #### **1. Hands-on activities during daily lessons**
 
 ![](/images/Department/Math%20Department/CPA_Approach_1.jpg)
-![](/images/Department/Math%20Department/CPA_Approach_2.jpg)
-![](/images/Department/Math%20Department/CPA_Approach_3.jpg)
 
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/CPA_Approach_2.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/CPA_Approach_3.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+</tr>
+</tbody></table>
 
 At Lower Primary, lessons are mainly designed using the Concrete-Pictorial-Abstract (CPA) approach to allow students to use real or physical objects for exploration, relating them to visual summary and eventually be able to represent them mentally. Through this approach, we aim to better support students’ learning of fundamental concepts as well as to infuse an element of fun to arouse students’ interest and desire to acquire mathematical skills and knowledge.
 
 At Upper Primary, lessons are also planned using the CPA approach but a greater emphasis is placed on the thinking process rather than the final answer. Thus, we create more opportunities for students to be engaged in group work, active class discussions and presentations. Through these processes, we hope to nurture students who are able to use multiple ways to solve a question and to effectively communicate their solutions and ideas.
 
+![](/images/Department/Math%20Department/Working_together.jpg)
   
 
 #### **2. Math Recess Play Programme**
