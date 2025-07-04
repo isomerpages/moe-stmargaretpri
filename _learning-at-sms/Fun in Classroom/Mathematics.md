@@ -77,7 +77,7 @@ At Upper Primary, lessons are also planned using the CPA approach but a greater 
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/Math%20Department/Working_together.jpg" alt="volunteer recess ministry pv" style="width:500px;height:450px;"><b>Working together to match the angles<br>to its correct properties!</b></font></center>
+<td><center><font size="3"><img src="/images/Department/Math%20Department/Working_together.jpg" alt="volunteer recess ministry pv" style="width:530px;height:450px;"><b>Working together to match the angles<br>to its correct properties!</b></font></center>
 </td></tr>
 </tbody></table>
 
