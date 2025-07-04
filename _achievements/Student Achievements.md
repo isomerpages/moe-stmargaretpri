@@ -15,14 +15,17 @@ variant: markdown
 <tr>
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
+	<td><font size="4"><b></b></font></td>
 </tr>
 		<tr>
 		<td><font size="4">Asia Pacific Mathematical Olympiad<br>for Primary Schools 2025</font></td>
 		<td><font size="4">1 Silver<br>1 Bronze<br></font></td>
+<td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
 		<td><font size="4">Raffles Mathematical Olympiad 2025</font></td>
-		<td><font size="4"><u>Junior Category</u><br>2 Distinction<br>3 Merit<br><br><u>Open Category</u><br>3 Distinction<br>4 Merit</font></td>
+		<td><font size="4"><u>Junior Category</u><br>2 Distinction<br>3 Merit<br><br></font></td>
+<td><font size="4"><u>Open Category</u><br>3 Distinction<br>4 Merit</font></td>
 </tr>
 	</tbody></table>
 <br>
