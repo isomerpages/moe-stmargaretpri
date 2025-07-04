@@ -128,6 +128,26 @@ By making thinking visible, math journalling supports students in becoming more 
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-dgl5">Asia Pacific Mathematical Olympiad for Primary Schools 2025<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Silver</span><br><span style="color:#000;background-color:#FFF">3 Bronze</span><span style="color:#000;background-color:#FFF"></span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Raffles Mathematical Olympiad 2025<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> <u>Junior Category</u><br>2 Distinction<br>3 Merit</span><br><br><span style="color:#000;background-color:#FFF"><u>Open Category</u><br>3 Distinction<br>4 Merit</span><span style="color:#000;background-color:#FFF"></span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Annual Mathlympics 2024<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Gold<br>5 Silver<br>4 Bronze<br>5 Merit<br></span></td>
+  </tr>
+		<tr>
+    <td class="tg-dgl5">National Mathematical Olympiad of Singapore 2024<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2 Silver<br>9 Bronze<br>9 Honourable Mention<br></span></td>
+  </tr>
+		<tr>
+    <td class="tg-dgl5">Raffles Mathematical Olympiad 2024<br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> <u>Junior Category</u><br>1 Distinction<br>5 Merit</span><br><br><span style="color:#000;background-color:#FFF"><u>Open Category</u><br>1 Distinction</span><span style="color:#000;background-color:#FFF"></span><br></td>
+  </tr>
+	<tr>
     <td class="tg-dgl5">Annual Mathlympics 2023<br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1 Gold</span><br><span style="color:#000;background-color:#FFF"> 2 Credit</span><span style="color:#000;background-color:#FFF"></span><br></td>
   </tr>
