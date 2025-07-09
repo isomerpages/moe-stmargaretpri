@@ -19,3 +19,5 @@ Over two days, booths were set up at the parade square where students could try 
 For the morning assembly programme, our STAR CCA members put up two cultural performances. One featured two girls acting as classmates working on a project, sharing fun facts about Thai culture. The second skit had everyone laughing. It featured an English businessman, unfamiliar with Asian dining etiquette, being overwhelmed by a generous host who kept serving him food! 
 
 The programme ended on a musical note with our invited guests, an ex-student and her mother, who performed a medley of ethnic songs and brought the commemoration to a cheerful close.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VfZLPxEDB4Y?si=nkbprmB5SEvWdlZW" height="415" width="700"></iframe></center>
