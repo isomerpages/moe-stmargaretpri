@@ -312,7 +312,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Zhang Miao (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Yeo Hwee Khim (Ms) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Yeo Hwee Khim (Mrs Leong) </span><br></td>
   </tr>
 </tbody>
 </table>
