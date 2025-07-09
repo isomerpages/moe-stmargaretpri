@@ -6,7 +6,7 @@ description: ""
 ---
 ### **Hari Raya Celebration 2025**
 
-##### Hari Raya Assembly: 16 Apr 2025
+##### Hari Raya Assembly: 16 Apr 2025<br>
 ##### Recess Activity: 8, 9 &amp; 11 Apr 2025
 
 The 2025 Hari Raya celebration began with a lively recess activity where students created festive Hari Raya pop-up cards. Our ML Culture Ambassadors engaged their schoolmates by sharing insights about Hari Raya through informative banners from the Malay Heritage Centre.
