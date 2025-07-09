@@ -15,13 +15,10 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
-  - infobar:
+  - resources:
       title: Announcement
       subtitle: Announcement
-      id: infobar
-      description: Announcement
-      button: Click here
-      url: /announcements/moe-schoolbag/
+      id: resources
   - infopic:
       title: School Highlights
       button: find out more
