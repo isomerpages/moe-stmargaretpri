@@ -12,7 +12,7 @@ These are the activities that the students participated for holistic learning.
 ![](/images/Thumbnails/Highlight_thumb_Image_2025.jpg)
 
 1. #### To Learn and Grow : 
-* ##### [Term 1 Montage 2025](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
+* ##### [Term 2 Montage 2025](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
 * ##### [Term 4 Montage 2024](/school-highlights/to-learn-and-grow/) <font size="3" color="red"></font>
 
 
