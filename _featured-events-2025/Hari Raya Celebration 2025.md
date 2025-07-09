@@ -18,4 +18,4 @@ The celebration concluded with a delightful and interactive performance titled â
 
 It was a meaningful celebration that fostered cultural appreciation and community spirit among our students.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZUYxTssyPaA?si=pbiTPnYAihWKHZ1n" height="315" width="560"></iframe>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZUYxTssyPaA?si=pbiTPnYAihWKHZ1n" height="415" width="700"></iframe></center>
