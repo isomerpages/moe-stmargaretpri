@@ -14,7 +14,7 @@ During the visit, students examined artefacts from a shipwreck discovered in the
 
 <table>
 <tbody><tr>
-		<td><img alt="childday01" src="/images/P6%20LJ%20to%20ACM%202025/p6ljacm01.jpg" style="width:450px;height:300px;"><b>Learning more about archaelogical finds in Singapore</b></td>
+		<td><img alt="childday01" src="/images/P6%20LJ%20to%20ACM%202025/p6ljacm01.jpg" style="width:450px;height:500px;"><b>Learning more about archaelogical finds in Singapore</b></td>
 		<td><img alt="childday02" src="/images/P6%20LJ%20to%20ACM%202025/p6ljacm02.jpg" style="width:450px;height:300px;"><b>Asking our museum educators questions</b></td>
 </tr></tbody></table>
 
