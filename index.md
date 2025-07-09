@@ -15,41 +15,6 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
-  - textcards:
-      title: Announcement
-      subtitle: Announcement
-      id: textcards
-      description: Text card description
-      cards:
-        - title: MOE Schoolbag
-          description: testing
-          linktext: click here
-          url: /announcements/moe-schoolbag/
-        - title: MOE Sexuality Education
-          description: testing
-          linktext: click here
-          url: /announcements/moe-schoolbag/
-        - title: Parking Advisory for Parents
-          description: testing
-          linktext: click here
-          url: /announcements/moe-schoolbag/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-  - infocols:
-      title: Announcement
-      subtitle: Annoncement
-      id: infocols
-      linktext: Click here
-      url: /announcements/moe-schoolbag/
-      infoboxes:
-        - title: MOE Schoolbag
-          description: Description
-        - title: MOE Sexuality Education Programme
-          description: Description
-        - title: Parking Advisory for Parents
-          description: Description
   - infopic:
       title: School Highlights
       button: find out more
