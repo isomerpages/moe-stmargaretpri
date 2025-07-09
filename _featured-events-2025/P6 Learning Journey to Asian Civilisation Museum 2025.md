@@ -4,8 +4,9 @@ permalink: /p6-learning-journey-to-asian-civilisation-museum-2025/
 variant: markdown
 description: ""
 ---
+### **P6 Learning Journey to Asian Civi2025**
 
-
+##### 6 - 8 May 2025
 
 In May, our Primary 6 students embarked on a fascinating learning journey to the Asian Civilisations Museum as part of their Social Studies Museum-based Learning. This experience provided them with an opportunity to delve into the rich cultural and historical heritage of Southeast Asia.
 During the visit, students examined artefacts from a shipwreck discovered in the region, uncovering insights into maritime trade and commerce in the past. By observing these historical objects, they pieced together how trade flourished along the Singapore River and the role Singapore played as a vital trading hub.
