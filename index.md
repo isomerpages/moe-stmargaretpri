@@ -37,6 +37,19 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infocols:
+      title: Announcement
+      subtitle: Annoncement
+      id: infocols
+      linktext: Click here
+      url: /announcements/moe-schoolbag/
+      infoboxes:
+        - title: MOE Schoolbag
+          description: Description
+        - title: MOE Sexuality Education Programme
+          description: Description
+        - title: Parking Advisory for Parents
+          description: Description
   - infopic:
       title: School Highlights
       button: find out more
