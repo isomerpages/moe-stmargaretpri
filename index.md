@@ -15,25 +15,28 @@ sections:
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
-  - resources:
+  - textcards:
       title: Announcement
       subtitle: Announcement
-      id: resources
-  - announcements:
-      title: Announcement
-      id: announcements
-      subtitle: Announcement
-      announcement_items:
-        - title: Announcement 01
-          date: 09 July 2025
-          announcement: testing 123
-          link_text: Click here
-          link_url: /announcements/moe-schoolbag/
-        - title: Announcement 02
-          date: 10 July 2025
-          announcement: testing 321
-          link_text: Click here
-          link_url: /announcements/moe-schoolbag/
+      id: textcards
+      description: Text card description
+      cards:
+        - title: MOE Schoolbag
+          description: testing
+          linktext: click here
+          url: /announcements/moe-schoolbag/
+        - title: MOE Sexuality Education
+          description: testing
+          linktext: click here
+          url: /announcements/moe-schoolbag/
+        - title: Parking Advisory for Parents
+          description: testing
+          linktext: click here
+          url: /announcements/moe-schoolbag/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - infopic:
       title: School Highlights
       button: find out more
