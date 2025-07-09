@@ -4,7 +4,7 @@ permalink: /school-information/school-highlights/p6-learning-journey-to-asian-ci
 variant: markdown
 description: ""
 ---
-### **P6 Learning Journey to Asian Civi2025**
+### **P6 Learning Journey to Asian Civilisation 2025**
 
 ##### 6 - 8 May 2025
 
