@@ -12,7 +12,12 @@ In May, our Primary 6 students embarked on a fascinating learning journey to the
 
 During the visit, students examined artefacts from a shipwreck discovered in the region, uncovering insights into maritime trade and commerce in the past. By observing these historical objects, they pieced together how trade flourished along the Singapore River and the role Singapore played as a vital trading hub.
 
+<table>
+<tbody><tr>
+		<td><img alt="childday01" src="/images/P6%20LJ%20to%20ACM%202025/p6ljacm01.jpg" style="width:450px;height:300px;"><b> 1 Graciousness moving in line to our classroom</b></td>
+		<td><img alt="childday02" src="/images/P6%20LJ%20to%20ACM%202025/p6ljacm02.jpg" style="width:450px;height:300px;"><b>Come, we will show you where to return your bowl</b></td>
+</tr></tbody></table>
+
 Beyond the artefacts, students explored various customs and traditions that shaped communities in Southeast Asia. Through interactive exhibits, they discovered how people adapted to the climate and wildlife of the region, gaining a deeper understanding of daily life in different periods of history.
 
 Through these stories, students developed a greater appreciation for the cultural connections across Southeast Asia and reflected on how Singapore’s heritage has evolved over time. This enriching experience encouraged them to think critically about history while strengthening their understanding of our nation’s diverse cultural tapestry.
-
