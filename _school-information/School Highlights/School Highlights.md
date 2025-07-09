@@ -13,7 +13,7 @@ These are the activities that the students participated for holistic learning.
 
 1. #### To Learn and Grow : 
 * ##### [Term 2 Montage 2025](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
-* ##### [Term 4 Montage 2024](/school-highlights/to-learn-and-grow/) <font size="3" color="red"></font>
+* ##### [Term 1 Montage 2025](/school-highlights/to-learn-and-grow/) <font size="3" color="red"></font>
 
 
 2. ####  Featured Events
@@ -25,6 +25,16 @@ These are the activities that the students participated for holistic learning.
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
+				<tr>
+<td><a href="/school-information/school-highlights/international-friendship-day-2025/"><img src="/images/Thumbnails/ifd2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/hari-raya-celebration-2025/"><img src="/images/Thumbnails/hariraya2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/p6-learning-journey-to-asian-civilisation-museum-2025/"><img src="/images/Thumbnails/p6ljacm2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>International Friendship Day 2025</center></th> 
+		<th><center>Hari Raya Celebration 2025</center></th> 
+		<th><center>P6 Learning Journey to Asian Civilisation Museum 2025</center></th> 			
+			</tr>
 		<tr>
 <td><a href="/school-information/school-highlights/p5-camp-2025/"><img src="/images/Thumbnails/p5camp2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/p5-hcl-learning-journey-to-sph-2025/"><img src="/images/Thumbnails/p5hclljsph2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
