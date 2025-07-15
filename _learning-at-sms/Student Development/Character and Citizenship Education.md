@@ -178,22 +178,23 @@ Student Learning Festival P3
 Student Learning Festival P4
 Student Learning Festival P5
 Student Learning Festival P6
+![](/images/Department/CCE%20Department/P1_Student_Learning_Festival.jpg)
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P1</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P1_Student_Learning_Festival.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P1</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P2</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P2_Student_Learning_Festival.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P2</b></font></center>
 </td>
-	<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P3</b></font></center>
+	<td><center><font size="3"><img src="/images/Department/CCE%20Department/P3_Student_Learning_Festival.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P3</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Chinese_painting_at_Hong_Wen_School.jpg" alt="volunteer recess ministry pv" style="width:360px;height:380px;"><b>Student Learning Festival P4</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P4_Student_Learning_Festival.jpg" alt="volunteer recess ministry pv" style="width:360px;height:380px;"><b>Student Learning Festival P4</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Drawing_a_Panda.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P5</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P5_Student_Learning_Festival.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P5</b></font></center>
 </td>
-		<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P6</b></font></center>
+		<td><center><font size="3"><img src="/images/Department/CCE%20Department/P6_Student_Learning_Festival.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P6</b></font></center>
 </td>
 </tr>
 </tbody></table>
