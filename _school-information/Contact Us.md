@@ -16,8 +16,6 @@ Singapore 228197
 
 Tel: 6339 4247
 
-Fax: 6339 4264
-
   
 
 ### Email
