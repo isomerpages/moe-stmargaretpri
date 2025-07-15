@@ -150,13 +150,6 @@ Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road
 
 *   **Cohort Learning Journeys** provide students with common experiences to explore their Singaporean identity through the arts, culture and heritage. 
 
-
-
-![](/images/Department/CCE%20Department/P3_LJ_to_Geylang_Serai_Heritage_Gallery.jpg)
-![](/images/Department/CCE%20Department/P4_LJ_to_Kreta_Ayer_Heritage_Gallery.jpg)
-![](/images/Department/CCE%20Department/P5_LJ_to_the_Indian_Heritage_Centre.jpg)
-![](/images/Department/CCE%20Department/P6_LJ_to_the_Asian_Civilisations_Museum.jpg)
-
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/CCE%20Department/P3_LJ_to_Geylang_Serai_Heritage_Gallery.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P3 LJ to Geylang Serai Heritage Gallery</b></font></center>
