@@ -83,8 +83,6 @@ __________________________________________________________
 
 &nbsp; &nbsp; &nbsp;_\* Pupils exempted from MTL will have their CCE lessons in English._
 
-  
-
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **For more information, visit SCHOOLBAG**
 
 *   **Modules**&nbsp;that focus on Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness, Mental Health and Family Education which address specific developmental needs of our students are delivered. SEd is delivered as a module for the upper primary levels, while ECG, Cyber Wellness, Mental Health and Family Education are infused within CCE (FTGP) lessons.
@@ -132,11 +130,18 @@ P4 and P1 Big Sister Programme in January
 Everyday Responsibilities
 Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road
 
+![](/images/Department/CCE%20Department/P4_and_P1_Big_Sister_Programme.jpg)
+![](/images/Department/CCE%20Department/Everyday_Responsibilities.jpg)
+![](/images/Department/CCE%20Department/Walk_for_Rice_2024.jpg)
+
+
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Visiting our Heritage Hub</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P4_and_P1_Big_Sister_Programme.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P4 and P1 Big Sister Programme in January</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Traditional Chinese drawing</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/Everyday_Responsibilities.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Everyday Responsibilities</b></font></center>
+</td>
+	<td><center><font size="3"><img src="/images/Department/CCE%20Department/Walk_for_Rice_2024.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road</b></font></center>
 </td>
 </tr>
 </tbody></table>
