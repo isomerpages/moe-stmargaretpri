@@ -132,6 +132,22 @@ P4 and P1 Big Sister Programme in January
 Everyday Responsibilities
 Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road
 
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Visiting our Heritage Hub</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Traditional Chinese drawing</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Visiting our Heritage Hub</b></font></center>
+</td>
+</tr>
+</tbody></table>
+
   
 *   **Student Leadership**&nbsp;opportunities provide the students with the platform to exhibit skills and competencies, in particular responsible decision making. Click&nbsp;[here](/learning-at-sms/student-development/student-leadership/)&nbsp;for more information.      
 
@@ -144,7 +160,20 @@ P5 LJ to the Indian Heritage Centre
 P6 LJ to the Asian Civilisations Museum
 
 
-
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Visiting our Heritage Hub</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Traditional Chinese drawing</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Chinese_painting_at_Hong_Wen_School.jpg" alt="volunteer recess ministry pv" style="width:360px;height:380px;"><b>Chinese painting at Hong Wen School</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Drawing_a_Panda.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Drawing a panda</b></font></center>
+</td>
+</tr>
+</tbody></table>
     
 *   **The Back-To-School (BTS) Programme**&nbsp;is the school’s start of semester programme for all levels. Through the activities, such as class and level bonding, lessons on peer support and friendship, students get to bond with each other, learn to support each other and relationship management.&nbsp;
 
@@ -160,7 +189,20 @@ Student Learning Festival P4
 Student Learning Festival P5
 Student Learning Festival P6
 
-
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Visiting our Heritage Hub</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Traditional Chinese drawing</b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Chinese_painting_at_Hong_Wen_School.jpg" alt="volunteer recess ministry pv" style="width:360px;height:380px;"><b>Chinese painting at Hong Wen School</b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Drawing_a_Panda.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Drawing a panda</b></font></center>
+</td>
+</tr>
+</tbody></table>
 
 ### Support Structures
 __________________________________________________________
