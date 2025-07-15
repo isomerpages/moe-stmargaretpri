@@ -120,11 +120,11 @@ Student Development experiences, through various platforms, reinforce and suppor
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/CCE%20Department/P4_and_P1_Big_Sister_Programme.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P4 and P1 Big Sister Programme in January</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P4_and_P1_Big_Sister_Programme.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"><b>P4 and P1 Big Sister Programme<br>in January</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/CCE%20Department/Everyday_Responsibilities.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Everyday Responsibilities</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/Everyday_Responsibilities.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"><b>Everyday Responsibilities</b></font></center>
 </td>
-	<td><center><font size="3"><img src="/images/Department/CCE%20Department/Walk_for_Rice_2024.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road</b></font></center>
+	<td><center><font size="3"><img src="/images/Department/CCE%20Department/Walk_for_Rice_2024.jpg" alt="volunteer recess ministry pv" style="width:400px;height:280px;"><b>Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road</b></font></center>
 </td>
 </tr>
 </tbody></table>
