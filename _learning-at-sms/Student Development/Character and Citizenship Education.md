@@ -183,7 +183,7 @@ __________________________________________________________
 
 *   **Counselling**&nbsp;for students with social, emotional and behavioural issues are provided by the school's Full Time School Counsellor.
 
-*   **Support for Students with Special Needs**  are provided by both the teachers and Special Educational Needs (SEN Officers). For more information, visit <a href="https://www.schoolbag.edu.sg/primary/">SCHOOLBAG</a>.
+*   **Support for Students with Special Needs**  are provided by both the teachers and Special Educational Needs (SEN Officers). For more information, visit <a href="https://www.schoolbag.edu.sg/primary/" target="_blank">SCHOOLBAG</a>.
 
 *   **Student Recognition**&nbsp;given through school-based and MOE awards, as well as highlighting of students successes, help reinforce school values and desired character traits. 
  
