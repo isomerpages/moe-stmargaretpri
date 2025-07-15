@@ -89,7 +89,6 @@ __________________________________________________________
 
 **For more information, click on the links below**
 
-
 <table style="border: 2px solid black;">
   <tbody><tr style="border: 2px solid black;">
     <td style="border: 1px solid black; font-size: 18px;"><b>Module</b></td>
@@ -104,9 +103,8 @@ An online portal that facilitates education and career development among student
 </td></tr>
 	 <tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 18px;"><b>Cyberwellness</b></td>
-    <td style="border: 1px solid black;"><ul><li><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" target="_blank">How you can support your child</a></li></ul></td><td>
-  </td></tr>
-	 <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;"><ul><li><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" target="_blank">How you can support your child</a></li></ul></td></tr>
+	<tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 18px;"><b>Sexuality Education</b></td>
     <td style="border: 1px solid black;"><ul><li>Please click <a href="/learning-at-sms/student-development/2025-moe-sexuality-education-programme/" target="_blank">here</a> to find out more</li></ul></td>
 		</tr>
@@ -125,15 +123,6 @@ Student Development experiences, through various platforms, reinforce and suppor
 *   **Co-Curricular Activities (CCA)**&nbsp;is a main platform for the students to apply Social-Emotional Learning (SEL) competencies learnt in the lessons and put into practice the school values.&nbsp;Please click&nbsp;[here](/learning-at-sms/co-curricular-activities/cca-framework-and-policies/)&nbsp;for more information.
 
 *   The&nbsp;**Values in Action (VIA)**&nbsp;programme provide an avenue for the students to understand the needs in the community and nation and show care and concern for others less fortunate than themselves. Besides serving in the community, VIA also includes putting into practise the school values daily.
-
-P4 and P1 Big Sister Programme in January
-Everyday Responsibilities
-Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road
-
-![](/images/Department/CCE%20Department/P4_and_P1_Big_Sister_Programme.jpg)
-![](/images/Department/CCE%20Department/Everyday_Responsibilities.jpg)
-![](/images/Department/CCE%20Department/Walk_for_Rice_2024.jpg)
-
 
 <table>
 <tbody><tr>
