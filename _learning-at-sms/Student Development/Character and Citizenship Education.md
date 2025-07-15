@@ -172,14 +172,6 @@ Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road
 *   **Student Learning Festival:**
     The student learning festival provides students with an opportunity to pick up skills beyond what is taught usually in the classrooms. Through the festival we hope to highlight to students that lifelong learning is a journey and that learning goes beyond the textbooks and worksheets. Please click <a href="https://www.stmargaretspri.moe.edu.sg/school-information/school-highlights/student-learning-festival-2024/">here</a> for more photographs.
 
-Student Learning Festival P1
-Student Learning Festival P2
-Student Learning Festival P3
-Student Learning Festival P4
-Student Learning Festival P5
-Student Learning Festival P6
-![](/images/Department/CCE%20Department/P1_Student_Learning_Festival.jpg)
-
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/CCE%20Department/P1_Student_Learning_Festival.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P1</b></font></center>
