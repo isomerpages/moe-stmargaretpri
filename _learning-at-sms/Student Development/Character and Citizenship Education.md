@@ -181,15 +181,19 @@ Student Learning Festival P6
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Visiting our Heritage Hub</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P1</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Traditional Chinese drawing</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P2</b></font></center>
+</td>
+	<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P3</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Chinese_painting_at_Hong_Wen_School.jpg" alt="volunteer recess ministry pv" style="width:360px;height:380px;"><b>Chinese painting at Hong Wen School</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Chinese_painting_at_Hong_Wen_School.jpg" alt="volunteer recess ministry pv" style="width:360px;height:380px;"><b>Student Learning Festival P4</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Drawing_a_Panda.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Drawing a panda</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Drawing_a_Panda.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P5</b></font></center>
+</td>
+		<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student Learning Festival P6</b></font></center>
 </td>
 </tr>
 </tbody></table>
