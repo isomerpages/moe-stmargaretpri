@@ -31,17 +31,11 @@ CCE 2021 aims to develop in our students:&nbsp;
 
 **a) Good character:**&nbsp;Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence;&nbsp;
 
-  
-
 **b) Resilience and social-emotional well-being:**&nbsp;Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation;&nbsp;
-
-  
 
 **c) Future readiness:**&nbsp;Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work and life; and&nbsp;
 
 **d) Active citizenship:**&nbsp;Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation.&nbsp;
-
-  
 
 _(Source: CCE Teaching and Learning Syllabus (Primary) 2021)_
 
@@ -83,7 +77,7 @@ __________________________________________________________
 
 &nbsp; &nbsp; &nbsp;_\* Pupils exempted from MTL will have their CCE lessons in English._
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **For more information, visit SCHOOLBAG**
+**For more information, visit** <a href="https://www.schoolbag.edu.sg/primary/" target="_blank"><b>SCHOOLBAG</b></a>
 
 *   **Modules**&nbsp;that focus on Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness, Mental Health and Family Education which address specific developmental needs of our students are delivered. SEd is delivered as a module for the upper primary levels, while ECG, Cyber Wellness, Mental Health and Family Education are infused within CCE (FTGP) lessons.
 
@@ -103,7 +97,7 @@ An online portal that facilitates education and career development among student
 </td></tr>
 	 <tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 18px;"><b>Cyberwellness</b></td>
-    <td style="border: 1px solid black;"><ul><li><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" target="_blank">How you can support your child</a></li></ul></td></tr>
+    <td style="border: 1px solid black;"><ul><li><a href="https://www.schoolbag.edu.sg/primary/" target="_blank">Articles on Schoolbag</a></li></ul></td></tr>
 	<tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 18px;"><b>Sexuality Education</b></td>
     <td style="border: 1px solid black;"><ul><li>Please click <a href="/learning-at-sms/student-development/2025-moe-sexuality-education-programme/" target="_blank">here</a> to find out more</li></ul></td>
