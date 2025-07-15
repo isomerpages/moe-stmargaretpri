@@ -151,25 +151,23 @@ Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road
 *   **Cohort Learning Journeys** provide students with common experiences to explore their Singaporean identity through the arts, culture and heritage. 
 
 
-P3 LJ to Geylang Serai Heritage Gallery
-P4 LJ to Kreta Ayer Heritage Gallery
-P5 LJ to the Indian Heritage Centre
-P6 LJ to the Asian Civilisations Museum
 
-
-
+![](/images/Department/CCE%20Department/P3_LJ_to_Geylang_Serai_Heritage_Gallery.jpg)
+![](/images/Department/CCE%20Department/P4_LJ_to_Kreta_Ayer_Heritage_Gallery.jpg)
+![](/images/Department/CCE%20Department/P5_LJ_to_the_Indian_Heritage_Centre.jpg)
+![](/images/Department/CCE%20Department/P6_LJ_to_the_Asian_Civilisations_Museum.jpg)
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Visiting our Heritage Hub</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P3_LJ_to_Geylang_Serai_Heritage_Gallery.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P3 LJ to Geylang Serai Heritage Gallery</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Traditional_Chinese_Drawing.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Traditional Chinese drawing</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P4_LJ_to_Kreta_Ayer_Heritage_Gallery.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P4 LJ to Kreta Ayer Heritage Gallery</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Chinese_painting_at_Hong_Wen_School.jpg" alt="volunteer recess ministry pv" style="width:360px;height:380px;"><b>Chinese painting at Hong Wen School</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P5_LJ_to_the_Indian_Heritage_Centre.jpg" alt="volunteer recess ministry pv" style="width:360px;height:300px;"><b>P5 LJ to the Indian Heritage Centre</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Drawing_a_Panda.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Drawing a panda</b></font></center>
+<td><center><font size="3"><img src="/images/Department/CCE%20Department/P6_LJ_to_the_Asian_Civilisations_Museum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P6 LJ to the Asian Civilisations Museum</b></font></center>
 </td>
 </tr>
 </tbody></table>
