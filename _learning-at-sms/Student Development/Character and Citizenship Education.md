@@ -145,14 +145,6 @@ Walk for Rice 2024 cum Cohort Visit to 136 Sophia Road
 </td>
 </tr>
 </tbody></table>
-
-<table>
-<tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Visiting_our_heritage_hub.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Visiting our Heritage Hub</b></font></center>
-</td>
-</tr>
-</tbody></table>
-
   
 *   **Student Leadership**&nbsp;opportunities provide the students with the platform to exhibit skills and competencies, in particular responsible decision making. Click&nbsp;[here](/learning-at-sms/student-development/student-leadership/)&nbsp;for more information.      
 
@@ -163,6 +155,8 @@ P3 LJ to Geylang Serai Heritage Gallery
 P4 LJ to Kreta Ayer Heritage Gallery
 P5 LJ to the Indian Heritage Centre
 P6 LJ to the Asian Civilisations Museum
+
+
 
 
 <table>
