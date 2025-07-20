@@ -36,11 +36,4 @@ sections:
       url: /useful-links/resources-for-teachers/
       image: /images/Homepage/masterhead_for_resources_2025.jpg
       alt: masterhead for resources
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
