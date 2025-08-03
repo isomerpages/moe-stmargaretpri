@@ -2,21 +2,60 @@
 title: Home Based Learning
 permalink: /learning-at-sms/home-based-learning/
 description: ""
+variant: markdown
 ---
 Dear Students,
 
-Your teachers will email your parents the Home Based Learning (HBL) Timetable at least 1 day before the commencement of HBL for the week.
+##### Understanding Your Home-Based Learning (HBL) Assignments
 
-More information will be provided at a later date.
-  
+On HBL days, all students will have assignments to complete. Here's a simple guide to what to expect:
+ 
+What Subjects Will Have Assignments?
+* Primary 1 &amp; 2: You will have assignments for English, Math, and Mother Tongue.
+* Primary 3, 4 &amp; 5: You will have assignments for English, Math, Science, and Mother Tongue.
 
-<a href="/files/hbl support 2023_t2.pdf" target="_blank">Home Based Learning (HBL) Support Information 2023</a>
+Types of Assignments:
+
+For each subject, there will be at least one assignment on the SLS (Student Learning Space) platform. Some teachers might also give you extra assignments that you do offline, like worksheets or composition writing.
+
+Completing Your Assignments:
+
+You usually have one week to finish your HBL assignments. However, the school strongly encourages you to complete all your assignments on the actual HBL day itself. If you attend student care at school, you should complete your HBL assignments using the devices provided there. If you have any problems or questions about your assignments, you can ask your teachers on the next school day.
+Important Reminders for SLS:
+
+* SLS Password Reset: If you forget your SLS password, you can ask your subject teacher for help, or click "Forget Password" on the SLS login page.
+* Check Your SLS Access: Please make sure you can log into SLS and know your username and password before Monday, 5th August.
+* Avoid Lockouts: Be careful not to try logging in incorrectly too many times, as this can lock you out of your account.
+* If You Get Locked Out: If your SLS account gets locked during HBL, please send an email to the school with your full name and class so they can help you.
+
+
+Here is a quick guide for students to log into Microsoft Teams:
+To log into Microsoft Teams, students will typically use their school-provided login ID and password. Here are the general steps:
+
+1. Open Microsoft Teams:
+<br>a.	If using a computer, open the Microsoft Teams application or go to the Microsoft Teams website (https://www.google.com/search?q=teams.microsoft.com) or https://www.microsoft.com/en-us/microsoft-teams/log-in  in a web browser.
+<br>b.	If using a mobile device, open the Microsoft Teams app.
+
+2. Enter Login ID (Username):
+<br>a.	When prompted, enter your school-provided login ID. This is usually your student email address (e.g., yourstudentID@moe.edu.sg) or a specific username format given by the school.
+
+3. Enter Password:
+<br>a.	Next, enter your school-provided password. This is the same password you use for other school accounts like SLS or your school email.
+
+4. Sign In:
+<br>a.	Click or tap "Sign in" or "Next."
+
+5. Stay Signed In (Optional):
+<br>a.	You might be asked if you want to stay signed in. For personal devices, choosing "Yes" can make future logins quicker. For shared devices, it's generally better to choose "No."
+
+If students encounter any issues logging in, they should contact their subject teacher or the school's general office support for assistance.
+
+<a href="/files/hbl support 2023_t2.pdf" target="_blank">Home Based Learning (HBL) Support Information 2025</a>
 
 
 #### Guides for Students
 
 
-<table class="ive_eobj_left ives_tab_kosong" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed; width: 651.218px; height: 462px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 651px;"><a class="refobj" href="/files/Live%20Lesson%20Expectations.pdf" style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; color: rgb(42, 86, 41); font-weight: 500; text-decoration: underline; background-repeat: no-repeat; font-size: 17px; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">Live Lesson Expectations.pdf</a><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><a class="refobj" href="/files/padlet%20guide.pdf" style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; color: rgb(42, 86, 41); font-weight: 500; text-decoration: underline; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">padlet guide.pdf</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><a class="refobj" href="/files/How%20to%20use%20Office%20lens%20App%20with%20iPhone.pdf" style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; color: rgb(42, 86, 41); font-weight: 500; text-decoration: underline; background-repeat: no-repeat; font-size: 17px; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;">How to use Office lens App with iPhone.pdf</font></a><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 17px;">&nbsp;</span><font size="4" style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;<a class="refobj" href="/files/How%20to%20use%20Office%20lens%20App%20with%20Android%20Phone.pdf" style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; color: rgb(42, 86, 41); font-weight: 500; text-decoration: underline; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">How to use Office lens App with Android Phone.pdf</a>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;<a class="refobj" href="/files/Zoom%20Guide%20for%20students%2011%20July.pdf" style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; color: rgb(42, 86, 41); font-weight: 500; text-decoration: underline; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">Zoom Guide for students_11 July.pdf</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;<a class="refobj" href="/files/Google%20Meet%20Guide%20from%20SLS%20for%20Students.pdf" style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; color: rgb(42, 86, 41); font-weight: 500; text-decoration: underline; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">Google Meet Guide from SLS- for Students.pdf</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;<a class="refobj" href="/files/Collect%20your%20marked%20assignment%20using%20the%20Google%20Drive%20link%20given%20by%20your%20teacher%20in%20SLS.pdf" style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; color: rgb(42, 86, 41); font-weight: 500; text-decoration: underline; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">Collect your marked assignment using the Google Drive link given by your teacher in SLS.pdf</a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">&nbsp;<a class="refobj" href="/files/Commonly%20encountered%20problems%20when%20using%20Google%20Meet.pdf" style="margin: 0px; outline: 0px; padding: 0px 4px 0px 18px; color: rgb(42, 86, 41); font-weight: 500; text-decoration: underline; background-repeat: no-repeat; background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;);">Commonly encountered problems when using Google Meet.pdf</a>&nbsp;</td></tr></tbody></table>
 
 #### Parents Info Hub
 
@@ -30,7 +69,7 @@ More information will be provided at a later date.
 
 #### 1. School Operating Hours
 
-During school operating hours, students should contact 6339 4247 for queries related to password reset and unlocking of accounts. For queries related to subject matters, kindly email the respective subject teachers.  
+During school operating hours, students should contact 6339 4247 for queries related to password reset and unlocking of accounts. For queries related to subject matters, kindly email the respective subject teachers.
 
 School-based Helpline: **6339 4247**
 
@@ -39,9 +78,10 @@ Mondays - Fridays: **8:00 a.m - 4:00 p.m**
 For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
 
+
 #### 2. Non-School Operating Hours
 
-Students can only contact the SLS Helpdesk after the school operating hours.  
+Students can only contact the SLS Helpdesk after the school operating hours.
 
 SLS Helpdesk: **6702 6513**
 
@@ -49,16 +89,14 @@ Mondays - Fridays: **4:00 p.m - 9:00 p.m**
 
 Saturdays: **9:00 am - 9:00 p.m**
 
-\*Closed on Sundays &amp; Public Holidays
-
-Alternatively, students can email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+*Closed on Sundays &amp; Public Holidays
+Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
  
 ### FAQ
 
 ##### 1. Student Forget Username  
 
- 
 Your SLS username is usually the first 5 characters of your full name and last 4 digits of birth cert or NRIC together with the alphabet, e.g. TANAH2345X.
 
 _Note: Usernames will not contain spaces or special characters such as apostrophes (') and hyphens (-)._
