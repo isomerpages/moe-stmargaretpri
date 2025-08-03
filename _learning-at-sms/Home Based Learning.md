@@ -55,7 +55,9 @@ If students encounter any issues logging in, they should contact their subject t
 
 #### Guides for Students
 
+[Live Lesson Expectations](Live Lesson Expectations)
 
+[Guide to access Padlet](Guide to access Padlet)
 
 #### Parents Info Hub
 
