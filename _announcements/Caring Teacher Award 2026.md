@@ -10,4 +10,6 @@ description: ""
 
 The Caring Teacher Awards (CTA) celebrate educators who exemplify care and compassion in their teaching, going beyond the call of duty to nurture the holistic development of their students. These dedicated teachers play a vital role in shaping confident, independent, and resilient learners who contribute meaningfully to our nation.
 
-Make your nomination today!
+Make your nomination today! Click [here](https://www.cta.nie.edu.sg/) to nominate.
+
+Nomination closing date: **31 December 2025**
