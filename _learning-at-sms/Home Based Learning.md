@@ -50,7 +50,7 @@ To log into Microsoft Teams, students will typically use their school-provided l
 
 If students encounter any issues logging in, they should contact their subject teacher or the school's general office support for assistance.
 
-<a href="/files/hbl support 2023_t2.pdf" target="_blank">Home Based Learning (HBL) Support Information 2025</a>
+<a href="/files/HBL support 2025.pdf" target="_blank">Home Based Learning (HBL) Support Information 2025</a>
 
 
 #### Guides for Students
