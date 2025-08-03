@@ -10,54 +10,55 @@ Dear Students,
 
 On HBL days, all students will have assignments to complete. Here's a simple guide to what to expect:
  
-What Subjects Will Have Assignments?
-* Primary 1 &amp; 2: You will have assignments for English, Math, and Mother Tongue.
-* Primary 3, 4 &amp; 5: You will have assignments for English, Math, Science, and Mother Tongue.
+##### What Subjects Will Have Assignments?
+* **Primary 1 &amp; 2:** You will have assignments for English, Math, and Mother Tongue.
+* **Primary 3, 4 &amp; 5:** You will have assignments for English, Math, Science, and Mother Tongue.
 
-Types of Assignments:
+##### Types of Assignments:
 
-For each subject, there will be at least one assignment on the SLS (Student Learning Space) platform. Some teachers might also give you extra assignments that you do offline, like worksheets or composition writing.
+For each subject, there will be at least one assignment on the **SLS (Student Learning Space)** platform. Some teachers might also give you extra assignments that you do offline, like worksheets or composition writing.
 
-Completing Your Assignments:
+##### Completing Your Assignments:
 
 You usually have one week to finish your HBL assignments. However, the school strongly encourages you to complete all your assignments on the actual HBL day itself. If you attend student care at school, you should complete your HBL assignments using the devices provided there. If you have any problems or questions about your assignments, you can ask your teachers on the next school day.
-Important Reminders for SLS:
 
-* SLS Password Reset: If you forget your SLS password, you can ask your subject teacher for help, or click "Forget Password" on the SLS login page.
-* Check Your SLS Access: Please make sure you can log into SLS and know your username and password before Monday, 5th August.
-* Avoid Lockouts: Be careful not to try logging in incorrectly too many times, as this can lock you out of your account.
-* If You Get Locked Out: If your SLS account gets locked during HBL, please send an email to the school with your full name and class so they can help you.
+##### Important Reminders for SLS:
+
+* **SLS Password Reset:** If you forget your SLS password, you can ask your subject teacher for help, or click "Forget Password" on the SLS login page.
+* **Check Your SLS Access:** Please make sure you can log into SLS and know your username and password **before Monday, 4th August**.
+* **Avoid Lockouts:** Be careful not to try logging in incorrectly too many times, as this can lock you out of your account.
+* **If You Get Locked Out:** If your SLS account gets locked during HBL, please send an email to the school with your full name and class so they can help you.
 
 
 Here is a quick guide for students to log into Microsoft Teams:
 To log into Microsoft Teams, students will typically use their school-provided login ID and password. Here are the general steps:
 
-1. Open Microsoft Teams:
+1. **Open Microsoft Teams:**
 <br>a.	If using a computer, open the Microsoft Teams application or go to the Microsoft Teams website (https://www.google.com/search?q=teams.microsoft.com) or https://www.microsoft.com/en-us/microsoft-teams/log-in  in a web browser.
 <br>b.	If using a mobile device, open the Microsoft Teams app.
-
-2. Enter Login ID (Username):
+<br>
+2. **Enter Login ID (Username):**
 <br>a.	When prompted, enter your school-provided login ID. This is usually your student email address (e.g., yourstudentID@moe.edu.sg) or a specific username format given by the school.
-
-3. Enter Password:
+<br>
+3. **Enter Password:**
 <br>a.	Next, enter your school-provided password. This is the same password you use for other school accounts like SLS or your school email.
-
-4. Sign In:
+<br>
+4. **Sign In:**
 <br>a.	Click or tap "Sign in" or "Next."
-
-5. Stay Signed In (Optional):
+<br>
+5. **Stay Signed In (Optional):**
 <br>a.	You might be asked if you want to stay signed in. For personal devices, choosing "Yes" can make future logins quicker. For shared devices, it's generally better to choose "No."
-
+<br>
 If students encounter any issues logging in, they should contact their subject teacher or the school's general office support for assistance.
 
-<a href="/files/HBL support 2025.pdf" target="_blank">Home Based Learning (HBL) Support Information 2025</a>
+<a href="/files/HBL_support_2025.pdf" target="_blank">Home Based Learning (HBL) Support Information 2025</a>
 
 
 #### Guides for Students
 
-[Live Lesson Expectations](Live Lesson Expectations)
+<a href="/files/Live_Lesson_Expectations_2025.pdf" target="_blank">Live Lesson Expectations</a>
 
-[Guide to access Padlet](Guide to access Padlet)
+<a href="/files/Guide_to_access_Padlet_2025.pdf" target="_blank">Guide to access Padlet</a>
 
 #### Parents Info Hub
 
@@ -66,6 +67,7 @@ If students encounter any issues logging in, they should contact their subject t
 2. <a href="/files/Resource Kit - HBL (Part 2).pdf" target="_blank">Resource Kit - HBL (Part 2)</a>
 
 3. <a href="/files/Resource Kit - HBL (Part 3).pdf" target="_blank">Resource Kit - HBL (Part 3)</a>
+
 
 ### HBL Support Information
 
