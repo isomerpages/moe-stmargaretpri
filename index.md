@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Masterhead_big.jpg
+      background: /images/Frontpage/SMGPS38_2025.jpg
       key_highlights:
         - title: Announcement
           description: ""
