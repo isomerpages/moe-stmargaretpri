@@ -6,7 +6,7 @@ variant: markdown
 ---
 Dear Students,
 
-##### Understanding Your Home-Based Learning (HBL) Assignments
+#### Understanding Your Home-Based Learning (HBL) Assignments
 
 On HBL days, all students will have assignments to complete. Here's a simple guide to what to expect:
  
