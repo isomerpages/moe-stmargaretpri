@@ -7,11 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Masterhead_big.jpg
+      background: /images/Frontpage/SMGPS38_2025.jpg
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/moe-schoolbag/
+          url: /announcements/caring-teacher-award-2026/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
