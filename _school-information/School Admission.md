@@ -32,5 +32,7 @@ For information on Primary School Education, please refer to the MOE website at&
 ### Leave of Absence Application
 
   
-If you are applying LOA for your child, please click on this&nbsp;[link](http://for.edu.sg/smpsloa2021). &nbsp;  
+If you are applying LOA for your child, please click on this&nbsp;[link](https://go.gov.sg/loasmsp). &nbsp;  
 The application form takes approximately 10 mins to complete. Please read the instructions carefully before applying for LOA.
+
+To facilitate our processing, please submit the application form at least one month before your child’s intended start date of LOA.
