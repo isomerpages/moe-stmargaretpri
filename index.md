@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/national-day-off-in-lieu-2025/
+          url: /announcements/smsp-visit/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/

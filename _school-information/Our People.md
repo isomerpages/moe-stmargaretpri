@@ -463,13 +463,14 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Mei Sze (Mrs Lim)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo
+Huan Pei</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Doris Ng Lay Cheng (Mrs Loo)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Ngoh Moon Geok (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Angel Soh Siu Ling (Mrs Chan) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Miss Teo Bee Poh (Ms Teo)</span><br></td>
   </tr>
 </tbody>
 </table>
@@ -683,7 +684,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 GRACIOUSNESS </span></td>
     <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Chung Hui Yee (Mrs Thong)</span></td>
+		 <td class="tg-fxx4"><span style="color:#222">Michelle Kok Meixia (Mrs Ng)<br>Chung Hui Yee (Mrs Thong)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
@@ -785,6 +786,10 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mdm Lilia Loh Moh Khiaw</span></td>
     <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
   </tr>
+		 <tr>
+   <td class="tg-fxx4"><span style="color:#222">Ms Lim Ming Hui</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Siti Nur Hidayah</span></td>
     <td class="tg-fxx4"><span style="color:#222">ICT Associate </span></td>
@@ -813,7 +818,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Eleanor Chow Ee Ching</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Kelly Lim Jia Yi</span></td>
     <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
   </tr>
 	<tr>
