@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - National Day Off in lieu 2025.md
       - Caring Teacher Awards 2026.md
       - MOE Schoolbag.md
       - MOE Sexuality Education Programme 2025.md
