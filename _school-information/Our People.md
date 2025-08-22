@@ -463,13 +463,14 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Mei Sze (Mrs Lim)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo
+Huan Pei</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Doris Ng Lay Cheng (Mrs Loo)</span><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 TENACITY </span></td>
     <td class="tg-fxx4"><span style="color:#222">Ngoh Moon Geok (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Angel Soh Siu Ling (Mrs Chan) </span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Miss Teo Bee Poh (Ms Teo)</span><br></td>
   </tr>
 </tbody>
 </table>
