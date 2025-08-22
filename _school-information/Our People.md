@@ -684,7 +684,7 @@ Huan Pei</span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 GRACIOUSNESS </span></td>
     <td class="tg-fxx4"><span style="color:#222">Ng Ley Tin (Mrs Chin)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Chung Hui Yee (Mrs Thong)</span></td>
+		 <td class="tg-fxx4"><span style="color:#222">Ms Michelle Kok Meixia (Mrs Ng)<br>Chung Hui Yee (Mrs Thong)</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">6 HUMILITY</span></td>
