@@ -785,6 +785,10 @@ The Functions and Duties of the School Management Committee are found in the Con
     <td class="tg-fxx4"><span style="color:#222">Mdm Lilia Loh Moh Khiaw</span></td>
     <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
   </tr>
+		 <tr>
+   <td class="tg-fxx4"><span style="color:#222">Ms Lim Ming Hui</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Special Educational Needs Officer</span></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Ms Siti Nur Hidayah</span></td>
     <td class="tg-fxx4"><span style="color:#222">ICT Associate </span></td>
@@ -813,7 +817,7 @@ The Functions and Duties of the School Management Committee are found in the Con
 <tbody>
   
   <tr>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Eleanor Chow Ee Ching</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Kelly Lim Jia Yi</span></td>
     <td class="tg-fxx4"><span style="color:#222">Librarian</span></td>
   </tr>
 	<tr>
