@@ -33,7 +33,7 @@ We will adhere strictly to the timings above.
 
 Do register for your visit by **1 Sep 2025 (Mon)** so that the necessary arrangements can be made. 
 
-If you are unable to make it within the stipulated timing, you may pen your well-wishes for your teachers [here](https://go.gov.sg/smpstrdaynote2025).
+If you are unable to make it within the stipulated timing, you may pen your well-wishes for your teachers [here](https://go.gov.sg/smsptrsdaynote2025).
 
 We will only accept 1 registration per person. 
 
