@@ -39,8 +39,4 @@ We will only accept 1 registration per person.
 
 You will be de-registered if you submit for different days. 
 
-We look forward to seeing you! 
-
-
-
-
+We look forward to seeing you!
