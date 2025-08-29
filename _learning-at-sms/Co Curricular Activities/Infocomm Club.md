@@ -129,7 +129,7 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" fram
 	<tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2025</span></td>
     <td class="tg-ktyi">Singapore Infocomm Challenge</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Best Animation Design category ⚜️ Diamond Award</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Best Animation Design category <br>⚜️ Diamond Award</span></td>
   </tr>
 	<tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
