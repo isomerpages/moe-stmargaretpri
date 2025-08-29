@@ -79,7 +79,7 @@ P3 and P4 student learning how to assemble a tripod</b></font></center></td>
 
 #### Singapore Infocomm Challenge 2025
 
-We’re proud to announce that our talented team from Infocomm Club has won the Diamond Award in the Best Animation Design category at the Singapore Infocomm Challenge 2025! 
+We’re proud to announce that our talented team from Infocomm Club has won the **Diamond Award** in the Best Animation Design category at the Singapore Infocomm Challenge 2025! 
 
 Congratulations to the team which consists of Victoria Chua, Megan Ng and Sierra Fong from Primary 5! Their winning cyber wellness animation video was both creative and meaningful. It also showcased outstanding teamwork and dedication. 
 
