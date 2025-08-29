@@ -86,13 +86,13 @@ Congratulations to the team which consists of Victoria Chua, Megan Ng and Sierra
 With great teamwork and effort, the students ignite LIGHT and spark possibilities!
 
 ![](/images/CCAs/Infocomm%20Club/SIC_Prize_2025.jpg)
-<center>Let’s give them a round of applause for making our school proud!</center>
+<center><b>Let’s give them a round of applause for making our school proud!</b></center>
 
 <table>
 <tbody>
 	<tr>
-		<td><img alt="mushrm01" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_1.jpg" style="width:500px;height:350px;"><b></b></td>
-		<td><img alt="mushrm02" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_2.jpg" style="width:500px;height:350px;"><b></b></td>
+		<td><img alt="mushrm01" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_1.jpg" style="width:500px;height:330px;"><b></b></td>
+		<td><img alt="mushrm02" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_2.jpg" style="width:500px;height:330px;"><b></b></td>
 		</tr><tr><td colspan="2"><center><b></b></center></td>
 </tr></tbody></table>
 <table>
