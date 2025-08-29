@@ -144,7 +144,7 @@ Creating e-posters for school’s Mid-autumn festival activities</td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2018</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Creating Preshow video (Students Once More) for school concert (Yesterday Once More)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Creating Preshow video (Students Once More)<br> for school concert (Yesterday Once More)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
   </tr>
   <tr>
