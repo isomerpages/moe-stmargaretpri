@@ -98,7 +98,7 @@ With great teamwork and effort, the students ignite LIGHT and spark possibilitie
 <table>
 <tbody>
 	<tr>
-		<td><center><img alt="mushrm01" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_3.jpg" style="width:350px;height:400px;"><b></b></center></td></tr>
+		<td><center><img alt="mushrm01" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_3.jpg" style="width:400px;height:400px;"><b></b></center></td></tr>
 </tbody></table>
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; 
