@@ -101,6 +101,11 @@ P3 and P4 student learning how to assemble a tripod</b></font></center></td>
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2025</span></td>
+    <td class="tg-ktyi">Singapore Infocomm Challenge</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Best Animation ⚜️ Diamond</span></td>
+  </tr>
+	<tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
     <td class="tg-ktyi">Creating P6 Graduation video<br>
 Creating e-posters for school’s Mid-autumn festival activities</td>
