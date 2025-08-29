@@ -101,7 +101,8 @@ With great teamwork and effort, the students ignite LIGHT and spark possibilitie
 		<td><center><img alt="mushrm01" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_3.jpg" style="width:350px;height:400px;"><b></b></center></td></tr>
 </tbody></table>
 
-
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/coaY4YVoURw?si=Zfd-ZyuD_sFLjHJS" height="415" width="700"></iframe></center>
 
 ### Highlights &amp; Achievements
 
