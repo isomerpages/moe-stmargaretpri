@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Frontpage/SMGPS38_2025.jpg
+      background: /images/Frontpage/SMGPS38_2025_01.jpg
       key_highlights:
         - title: Announcement
           description: ""
