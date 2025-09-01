@@ -77,6 +77,32 @@ P3 and P4 student learning how to assemble a tripod</b></font></center></td>
 </center></td></tr>
 </tbody></table>
 
+#### Singapore Infocomm Challenge 2025
+
+We’re proud to announce that our talented team from Infocomm Club has won the <br>**Diamond Award** in the Best Animation Design category at the Singapore Infocomm Challenge 2025! 
+
+Congratulations to the team which consists of Victoria Chua, Megan Ng and Sierra Fong from Primary 5! Their winning cyber wellness animation video was both creative and meaningful. It also showcased outstanding teamwork and dedication. 
+
+With great teamwork and effort, the students ignite LIGHT and spark possibilities!
+
+![](/images/CCAs/Infocomm%20Club/SIC_Prize_2025.jpg)
+<center><b>Let’s give them a round of applause for making our school proud!</b></center>
+
+<table>
+<tbody>
+	<tr>
+		<td><img alt="mushrm01" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_1.jpg" style="width:500px;height:330px;"><b></b></td>
+		<td><img alt="mushrm02" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_2.jpg" style="width:500px;height:330px;"><b></b></td>
+		</tr><tr><td colspan="2"><center><b></b></center></td>
+</tr></tbody></table>
+<table>
+<tbody>
+	<tr>
+		<td><center><img alt="mushrm01" src="/images/CCAs/Infocomm%20Club/2025_SIC_Screenshot_3.jpg" style="width:500px;height:400px;"><b></b></center></td></tr>
+</tbody></table>
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/coaY4YVoURw?si=Zfd-ZyuD_sFLjHJS" height="415" width="700"></iframe></center>
 
 ### Highlights &amp; Achievements
 
@@ -101,6 +127,11 @@ P3 and P4 student learning how to assemble a tripod</b></font></center></td>
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2025</span></td>
+    <td class="tg-ktyi">Singapore Infocomm Challenge</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Best Animation Design category ⚜️ Diamond Award</span></td>
+  </tr>
+	<tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
     <td class="tg-ktyi">Creating P6 Graduation video<br>
 Creating e-posters for school’s Mid-autumn festival activities</td>
@@ -113,7 +144,7 @@ Creating e-posters for school’s Mid-autumn festival activities</td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2018</span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Creating Preshow video (Students Once More) for school concert (Yesterday Once More)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Creating Preshow video (Students Once More)<br> for school concert (Yesterday Once More)</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">-</span></td>
   </tr>
   <tr>
