@@ -63,7 +63,7 @@ __________________________________________________________
 <tbody>
   <tr>
     <td class="tg-5env">CCE (FTGP) &amp; CCE (MT) lessons<br>Social Studies lessons<br>Programme for Active Learning (PAL)<br>Assemblies 1 &amp; 2<br>Infusion into other subjects  </td>
-    <td>Co-Curricular Activities <a href="/learning-at-sms/co-curricular-activities/cca-framework-and-policies/">CCA</a><br>Education and Career Guidance (ECG) Experiences<br>Values in Action (VIA)<br>National Education (NE) Days<br>Commemorative Days<br><a href="https://www.stmargaretspri.moe.edu.sg/learning-at-sms/student-development/student-leadership/">Student Leadership</a> Development Programmes<br>Cohort Learning Journeys<br>Level Camps<br><a href="https://www.stmargaretspri.moe.edu.sg/school-information/school-highlights/student-learning-festival-2025/">Student Learning Festival<br><br></a></td>
+    <td>Co-Curricular Activities <a href="/learning-at-sms/co-curricular-activities/cca-framework-and-policies/">CCA</a><br>Education and Career Guidance (ECG) Experiences<br>Values in Action (VIA)<br>National Education (NE) Days<br>Commemorative Days<br><a href="https://www.stmargaretspri.moe.edu.sg/learning-at-sms/student-development/student-leadership/">Student Leadership</a> Development Programmes<br>Cohort Learning Journeys<br>Level Camps<br><a href="https://www.stmargaretspri.moe.edu.sg/school-information/school-highlights/student-learning-festival-2024/">Student Learning Festival<br><br></a></td>
     <td class="tg-5env">Morning Devotion<br>Discipline<br>Counselling<br>Special Educational Needs<br>Student Recognition<br>Student Reflections<br>Partnerships<br>Staff Development<br><br></td>
   </tr>
 </tbody>
@@ -153,7 +153,7 @@ Student Development experiences, through various platforms, reinforce and suppor
 *   **Level Camps**&nbsp;are platforms for each level to bond with the level, their classes and teachers. Through the activities in the camps, helmed by each subject, we hope to instill the Joy of Learning and the school value for the level in the students.&nbsp;Please click <a href="https://www.stmargaretspri.moe.edu.sg/school-information/school-highlights/permalink/">here</a> for more photographs.
 
 *   **Student Learning Festival:**
-    The student learning festival provides students with an opportunity to pick up skills beyond what is taught usually in the classrooms. Through the festival we hope to highlight to students that lifelong learning is a journey and that learning goes beyond the textbooks and worksheets. Please click <a href="https://www.stmargaretspri.moe.edu.sg/school-information/school-highlights/student-learning-festival-2025/">here</a> for more photographs.
+    The student learning festival provides students with an opportunity to pick up skills beyond what is taught usually in the classrooms. Through the festival we hope to highlight to students that lifelong learning is a journey and that learning goes beyond the textbooks and worksheets. Please click <a href="https://www.stmargaretspri.moe.edu.sg/school-information/school-highlights/student-learning-festival-2024/">here</a> for more photographs.
 
 <table>
 <tbody><tr>
