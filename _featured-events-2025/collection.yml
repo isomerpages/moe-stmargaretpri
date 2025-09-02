@@ -2,6 +2,7 @@ collections:
   featured-events-2025:
     output: true
     order:
+      - Student Learning Festival 2025.md
       - P4 Learning Journey to Kreta Ayer Heritage Gallery 2025.md
       - P4 Sports Education Programme 2025.md
       - P6 Learning Journey to Asian Civilisation Museum 2025.md
