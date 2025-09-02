@@ -19,8 +19,8 @@ Other than improving physical fitness, Kin-Ball is designed to be accessible and
 Feedback from students:
 
 I learnt that Kin-Ball originated in Canada and that it was invented in 1986. I have learnt a lot from this game, such as how to work together as a group to receive the ball. I enjoyed it very much as it was fun. However, some of the groups were too soft so we could not hear it when they called our group, resulting in us not moving towards the ball and receiving it in time.
-***~ Alayna Falisha, 4 Tenacity ~***
+<br>***~ Alayna Falisha, 4 Tenacity ~***
 
 I find this a wonderful programme as it keeps us active and healthy, develops our teamwork skills, and trains us to be focused in catching the ball. The part I enjoyed the most was when I got to hit the ball, it was the most fun experience for me. I really hope that we get to do this fun activity again, or have other fun activities in the future.
 Through this game, I learnt that I need to have a little more tolerance, patience and understanding for my team members. I also learned the importance of sportsmanship and how to stay composed when things didn’t go my way. I'm grateful for the opportunity to try a lesser-known sport, which taught me valuable lessons in patience and understanding.
-***~ Shiyu Hannah Goh, 4 Graciousness ~***
+<br>***~ Shiyu Hannah Goh, 4 Graciousness ~***
