@@ -69,6 +69,28 @@ variant: markdown
 		<td><font size="4">1 Finalist<br>1 Semi-finalist</font></td>
 </tr>
 	</tbody></table>
+	<br>	
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+     National School Games Competition
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National School Games (Swimming)</font></td>
+		<td><font size="4">5th position <br>(100M - 50M Butterfly 50M Backstroke)</font></td>
+</tr>
+	<tr>
+		<td><font size="4">National School Games (Bowling)</font></td>
+		<td><font size="4">8th position <br>(Singles Event - Junior)<br><br>2nd position<br>(Doubles Event - Junior)<br><br>4th position<br>(Quartet Event - Junior)</font></td>
+</tr>
+
+	</tbody></table>
+<br>
 
 
 
