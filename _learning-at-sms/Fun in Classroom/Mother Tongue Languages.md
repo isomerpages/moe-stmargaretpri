@@ -167,7 +167,16 @@ Through these activities, students not only gained valuable knowledge but also d
 </tr>
 </tbody></table>
 
-#### **7) P3 to P5 Higher Chinese Language Learning Journey**  
+#### **7) Rakan Bahasa**
+
+We are delighted to announce that two of our girls from 5 Humility have been appointed as Rakan Bahasa (Malay Language Ambassadors) for 2025. Ayra Asheeqa Binte Jaafar and Qisya Kaheesha Binte Mohamed Hanafiah will represent our school in this prestigious role.
+
+![](/images/Department/MT%20Language/Rakan_Bahasa_2025.jpg)
+
+As Rakan Bahasa, they will serve as cultural ambassadors, inspiring their peers to embrace and appreciate the richness of Malay language and heritage. Through various activities and initiatives, they will play a vital role in promoting Malay cultural traditions and fostering a deeper connection to the language, not only within our school community but also among their friends and families.
+
+
+#### **8) P3 to P5 Higher Chinese Language Learning Journey**  
 
 P3 and P4 HCL students embarked on a Learning Journey at Sun Yat Sen Nanyang Memorial Hall, delving into the rich tapestry of traditions and heritage. Through this journey, they gained a deeper understanding of the rich history, heritage, and cultural significance of the Chinese community in Singapore, while also gaining insights into the socio-cultural diversity of the nation.
 
@@ -190,7 +199,7 @@ Both experiences sparked curiosity and expanded horizons, enriching their educat
 </tr>
 </tbody></table>
 
-#### **8) Chinese New Year Celebrations**
+#### **9) Chinese New Year Celebrations**
 
 Amidst the festive spirit, the school welcomed Chinese New Year, commencing celebrations with recess activities, including engaging iPad games and lively card-matching challenges. The day's highlight unfolded in a vibrant concert, where students joyously sang and danced to the lively tunes of Chinese New Year songs. As the festivities peaked, students concluded the day with Chinese New Year decorations and craft hands-on activities.
 
