@@ -41,7 +41,34 @@ The school aims to cultivate students’ interest in their Mother Tongue Languag
 </tr>
 </tbody></table>
 
-#### **1) P4 Level Camp**
+#### **1) MTL Recess Reading Programme with SMS(S)**
+
+![](/images/Department/MT%20Language/ReadingPrg__1_.jpg)
+
+On 3 September, students from SMS(S) shared with us with their self-created MTL digital books, bringing the stories to life through expressive reading and lively dramatization. The session ended with fun interactive activities that they enjoyed together with our girls, fostering creativity and deeper bonds within the St. Margaret's Family.
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__2_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__4_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__3_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__5_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b></b></font></center>
+</td>
+</tr>
+<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__6_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b></b></font></center>
+</td>
+</tr>
+</tbody></table>
+
+
+
+#### **2) P4 Level Camp**
 
 The P4 level camp integrates Physical Education (focusing on skill-related fitness components such as coordination, balance, varying speed, pace, power, and agility) with Mother Tongue lessons by introducing students to various traditional ethnic dances. The approach enhances cultural learning and physical fitness simultaneously, as we value diverse ethnic cultures through their traditional dances. Students learn about the artistic expressions of different cultural aspects, including various dance moves, music, and props used in each dance. Each culture has its unique artistic traditions that reflect its rich heritage and values.
 
