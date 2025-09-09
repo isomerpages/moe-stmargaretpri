@@ -68,7 +68,7 @@ variant: markdown
 		<td><font size="4">1 Finalist<br>1 Semi-finalist</font></td>
 </tr>
 	</tbody></table>
-	<br>	
+<br>	
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
@@ -89,7 +89,6 @@ variant: markdown
 </tr>
 	</tbody></table>
 <br>
-
 ### 2024 Achievements
 
 <table>
@@ -370,8 +369,6 @@ Tennis
 </tr>
 	</tbody></table>
 
-
-
 ### 2023 Achievements
 <table>
 	<tbody><tr>
@@ -614,7 +611,6 @@ Tennis
 		<td><font size="4">Accomplishment</font></td>
 </tr>
 	</tbody></table><br>
-
 
 ### 2022 Achievements
 
