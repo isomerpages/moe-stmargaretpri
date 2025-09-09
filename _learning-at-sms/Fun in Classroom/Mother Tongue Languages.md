@@ -41,7 +41,34 @@ The school aims to cultivate students’ interest in their Mother Tongue Languag
 </tr>
 </tbody></table>
 
-#### **1) P4 Level Camp**
+#### **1) MTL Recess Reading Programme with SMS(S)**
+
+On 3 September, students from SMS(S) shared with us with their self-created MTL digital books, bringing the stories to life through expressive reading and lively dramatization. The session ended with fun interactive activities that they enjoyed together with our girls, fostering creativity and deeper bonds within the St. Margaret's Family.
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__1_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__2_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td>
+</tr>
+	<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__3_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__4_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td>
+</tr>
+<tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__6_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__5_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+</td>
+</tr>
+</tbody></table>
+
+
+
+#### **2) P4 Level Camp**
 
 The P4 level camp integrates Physical Education (focusing on skill-related fitness components such as coordination, balance, varying speed, pace, power, and agility) with Mother Tongue lessons by introducing students to various traditional ethnic dances. The approach enhances cultural learning and physical fitness simultaneously, as we value diverse ethnic cultures through their traditional dances. Students learn about the artistic expressions of different cultural aspects, including various dance moves, music, and props used in each dance. Each culture has its unique artistic traditions that reflect its rich heritage and values.
 
@@ -60,7 +87,7 @@ The P4 level camp integrates Physical Education (focusing on skill-related fitne
 </tr>
 </tbody></table>
 
-#### **2) P5 Local Immersion Trip with Hong Wen School**
+#### **3) P5 Local Immersion Trip with Hong Wen School**
 
 Our P5 students embarked on an enriching exchange program with Hong Wen School. Students from various cultural backgrounds came together, fostering mutual understanding and respect. This interaction allowed them to appreciate and celebrate their differences, forming bonds that transcend cultural barriers.
 
@@ -84,7 +111,7 @@ SMS (P) students also visited Hong Wen School. They were engaged in a variety of
 </tbody></table>
 
 
-#### **3) P4 CL Learning Journey to Singapore Hokkien Huay Kuan Arts &amp; Cultural Troupe**
+#### **4) P4 CL Learning Journey to Singapore Hokkien Huay Kuan Arts &amp; Cultural Troupe**
 
 The Primary 4 CL students embarked on a learning journey to the theatre under the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划). This scheme aims to expose students to Chinese language-related cultural performances by local and foreign performing arts groups. The students watched a performance on one of the famous scenarios in the story of “Journey to the west”.  It was an enriching and engaging learning journey for the students as the performance was customised to include aspects of local culture. 
 
@@ -97,7 +124,7 @@ The Primary 4 CL students embarked on a learning journey to the theatre under th
 </tr>
 </tbody></table>
 
-#### **4) Hari Raya Celebrations 2024**
+#### **5) Hari Raya Celebrations**
 
 The 2024 Hari Raya celebration began with a stunning exhibition in the school library, featuring beautiful pop-up displays loaned from the Malay Heritage Centre. These exhibitions provided students with an opportunity to learn more about the Hari Raya celebration in Singapore. Malay Language students from P3 to P6 played a crucial role as Malay Language Culture Ambassadors, explaining Malay culture and the significance of Hari Raya to their peers. Additionally, students interacted with the exhibits through interactive questions on iPads. The Hari Raya celebration in the school hall featured a skit titled "Awakening Traditions". Students learnt about the cultural and religious significance of Hari Raya. 
 
@@ -117,7 +144,7 @@ The 2024 Hari Raya celebration began with a stunning exhibition in the school li
 </tbody></table>
 
 
-#### **5) Mother Tongue Language Fortnight 2024**
+#### **6) Mother Tongue Language Fortnight**
 
 During MT Fortnight, students learnt about how cultures and values are tied in together. For example, P6 students learnt about a historical figure and engaged in a hands-on activity to design their own kite. They not only learnt about the importance of perseverance but also had the opportunity to demonstrate their creativity.
 
@@ -140,7 +167,20 @@ Through these activities, students not only gained valuable knowledge but also d
 </tr>
 </tbody></table>
 
-#### **6) P3 to P5 Higher Chinese Language Learning Journey 2024**  
+#### **7) Rakan Bahasa**
+
+We are delighted to announce that two of our girls from 5 Humility have been appointed as Rakan Bahasa (Malay Language Ambassadors) for 2025. Ayra Asheeqa Binte Jaafar and Qisya Kaheesha Binte Mohamed Hanafiah will represent our school in this prestigious role.
+
+<table>
+<tbody><tr>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Rakan_Bahasa_2025.jpg" alt="volunteer recess ministry pv" style="width:400px;height:550px;"><b>Two of our girls have been appointed as Rakan Bahasa 2025</b></font></center>
+</td></tr>
+</tbody></table>
+
+As Rakan Bahasa, they will serve as cultural ambassadors, inspiring their peers to embrace and appreciate the richness of Malay language and heritage. Through various activities and initiatives, they will play a vital role in promoting Malay cultural traditions and fostering a deeper connection to the language, not only within our school community but also among their friends and families.
+
+
+#### **8) P3 to P5 Higher Chinese Language Learning Journey**  
 
 P3 and P4 HCL students embarked on a Learning Journey at Sun Yat Sen Nanyang Memorial Hall, delving into the rich tapestry of traditions and heritage. Through this journey, they gained a deeper understanding of the rich history, heritage, and cultural significance of the Chinese community in Singapore, while also gaining insights into the socio-cultural diversity of the nation.
 
@@ -163,7 +203,7 @@ Both experiences sparked curiosity and expanded horizons, enriching their educat
 </tr>
 </tbody></table>
 
-#### **7) Chinese New Year Celebrations 2024**
+#### **9) Chinese New Year Celebrations**
 
 Amidst the festive spirit, the school welcomed Chinese New Year, commencing celebrations with recess activities, including engaging iPad games and lively card-matching challenges. The day's highlight unfolded in a vibrant concert, where students joyously sang and danced to the lively tunes of Chinese New Year songs. As the festivities peaked, students concluded the day with Chinese New Year decorations and craft hands-on activities.
 
