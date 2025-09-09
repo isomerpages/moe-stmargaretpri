@@ -169,7 +169,7 @@ Through these activities, students not only gained valuable knowledge but also d
 
 #### **7) Rakan Bahasa**
 
-We are delighted to announce that two of our girls from 5 Humility have been appointed as Rakan Bahasa (Malay Language Ambassadors) for 2025. Ayra Asheeqa Binte Jaafar and Qisya Kaheesha Binte Mohamed Hanafiah will represent our school in this prestigious role.
+We are delighted to announce that two of our girls have been appointed as Rakan Bahasa (Malay Language Ambassadors) for 2025. They will represent our school in this prestigious role.
 
 <table>
 <tbody><tr>
