@@ -1,5 +1,5 @@
 ---
-title: Visiting SMSP for Teachers’ Day
+title: Visiting SMSP on 21 Nov 2025
 permalink: /announcements/smsp-visit/
 variant: markdown
 description: ""
