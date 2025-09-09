@@ -88,7 +88,7 @@ variant: markdown
 		<td><font size="4">8th position <br>(Singles Event - Junior)<br><br>2nd position<br>(Doubles Event - Junior)<br><br>4th position<br>(Quartet Event - Junior)</font></td>
 </tr>
 	</tbody></table>
-<br>
+
 ### 2024 Achievements
 
 <table>
