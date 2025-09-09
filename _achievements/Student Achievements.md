@@ -24,8 +24,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4">Raffles Mathematical Olympiad 2025</font></td>
-		<td><font size="4"><u>Junior Category</u><br>2 Distinction<br>3 Merit<br><br></font></td>
-<td><font size="4"><u>Open Category</u><br>3 Distinction<br>4 Merit</font></td>
+		<td><font size="4"><u>Junior Category</u><br>2 Distinction<br>3 Merit<br><br><u>Open Category</u><br>3 Distinction<br>4 Merit</font></td>
 </tr>
 	</tbody></table>
 <br>
@@ -88,11 +87,8 @@ variant: markdown
 		<td><font size="4">National School Games (Bowling)</font></td>
 		<td><font size="4">8th position <br>(Singles Event - Junior)<br><br>2nd position<br>(Doubles Event - Junior)<br><br>4th position<br>(Quartet Event - Junior)</font></td>
 </tr>
-
 	</tbody></table>
 <br>
-
-
 
 ### 2024 Achievements
 
