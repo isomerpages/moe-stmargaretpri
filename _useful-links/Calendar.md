@@ -9,19 +9,19 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font size="5">  
-     Term 3, 2025
+     Term 4, 2025
  </font></th>
 </tr>
 </tbody></table>
 
-![](/images/Calendar%202025/t3_2025_01.jpg)
-![](/images/Calendar%202025/t3_2025_02.jpg)
+![](/images/Calendar%202025/Term_4_Final_01.jpg)
+![](/images/Calendar%202025/Term_4_Final_02.jpg)
 		
 <font size="3">  
       * Parents/Guardians will be notified of the details or any changes closer to the date of the event.
 </font><font size="3"><br>
 </font><font size="3">
-			* Updated as of 2 July 2025
+			* Updated as of 15 Sep 2025
 </font><table>
 	<tbody>
 		<tr>
