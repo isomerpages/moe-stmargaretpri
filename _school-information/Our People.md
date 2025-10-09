@@ -526,7 +526,7 @@ Huan Pei</span><br></td>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 CHARITY</span></td>
     <td class="tg-fxx4"><span style="color:#222">Dharshini Ravichandran (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Gerry Low Pei Chi (Mrs Ong)</span><br>Low Joo Tatt (Mr)</td>
+    <td class="tg-fxx4"><span style="color:#222">Gerry Low Pei Chi (Mrs Ong)</span><br>Ng Hoe Cheong (Mr)</td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
