@@ -84,8 +84,8 @@ variant: markdown
 		<td><font size="4">1 student from 5 Charity achieved<br><b>5th position</b><br>(50M Butterfly, 50M Backstroke &amp; 50M Freestyle)</font></td>
 </tr>
 	<tr>
-		<td><font size="4">National School Games (Bowling)</font></td>
-		<td><font size="4">8th position <br>(Singles Event - Junior)<br><br>2nd position<br>(Doubles Event - Junior)<br><br>4th position<br>(Quartet Event - Junior)</font></td>
+		<td><font size="4">National School Games (Tennis)</font></td>
+		<td><font size="4">2 students achieved<br><b>1st position</b><br>for GREEN BALLS Double Tier 1<br><br>1 student achieved<br><b>1st position<br></b>for ORANGE BALLS Singles Tier 4</font></td>
 </tr>
 	</tbody></table>
 
