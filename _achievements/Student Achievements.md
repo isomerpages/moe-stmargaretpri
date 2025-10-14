@@ -81,7 +81,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4">National School Games (Swimming)</font></td>
-		<td><font size="4">5th position <br>(100M - 50M Butterfly 50M Backstroke)</font></td>
+		<td><font size="4">1 student from 5 Charity achieved<br><b>5th position</b><br>(50M Butterfly, 50M Backstroke &amp; 50M Freestyle)</font></td>
 </tr>
 	<tr>
 		<td><font size="4">National School Games (Bowling)</font></td>
