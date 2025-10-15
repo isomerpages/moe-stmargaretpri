@@ -17,14 +17,32 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 	<td><font size="4"><b></b></font></td>
 </tr>
-		<tr>
+	<tr>
 		<td><font size="4">Asia Pacific Mathematical Olympiad<br>for Primary Schools 2025</font></td>
-		<td><font size="4">1 Silver<br>1 Bronze<br></font></td>
+		<td><font size="4">1 Silver<br>3 Bronze<br></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
 		<td><font size="4">Raffles Mathematical Olympiad 2025</font></td>
 		<td><font size="4"><u>Junior Category</u><br>2 Distinction<br>3 Merit<br><br><u>Open Category</u><br>3 Distinction<br>4 Merit</font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    Science Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+	<td><font size="4"><b></b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Primary Science Olympiad (SPSO) 2025</font></td>
+		<td><font size="4">16 Merit<br></font></td>
+<td><font size="4"><b></b></font></td>
 </tr>
 	</tbody></table>
 <br>
@@ -38,17 +56,25 @@ variant: markdown
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
+<tr>
+		<td><font size="4">8th National Text Recital Competition 2025</font></td>
+		<td><font size="4">1 student from 3 Charity<br>achieved <b>Silver</b><br>Category: Lower Primary (Individual)<br><br>2 students from 3 Humility and 3 Integrity<br>achieved <b>Bronze</b><br>Category: Lower Primary (Group)<br><br>2 students from 4 Humility and 4 Charity<br>achieved <b>Bronze</b><br>Category: Upper Primary (Individual)</font></td>
+</tr>
+<tr>
+		<td><font size="4">29th National On-the-Spot Chinese Essay Writing Competition 2025</font></td>
+		<td><font size="4">1 student from 4 Tenacity<br>achieved <b>Outstanding Award</b><br>Her essay will be published in《 笔 耕 24 》publication</font></td>
+</tr>
 		<tr>
 		<td><font size="4">Malay Language Ambassadors 2025</font></td>
-		<td><font size="4">2 students from 5 Humility<br>are appointed as Rakan Bahasa (Malay Language Ambassadors) representing school in 2025  </font></td>
+		<td><font size="4">2 students from 5 Humility<br>are appointed as <b>Rakan Bahasa</b> (Malay Language Ambassadors) representing school in 2025  </font></td>
 </tr>
 		<tr>
 		<td><font size="4">Seithi Pongal Contest 2025</font></td>
-		<td><font size="4">1 student from 5 Humility<br>&amp; 1 student from 2 Charity achieved the Top 6 award</font></td>
+		<td><font size="4">1 student from 5 Humility<br>&amp; 1 student from 2 Charity achieved the <b>Top 6</b> award</font></td>
 </tr>
 		<tr>
 		<td><font size="4">Fancy Dress Competition 2025<br>(Association of Singapaore Tamil Writers Muthamizh Vizha 2025)</font></td>
-		<td><font size="4">1 student from 2 Charity<br> achieved Encouragement Prize</font></td>
+		<td><font size="4">1 student from 2 Charity<br> achieved <b>Encouragement Prize</b></font></td>
 </tr>
 	</tbody></table>
 <br>
@@ -68,6 +94,24 @@ variant: markdown
 		<td><font size="4">1 Finalist<br>1 Semi-finalist</font></td>
 </tr>
 	</tbody></table>
+<br>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    Infocomm Club
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Infocomm Challenge 2025</font></td>
+		<td><font size="4"><b>Diamond Award </b><br>(the pinnacle tier) for Best Animation<br>Category : Animation</font></td>
+</tr>
+	</tbody></table>
 <br>	
 <table>
 	<tbody><tr>
@@ -80,12 +124,33 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">National School Games (Swimming)</font></td>
-		<td><font size="4">5th position <br>(100M - 50M Butterfly 50M Backstroke)</font></td>
+		<td><font size="4">Swimming</font></td>
+		<td><font size="4">1 student from 5 Charity achieved<br><b>5th position</b><br>Category: 50M Butterfly, 50M Backstroke &amp; 50M Freestyle</font></td>
 </tr>
 	<tr>
-		<td><font size="4">National School Games (Bowling)</font></td>
-		<td><font size="4">8th position <br>(Singles Event - Junior)<br><br>2nd position<br>(Doubles Event - Junior)<br><br>4th position<br>(Quartet Event - Junior)</font></td>
+		<td><font size="4">Tennis</font></td>
+		<td><font size="4">2 students from 5 Tenacity achieved<br><b>1st position</b><br>Category: GREEN BALLS Double Tier 1<br><br>1 student from 4 Humility achieved<br><b>1st position<br></b>Category: ORANGE BALLS Singles Tier 4</font></td>
+</tr>
+<tr>
+		<td><font size="4">Rhythmic Gymnastics</font></td>
+		<td><font size="4">1 student from 5 Integrity achieved<br><b>8th position</b><br>Category: Hoop</font></td>
+</tr>
+<tr>
+		<td><font size="4">Artistic Gymnastics</font></td>
+		<td><font size="4">2 student from 2 Integrity and 3 Graciousness achieved<br><b>Achievement PIN</b><br>Junior 1, Level 3<br>
+Balance Beam, Floor Exercise, Uneven Bars, Vault<br><br>1 student from 4 Integrity achieved<br><b>Achievement PIN</b><br>Junior 2, Level 4<br>Uneven Bars<br><br>1 student from 4 Tenacity achieved<br><b>Achievement PIN</b><br>Junior 2, Level 4<br>Floor Exercise, Uneven Bars<br><br>1 student from 5 Humility achieved<br><b>Achievement PIN</b><br>Junior 2, Level 4<br>Balance Beam<br><br></font></td>
+</tr>
+<tr>
+		<td><font size="4">Track and Field</font></td>
+		<td><font size="4">1 student from 5 Graciousness achieved<br><b>3rd position</b><br>Category: 1000m JUNIOR 2 GIRLS<br><br>1 student from 5 Humility achieved<br><b>6th position</b><br>Category: 1000m JUNIOR 2 GIRLS<br><br>1 student from 5 Tenacity achieved<br><b>7th position</b><br>Category: 1000m JUNIOR 2 GIRLS<br><br>1 student from 4 Graciousness achieved<br><b>8th position</b><br>Category: 1000m JUNIOR 1 GIRLS</font></td>
+</tr>
+<tr>
+		<td><font size="4">Taekwondo Poomsae</font></td>
+		<td><font size="4">1 student from 5 Graciousness achieved<br><b>6th position</b><br>Category: Poom/Black 3<br><br>1 student from 3 Charity achieved<br><b>2nd position</b><br>Category: RED 1 (Black Stripe)<br><br>1 student from 5 Tenacity achieved<br><b>Achievement PIN</b><br>Category: GREEN 6<br><br>1 student from 6 Tenacity achieved<br><b>7th position</b><br>Category: GREEN 5 (Blue Stripe)<br><br>1 student from 6 Tenacity achieved<br><b>2nd position</b><br>Category: BLUE 3 (Red Stripe)</font></td>
+</tr>
+<tr>
+		<td><font size="4">Bowling</font></td>
+		<td><font size="4">1 student from 4 Graciousness achieved<br><b>8th position</b><br>Category: Single Event<br><br>2 students from 4 Graciousness &amp; 4 Integrity achieved<br><b>2nd position</b><br>Category: Double Event<br><br>4 students from 4 Graciousness &amp; 4 Integrity achieved<br><b>4th position</b><br>Category: Quartet Event<br><br>2 students from 4 Graciousness &amp; 4 Integrity achieved<br><b>Silver Achievement PIN</b><br><br>2 students from 4 Integrity &amp; 5 Charity achieved<br><b>Bronze Achievement PIN</b></font></td>
 </tr>
 	</tbody></table>
 
