@@ -87,9 +87,14 @@ variant: markdown
 		<td><font size="4">National School Games (Tennis)</font></td>
 		<td><font size="4">2 students from 5 Tenacity achieved<br><b>1st position</b><br>for GREEN BALLS Double Tier 1<br><br>1 student from 4 Humility achieved<br><b>1st position<br></b>for ORANGE BALLS Singles Tier 4</font></td>
 </tr>
-	<tr>
+<tr>
 		<td><font size="4">National School Games (Rhythmic Gymnastics)</font></td>
 		<td><font size="4">1 student from 5 Integrity achieved<br><b>8th position</b><br>Hoop</font></td>
+</tr>
+<tr>
+		<td><font size="4">National School Games (Artistic Gymnastics)</font></td>
+		<td><font size="4">2 student from 2 Integrity and 3 Graciousness achieved<br><b>Achievement PIN</b><br>Junior 1, Level 3<br>
+Balance Beam, Floor Exercise, Uneven Bars, Vault<br><br>1 student from 4 Integrity achieved<br><b>Achievement PIN</b><br>Junior 2, Level 4<br>Uneven Bars<br><br>1 student from 4 Tenacity achieved<br><b>Achievement PIN</b><br>Junior 2, Level 4<br>Floor Exercise, Uneven Bars<br><br>1 student from 5 Humility achieved<br><b>Achievement PIN</b><br>Junior 2, Level 4<br>Balance Beam<br><br></font></td>
 </tr>
 	</tbody></table>
 
