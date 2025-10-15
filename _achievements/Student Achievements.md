@@ -96,6 +96,10 @@ variant: markdown
 		<td><font size="4">2 student from 2 Integrity and 3 Graciousness achieved<br><b>Achievement PIN</b><br>Junior 1, Level 3<br>
 Balance Beam, Floor Exercise, Uneven Bars, Vault<br><br>1 student from 4 Integrity achieved<br><b>Achievement PIN</b><br>Junior 2, Level 4<br>Uneven Bars<br><br>1 student from 4 Tenacity achieved<br><b>Achievement PIN</b><br>Junior 2, Level 4<br>Floor Exercise, Uneven Bars<br><br>1 student from 5 Humility achieved<br><b>Achievement PIN</b><br>Junior 2, Level 4<br>Balance Beam<br><br></font></td>
 </tr>
+<tr>
+		<td><font size="4">National School Games (Track and Field)</font></td>
+		<td><font size="4">1 student from 5 Graciousness achieved<br><b>3rd position</b><br>1000m JUNIOR 2 GIRLS<br><br>1 student from 5 Humility achieved<br><b>6th position</b><br>1000m JUNIOR 2 GIRLS<br><br>1 student from 5 Tenacity achieved<br><b>7th position</b><br>1000m JUNIOR 2 GIRLS<br><br>1 student from 4 Graciousness achieved<br><b>8th position</b><br>1000m JUNIOR 1 GIRLS</font></td>
+</tr>
 	</tbody></table>
 
 ### 2024 Achievements
