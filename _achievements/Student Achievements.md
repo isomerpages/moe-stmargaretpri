@@ -84,8 +84,8 @@ variant: markdown
 		<td><font size="4">1 student from 5 Charity achieved<br><b>5th position</b><br>Category: 50M Butterfly, 50M Backstroke &amp; 50M Freestyle</font></td>
 </tr>
 	<tr>
-		<td><font size="4">National School Games (Tennis)</font></td>
-		<td><font size="4">2 students from 5 Tenacity achieved<br><b>1st position</b><br>for GREEN BALLS Double Tier 1<br><br>1 student from 4 Humility achieved<br><b>1st position<br></b>for ORANGE BALLS Singles Tier 4</font></td>
+		<td><font size="4">Tennis</font></td>
+		<td><font size="4">2 students from 5 Tenacity achieved<br><b>1st position</b><br>Category: GREEN BALLS Double Tier 1<br><br>1 student from 4 Humility achieved<br><b>1st position<br></b>Category: ORANGE BALLS Singles Tier 4</font></td>
 </tr>
 <tr>
 		<td><font size="4">National School Games (Rhythmic Gymnastics)</font></td>
