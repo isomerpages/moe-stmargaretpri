@@ -76,6 +76,24 @@ variant: markdown
 		<td><font size="4">1 Finalist<br>1 Semi-finalist</font></td>
 </tr>
 	</tbody></table>
+<br>
+<br>
+<table>
+	<tbody>
+<tr>
+		<th><font color="maroon" size="5">
+    Infocomm Club
+ </font></th>
+</tr>
+	<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Infocomm Challenge 2025</font></td>
+		<td><font size="4">Diamond Award <br>(the pinnacle tier) for Best Animation<br>Category : Animation</font></td>
+</tr>
+	</tbody></table>
 <br>	
 <table>
 	<tbody><tr>
