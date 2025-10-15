@@ -17,9 +17,9 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 	<td><font size="4"><b></b></font></td>
 </tr>
-		<tr>
+	<tr>
 		<td><font size="4">Asia Pacific Mathematical Olympiad<br>for Primary Schools 2025</font></td>
-		<td><font size="4">1 Silver<br>1 Bronze<br></font></td>
+		<td><font size="4">1 Silver<br>3 Bronze<br></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
