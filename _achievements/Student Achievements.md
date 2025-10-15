@@ -39,6 +39,10 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 <tr>
+		<td><font size="4">8th National Text Recital Competition 2025</font></td>
+		<td><font size="4">1 student from 3 Charity<br>achieved <b>Silver</b><br>Category: Lower Primary (Individual)<br><br>2 students from 3 Humility and 3 Integrity<br>achieved <b>Bronze</b><br>Category: Lower Primary (Group)<br><br>2 students from 4 Humility and 4 Charity<br>achieved <b>Bronze</b><br>Category: Upper Primary (Individual)</font></td>
+</tr>
+<tr>
 		<td><font size="4">29th National On-the-Spot Chinese Essay Writing Competition 2025</font></td>
 		<td><font size="4">1 student from 4 Tenacity<br>achieved <b>Outstanding Award</b><br>Her essay will be published in《 笔 耕 24 》publication</font></td>
 </tr>
