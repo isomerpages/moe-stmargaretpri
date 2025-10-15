@@ -98,11 +98,11 @@ Balance Beam, Floor Exercise, Uneven Bars, Vault<br><br>1 student from 4 Integri
 </tr>
 <tr>
 		<td><font size="4">Track and Field</font></td>
-		<td><font size="4">1 student from 5 Graciousness achieved<br><b>3rd position</b><br>1000m JUNIOR 2 GIRLS<br><br>1 student from 5 Humility achieved<br><b>6th position</b><br>1000m JUNIOR 2 GIRLS<br><br>1 student from 5 Tenacity achieved<br><b>7th position</b><br>1000m JUNIOR 2 GIRLS<br><br>1 student from 4 Graciousness achieved<br><b>8th position</b><br>1000m JUNIOR 1 GIRLS</font></td>
+		<td><font size="4">1 student from 5 Graciousness achieved<br><b>3rd position</b><br>Category: 1000m JUNIOR 2 GIRLS<br><br>1 student from 5 Humility achieved<br><b>6th position</b><br>Category: 1000m JUNIOR 2 GIRLS<br><br>1 student from 5 Tenacity achieved<br><b>7th position</b><br>Category: 1000m JUNIOR 2 GIRLS<br><br>1 student from 4 Graciousness achieved<br><b>8th position</b><br>Category: 1000m JUNIOR 1 GIRLS</font></td>
 </tr>
 <tr>
-		<td><font size="4">National School Games (Taekwondo Poomsae)</font></td>
-		<td><font size="4">1 student from 5 Graciousness achieved<br><b>6th position</b><br>Poom/Black 3<br><br>1 student from 3 Charity achieved<br><b>2nd position</b><br>RED 1 (Black Stripe)<br><br>1 student from 5 Tenacity achieved<br><b>Achievement PIN</b><br>GREEN 6<br><br>1 student from 6 Tenacity achieved<br><b>7th position</b><br>GREEN 5 (Blue Stripe)<br><br>1 student from 6 Tenacity achieved<br><b>2nd position</b><br>BLUE 3 (Red Stripe)</font></td>
+		<td><font size="4">Taekwondo Poomsae</font></td>
+		<td><font size="4">1 student from 5 Graciousness achieved<br><b>6th position</b><br>Category: Poom/Black 3<br><br>1 student from 3 Charity achieved<br><b>2nd position</b><br>Category: RED 1 (Black Stripe)<br><br>1 student from 5 Tenacity achieved<br><b>Achievement PIN</b><br>Category: GREEN 6<br><br>1 student from 6 Tenacity achieved<br><b>7th position</b><br>Category: GREEN 5 (Blue Stripe)<br><br>1 student from 6 Tenacity achieved<br><b>2nd position</b><br>Category: BLUE 3 (Red Stripe)</font></td>
 </tr>
 <tr>
 		<td><font size="4">National School Games (Bowling)</font></td>
