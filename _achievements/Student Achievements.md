@@ -38,6 +38,10 @@ variant: markdown
 		<td><font size="4"><b>Competition Name</b></font></td>
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
+<tr>
+		<td><font size="4">29th National On-the-Spot Chinese Essay Writing Competition 2025</font></td>
+		<td><font size="4">1 student from 4 Tenacity<br>achieved <b>Outstanding Award</b><br>Her essay will be published in《 笔 耕 24 》publication</font></td>
+</tr>
 		<tr>
 		<td><font size="4">Malay Language Ambassadors 2025</font></td>
 		<td><font size="4">2 students from 5 Humility<br>are appointed as Rakan Bahasa (Malay Language Ambassadors) representing school in 2025  </font></td>
