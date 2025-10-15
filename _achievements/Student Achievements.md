@@ -80,8 +80,8 @@ variant: markdown
 		<td><font size="4"><b>Award / Position</b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">National School Games (Swimming)</font></td>
-		<td><font size="4">1 student from 5 Charity achieved<br><b>5th position</b><br>(50M Butterfly, 50M Backstroke &amp; 50M Freestyle)</font></td>
+		<td><font size="4">Swimming</font></td>
+		<td><font size="4">1 student from 5 Charity achieved<br><b>5th position</b><br>Category: 50M Butterfly, 50M Backstroke &amp; 50M Freestyle</font></td>
 </tr>
 	<tr>
 		<td><font size="4">National School Games (Tennis)</font></td>
