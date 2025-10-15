@@ -31,6 +31,24 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+    Science Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+	<td><font size="4"><b></b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Singapore Primary Science Olympiad (SPSO) 2025</font></td>
+		<td><font size="4">16 Merit<br></font></td>
+<td><font size="4"><b></b></font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
     MTL Department
  </font></th>
 </tr>
