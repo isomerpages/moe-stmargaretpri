@@ -1,0 +1,20 @@
+collections:
+  school-information:
+    output: true
+    order:
+      - Our People.md
+      - School Rules & Expectations.md
+      - Operating Hours.md
+      - Contact Us.md
+      - Student Services Information.md
+      - School Highlights/.keep
+      - School Highlights/School Highlights.md
+      - School Highlights/To Learn and Grow.md
+      - School Highlights/Featured Events 2025.md
+      - School Highlights/Featured Events 2024.md
+      - School Highlights/Featured Events 2023.md
+      - School Highlights/Memorable Moments.md
+      - School Terms & Holidays.md
+      - School Admission.md
+      - Traffic Management.md
+      - School Canteen.md
