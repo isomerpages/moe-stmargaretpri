@@ -463,7 +463,7 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">3 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Huan Pei (Mrs Yeo)</span><br></td>
+    <td class="tg-fxx4"><span style="color:#222">Pamela Chew Huan Pei (Mrs Yeo)</span><br></td>
     <td class="tg-fxx4"><span style="color:#222">Doris Ng Lay Cheng (Mrs Loo)</span><br></td>
   </tr>
   <tr>
