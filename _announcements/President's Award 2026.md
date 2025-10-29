@@ -4,3 +4,10 @@ permalink: /president-s-award-2026/
 variant: markdown
 description: ""
 ---
+![](/images/Announcement/PAT_2026.jpg)
+
+The President's Award for Teachers (PAT) recognises experienced educators who are role models for the teaching profession. These educators adopt innovative approaches in their lessons, are lifelong learners and are mentors to their peers. They embody deep passion for teaching, and inspire their students and peers through their words and deeds.
+
+Nominations for the awards can be submitted online - https://go.gov.sg/pat2026
+
+Nominations for PAT 2026 will close on **9 January 2026** at 12pm.
