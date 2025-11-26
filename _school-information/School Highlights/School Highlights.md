@@ -33,7 +33,7 @@ These are the activities that the students participated for holistic learning.
 </tr>
 		<tr>
 			<th><center>Teacher's Day 2025</center></th> 
-		<th><center>P4 TEA 2025</center></th> 
+		<th><center>P4 TEA Programme 2025</center></th> 
 		<th><center>Childrens' Day 2025</center></th> 
 			</tr>
 				<tr>
