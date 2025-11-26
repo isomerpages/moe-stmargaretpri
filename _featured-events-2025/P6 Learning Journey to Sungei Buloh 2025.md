@@ -12,3 +12,5 @@ The Primary Six students set off on an unforgettable adventure to the Sungei Bul
 This hands-on learning experience brought the mangrove forest to life as students immersed themselves in nature. With eyes wide and senses alert, they spotted crocodiles sunning themselves, mudskippers blending into the muddy banks, snakes slithering silently, crabs scuttling between roots, and even golden spider’s web!
 
 It was more than just a lesson—it was nature unfolding before their very eyes.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jouMiCQxwlE?si=ob3veppF7BNr_fGd" height="415" width="700"></iframe></center>
