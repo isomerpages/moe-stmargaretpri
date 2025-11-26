@@ -13,6 +13,16 @@ third_nav_title: School Highlights
 <table>
 	<tbody>
 				<tr>
+<td><a href="/school-information/school-highlights/teacher-s-day-2025/"><img src="/images/Thumbnails/tcd2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p4-tea-2025/"><img src="/images/Thumbnails/p4tea2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/children-s-day-2025/"><img src="/images/Thumbnails/childrenday2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>Teacher's Day 2025</center></th> 
+		<th><center>P4 TEA Programme 2025</center></th> 
+		<th><center>Childrens' Day 2025</center></th> 
+			</tr>
+				<tr>
 <td><a href="/school-information/school-highlights/p6-learning-journey-to-sungei-buloh-2025/"><img src="/images/Thumbnails/p6ljsb2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/p3-science-learning-journey-to-mandai-zoo-2025/"><img src="/images/Thumbnails/p3zoo2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/p5-immersion-programme-2025/"><img src="/images/Thumbnails/p5immprg2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
