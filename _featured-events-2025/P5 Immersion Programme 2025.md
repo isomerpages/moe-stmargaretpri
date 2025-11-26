@@ -20,4 +20,4 @@ The Local Immersion Programme at Hong Wen School provides our students with a va
 
 Through these meaningful interactions and shared activities, the programme broadens students’ perspectives, deepens their cultural understanding, and nurtures friendships across schools. It enriches their holistic development while fostering respect, appreciation, and confidence in engaging with diverse communities.
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2uQ2t4JOQck?si=pQyBx0Qo0NOUD4IO" height="415" width="700"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2uQ2t4JOQck?si=cI0DjiAbG9CbSb9C" height="415" width="700"></iframe></center>
