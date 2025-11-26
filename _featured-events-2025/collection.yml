@@ -2,6 +2,7 @@ collections:
   featured-events-2025:
     output: true
     order:
+      - Teacher's Day 2025.md
       - P5 Immersion Programme 2025.md
       - P3 Science Learning Journey to Mandai Zoo 2025.md
       - P6 Learning Journey to Sungei Buloh 2025.md
