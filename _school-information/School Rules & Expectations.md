@@ -164,4 +164,4 @@ variant: markdown
      •	store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others). <br>
      •	make threats, cause harassment or embarrassment, impersonate or intimidate others. <br>
 3. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).
-Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy. 
+Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy.
