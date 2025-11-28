@@ -18,6 +18,11 @@ variant: markdown
 	<td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
+		<td><font size="4">National Mathematical Olympiad of Singapore 2025 (NMOΣ)<br>for Primary Schools 2025</font></td>
+		<td><font size="4">6 Bronze<br>8 Honourable Mention<br></font></td>
+<td><font size="4"><b></b></font></td>
+</tr>
+	<tr>
 		<td><font size="4">Asia Pacific Mathematical Olympiad<br>for Primary Schools 2025</font></td>
 		<td><font size="4">1 Silver<br>3 Bronze<br></font></td>
 <td><font size="4"><b></b></font></td>
