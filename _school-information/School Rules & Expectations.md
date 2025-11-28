@@ -148,3 +148,20 @@ variant: markdown
 5.  Take down notes if need to.
 6.  Do not play with the background, filters or emojis during the lesson.
 7.  No eating.
+
+### ACCEPTABLE USE POLICY (AUP) FOR USE OF EDTECH RESOURCES
+
+##### General
+*   You should not attempt to access data, system and information that you are not authorised to. 
+*   You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. 
+
+##### Being a Responsible Digital Citizen
+1.   You should interact with others in a respectful and responsible way. You should not post online remarks that are  <br> 
+			•	racially and/or religiously insensitive, <br>
+      •	vulgar and/or offensive, or<br>
+      •	hurtful to others.
+2.   You should not use any devices to <br>
+     •	store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others). <br>
+     •	make threats, cause harassment or embarrassment, impersonate or intimidate others. <br>
+3. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).
+Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy. 
