@@ -9,6 +9,24 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+    English Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+	<td><font size="4"><b></b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Queen’s Commonwealth Essay Competition<br>2025</font></td> 
+		<td><font size="4">7 Gold<br>26 Silver<br>42 Bronze<br></font></td>
+<td><font size="4"><b></b></font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
     Mathematics Department
  </font></th>
 </tr>
@@ -18,7 +36,12 @@ variant: markdown
 	<td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">Asia Pacific Mathematical Olympiad<br>for Primary Schools 2025</font></td>
+		<td><font size="4">National Mathematical Olympiad of Singapore <br>(NMOΣ) 2025</font></td>
+		<td><font size="4">6 Bronze<br>8 Honourable Mention<br></font></td>
+<td><font size="4"><b></b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Asia Pacific Mathematical Olympiad 2025</font></td>
 		<td><font size="4">1 Silver<br>3 Bronze<br></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>

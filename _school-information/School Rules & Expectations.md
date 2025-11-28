@@ -148,3 +148,40 @@ variant: markdown
 5.  Take down notes if need to.
 6.  Do not play with the background, filters or emojis during the lesson.
 7.  No eating.
+
+### ACCEPTABLE USE POLICY (AUP) FOR USE OF <br>EDTECH RESOURCES
+
+##### General
+*   Students should not attempt to access data, system and information that they are not authorised to. 
+*   Students are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. 
+
+##### Being a Responsible Digital Citizen
+*  Students should interact with others in a respectful and responsible way. Students should not post online remarks that are :  <br> 
+			•	racially and/or religiously insensitive, <br>
+      •	vulgar and/or offensive, or<br>
+      •	hurtful to others.
+*  Students should not use any devices to <br>
+     •	store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others). <br>
+     •	make threats, cause harassment or embarrassment, impersonate or intimidate others. <br>
+*  Students should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).
+Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy.
+
+##### Respecting Copyright 
+*  Students are reminded to obtain explicit permission from the content owner(s) before downloading, copying or sharing any copyrighted materials (e.g. pictures, videos, music). 
+*  Students should not use, copy, edit or share digital files in an unauthorised or illegal manner.
+
+##### Using Artificial Intelligence (AI)
+*  Students must ensure that they meet the minimum age requirement specified in each AI tool's age restrictions before using it.
+*  If the use of AI is permitted, students should acknowledge the use of AI in weighted assessments and homework as required.
+*  Students are to practice academic integrity and be responsible for their own learning when using AI. Understand that students are ultimately short-changing themselves if they pass off other’s work as their own.
+
+##### Staying Safe and Secure online
+*  Students should report any incidents (e.g. unusual device behaviour or inappropriate use of devices), to the school.  
+*  Students are reminded to develop online safety habits. This includes not disclosing personal access credentials (e.g. MIMS password, PLD passcode, etc.), sensitive personal data (e.g. home address, passwords) online or on AI platforms, verifying credibility of online content before sharing, avoiding clicking on suspicious links or downloading unknown files, and being cautious when interacting with others online (e.g. on social media) by not engaging with strangers.
+*  Students should exercise caution regarding the limitations of AI tools, including potential inaccuracies / fabricated responses, inherent biases and outdated information.
+
+##### Digital Wellbeing and Balance
+*  Students are reminded to balance screentime with other activities including physical exercise and face-to-face social interactions. 
+*  Students should avoid excessive use of their devices outside learning hours.
+*  Students should take regular breaks to rest their eyes and mind.
+*  Students are reminded to practice good sleep hygiene by not using their devices one hour before bedtime.
