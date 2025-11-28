@@ -184,4 +184,4 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 *  Students are reminded to balance screentime with other activities including physical exercise and face-to-face social interactions. 
 *  Students should avoid excessive use of their devices outside learning hours.
 *  Students should take regular breaks to rest their eyes and mind.
-*  Students are reminded to practice good sleep hygiene by not using their devices one hour before bedtime.  
+*  Students are reminded to practice good sleep hygiene by not using their devices one hour before bedtime.
