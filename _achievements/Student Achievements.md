@@ -36,7 +36,7 @@ variant: markdown
 	<td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
-		<td><font size="4">National Mathematical Olympiad of Singapore (NMOΣ)<br>2025</font></td>
+		<td><font size="4">National Mathematical Olympiad of Singapore <br>(NMOΣ) 2025</font></td>
 		<td><font size="4">6 Bronze<br>8 Honourable Mention<br></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
