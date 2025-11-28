@@ -171,7 +171,7 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 *  Students should not use, copy, edit or share digital files in an unauthorised or illegal manner.
 
 ##### Using Artificial Intelligence (AI)
-*  Students must ensure that you meet the minimum age requirement specified in each AI tool's age restrictions before using it.
+*  Students must ensure that they meet the minimum age requirement specified in each AI tool's age restrictions before using it.
 *  If the use of AI is permitted, students should acknowledge the use of AI in weighted assessments and homework as required.
 *  Students are to practice academic integrity and be responsible for their own learning when using AI. Understand that students are ultimately short-changing themselves if they pass off other’s work as their own.
 
