@@ -8,7 +8,7 @@ variant: markdown
 
 ![](/images/Achievements/National_Award_Covid_19_Resilience_2023.jpg)
 
-![](/images/Achievements/Various_Award_2022___2025.jpg)
+![](/images/Achievements/Various_MOE_Award_2022___2025.jpg)
 
 ![](/images/Achievements/MOE_Long_Service_Award_2021___2025.jpg)
 
