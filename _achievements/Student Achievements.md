@@ -9,6 +9,24 @@ variant: markdown
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
+    English Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+	<td><font size="4"><b></b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">Queen’s Commonwealth Essay Competition<br>2025</font></td> 
+		<td><font size="4">6 Bronze<br>8 Honourable Mention<br></font></td>
+<td><font size="4"><b></b></font></td>
+</tr>
+	</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
     Mathematics Department
  </font></th>
 </tr>
