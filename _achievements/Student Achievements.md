@@ -19,7 +19,7 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4">Queen’s Commonwealth Essay Competition<br>2025</font></td> 
-		<td><font size="4">6 Bronze<br>8 Honourable Mention<br></font></td>
+		<td><font size="4">7 Gold<br>26 Silver<br>42 Bronze<br></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 	</tbody></table>
