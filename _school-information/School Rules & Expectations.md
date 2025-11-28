@@ -176,12 +176,12 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 *  Students are to practice academic integrity and be responsible for their own learning when using AI. Understand that students are ultimately short-changing themselves if they pass off other’s work as their own.
 
 ##### Staying Safe and Secure online
-* You should report any incidents (e.g. unusual device behaviour or inappropriate use of devices), to the school.  
-*  You are reminded to develop online safety habits. This includes not disclosing personal access credentials (e.g. MIMS password, PLD passcode, etc.), sensitive personal data (e.g. home address, passwords) online or on AI platforms, verifying credibility of online content before sharing, avoiding clicking on suspicious links or downloading unknown files, and being cautious when interacting with others online (e.g. on social media) by not engaging with strangers.
-*  You should exercise caution regarding the limitations of AI tools, including potential inaccuracies / fabricated responses, inherent biases and outdated information.
+*  Students should report any incidents (e.g. unusual device behaviour or inappropriate use of devices), to the school.  
+*  Students are reminded to develop online safety habits. This includes not disclosing personal access credentials (e.g. MIMS password, PLD passcode, etc.), sensitive personal data (e.g. home address, passwords) online or on AI platforms, verifying credibility of online content before sharing, avoiding clicking on suspicious links or downloading unknown files, and being cautious when interacting with others online (e.g. on social media) by not engaging with strangers.
+*  Students should exercise caution regarding the limitations of AI tools, including potential inaccuracies / fabricated responses, inherent biases and outdated information.
 
 ##### Digital Wellbeing and Balance
-*  You are reminded to balance screentime with other activities including physical exercise and face-to-face social interactions. 
-*  You should avoid excessive use of your devices outside learning hours.
-*  You should take regular breaks to rest your eyes and mind.
-*  You are reminded to practice good sleep hygiene by not using your devices one hour before bedtime.
+*  Students are reminded to balance screentime with other activities including physical exercise and face-to-face social interactions. 
+*  Students should avoid excessive use of their devices outside learning hours.
+*  Students should take regular breaks to rest their eyes and mind.
+*  Students are reminded to practice good sleep hygiene by not using their devices one hour before bedtime.  
