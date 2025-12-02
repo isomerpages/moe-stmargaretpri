@@ -27,6 +27,16 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 						<tr>
+<td><a href="/school-information/school-highlights/p6-dragonboat-2025/"><img src="/images/Thumbnails/dragnboat2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p2-tea-programme-2025/"><img src="/images/Thumbnails/p2tea2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/nativity-play-2025/"><img src="/images/Thumbnails/nativity2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>P6 Dragonboat 2025</center></th> 
+		<th><center>P2 TEA Programme 2025</center></th> 
+		<th><center>Nativity Play 2025</center></th> 
+			</tr>
+						<tr>
 <td><a href="/school-information/school-highlights/teacher-s-day-2025/"><img src="/images/Thumbnails/tcd2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/p4-tea-2025/"><img src="/images/Thumbnails/p4tea2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/children-s-day-2025/"><img src="/images/Thumbnails/childrenday2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>

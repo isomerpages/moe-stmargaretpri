@@ -2,6 +2,9 @@ collections:
   featured-events-2025:
     output: true
     order:
+      - Nativity Play 2025.md
+      - P2 TEA Programme 2025.md
+      - P6 Dragonboat 2025.md
       - Children's Day 2025.md
       - P4 TEA 2025.md
       - Teachers' Day 2025.md
