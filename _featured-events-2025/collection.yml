@@ -2,6 +2,7 @@ collections:
   featured-events-2025:
     output: true
     order:
+      - P2 TEA Programme.md
       - P6 Dragonboat 2025.md
       - Children's Day 2025.md
       - P4 TEA 2025.md
