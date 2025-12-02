@@ -13,3 +13,5 @@ Once we started paddling, we quickly realised how important teamwork was. Every 
 The most thrilling part was the mini competition between classes. As soon as the horn sounded, the girls shouted, paddled harder, and cheered one another on. Laughter, splashes, and excited screams filled the air as each class pushed to be the first to cross the finishing line.
 
 By the end of the session, we were tired but extremely proud of ourselves. We had learned not just how to dragonboat, but also how to work as one team—and many of us discovered we enjoyed it far more than we expected.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DAhZppRvoJE?si=z-csic80i523MKN2" height="415" width="700"></iframe></center>
