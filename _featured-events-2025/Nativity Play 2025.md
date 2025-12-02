@@ -13,3 +13,5 @@ After many hours of planning, preparation and rehearsals, the Primary 6 teachers
 Moments of laughter and cheer filled rehearsals, and it was heartening to see their enthusiasm shine through. With their teachers’ guidance and encouragement, the pupils worked together to put up a memorable final-year performance. Their teamwork was evident both on and off the stage. 
 
 The dancers impressed everyone with their graceful movements, while others helped behind the scenes with props, sets and cues. The hall was filled with the familiar tunes of Silent Night and Hark! The Herald Angels Sing, and the audience responded with warm applause. Beyond the joy and celebration, the play served as a gentle reminder of the true meaning of Christmas, the birth of Jesus.
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YvkcRyVe8a4?si=LuBaSovtZEmjJQW2" height="415" width="700"></iframe></center>
