@@ -75,14 +75,13 @@ variant: markdown
 
 ### USE OF MOBILE PHONE AND/OR SMART WATCH
 
-* Students are not to use smartphones and/or smartwatches, during school hours including recess, CCA and after-school programmes (e.g. supplementary/ enrichment/remedial lessons)
-* Students' devices are to be switched off upon arrival at school, during lessons and school activities.
-* Students who bring such devices are to put them in designated storage areas under lock and key before school start time. They can retrieve the devices after school ends. They should not be worn on the wrist/displayed during school hours or during school activities.
-* Students should bear responsibility for safekeeping of your devices and label them.
-* Students are only allowed to use smartphones and/or smartwatches after school hours at dismissal points.
+* Students are **not to use smartphones and/or smartwatches, during school hours including recess, CCA and after-school programmes** (e.g. supplementary/ enrichment/remedial lessons)
+* The devices are to be **switched off and put away upon arrival at school.**
+* They should <u>not</u> be worn on the wrist/displayed during school hours or during school activities.
+* Be responsible and take good care of the devices.
+* Students are only allowed **to use smartphones and/or smartwatches after school hours at dismissal points.**
 * The devices are to be used only for calling/messaging parents/guardians and not for other purposes such as taking/viewing pictures/videos, listening to music, playing games or accessing social media.
 * If they are misused, consequences will be meted out. The devices may be confiscated, and parents will have to personally collect them from school.
-
 
 ### UNIFORM AND PE ATTIRE
 
