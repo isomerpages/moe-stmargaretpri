@@ -23,7 +23,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-f4yw">School Uniform<br></td>
-    <td class="tg-zr06">Bibi &amp; Baba Pte Ltd<br>545 Orchard Road<br>Far East Shopping Centre #02-28<br>Singapore 238882<br>Tel: 6732 7022<br>Fax: 6835 4979<br><br>Open daily:<br>Mon - Sat, 10.00 am - 7.30 pm<br>Sun, 10.00 am - 6.00 pm<br><br>Days operating in school:<br>Every first Wednesday of the month,<br>9.00am - 3.00 pm<br>(On Thursday, if first Wednesday is a public holiday)<br></td>
+    <td class="tg-zr06">Bibi &amp; Baba Pte Ltd<br>545 Orchard Road<br>Far East Shopping Centre #02-28<br>Singapore 238882<br>Tel: 6732 7022<br>Fax: 6835 4979<br><br>Open daily:<br>Mon - Sat, 10.00 am - 7.30 pm<br>Sun, 10.00 am - 6.00 pm<br></td>
   </tr>
   <tr>
     <td class="tg-f4yw">School Dental Clinic<br></td>
