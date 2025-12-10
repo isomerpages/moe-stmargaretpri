@@ -15,10 +15,25 @@ The Functions and Duties of the School Management Committee are found in the Con
     <th style="border: 1px solid #000; padding: 8px;">Name</th>
     <th style="border: 1px solid #000; padding: 8px;">Position</th>
   </tr>
-  <tr>
-    <td style="border: 1px solid #000; padding: 8px;">1</td>
+  <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">1</td> 
     <td style="border: 1px solid #000; padding: 8px;">Ms Charis Tan</td>
     <td style="border: 1px solid #000; padding: 8px;">Chairperson</td>
+  </tr>
+<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">2</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Irene Chua</td>
+    <td style="border: 1px solid #000; padding: 8px;">Vice Chairperson</td>
+  </tr>
+<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">3</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Leong Wee Lee</td>
+    <td style="border: 1px solid #000; padding: 8px;">Hon Treasurer</td>
+  </tr>
+<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">4</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Ko-Tan Li Ling</td>
+    <td style="border: 1px solid #000; padding: 8px;">Secretary / Principal/ SMS(P)</td>
   </tr>
 </tbody></table>
 
@@ -118,7 +133,3 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 </tbody>
 </table>
-
-
-
-
