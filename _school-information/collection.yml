@@ -2,8 +2,8 @@ collections:
   school-information:
     output: true
     order:
-      - Test/Our People.md
-      - Test/.keep
+      - Our People/Our People.md
+      - Our People/.keep
       - School Rules & Expectations.md
       - Operating Hours.md
       - Contact Us.md
