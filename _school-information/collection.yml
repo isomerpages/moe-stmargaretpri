@@ -2,7 +2,7 @@ collections:
   school-information:
     output: true
     order:
-      - Our People/Our People.md
+      - Our People/School Management Committee.md
       - Our People/.keep
       - School Rules & Expectations.md
       - Operating Hours.md
