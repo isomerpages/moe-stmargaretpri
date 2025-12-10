@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Test/.keep
-      - Our People.md
       - School Rules & Expectations.md
       - Operating Hours.md
       - Contact Us.md
