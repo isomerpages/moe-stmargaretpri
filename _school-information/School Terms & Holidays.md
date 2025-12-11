@@ -85,7 +85,7 @@ variant: markdown
 </tbody>
 </table>
 
-### Public Holidays 2025
+### Public Holidays 2026
 
 ##### Semester 1
 <style type="text/css">
@@ -103,29 +103,32 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">New Year’s Day</font></span></th>
-    <th class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 1 Jan 2025</font></span></th>
+    <th class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Thursday, 1 Jan 2026</font></span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Chinese New Year</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday 29 Jan &amp; <br>Thursday 30 Jan 2025</font></span></td></tr>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Tuesday, 17 Feb <br>Wednesday, 18 Feb 2026</font></span></td></tr>
 	<tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Puasa</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Monday 31 March 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday, 21 Mar 2026</font></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Good Friday</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 18 April 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 3 April 2026</font></span></td>
   </tr>
-  
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Labour Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Thursday, 1 May 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 1 May 2026</font></span></td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Haji</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Wednesday, 27 May 2026</font></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Vesak Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Monday, 12 May 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday, 31 May 2026</font></span></td>
   </tr>
 </tbody>
 </table>
