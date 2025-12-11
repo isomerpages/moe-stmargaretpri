@@ -22,104 +22,44 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-
-
 <table style="border-collapse: collapse; width: 100%;">
-  <tbody><tr style="background-color: #334422">
-    <th style="border: 1px solid #000; padding: 8px; color: white">Class</th>
-    <th style="border: 1px solid #000; padding: 8px; color: white">Form Teacher</th>
-    <th style="border: 1px solid #000; padding: 8px; color: white">Form Teacher</th>
-  </tr>
-  <tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px;">1 Charity</td> 
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Madelin Yeo Hui Li (Mrs Ang)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Ko-Tan Li Ling</td>
-  </tr>
-<tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px;">2</td>
-    <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Acad)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Wendy See Gek Cheng</td>
-  </tr>
-
-
-
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-</tbody></table><table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Sara George (Ms) </th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-b4br">Level Manager </td>
-    <td class="tg-b4br">Lin Linli (Mdm) (LM)</td>
-  </tr>
-</tbody>
-</table>
+	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
+	<td><b>Form Teachers</b></td>
+	<td><b>       </b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>1 CHARITY</td>
+		<td>Ms Madelin Yeo Hui Li (Mrs Ang)</td>
+	<td>Mr Roland Neo Kian Chye</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>1 GRACIOUSNESS</td>
+		<td>Ms Seet See Lin</td>
+	<td>Mdm Angela Tew Hwee Gee</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>1 HUMILITY</td>
+		<td>Mdm Lin Linli</td>
+	<td>Mdm Tiffany Goh Shi Yun</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>1 INTEGRITY</td>
+		<td>Mdm Chua Chiow Yean</td>
+	<td>Mrs Bernice Poon Chye Hong</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>1 PATIENCE</td>
+		<td>Mdm Abigail Inbam Henry</td>
+	<td>Mdm Esther James</td>
+</tr>
+			<tr style="background-color:white;color:black;font-size:15px">
+		<td>1 TENACITY</td>
+		<td>Mr Zhang Miao</td>
+	<td>Ms Yeo Hwee Khim (Mrs Leong)</td>
+</tr>
+</tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-2hhi{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2hhi">Class</th>
-    <th class="tg-2hhi">Form Teacher</th>
-    <th class="tg-2hhi">Form Teacher</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">1 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Madelin Yeo Hui Li (Mrs Ang)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Roland Neo Kian Chye (Mr)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">1 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Seet See Lin (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Angela Tew Hwee Gee (Mdm)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">1 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Lin Linli (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Tiffany Goh Shi Yun (Mdm)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">1 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Chiow Yean (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Bernice Poon Chye Hong (Mrs)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">1 PATIENCE </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Abigail Inbam Henry (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Esther James (Mdm)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">1 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Zhang Miao (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Yeo Hwee Khim (Mrs Leong) </span><br></td>
-  </tr>
-</tbody>
-</table>
 
 
 ### Primary 2 Teachers
