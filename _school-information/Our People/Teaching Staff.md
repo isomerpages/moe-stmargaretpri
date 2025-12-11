@@ -220,31 +220,19 @@ third_nav_title: Our People
 
 ### Primary 5 Teachers
 
-**Year 2025**
+#### **Year 2025**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Michelle Kok Meixia (Mrs Ng)</th>
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+  <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Michelle Kok Meixia (Mrs Ng)</td>
   </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-b4br">Level Manager <span style="color:#222"> </span></td>
-    <td class="tg-b4br">Eddie Chong Chon Kar (Mr) (LM)<br></td>
+<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mr Eddie Chong Chon Kar</td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
