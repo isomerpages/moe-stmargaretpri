@@ -10,7 +10,7 @@ third_nav_title: Our People
 The Functions and Duties of the School Management Committee are found in the Constitution
 
 <table style="border-collapse: collapse; width: 100%;">
-  <tbody><tr style="background-color: #334422">
+  <tbody><tr style="background-color: darkgreen">
     <th style="border: 1px solid #000; padding: 8px; color: white">No.</th>
     <th style="border: 1px solid #000; padding: 8px; color: white">Name</th>
     <th style="border: 1px solid #000; padding: 8px; color: white">Position</th>
