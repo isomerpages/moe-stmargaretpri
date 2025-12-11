@@ -78,30 +78,43 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Sara George (Ms) </th>
-  </tr>
-</thead>
+<table style="border-collapse: collapse; width: 100%;">
 <tbody>
-  <tr>
-    <td class="tg-b4br">Level Manager </td>
-    <td class="tg-b4br">Wong Way Lin (Mrs Fam) (LM)</td>
-  </tr>
-</tbody>
-</table>
+	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
+	<td><b>Form Teachers</b></td>
+	<td><b>       </b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>2 CHARITY</td>
+		<td>Ms Samantha Ng Weiling</td>
+	<td>Ms Daphne Cheng Lai Peng</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>2 GRACIOUSNESS</td>
+		<td>Mdm Wang Peiqi</td>
+	<td>Ms Leow Hua Chin (Mrs Lee)</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>2 HUMILITY</td>
+		<td>Ms Joanne Lee May Lyn (Mrs Goh)</td>
+	<td>Mdm Shiem Shan Shan</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>2 INTEGRITY</td>
+		<td>Ms Gwee Hui Jun</td>
+	<td>Ms Divashini<br>Mrs Elango Anggammal</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>2 PATIENCE</td>
+		<td>Ms Anna Lau Li Keow</td>
+	<td>Mdm Madeline Koo Hwee Neo</td>
+</tr>
+			<tr style="background-color:white;color:black;font-size:15px">
+		<td>2 TENACITY</td>
+		<td>Ms Wong Way Lin (Mrs Fam)</td>
+	<td>Ms Lim Ai Kiok</td>
+</tr>
+</tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
