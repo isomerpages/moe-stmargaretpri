@@ -149,34 +149,30 @@ variant: markdown
 <table class="tg">
 <thead>
 	<tr>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Haji</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday 7 June 2025<br><font size="2"><i>Mon, 9 Jun will be a designated day off-in-lieu (DOIL). Schools will be closed, <br>including the General Office and Student Care Centres.</i></font></font></span></td>
-  </tr>
-	<tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Youth Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday 6 July 2025<br><font size="2"><i>The following Mon 7 Jul will be a school holiday</i></font></font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday, 5 July 2026<br><font size="2"><i>The following Mon 6 July will be a school holiday</i></font></font></span></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">National Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday, 9 Aug 2025<br><font size="2"><i>Mon, 11 Aug will be a designated day off-in-lieu (DOIL). Schools will be closed, <br>including the General Office and Student Care Centres.</i></font></font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday, 9 Aug 2026<br><font size="2"><i>Mon, 10 Aug will be a designated day off-in-lieu (DOIL). Schools will be closed, <br>including the General Office and Student Care Centres.</i></font></font></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Teacher’s Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 5 Sep 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 4 Sep 2026</font></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Childrens’ Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 3 Oct 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Friday, 2 Oct 2026</font></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Deepavali</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Monday, 20 Oct 2025</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday, 8 Nov 2026</font></span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;color:#000"><font size="4">Christmas</font></span></td>
-    <td class="tg-lqy6"><span style="font-weight:400;color:#000"><font size="4">Thursday, 25 Dec 2025</font></span></td>
+    <td class="tg-lqy6"><span style="font-weight:400;color:#000"><font size="4">Friday, 25 Dec 2026</font></span></td>
   </tr>
 </tbody>
 </table>
