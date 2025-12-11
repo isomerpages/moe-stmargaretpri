@@ -270,32 +270,52 @@ third_nav_title: Our People
 
 ### Primary 6 Teachers
 
-**Year 2025**
+#### **Year 2025**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Michelle Kok Meixia (Mrs Ng)</th>
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+  <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Michelle Kok Meixia (Mrs Ng)</td>
   </tr>
-</thead>
+<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Charissa Chan Soek Yee</td>
+  </tr>
+</tbody></table>
+
+<table style="border-collapse: collapse; width: 100%;">
 <tbody>
-  <tr>
-    <td class="tg-b4br">Level Manager </td>
-    <td class="tg-b4br">Charissa Chan Soek Yee (Ms) (LM)</td>
-  </tr>
-</tbody>
-</table>
+	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
+	<td><b>Form Teachers</b></td>
+	<td><b>       </b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>6 CHARITY</td>
+		<td>Ms Tan Seow Wee (Mrs Chua)</td>
+	<td>Mdm Rajkumar Geetha</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>6 GRACIOUSNESS</td>
+		<td>Ms Ng Ley Tin (Mrs Chin)</td>
+	<td>Ms Michelle Kok Meixia (Mrs Ng)<br>Ms Chung Hui Yee (Mrs Thong)</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>6 HUMILITY</td>
+		<td>Mr Eric Huang Wenshan</td>
+	<td>Ms Goh Bee Ling (Mrs Ong)</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>6 INTEGRITY</td>
+		<td>Mr Sim Liyang</td>
+	<td>Mdm Shahirah Bte Mohd Shariff</td>
+</tr>
+			<tr style="background-color:white;color:black;font-size:15px">
+		<td>6 TENACITY</td>
+		<td>Ms Charissa Chan Soek Yee</td>
+	<td>Ms Nur A'zzah Bte Noh</td>
+</tr>
+</tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
