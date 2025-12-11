@@ -119,78 +119,53 @@ third_nav_title: Our People
 
 ### Primary 3 Teachers
 
-**Year 2025**
 
-<style type="text/cs">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Sharon Simon (Mdm)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-b4br">Level Manager </td>
-    <td class="tg-b4br">Pamela Yeo Yun Fen (Mrs Yeow) (LM)</td>
-  </tr>
-</tbody>
-</table>
+#### **Year 2025**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-2hhi{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2hhi">Class</th>
-    <th class="tg-2hhi">Form Teacher</th>
-    <th class="tg-2hhi">Form Teacher</th>
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+  <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mdm Sharon Simon</td>
   </tr>
-</thead>
+<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Pamela Yeo Yun Fen (Mrs Yeow)</td>
+  </tr>
+</tbody></table>
+
+<table style="border-collapse: collapse; width: 100%;">
 <tbody>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">3 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Amelia Leong Seok Ling (Mrs Goh)<br></span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Huang Li (Mdm)<br>Jamilah Bee Bte Mohd Ghani (Mdm)   </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">3 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Low Wei Wen (Mrs Ng)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Wu Shao Hai (Mr) </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">3 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pamela Yeo Yun Fen (Mrs Yeow)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Eric Seah Hou Kiat (Mr) </span><br>Alice Toh Peck Hoon (Ms)</td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">3 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Pamela Chew Huan Pei (Mrs Yeo)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Doris Ng Lay Cheng (Mrs Loo)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">3 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ngoh Moon Geok (Mdm)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Miss Teo Bee Poh (Ms Teo)</span><br></td>
-  </tr>
-</tbody>
-</table>
+	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
+	<td><b>Form Teachers</b></td>
+	<td><b>       </b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>3 CHARITY</td>
+		<td>Ms Amelia Leong Seok Ling (Mrs Goh)</td>
+	<td>Mdm Huang Li<br>Mdm Jamilah Bee Bte Mohd Ghani</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>3 GRACIOUSNESS</td>
+		<td>Ms Low Wei Wen (Mrs Ng)</td>
+	<td>Mr Wu Shao Hai</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>3 HUMILITY</td>
+		<td>Ms Pamela Yeo Yun Fen (Mrs Yeow)</td>
+	<td>Mr Eric Seah Hou Kiat<br>Ms Alice Toh Peck Hoon</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>3 INTEGRITY</td>
+		<td>Ms Pamela Chew Huan Pei (Mrs Yeo)</td>
+	<td>Ms Doris Ng Lay Cheng (Mrs Loo)</td>
+</tr>
+			<tr style="background-color:white;color:black;font-size:15px">
+		<td>3 TENACITY</td>
+		<td>Mdm Ngoh Moon Geok</td>
+	<td></td>
+</tr>
+</tbody></table>
 
 
 ### Primary 4 Teachers
