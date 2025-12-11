@@ -64,7 +64,20 @@ third_nav_title: Our People
 
 ### Primary 2 Teachers
 
-**Year 2025**
+#### **Year 2025**
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+  <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Sara George</td>
+  </tr>
+<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Wong Way Lin (Mrs Fam)</td>
+  </tr>
+</tbody></table>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
