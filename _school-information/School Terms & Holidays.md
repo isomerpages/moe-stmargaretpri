@@ -112,7 +112,7 @@ variant: markdown
     <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Tuesday, 17 Feb <br>Wednesday, 18 Feb 2026</font></span></td></tr>
 	<tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Hari Raya Puasa</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday, 21 Mar 2026</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Saturday, 21 Mar 2026<br><font size="2"><i>The following Mon 23 March will be a school holiday. Schools will be closed, <br>including the General Office and Student Care Centres.</i></font></font></span></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Good Friday</font></span></td>
@@ -128,7 +128,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Vesak Day</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday, 31 May 2026</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday, 31 May 2026<br><font size="2"><i>The following Mon 1 June will be a school holiday. Schools will be closed, <br>including the General Office and Student Care Centres.</i></font></font></span></td>
   </tr>
 </tbody>
 </table>
@@ -168,7 +168,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Deepavali</font></span></td>
-    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday, 8 Nov 2026</font></span></td>
+    <td class="tg-eelb"><span style="font-weight:400;color:#000"><font size="4">Sunday, 8 Nov 2026<br><font size="2"><i>Monday, 9 November 2026 will be a public holiday. Schools will be closed, <br>including the General Office and Student Care Centres.</i></font></font></span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;color:#000"><font size="4">Christmas</font></span></td>
