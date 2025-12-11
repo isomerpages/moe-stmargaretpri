@@ -24,22 +24,22 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax"><font size="4">Term 1</font></td>
-    <td class="tg-0lax"><font size="4">Friday 2 Jan&nbsp;- Friday 13 Mar 2026</font></td>
+    <td class="tg-0lax"><font size="4">Friday, 2 Jan&nbsp;- Friday, 13 Mar 2026</font></td>
   </tr>
   <tr>
     <td class="tg-0lax"><font size="4">Term 2</font></td>
-    <td class="tg-0lax"><font size="4">Monday 23 Mar - Friday 29 May 2026</font></td>
+    <td class="tg-0lax"><font size="4">Monday, 23 Mar - Friday, 29 May 2026</font></td>
   </tr>
   <tr>
     <td class="tg-1wig" colspan="2"><font size="4">Semester 2</font></td>
   </tr>
   <tr>
     <td class="tg-0lax"><font size="4">Term 3</font></td>
-    <td class="tg-0lax"><font size="4">Monday 29 Jun - Friday 4 Sep 2026</font></td>
+    <td class="tg-0lax"><font size="4">Monday, 29 Jun - Friday, 4 Sep 2026</font></td>
   </tr>
   <tr>
     <td class="tg-0lax"><font size="4">Term 4</font></td>
-    <td class="tg-0lax"><font size="4">Monday 14 Sep - Friday 20 Nov 2026</font></td>
+    <td class="tg-0lax"><font size="4">Monday,, 14 Sep - Friday 20 Nov 2026</font></td>
   </tr>
 </tbody>
 </table>
@@ -65,22 +65,22 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Between Term 1 &amp; 2</font></span></td>
-    <td class="tg-0lax"><font size="4">Saturday 14 Mar to Sunday 22 Mar 2026</font></td>
+    <td class="tg-0lax"><font size="4">Saturday, 14 Mar to Sunday, 22 Mar 2026</font></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Between Semester 1 &amp; 2</font></span></td>
-    <td class="tg-0lax"><font size="4">Saturday 30 May to Sunday 28 Jun 2026</font></td>
+    <td class="tg-0lax"><font size="4">Saturday, 30 May to Sunday, 28 Jun 2026</font></td>
   </tr>
   <tr>
     <td class="tg-1wig" colspan="2"><font size="4">Semester 2</font></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">Between Term 3 &amp; 4</font></span></td>
-    <td class="tg-0lax"><font size="4">Saturday 5 Sep to Sunday 13 Sep 2026</font></td>
+    <td class="tg-0lax"><font size="4">Saturday, 5 Sep to Sunday, 13 Sep 2026</font></td>
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">At End of School Year</font></span></td>
-    <td class="tg-0lax"><font size="4">Saturday 21 Nov to Thursday 31 Dec 2026</font></td>
+    <td class="tg-0lax"><font size="4">Saturday, 21 Nov to Thursday, 31 Dec 2026</font></td>
   </tr>
 </tbody>
 </table>
