@@ -116,58 +116,6 @@ third_nav_title: Our People
 </tr>
 </tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-2hhi{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2hhi">Class</th>
-    <th class="tg-2hhi">Form Teacher</th>
-    <th class="tg-2hhi">Form Teacher</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">2 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Samantha Ng Weiling  (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Daphne Cheng Lai Peng (Ms)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">2 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wang Peiqi (Mdm) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Leow Hua Chin (Mrs Lee) </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">2 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Joanne Lee May Lyn (Mrs Goh)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222"></span>Shiem Shan Shan (Mdm)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">2 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Gwee Hui Jun (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Divashini (Ms)<br>Elango Anggammal (Mrs)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">2 PATIENCE </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Anna Lau Li Keow (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Madeline Koo Hwee Neo (Mdm)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">2 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Wong Way Lin (Mrs Fam)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Lim Ai Kiok (Ms)</span></td>
-  </tr>
-</tbody>
-</table>
-
-
 
 ### Primary 3 Teachers
 
