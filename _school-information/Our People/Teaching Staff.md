@@ -217,53 +217,6 @@ third_nav_title: Our People
 </tr>
 </tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-2hhi{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2hhi">Class</th>
-    <th class="tg-2hhi">Form Teacher </th>
-    <th class="tg-2hhi">Form Teacher</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">4 CHARITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Dharshini Ravichandran (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Gerry Low Pei Chi (Mrs Ong)</span><br>Ng Hoe Cheong (Mr)</td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">4 GRACIOUSNESS</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Zhuang Siqiao (Mrs Heng)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Dinah Chan Siew Kheng (Mdm)</span><br><span style="color:#222"></span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">4 HUMILITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Soomathy D/O Veeraya (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chan Yen Peng (Mdm) </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">4 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Suryanti Binte Fathillah (Mdm) </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mandy Li Yuen Mun (Mrs Teo) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">4 TENACITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Low Pei Lin (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Angeline Chong Chek Mei (Mrs Tan)</span></td>
-  </tr>
-</tbody>
-</table>
-
-
 
 ### Primary 5 Teachers
 
