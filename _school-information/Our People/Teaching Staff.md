@@ -170,32 +170,52 @@ third_nav_title: Our People
 
 ### Primary 4 Teachers
 
-**Year 2025**
+#### **Year 2025**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b4br">Year Head</th>
-    <th class="tg-b4br">Sharon Simon (Mdm)<br></th>
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+  <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mdm Sharon Simon</td>
   </tr>
-</thead>
+<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Soomathy D/O Veeraya</td>
+  </tr>
+</tbody></table>
+
+<table style="border-collapse: collapse; width: 100%;">
 <tbody>
-
-  <tr>
-    <td class="tg-b4br">Level Manager </td>
-    <td class="tg-b4br">Soomathy D/O Veeraya (Ms) (LM)<br></td>
-  </tr>
-</tbody>
-</table>
+	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
+	<td><b>Form Teachers</b></td>
+	<td><b>       </b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>4 CHARITY</td>
+		<td>Ms Dharshini Ravichandran</td>
+	<td>Ms Gerry Low Pei Chi (Mrs Ong)</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>4 GRACIOUSNESS</td>
+		<td>Ms Zhuang Siqiao (Mrs Heng)</td>
+	<td>Mdm Dinah Chan Siew Kheng</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>4 HUMILITY</td>
+		<td>Ms Soomathy D/O Veeraya</td>
+	<td>Mdm Chan Yen Peng</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>4 INTEGRITY</td>
+		<td>Mdm Suryanti Binte Fathillah</td>
+	<td>Ms Mandy Li Yuen Mun (Mrs Teo)</td>
+</tr>
+			<tr style="background-color:white;color:black;font-size:15px">
+		<td>4 TENACITY</td>
+		<td>Ms Low Pei Lin</td>
+	<td>Ms Angeline Chong Chek Mei (Mrs Tan)</td>
+</tr>
+</tbody></table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
