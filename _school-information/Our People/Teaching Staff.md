@@ -22,7 +22,22 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody><tr style="background-color: #334422">
+    <th style="border: 1px solid #000; padding: 8px; color: white">Class</th>
+    <th style="border: 1px solid #000; padding: 8px; color: white">Form Teacher</th>
+    <th style="border: 1px solid #000; padding: 8px; color: white">Form Teacher</th>
+  </tr>
+  <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">1 Charity</td> 
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Madelin Yeo Hui Li (Mrs Ang)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Ko-Tan Li Ling</td>
+  </tr>
+<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">2</td>
+    <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Acad)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Wendy See Gek Cheng</td>
+  </tr>
 
 
 
@@ -38,7 +53,7 @@ third_nav_title: Our People
 .tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+</tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-b4br">Year Head</th>
