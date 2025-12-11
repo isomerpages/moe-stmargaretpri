@@ -10,19 +10,19 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
   <tbody>
-  <tr style="border: 0px solid #000; padding: 8px;">
-    <td style="border: 0px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
-    <td style="border: 0px solid #000; padding: 8px;">Ms Sara George</td>
+  <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Sara George</td>
   </tr>
-<tr style="border: 0px solid #000; padding: 8px;">
-        <td style="border: 0px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
-    <td style="border: 0px solid #000; padding: 8px;">Mdm Lin Linli</td>
+<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mdm Lin Linli</td>
   </tr>
 </tbody></table>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
 	<td><b>Form Teachers</b></td>
@@ -66,7 +66,7 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
   <tbody>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
@@ -78,7 +78,7 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
 	<td><b>Form Teachers</b></td>
@@ -122,7 +122,7 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
   <tbody>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
@@ -134,7 +134,7 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
 	<td><b>Form Teachers</b></td>
@@ -172,7 +172,7 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
   <tbody>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
@@ -184,7 +184,7 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
 	<td><b>Form Teachers</b></td>
@@ -222,7 +222,7 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
   <tbody>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
@@ -234,7 +234,7 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
 	<td><b>Form Teachers</b></td>
@@ -272,7 +272,7 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
   <tbody>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
@@ -284,7 +284,7 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
 	<td><b>Form Teachers</b></td>
