@@ -10,7 +10,7 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 80%;">
+<table style="border-collapse: collapse; width: 50%;">
   <tbody>
   <tr style="border: 0px solid #000; padding: 8px;">
     <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
