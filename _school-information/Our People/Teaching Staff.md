@@ -56,7 +56,7 @@ third_nav_title: Our People
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 TENACITY</td>
 		<td>Mr Zhang Miao</td>
-	<td>Ms Yeo Hwee Khim (Mrs Leong)</td>
+	<td></td>
 </tr>
 </tbody></table>
 
