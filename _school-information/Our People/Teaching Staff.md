@@ -234,52 +234,38 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fxx4{background-color:#ECECEC;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-hchh{background-color:#999;color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-2hhi{background-color:#999;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hchh">Class</th>
-    <th class="tg-2hhi">Form Teacher </th>
-    <th class="tg-2hhi">Form Teacher</th>
-  </tr>
-</thead>
+<table style="border-collapse: collapse; width: 100%;">
 <tbody>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">5 CHARITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Munawarrah Sultana Unwar (Ms)</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Poh Siok Kheng (Mdm)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">5 GRACIOUSNESS </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ng Xing Hwee (Ms)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Wong Wai Yee (Mrs Teo)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">5 HUMILITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Chua Sue Ann (Mdm) </span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Ong Shilin, Shirley (Ms)<span><br></span></span></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">5 INTEGRITY</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Rozita Bte Sulaiman (Mdm) </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Thavaselvi d/o Selliah (Mdm Selvi)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-fxx4"><span style="color:#222">5 TENACITY </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Eddie Chong Chon Kar (Mr)</span><br></td>
-    <td class="tg-fxx4"><span style="color:#222">Julia Li Wai See (Li Huishi) (Mdm)</span></td>
-  </tr>
-</tbody>
-</table>
+	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
+	<td><b>Form Teachers</b></td>
+	<td><b>       </b></td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>5 CHARITY</td>
+		<td>Ms Munawarrah Sultana Unwar</td>
+	<td>Mdm Poh Siok Kheng</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>5 GRACIOUSNESS</td>
+		<td>Ms Ng Xing Hwee</td>
+	<td>Ms Wong Wai Yee (Mrs Teo)</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>5 HUMILITY</td>
+		<td>Mdm Chua Sue Ann</td>
+	<td>Ms Ong Shilin, Shirley</td>
+</tr>
+	<tr style="background-color:white;color:black;font-size:15px">
+		<td>5 INTEGRITY</td>
+		<td>Mdm Rozita Bte Sulaiman</td>
+	<td></td>
+</tr>
+			<tr style="background-color:white;color:black;font-size:15px">
+		<td>5 TENACITY</td>
+		<td>Mr Eddie Chong Chon Kar</td>
+	<td>Ms Julia Li Wai See</td>
+</tr>
+</tbody></table>
 
 
 ### Primary 6 Teachers
