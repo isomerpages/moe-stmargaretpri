@@ -80,7 +80,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000"><font size="4">At End of School Year</font></span></td>
-    <td class="tg-0lax"><font size="4">Saturday 22 Nov to Wednesday 31 Dec 2025</font></td>
+    <td class="tg-0lax"><font size="4">Saturday 21 Nov to Thursday 31 Dec 2026</font></td>
   </tr>
 </tbody>
 </table>
