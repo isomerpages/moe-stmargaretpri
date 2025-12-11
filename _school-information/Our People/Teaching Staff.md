@@ -66,15 +66,15 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 80%;">
+<table style="border-collapse: collapse; width: 50%;">
   <tbody>
-  <tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Sara George</td>
+  <tr style="border: 0px solid #000; padding: 8px;">
+    <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Sara George</td>
   </tr>
-<tr style="border: 1px solid #000; padding: 8px;">
-        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Wong Way Lin (Mrs Fam)</td>
+<tr style="border: 0px solid #000; padding: 8px;">
+        <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Wong Way Lin (Mrs Fam)</td>
   </tr>
 </tbody></table>
 
@@ -122,15 +122,15 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 80%;">
+<table style="border-collapse: collapse; width: 50%;">
   <tbody>
-  <tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mdm Sharon Simon</td>
+  <tr style="border: 0px solid #000; padding: 8px;">
+    <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Mdm Sharon Simon</td>
   </tr>
-<tr style="border: 1px solid #000; padding: 8px;">
-        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Pamela Yeo Yun Fen (Mrs Yeow)</td>
+<tr style="border: 0px solid #000; padding: 8px;">
+        <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Pamela Yeo Yun Fen (Mrs Yeow)</td>
   </tr>
 </tbody></table>
 
@@ -172,15 +172,15 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 80%;">
+<table style="border-collapse: collapse; width: 50%;">
   <tbody>
-  <tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mdm Sharon Simon</td>
+  <tr style="border: 0px solid #000; padding: 8px;">
+    <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Mdm Sharon Simon</td>
   </tr>
-<tr style="border: 1px solid #000; padding: 8px;">
-        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Soomathy D/O Veeraya</td>
+<tr style="border: 0px solid #000; padding: 8px;">
+        <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Soomathy D/O Veeraya</td>
   </tr>
 </tbody></table>
 
@@ -222,15 +222,15 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 80%;">
+<table style="border-collapse: collapse; width: 50%;">
   <tbody>
-  <tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Michelle Kok Meixia (Mrs Ng)</td>
+  <tr style="border: 0px solid #000; padding: 8px;">
+    <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Michelle Kok Meixia (Mrs Ng)</td>
   </tr>
-<tr style="border: 1px solid #000; padding: 8px;">
-        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mr Eddie Chong Chon Kar</td>
+<tr style="border: 0px solid #000; padding: 8px;">
+        <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Mr Eddie Chong Chon Kar</td>
   </tr>
 </tbody></table>
 
@@ -272,15 +272,15 @@ third_nav_title: Our People
 
 #### **Year 2025**
 
-<table style="border-collapse: collapse; width: 80%;">
+<table style="border-collapse: collapse; width: 50%;">
   <tbody>
-  <tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Year Head</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Michelle Kok Meixia (Mrs Ng)</td>
+  <tr style="border: 0px solid #000; padding: 8px;">
+    <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Michelle Kok Meixia (Mrs Ng)</td>
   </tr>
-<tr style="border: 1px solid #000; padding: 8px;">
-        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Level Manager</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Charissa Chan Soek Yee</td>
+<tr style="border: 0px solid #000; padding: 8px;">
+        <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Charissa Chan Soek Yee</td>
   </tr>
 </tbody></table>
 
