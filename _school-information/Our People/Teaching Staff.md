@@ -22,9 +22,6 @@ third_nav_title: Our People
   </tr>
 </tbody></table>
 
-##### Year Head : Ms Sara George<br>
-##### Level Manager : Mdm Lin Linli
-
 <table style="border-collapse: collapse; width: 80%;">
 <tbody>
 	<tr style="background-color:darkgreen;color:white;font-size:15px"><td><b>Class</b></td>
