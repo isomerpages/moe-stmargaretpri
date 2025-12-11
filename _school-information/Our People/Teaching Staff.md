@@ -7,9 +7,7 @@ third_nav_title: Our People
 ---
 ### Primary 1 Teachers
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tbody><tr style="background-color: #334422">
-    <th style="border: 1px solid #000; padding: 8px; color: white">
+
 
 **Year 2025**
 
@@ -472,4 +470,4 @@ third_nav_title: Our People
     <td class="tg-fxx4"><span style="color:#222">Nur A'zzah Bte Noh (Ms)</span></td>
   </tr>
 </tbody>
-</table></th></tr></tbody></table>
+</table>
