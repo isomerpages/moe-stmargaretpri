@@ -7,11 +7,12 @@ third_nav_title: Our People
 ---
 ### Executive Committee
 
+
 <table style="border-collapse: collapse; width: 100%;">
-  <tbody><tr style="background-color: green">
-    <th style="border: 1px solid #000; padding: 8px;">No.</th>
-    <th style="border: 1px solid #000; padding: 8px;">Name</th>
-    <th style="border: 1px solid #000; padding: 8px;">Position</th>
+  <tbody><tr style="background-color: #334422">
+    <th style="border: 1px solid #000; padding: 8px; color: white">No.</th>
+    <th style="border: 1px solid #000; padding: 8px; color: white">Name</th>
+    <th style="border: 1px solid #000; padding: 8px; color: white">Position</th>
   </tr>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">1</td> 
