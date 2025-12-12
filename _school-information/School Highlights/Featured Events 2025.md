@@ -18,7 +18,7 @@ third_nav_title: School Highlights
 	<td><a href="/school-information/school-highlights/nativity-play-2025/"><img src="/images/Thumbnails/p6gradtea2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>Aethetic Day 2025</center></th> 
+			<th><center>Aesthetic Day 2025</center></th> 
 		<th><center>Games Day 2025</center></th> 
 		<th><center>P6 Graduation Tea 2025</center></th> 
 			</tr>
