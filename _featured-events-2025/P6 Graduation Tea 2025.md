@@ -4,3 +4,6 @@ permalink: /p6-graduation-tea-2025/
 variant: markdown
 description: ""
 ---
+### **P6 Graduation Tea 2025**
+
+##### 13 Nov 2025
