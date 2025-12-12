@@ -12,6 +12,16 @@ third_nav_title: School Highlights
  </font></center></th></tr></tbody></table>
 <table>
 	<tbody>
+		<tr>
+<td><a href="/school-information/school-highlights/p6-dragonboat-2025/"><img src="/images/Thumbnails/dragnboat2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p2-tea-programme-2025/"><img src="/images/Thumbnails/p2tea2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/nativity-play-2025/"><img src="/images/Thumbnails/nativity2025_thumb_01.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+		<tr>
+			<th><center>Aethetic Day 2025</center></th> 
+		<th><center>Games Day 2025</center></th> 
+		<th><center>P6 Graduation Tea 2025</center></th> 
+			</tr>
 			<tr>
 <td><a href="/school-information/school-highlights/p6-dragonboat-2025/"><img src="/images/Thumbnails/dragnboat2025_thumb_01.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/p2-tea-programme-2025/"><img src="/images/Thumbnails/p2tea2025_thumb_01.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
