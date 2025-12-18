@@ -2,6 +2,9 @@ collections:
   featured-events-2025:
     output: true
     order:
+      - P6 Graduation Tea 2025.md
+      - Games Day 2025.md
+      - Aesthetic Day 2025.md
       - Nativity Play 2025.md
       - P2 TEA Programme 2025.md
       - P6 Dragonboat 2025.md

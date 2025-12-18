@@ -2,7 +2,11 @@ collections:
   school-information:
     output: true
     order:
-      - Our People.md
+      - Our People/.keep
+      - Our People/School Management Committee.md
+      - Our People/Executive Committee.md
+      - Our People/Teaching Staff.md
+      - Our People/Non teaching staff.md
       - School Rules & Expectations.md
       - Operating Hours.md
       - Contact Us.md
