@@ -121,17 +121,17 @@ third_nav_title: Our People
 ### Primary 3 Teachers
 
 
-#### **Year 2025**
+#### **Year 2026**
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
   <tr style="border: 0px solid #000; padding: 8px;">
     <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
-    <td style="border: 0px solid #000; padding: 8px;">Mdm Sharon Simon</td>
+    <td style="border: 0px solid #000; padding: 8px;">Mdm Sharon Simon<br>Ms Michelle Kok Meixia (Mrs Ng)</td>
   </tr>
 <tr style="border: 0px solid #000; padding: 8px;">
         <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
-    <td style="border: 0px solid #000; padding: 8px;">Ms Pamela Yeo Yun Fen (Mrs Yeow)</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Charissa Chan Soek Yee</td>
   </tr>
 </tbody></table>
 
@@ -143,27 +143,28 @@ third_nav_title: Our People
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 CHARITY</td>
-		<td>Ms Amelia Leong Seok Ling (Mrs Goh)</td>
-	<td>Mdm Huang Li<br>Mdm Jamilah Bee Bte Mohd Ghani</td>
+		<td>Mr Eric Huang Wenshan</td>
+	<td>Ms Chung Hui Yee (Mrs Thong)</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 GRACIOUSNESS</td>
-		<td>Ms Low Wei Wen (Mrs Ng)</td>
-	<td>Mr Wu Shao Hai</td>
+		<td>Ms Charissa Chan Soek Yee</td>
+	<td>Ms Alice Toh Peck Hoon</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 HUMILITY</td>
-		<td>Ms Pamela Yeo Yun Fen (Mrs Yeow)</td>
-	<td>Mr Eric Seah Hou Kiat<br>Ms Alice Toh Peck Hoon</td>
+		<td>Mrs Chan Mei Sze</td>
+	<td>Mdm Sharon Simon</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 INTEGRITY</td>
-		<td>Ms Pamela Chew Huan Pei (Mrs Yeo)</td>
-	<td>Ms Doris Ng Lay Cheng (Mrs Loo)</td>
+		<td>Mr Eddie Chong Chon Kar</td>
+	<td>Ms Claire Lu Ting Ting</td>
 </tr>
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 TENACITY</td>
-		<td>Mdm Ngoh Moon Geok</td>
+		<td>Ms Ng Jun Qing</td>
+		<td>Ms Angeline Chong Chek Mei (Mrs Tan)</td>
 	<td></td>
 </tr>
 </tbody></table>
