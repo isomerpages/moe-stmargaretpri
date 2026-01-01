@@ -232,7 +232,7 @@ third_nav_title: Our People
   </tr>
 <tr style="border: 0px solid #000; padding: 8px;">
         <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
-    <td style="border: 0px solid #000; padding: 8px;">Mr Eddie Chong Chon Kar</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Mandy Li Yuen Mun (Mrs Teo)</td>
   </tr>
 </tbody></table>
 
@@ -244,28 +244,29 @@ third_nav_title: Our People
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>5 CHARITY</td>
-		<td>Ms Munawarrah Sultana Unwar</td>
-	<td>Mdm Poh Siok Kheng</td>
+		<td>Mr Sim Liyang</td>
+	<td>Ms Anne Neo Siao Wei</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>5 GRACIOUSNESS</td>
-		<td>Ms Ng Xing Hwee</td>
-	<td>Ms Wong Wai Yee (Mrs Teo)</td>
+		<td>Mdm Rajkumar Geetha</td>
+	<td>Ms Ng Ley Tin (Mrs Chin)</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>5 HUMILITY</td>
-		<td>Mdm Chua Sue Ann</td>
-	<td>Ms Ong Shilin, Shirley</td>
+		<td>Ms Dharshini Ravichandran</td>
+	<td>Ms Mandy Li Yuen Mun (Mrs Teo)</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>5 INTEGRITY</td>
-		<td>Mdm Rozita Bte Sulaiman</td>
+		<td>Ms Tan Seow Wee (Mrs Chua)</td>
+		<td>Ms Nur A'zzah Bte Noh</td>
 	<td></td>
 </tr>
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>5 TENACITY</td>
-		<td>Mr Eddie Chong Chon Kar</td>
-	<td>Ms Julia Li Wai See</td>
+		<td>Ms Low Pei Lin</td>
+	<td>Ms Jiang Yanni</td>
 </tr>
 </tbody></table>
 
