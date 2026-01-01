@@ -32,13 +32,13 @@ The Functions and Duties of the School Management Committee are found in the Con
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">4</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Ko-Tan Li Ling</td>
-    <td style="border: 1px solid #000; padding: 8px;">Secretary / Principal/ SMS(P)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Linda Lim Hui Kheng</td>
+    <td style="border: 1px solid #000; padding: 8px;">Secretary / Principal SMS(S)</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">5</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Linda Lim Hui Kheng</td>
-    <td style="border: 1px solid #000; padding: 8px;">Principal / SMS(S)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Cherlyn Tan Hui En</td>
+    <td style="border: 1px solid #000; padding: 8px;">Principal SMS(P)</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">6</td>
