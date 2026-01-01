@@ -214,8 +214,8 @@ third_nav_title: Our People
 </tr>
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>4 TENACITY</td>
-		<td>Ms Low Pei Lin</td>
-	<td>Ms Angeline Chong Chek Mei (Mrs Tan)</td>
+		<td>Ms Divashini</td>
+	<td>Ms Angel Chan Sui Sui</td>
 </tr>
 </tbody></table>
 
