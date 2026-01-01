@@ -172,13 +172,13 @@ third_nav_title: Our People
 
 ### Primary 4 Teachers
 
-#### **Year 2025**
+#### **Year 2026**
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
   <tr style="border: 0px solid #000; padding: 8px;">
     <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
-    <td style="border: 0px solid #000; padding: 8px;">Mdm Sharon Simon</td>
+    <td style="border: 0px solid #000; padding: 8px;">Mdm Sharon Simon<br>Ms Christina Yong</td>
   </tr>
 <tr style="border: 0px solid #000; padding: 8px;">
         <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
@@ -194,23 +194,23 @@ third_nav_title: Our People
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>4 CHARITY</td>
-		<td>Ms Dharshini Ravichandran</td>
-	<td>Ms Gerry Low Pei Chi (Mrs Ong)</td>
+		<td>Ms Amelia Leong Seok Ling (Mrs Goh)<br>Ms Gerry Low Pei Chi (Mrs Ong)</td>
+	<td>Mdm Huang Li</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>4 GRACIOUSNESS</td>
-		<td>Ms Zhuang Siqiao (Mrs Heng)</td>
-	<td>Mdm Dinah Chan Siew Kheng</td>
+		<td>Ms Low Wei Wen (Mrs Ng)</td>
+	<td>Ms Goh Bee Ling (Mrs Ong)</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>4 HUMILITY</td>
-		<td>Ms Soomathy D/O Veeraya</td>
-	<td>Mdm Chan Yen Peng</td>
+		<td>Ms Pamela Yeo Yun Fen (Mrs Yeow)</td>
+	<td>MMr Eric Seah Hou Kiat</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>4 INTEGRITY</td>
-		<td>Mdm Suryanti Binte Fathillah</td>
-	<td>Ms Mandy Li Yuen Mun (Mrs Teo)</td>
+		<td>Ms Soomathy D/O Veeraya</td>
+	<td>Mr Wu Shao Hai</td>
 </tr>
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>4 TENACITY</td>
