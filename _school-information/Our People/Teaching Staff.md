@@ -8,7 +8,7 @@ third_nav_title: Our People
 ### Primary 1 Teachers
 
 
-#### **Year 2025**
+#### **Year 2026**
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
@@ -30,32 +30,33 @@ third_nav_title: Our People
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 CHARITY</td>
-		<td>Ms Madelin Yeo Hui Li (Mrs Ang)</td>
-	<td>Mr Roland Neo Kian Chye</td>
+		<td>Ms Joanne Lee May Lyn (Mrs Goh)</td>
+	<td>Ms Anna Lau Li Keow</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 GRACIOUSNESS</td>
-		<td>Ms Seet See Lin</td>
-	<td>Mdm Angela Tew Hwee Gee</td>
+		<td>Ms Wong Way Lin (Mrs Fam)</td>
+	<td>MMs Leow Hua Chin (Mrs Lee)</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 HUMILITY</td>
-		<td>Mdm Lin Linli</td>
-	<td>Mdm Tiffany Goh Shi Yun</td>
+		<td>Mdm Shiem Shan Shan</td>
+	<td>Ms Sara George</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 INTEGRITY</td>
-		<td>Mdm Chua Chiow Yean</td>
-	<td>Mrs Bernice Poon Chye Hong</td>
+		<td>Mdm Lin Linli</td>
+	<td>Ms Gwee Hui Jun</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 PATIENCE</td>
-		<td>Mdm Abigail Inbam Henry</td>
-	<td>Mdm Esther James</td>
+		<td>Mdm Ngoh Moon Geok</td>
+	<td>Mr Roland Neo Kian Chye</td>
 </tr>
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 TENACITY</td>
-		<td>Mr Zhang Miao</td>
+		<td>Ms Samantha Ng Weiling</td>
+		<td>Mdm Shahirah Bte Mohd Shariff</td>
 	<td></td>
 </tr>
 </tbody></table>
