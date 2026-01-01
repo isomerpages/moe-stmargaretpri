@@ -273,7 +273,7 @@ third_nav_title: Our People
 
 ### Primary 6 Teachers
 
-#### **Year 2025**
+#### **Year 2026**
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
