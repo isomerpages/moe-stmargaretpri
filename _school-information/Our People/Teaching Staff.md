@@ -65,7 +65,7 @@ third_nav_title: Our People
 
 ### Primary 2 Teachers
 
-#### **Year 2025**
+#### **Year 2026**
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
@@ -75,7 +75,7 @@ third_nav_title: Our People
   </tr>
 <tr style="border: 0px solid #000; padding: 8px;">
         <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
-    <td style="border: 0px solid #000; padding: 8px;">Ms Wong Way Lin (Mrs Fam)</td>
+    <td style="border: 0px solid #000; padding: 8px;">Mdm Abigail Inbam Henry</td>
   </tr>
 </tbody></table>
 
@@ -87,33 +87,33 @@ third_nav_title: Our People
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>2 CHARITY</td>
-		<td>Ms Samantha Ng Weiling</td>
-	<td>Ms Daphne Cheng Lai Peng</td>
+		<td>Ms Madelin Yeo Hui Li (Mrs Ang)</td>
+	<td>Ms Mabel Yeow Kia Chin</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>2 GRACIOUSNESS</td>
-		<td>Mdm Wang Peiqi</td>
-	<td>Ms Leow Hua Chin (Mrs Lee)</td>
+		<td>Ms Seet See Lin</td>
+	<td>Mdm Angela Tew Hwee Gee</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>2 HUMILITY</td>
-		<td>Ms Joanne Lee May Lyn (Mrs Goh)</td>
-	<td>Mdm Shiem Shan Shan</td>
+		<td>Mdm Tiffany Goh Shi Yun</td>
+	<td>Ms Zhuang Siqiao (Mrs Heng)<br>Ms Lim Ai Kiok</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>2 INTEGRITY</td>
-		<td>Ms Gwee Hui Jun</td>
-	<td>Ms Divashini<br>Mrs Elango Anggammal</td>
+		<td>Mdm Chua Chiow Yean</td>
+	<td>Mdm Dinah Chan Siew Kheng</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>2 PATIENCE</td>
-		<td>Ms Anna Lau Li Keow</td>
-	<td>Mdm Madeline Koo Hwee Neo</td>
+		<td>Mdm Abigail Inbam Henry</td>
+	<td>Mdm Esther James</td>
 </tr>
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>2 TENACITY</td>
-		<td>Ms Wong Way Lin (Mrs Fam)</td>
-	<td>Ms Lim Ai Kiok</td>
+		<td>Mr Zhang Miao</td>
+	<td>Ms Daphne Cheng Lai Peng</td>
 </tr>
 </tbody></table>
 
