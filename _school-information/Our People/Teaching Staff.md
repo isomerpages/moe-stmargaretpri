@@ -279,11 +279,11 @@ third_nav_title: Our People
   <tbody>
   <tr style="border: 0px solid #000; padding: 8px;">
     <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
-    <td style="border: 0px solid #000; padding: 8px;">Ms Michelle Kok Meixia (Mrs Ng)</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Christina Yong</td>
   </tr>
 <tr style="border: 0px solid #000; padding: 8px;">
         <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
-    <td style="border: 0px solid #000; padding: 8px;">Ms Charissa Chan Soek Yee</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Ng Xing Hwee</td>
   </tr>
 </tbody></table>
 
@@ -295,27 +295,27 @@ third_nav_title: Our People
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>6 CHARITY</td>
-		<td>Ms Tan Seow Wee (Mrs Chua)</td>
-	<td>Mdm Rajkumar Geetha</td>
+		<td>Ms Munawarrah Sultana Unwar<br>Mrs Elango Anggammal</td>
+	<td>Mr Chew Zichun</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>6 GRACIOUSNESS</td>
-		<td>Ms Ng Ley Tin (Mrs Chin)</td>
-	<td>Ms Michelle Kok Meixia (Mrs Ng)<br>Ms Chung Hui Yee (Mrs Thong)</td>
+		<td>Ms Ng Xing Hwee</td>
+	<td>Ms Wong Wai Yee (Mrs Teo)</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>6 HUMILITY</td>
-		<td>Mr Eric Huang Wenshan</td>
-	<td>Ms Goh Bee Ling (Mrs Ong)</td>
+		<td>Mdm Chua Sue Ann</td>
+	<td>Ms Ong Shilin, Shirley</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>6 INTEGRITY</td>
-		<td>Mr Sim Liyang</td>
-	<td>Mdm Shahirah Bte Mohd Shariff</td>
+		<td>Mdm Rozita Bte Sulaiman</td>
+	<td>Mdm Chan Yen Peng</td>
 </tr>
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>6 TENACITY</td>
-		<td>Ms Charissa Chan Soek Yee</td>
-	<td>Ms Nur A'zzah Bte Noh</td>
+		<td>Mdm Wang Peiqi</td>
+	<td>Ms Julia Li Wai See</td>
 </tr>
 </tbody></table>
