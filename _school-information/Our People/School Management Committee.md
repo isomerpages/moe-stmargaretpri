@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Our People
 ---
-### School Management Committee 2025
+### School Management Committee 2026
 
 The Functions and Duties of the School Management Committee are found in the Constitution
 
