@@ -215,7 +215,7 @@ third_nav_title: Our People
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>4 TENACITY</td>
 		<td>Ms Divashini</td>
-	<td>Ms Angel Chan Sui Sui</td>
+	<td>Ms Angel Chan Siu Ling</td>
 </tr>
 </tbody></table>
 
