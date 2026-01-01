@@ -205,7 +205,7 @@ third_nav_title: Our People
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>4 HUMILITY</td>
 		<td>Ms Pamela Yeo Yun Fen (Mrs Yeow)</td>
-	<td>MMr Eric Seah Hou Kiat</td>
+	<td>Mr Eric Seah Hou Kiat</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>4 INTEGRITY</td>
