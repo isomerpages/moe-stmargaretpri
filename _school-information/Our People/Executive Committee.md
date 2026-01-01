@@ -15,7 +15,7 @@ third_nav_title: Our People
   </tr>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Principal</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Ko-Tan Li Ling</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Cherlyn Tan Hui En</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Acad)</td>
@@ -23,7 +23,7 @@ third_nav_title: Our People
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Acad)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Cherlyn Tan Hui En</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Stella Ng Yu Xi</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Admin)</td>
@@ -81,6 +81,10 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px;">HOD Mathematics</td>
     <td style="border: 1px solid #000; padding: 8px;">Mdm Shahirah Bte Mohd Shariff</td>
   </tr>
+			<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">LH Mathematics</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Anne Neo Siao Wei</td>
+  </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">HOD Mother Tongue</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Shirley Ong Shilin</td>
@@ -91,7 +95,7 @@ third_nav_title: Our People
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">HOD Science</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mdm Poh Siok Kheng</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mr Chew Zichun</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">LH Science</td>
