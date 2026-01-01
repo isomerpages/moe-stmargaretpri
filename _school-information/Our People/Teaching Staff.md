@@ -36,7 +36,7 @@ third_nav_title: Our People
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 GRACIOUSNESS</td>
 		<td>Ms Wong Way Lin (Mrs Fam)</td>
-	<td>MMs Leow Hua Chin (Mrs Lee)</td>
+	<td>Ms Leow Hua Chin (Mrs Lee)</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 HUMILITY</td>
