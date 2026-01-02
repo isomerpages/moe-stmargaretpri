@@ -15,7 +15,7 @@ third_nav_title: Our People
   </tr>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Principal</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Ko-Tan Li Ling</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Cherlyn Tan Hui En</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Acad)</td>
@@ -23,7 +23,7 @@ third_nav_title: Our People
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Acad)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Cherlyn Tan Hui En</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Stella Ng Yu Xin</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Admin)</td>
@@ -45,12 +45,16 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px;">Year Head (P1 &amp; P2)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Sara George</td>
   </tr>
-<tr style="border: 1px solid #000; padding: 8px;">
+		<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Year Head (P3 &amp; P4)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mdm Sharon Simon</td>
+  </tr>
+<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">Year Head (P3 &amp; P5)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Michelle Kok Meixia</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px;">Assistant Year Head</td>
+    <td style="border: 1px solid #000; padding: 8px;">Year Head (P4 &amp; P6)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Christina Yong Yuen Fang</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
@@ -81,6 +85,10 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px;">HOD Mathematics</td>
     <td style="border: 1px solid #000; padding: 8px;">Mdm Shahirah Bte Mohd Shariff</td>
   </tr>
+			<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">LH Mathematics</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Anne Neo Siao Wei</td>
+  </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">HOD Mother Tongue</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Shirley Ong Shilin</td>
@@ -91,7 +99,7 @@ third_nav_title: Our People
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">HOD Science</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mdm Poh Siok Kheng</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mr Chew Zichun</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">LH Science</td>
