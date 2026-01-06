@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Our People
 ---
-#### **Year 2025**
+#### **Year 2026**
 
 ##### **Administration**
 
@@ -88,7 +88,7 @@ third_nav_title: Our People
   </tr>
 		  <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mdm Lilia Loh Moh Khiaw</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Siti Aishah Binte Suhaimi</td>
   </tr>
 </tbody></table> 
 
