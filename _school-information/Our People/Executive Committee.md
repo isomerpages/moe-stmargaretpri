@@ -66,10 +66,6 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px;">Mrs Pamela Yeo Huan Pei</td>
   </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px;">SH CCE</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Haryati Zulkifli</td>
-  </tr>
-	<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">HOD English Language</td>
     <td style="border: 1px solid #000; padding: 8px;">Mrs Ong Bee Ling</td>
   </tr>
@@ -87,14 +83,14 @@ third_nav_title: Our People
   </tr>
 			<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">LH Mathematics</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Anne Neo Siao Wei</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Ann Neo Siao Wei</td>
   </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">HOD Mother Tongue</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Shirley Ong Shilin</td>
   </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px;">LH Mother Tongue</td>
+    <td style="border: 1px solid #000; padding: 8px;">LH Chinese Language</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Gwee Hui Jun</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
