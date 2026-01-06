@@ -17,6 +17,7 @@ variant: markdown
 ![](/images/Calendar%202026/term1_2026_01.jpg)
 ![](/images/Calendar%202026/term1_2026_02.jpg)
 		
+		
 <font size="3">  
       * Parents/Guardians will be notified of the details or any changes closer to the date of the event.
 </font><font size="3"><br>
