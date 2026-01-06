@@ -159,7 +159,7 @@ third_nav_title: Our People
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 INTEGRITY</td>
 		<td>Mr Eddie Chong Chon Kar</td>
-	<td>Ms Claire Lu Ting Ting</td>
+	<td>Ms Claire Deline Lu Ting Ting</td>
 </tr>
 			<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 TENACITY</td>
