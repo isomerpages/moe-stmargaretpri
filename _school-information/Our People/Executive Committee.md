@@ -66,10 +66,6 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px;">Mrs Pamela Yeo Huan Pei</td>
   </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px;">SH CCE</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Haryati Zulkifli</td>
-  </tr>
-	<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">HOD English Language</td>
     <td style="border: 1px solid #000; padding: 8px;">Mrs Ong Bee Ling</td>
   </tr>
