@@ -23,7 +23,7 @@ third_nav_title: Our People
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Acad)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Stella Ng Yu Xin</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Stella Ng Xin</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Vice-Principal (Admin)</td>
