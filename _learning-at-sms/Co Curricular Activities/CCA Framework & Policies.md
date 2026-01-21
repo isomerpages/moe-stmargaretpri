@@ -70,13 +70,13 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/infocomm-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">InfoComm Club</span></a></td>
     <td style="color:#000;background-color:#FFF">Wednesdays <span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mrs Madelin Ang*</span><br><span style="font-weight:400;color:#000">Mdm Geetha</span><span style="font-weight:400;color:#000"></span><br><span style="font-weight:400;color:#000">Ms Wang Peiqi</span><span style="font-weight:400;color:#000"></span><br></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Computer labs </span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mrs Madelin Ang*</span><br><span style="font-weight:400;color:#000">Mdm Geetha</span><span style="font-weight:400;color:#000"></span><br><span style="font-weight:400;color:#000">Ms Seet See Lin<br>Mdm Wang Peiqi</span><span style="font-weight:400;color:#000"></span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Computer lab</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/science-and-environmental-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Environmental Science Club</span></a></td>
     <td style="color:#000;background-color:#FFF">Wednesdays<span style="color:#000;background-color:#FFF"> </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Chan Yen Peng*</span><br><span style="font-weight:400;color:#000">Ms Low Wei Wen</span><br><span style="font-weight:400;color:#000">Mrs Heng Siqiao
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Chan Yen Peng*</span><br><span style="font-weight:400;color:#000">Ms Low Wei Wen</span><br><span style="font-weight:400;color:#000">Ms Dharshini Ravichandran
     </span></td><td class="tg-zr06"><span style="color:#000;background-color:#FFF">Science Lab</span></td>
   </tr>
   <tr>
@@ -92,13 +92,13 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/bowling/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Bowling</span></a></td>
     <td class="tg-7yig"><span style="color:#000;background-color:#FFF">Mondays </span><br><span style="color:#000;background-color:#FFF">&amp; Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Ms Dinah Chan</span><br><span style="color:#000;background-color:#FFF">Mr Eddie Chong</span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Mr Eddie Chong</span><br><span style="color:#000;background-color:#FFF">Mdm Abigail Inbam Henry<br>Mr Low Yong Ming</span><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Out of school</span><br></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (School Team)</span></td>
     <td class="tg-dgl5"><br><span style="color:#000;background-color:#FFF">Mondays &amp; Wednesdays </span><br><br></td>
-    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Mdm Madeline Koo*</span><br><span style="font-weight:400;color:#000">Ms Tiffany Goh<br>(P3 and P6 developmental team)</span><br><span style="font-weight:400;color:#000">Mrs Gerry Ong<br>(P5 and P6 development)<br>(P5 and P6 school training team)</span></td>
+    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Mdm Madeline Koo*</span><br><span style="font-weight:400;color:#000">Ms Tiffany Goh*<br>(P3 and P6 developmental team)</span><br><span style="font-weight:400;color:#000">Mrs Gerry Ong<br>(P5 and P6 development)<br>(P5 and P6 school training team)<br>Mdm Dinah Chan</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">School Hall</span></td>
   </tr>
   <tr>
@@ -120,7 +120,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/modular-sports/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Modular Sports</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Wednesdays </span></td>
-    <td style="font-weight:400;color:#000">Mr Zhang Miao*<br><span style="font-weight:400;color:#000">Ms Dinah Chan</span></td>
+    <td style="font-weight:400;color:#000">Mr Zhang Miao*<br><span style="font-weight:400;color:#000">Ms Zhuang Siqiao</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Parade Square</span></td>
   </tr>
   <tr>
@@ -130,13 +130,13 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/brass-band/"><span style="font-weight:500;text-decoration:underline;color:#2A5629;background-color:transparent">Brass Band</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Monday &amp; Wednesdays </span></td>
-    <td style="font-weight:400;color:#000">Ms Chua Chiow Yean*<br>Ms Samantha</td>
+    <td style="font-weight:400;color:#000">Ms Chua Chiow Yean*<br>Mdm Ng Weiling Samantha</td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Band Room</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/art-club/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Art Club</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">P3 (Mondays) <br> P4 - P6 (Wednesdays) </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Suryanti*</span><br><span style="color:#000;background-color:#FFF">Mrs Fam Way Lin</span><br><span style="color:#000;background-color:#FFF">Ms Charissa Chan</span><br><span style="color:#000;background-color:#FFF"></span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"><span style="color:#000;background-color:#FFF">Mrs Fam Way Lin*</span><br><span style="color:#000;background-color:#FFF">Ms Charissa Chan Seok Yee</span><br><span style="color:#000;background-color:#FFF">Ms Claire Lu Ting Ting</span></span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Art Rooms</span></td>
   </tr>
   <tr>
@@ -148,13 +148,19 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/guitar-ensemble/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Guitar Ensemble</span></a><span style="color:#000;background-color:#FFF"> </span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Wednesdays </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Ms Esther James*</span><br><span style="font-weight:400;color:#000">Ms Amelia Leong</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Ms Esther James*</span><br><span style="font-weight:400;color:#000">Ms Amelia Goh</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Music Room 1</span></td>
+  </tr>
+	<tr>
+    <td class="tg-7fhq">Percussion Ensemble<span style="color:#000;background-color:#FFF"> </span></td>
+    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays<br>Wednesdays </span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Chua Chiow Yean*</span><br><span style="font-weight:400;color:#000">Mdm Ng Weiling Samantha</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Band Room</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/international-dance/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">International Dance</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays &amp; Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Anna Lau* </span><br><span style="color:#000;background-color:#FFF">Mdm Lin Linli</span><span style="color:#000;background-color:#FFF"></span><br><span style="color:#000;background-color:#FFF">Mdm Abigail Inbam Henry<br></span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Anna Lau* </span><br><span style="color:#000;background-color:#FFF">Mdm Lin Linli</span><span style="color:#000;background-color:#FFF"></span><br><span style="color:#000;background-color:#FFF">Ms Divashini<br>Ms Hou Xi</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">PAL Room<br>Dance studio</span><br><span style="color:#000;background-color:#FFF"></span></td>
   </tr>
   <tr>
@@ -164,14 +170,14 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/brownies/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Brownies</span></a></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays </span></td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok*</span><br><span style="font-weight:400;color:#000">Ms Ng Xing Hwee</span><br><span style="font-weight:400;color:#000">Ms Shiem Shan Shan<br>Ms Seet See Lin</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Ngoh Moon Geok*</span><br><span style="font-weight:400;color:#000">Ms Ng Xing Hwee</span><br><span style="font-weight:400;color:#000">Ms Shiem Shan Shan<br>Ms Jiang Yanni</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 5 CH<br>5 GR<br>5 HU classrooms</span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/girls-brigade/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Girls' Brigade</span></a><span style="color:#000;background-color:#FFF"> </span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Daphne Cheng*</span><br><span style="color:#000;background-color:#FFF">Mdm Tan Seow Wee<br><span style="color:#000;background-color:#FFF">Ms Chua Sue Ann</span></span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">5 IN<br>5 TE<br>6 CH classrooms</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Daphne Cheng*</span><br><span style="color:#000;background-color:#FFF">Mrs Chua Seow Wee<br><span style="color:#000;background-color:#FFF">Ms Chua Sue Ann<br>Mr Wu Shao Hai</span></span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Chapel<br>TRR</span></td>
   </tr>
 </tbody>
 </table>

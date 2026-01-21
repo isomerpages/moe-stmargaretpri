@@ -19,7 +19,7 @@ variant: markdown
 		<td>Mondays &amp; Wednesdays </td>
 		<td>2 - 4 pm</td>
 	<td>Out of school</td>
-	<td>Mr Huang Wenshan Eric (OIC)<br>Ms Dharshini Ravichandran<br>Mrs Angela Tew<br>Ms Divashini</td>
+	<td>Mr Huang Wenshan Eric (OIC)<br>Mrs Angela Tew<br>Ms Jun Qing<br>Mdm Dinah Chan</td>
 	<td>Out of school</td>
 </tr>
 </tbody></table>

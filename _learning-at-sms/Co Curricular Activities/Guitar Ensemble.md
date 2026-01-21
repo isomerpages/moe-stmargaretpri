@@ -18,7 +18,7 @@ variant: markdown
 		<td>Wednesdays </td>
 		<td>2 - 4 pm</td>
 	<td>Music Room 1</td>
-	<td>Mdm Esther James (OIC)<br>Ms Amelia Leong</td>
+	<td>Mdm Esther James (OIC)<br>Ms Amelia Goh</td>
 </tr>
 </tbody></table>
 

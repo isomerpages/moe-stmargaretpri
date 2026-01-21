@@ -19,7 +19,7 @@ variant: markdown
 		<td>Wednesdays</td>
 		<td>2 - 4 pm</td>
 	<td>Computer Lab</td>
-	<td>Mrs Madelin Ang (OIC)<br>Mdm Geetha<br>Ms Wang Peiqi</td>
+	<td>Mrs Madelin Ang (OIC)<br>Mdm Geetha<br>Ms Seet See Lin<br>Mdm Wang Peiqi</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
