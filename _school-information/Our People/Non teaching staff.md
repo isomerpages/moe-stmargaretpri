@@ -59,10 +59,6 @@ third_nav_title: Our People
   </tr>
 		<tr style="border: 1px solid #000; padding: 8px;">
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Support Officer (OSO)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mdm Brenda Koh Chin Chin</td>
-  </tr>
-		<tr style="border: 1px solid #000; padding: 8px;">
-        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Support Officer (OSO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Mdm Mya Win</td>
   </tr>
 </tbody></table> 
@@ -106,7 +102,7 @@ third_nav_title: Our People
   </tr>
 			<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Desktop Engineer</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mr Mohd Nizam Bin Mohd Nor</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mr Norman Farhan Bin Azman</td>
   </tr>
 </tbody></table> 
 
