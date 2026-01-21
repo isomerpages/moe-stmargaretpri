@@ -18,7 +18,7 @@ variant: markdown
 		<td>Wednesdays </td>
 		<td>2 - 4 pm</td>
 	<td>Parade Square</td>
-	<td>Mr Zhang Miao (OIC) <br>Ms Dinah Chan</td>
+	<td>Mr Zhang Miao (OIC) <br>Ms Zhuang Siqiao</td>
 </tr>
 </tbody></table>
 
