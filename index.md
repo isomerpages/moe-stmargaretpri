@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/president-s-award-2026/
+          url: /announcements/moe-schoolbag/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
