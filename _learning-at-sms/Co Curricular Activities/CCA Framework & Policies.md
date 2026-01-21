@@ -92,7 +92,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/bowling/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Bowling</span></a></td>
     <td class="tg-7yig"><span style="color:#000;background-color:#FFF">Mondays </span><br><span style="color:#000;background-color:#FFF">&amp; Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Ms Dinah Chan</span><br><span style="color:#000;background-color:#FFF">Mr Eddie Chong</span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Mr Eddie Chong</span><br><span style="color:#000;background-color:#FFF">Mdm Abigail Inbam Henry<br>Mr Low Yong Ming</span><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Out of school</span><br></td>
   </tr>
   <tr>
