@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - President's Award 2026.md
       - MOE Schoolbag.md
       - MOE Sexuality Education Programme 2025.md
       - Invitation to Parents Gateway.md
