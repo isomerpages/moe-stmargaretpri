@@ -19,7 +19,7 @@ variant: markdown
 		<td>Mondays &amp; <br> Wednesdays</td>
 		<td>2 - 4 pm</td>
 	<td>Band Room</td>
-	<td>Ms Chua Chiow Yean (OIC)<br>Ms Samantha</td>
+	<td>Mdm Chua Chiow Yean (OIC)<br>Mdm Ng Weiling Samantha</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
