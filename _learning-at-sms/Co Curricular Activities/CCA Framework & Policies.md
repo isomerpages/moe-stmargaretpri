@@ -152,7 +152,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Music Room 1</span></td>
   </tr>
 	<tr>
-    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/guitar-ensemble/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Percussion Ensemble</span></a><span style="color:#000;background-color:#FFF"> </span></td>
+    <td class="tg-7fhq">Percussion Ensemble<span style="color:#000;background-color:#FFF"> </span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays<br>Wednesdays </span></td>
     <td class="tg-ktyi"><span style="font-weight:400;color:#000">Mdm Chua Chiow Yean*</span><br><span style="font-weight:400;color:#000">Mdm Ng Weiling Samantha</span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Band Room</span></td>
