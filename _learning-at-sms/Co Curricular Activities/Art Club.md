@@ -19,7 +19,7 @@ variant: markdown
 		<td>P3 (Mondays)<br>P4 - P6 (Wednesdays)</td>
 		<td>2 - 4 pm</td>
 	<td>Art Rooms</td>
-	<td>Ms Suryanti (OIC)<br>Mrs Fam Way Lin<br>Ms Charissa Chan</td>
+	<td>Mrs Fam Way Lin (OIC)<br>Ms Charissa Chan<br>Ms Claire Lu Ting Ting</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
