@@ -19,7 +19,7 @@ variant: markdown
 		<td>Mondays </td>
 		<td>2 - 4 pm</td>
 	<td>5 CH<br>5 GR<br>5 HU classrooms </td>
-	<td>Mdm Ngoh Moon Geok(OIC)<br>Ms Ng Xing Hwee<br>Ms Shiem Shan Shan<br>Ms Seet See Lin</td>
+	<td>Mdm Ngoh Moon Geok(OIC)<br>Ms Ng Xing Hwee<br>Ms Shiem Shan Shan<br>Ms Jiang Yanni</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
