@@ -33,7 +33,7 @@ __________________________________________________________
 You may click&nbsp; <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a> for more information on MOE Sexuality Education.  
   
 
-### Overview of Sexuality Education Programme For 2025
+### Overview of Sexuality Education Programme For 2026
 __________________________________________________________
 
 
@@ -55,11 +55,13 @@ __________________________________________________________
 7.&nbsp; &nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. 
 
 
-### Growing Years Programme (2025)
+### Growing Years Programme (2026)
 __________________________________________________________
 
 
-At St Margaret's School (Primary), the following Sexuality Education lessons will be taught in 2025.
+At St Margaret's School (Primary), the following Sexuality Education lessons will be taught in 2026.
+
+### 2026 Sexuality Education Lessons in CCE
 
 ####   Primary 5
 <style type="text/css">
@@ -87,19 +89,19 @@ At St Margaret's School (Primary), the following Sexuality Education lessons wil
     <td class="tg-f4yw" rowspan="3">Growing Years  <br></td>
     <td class="tg-f4yw"> The Changes in Me<br>(60 min)</td>
     <td class="tg-ktyi"><br><br>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
-<br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i><br></td>
-    <td class="tg-f4yw"> Term 2<br>Week 5</td>
+<br></td>
+    <td class="tg-f4yw"> Term 2<br>Week 4 - 5</td>
   </tr>
   <tr>
     <td class="tg-f4yw"> Did You Know?<br><span style="background-color:initial">(60 min)</span><br></td>
     <td class="tg-ktyi"><br><span style="font-weight:400;color:#000">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b> 
-<br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i><br></span></td>
+<br></span></td>
     <td class="tg-f4yw">Term 2<br>Week 6 </td>
   </tr>
   <tr>
     <td class="tg-f4yw">Keeping Myself Safe<br><span style="background-color:initial">(60 min)</span><br></td>
     <td class="tg-ktyi"><br><br>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
-<br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i><br></td>
+<br></td>
     <td class="tg-f4yw">Term 2<br>Week 7</td>
   </tr>
 </tbody>
@@ -149,7 +151,7 @@ __________________________________________________________
 8.&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
 
-9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/GYS_opt_out_form_2025.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by <b>07/02/2025</b>. 
+9.&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/GYS_opt_out_form_2025.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by <b>13/02/2026</b>. 
 
 
 10.&nbsp;Parents can contact the school at <b>stmargaretps@moe.edu.sg</b> for discussion or to seek clarification about the school’s Sexuality Education programme.
