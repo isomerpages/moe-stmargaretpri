@@ -126,7 +126,7 @@ At St Margaret's School (Primary), the following Sexuality Education lessons wil
   <tr>
     <th class="tg-8hqj">CCE(FTGP) THEME</th>
     <th class="tg-8hqj">LESSON TITLE / DURATION</th>
-    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">L</span>ESSON OVERVIEW</th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">LESSON OVERVIEW</span></th>
     <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">TIME PERIOD</span></th>
   </tr>
 </thead>
