@@ -135,12 +135,12 @@ At St Margaret's School (Primary), the following Sexuality Education lessons wil
     <td class="tg-nrix" rowspan="3">Growing Years<br><br></td>
     <td class="tg-nrix">Are We More than Friends?<br>Lesson 1<br><span style="background-color:initial">(60 min)</span></td>
     <td class="tg-0lax"><br><br>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.<br></td>
-    <td class="tg-nrix">Term 4<br>Week 5</td>
+    <td class="tg-nrix">Term 2<br>Week 6</td>
   </tr>
   <tr>
     <td class="tg-baqh"><span style="background-color:initial">Are We More than Friends?</span><br>Lesson 2<br><span style="background-color:initial">(60 min)</span></td>
     <td class="tg-0lax"><br><br>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.<br></td>
-    <td class="tg-nrix">Term 4<br>Week 6</td>
+    <td class="tg-nrix">Term 2<br>Week 7</td>
   </tr>
 </tbody>
 </table>
