@@ -94,8 +94,8 @@ At St Margaret's School (Primary), the following Sexuality Education lessons wil
   </tr>
   <tr>
     <td class="tg-f4yw"> Did You Know?<br><span style="background-color:initial">(60 min)</span><br></td>
-    <td class="tg-ktyi"><br><span style="font-weight:400;color:#000">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b> 
-<br></span></td>
+    <td class="tg-ktyi"><br>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b> 
+<br></td>
     <td class="tg-f4yw">Term 2<br>Week 5 - 6 </td>
   </tr>
   <tr>
