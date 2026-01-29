@@ -5,6 +5,11 @@ description: ""
 third_nav_title: School Highlights
 variant: markdown
 ---
+Term 4 Montage 2025
+-------------------
+
+<center><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KRCdoXSuF_g?si=gLDrQotovbXTRRsn" height="415" width="700"></iframe></center>
+
 Term 3 Montage 2025
 -------------------
 
