@@ -21,10 +21,6 @@ third_nav_title: Our People
   </tr>
 		<tr style="border: 1px solid #000; padding: 8px;">
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Administration Executive (AE)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Marine Chew Lay Leng</td>
-  </tr>
-		<tr style="border: 1px solid #000; padding: 8px;">
-        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Administration Executive (AE)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Joleen Lee Jia Ern</td>
   </tr>
 		<tr style="border: 1px solid #000; padding: 8px;">
