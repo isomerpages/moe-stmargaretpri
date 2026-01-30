@@ -117,10 +117,6 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px;">Administration Executive (In Attendance)</td>
     <td style="border: 1px solid #000; padding: 8px;">Mdm Nur Syafawati Bte Roslan</td>
   </tr>
-<tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px;">Administration Executive (In Attendance)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Marine Chew Lay Leng</td>
-  </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Administration Executive (In Attendance)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Joleen Lee Jia Ern</td>
