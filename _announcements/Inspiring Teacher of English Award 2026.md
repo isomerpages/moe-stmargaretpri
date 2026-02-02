@@ -10,4 +10,4 @@ The Inspiring Teacher of English Award acknowledges teachers who have been instr
 
 Nomination Closing Date : **6 April 2026**
 
-Download the nominations forms at www.goodenglish.org.sg
+Download the nominations forms at <a target="_blank" href="www.goodenglish.org.sg">www.goodenglish.org.sg</a>
