@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/moe-schoolbag/
+          url: /announcements/inspiring-teacher-of-english-award-2026/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
