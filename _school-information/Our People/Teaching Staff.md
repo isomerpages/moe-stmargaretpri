@@ -41,7 +41,7 @@ third_nav_title: Our People
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 HUMILITY</td>
 		<td>Mdm Shiem Shan Shan</td>
-	<td>Ms Sara George</td>
+	<td>Ms Sara George<br>Mrs Bernice Poon Chye Hong</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>1 INTEGRITY</td>
@@ -153,7 +153,7 @@ third_nav_title: Our People
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 HUMILITY</td>
-		<td>Mrs Chan Mei Sze</td>
+		<td>Ms Chan Mei Sze (Mrs Lim)</td>
 	<td>Mdm Sharon Simon</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
