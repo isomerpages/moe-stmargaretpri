@@ -4,7 +4,6 @@ permalink: /useful-links/resources-for-parents/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Resources/firstcallvideos_parents.jpg)
 <table>
 	<tbody><tr>
@@ -72,7 +71,7 @@ The knowledge and skills to navigate the cyberspace will help parents prepare ou
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 120px; height: 120px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/firstcallvideos_parents.jpg"></font></td>
 		<td><font size="4"><b>Cyberwellness</b><br>
 These 3 videos shows the common situations that parents face - when to 
-give their child a handphone, how to manage the family device use, how to create a safe space for conversation about their child's online world.<br>
+give their child a handphone, how to manage the family device use, how to create a safe space for conversation about their child's online world.<br><br>
 			<b>Their First Phone : A Big Call for Parents</b><br><a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">https://www.youtube.com/watch?v=yPqDEIWz7xI&amp;t=16s</a><br><br>
 			<b>Ctrl + Alt + Disconnect : Press Pause Together</b><br><a target="_blank" href="https://www.youtube.com/watch?v=sTLPFRs2tac&amp;t=2s">https://www.youtube.com/watch?v=sTLPFRs2tac&amp;t=2s</a><br><br>
 				<b>Timing Matters : It's Not Just What You Say</b><br>	<a target="_blank" href="https://www.youtube.com/watch?v=JfIMBgZxZ4s&amp;t=16s">https://www.youtube.com/watch?v=JfIMBgZxZ4s&amp;t=16s</a><br>
