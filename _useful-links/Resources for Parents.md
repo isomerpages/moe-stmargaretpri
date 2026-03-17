@@ -16,12 +16,12 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 250px; height: 200px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/whatsAI_parents.jpg"></font></td>
-		<td><font size="4"><b>AI &amp; Your Child</b><br>A Quick Guide for Parents<br></font></td>
+		<td><font size="4"><a href="/files/waiting_list_application_form__rev__13082025d.pdf" target="_blank"><b>AI &amp; Your Child</b></a><br>A Quick Guide for Parents<br></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 200px; height: 200px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/positiveguideondigital_parents.jpg"></font></td>
-		<td><font size="4"><b>Evidence-Based Insights on the Impact of <br>Digital Devices on Child and Adolescent Wellbeing</b><br>Positive User Guide</font></td>
+		<td><font size="4"><a href="/files/waiting_list_application_form__rev__13082025d.pdf" target="_blank"><b>Evidence-Based Insights on the Impact of Digital Devices on Child and Adolescent Wellbeing</b></a><br>Positive User Guide</font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 			<tr>
