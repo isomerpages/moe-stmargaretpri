@@ -43,23 +43,23 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 70px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/zaobao_students.jpg"></font></td>
-		<td><font size="4"><b>Zaobao</b><br>Zaobao is Chinese online news.<br><a target="_blank" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">https://www.myskillsfuture.gov.sg/</a></font></td>
+		<td><font size="4"><b>Zaobao</b><br>Zaobao is Chinese online news.<br><a target="_blank" href="https://www.zaobao.com.sg/">https://www.zaobao.com.sg/</a></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 70px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/prpm_students.jpg"></font></td>
 		<td><font size="4"><b>Pusat Rujukan Persuratan Melayu (PRPM)</b> 
-<br>Pusat Rujukan Persuratan Melayu (PRPM) is a Malay online dictionary.<br><a target="_blank" href="https://www.schoolbag.edu.sg/">https://www.schoolbag.edu.sg/</a></font></td>
+<br>Pusat Rujukan Persuratan Melayu (PRPM) is a Malay online dictionary.<br><a target="_blank" href="https://prpm.dbp.gov.my/">https://prpm.dbp.gov.my/</a></font></td>
 </tr>
 		<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 70px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/bh_students.jpg"></font></td>
-		<td><font size="4"><b>Berita Harian</b> <br><a target="_blank" href="https://www.schoolbag.edu.sg/post-secondary/">https://www.schoolbag.edu.sg/post-secondary/</a></font></td>
+		<td><font size="4"><b>Berita Harian</b> <br><a target="_blank" href="www.beritaharian.sg/">www.beritaharian.sg/ </a></font></td>
 </tr>
 		<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 120px; height: 120px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/tamilmurasu_students.jpg"></font></td>
-		<td><font size="4"><b>Tamil Murasu Online</b><br><a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a></font></td>
+		<td><font size="4"><b>Tamil Murasu Online</b><br><a target="_blank" href="https://www.tamilmurasu.com.sg/">https://www.tamilmurasu.com.sg/</a></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/opac_students.jpg"></font></td>
-		<td><font size="4"><b>OPAC</b><br>Online Library System (OPAC)<br><a target="_blank" href="https://www.youtube.com/watch?v=NmKsx-MZn3Q">https://www.youtube.com/watch?v=NmKsx-MZn3Q</a></font></td>
+		<td><font size="4"><b>OPAC</b><br>Online Library System (OPAC)<br><a target="_blank" href="https://schoolibrary.moe.edu.sg/stmargaretspri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">https://schoolibrary.moe.edu.sg/stmargaretspri/cgi-bin/spydus.exe</a></font></td>
 </tr>
 	</tbody></table>
