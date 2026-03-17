@@ -20,7 +20,7 @@ variant: markdown
 <td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
-		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/positiveguideondigital_parents.jpg"></font></td>
+		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 120px; height: 120px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/positiveguideondigital_parents.jpg"></font></td>
 		<td><font size="4"><a href="/files/positive_use_guide.pdf" target="_blank"><b>Evidence-Based Insights on the Impact of <br>Digital Devices on Child and Adolescent Wellbeing</b></a><br>Positive User Guide</font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
