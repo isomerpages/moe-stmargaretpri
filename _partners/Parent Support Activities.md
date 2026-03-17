@@ -1,5 +1,5 @@
 ---
-title: Parent Support
+title: Parent Support Activities
 permalink: /partners/permalink/
 description: ""
 variant: markdown

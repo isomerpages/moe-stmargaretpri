@@ -15,7 +15,7 @@ SMS(P) has vacancy for
 </tr>
 	<tr>
 		<td>Halal Cuisine (Noodle/Rice)</td>
-		<td>30 June 2025</td>
+		<td>30 June 2026</td>
 	  <td>Rice or noodle stalls are acceptable</td>
 </tr>
 	</tbody></table>
@@ -42,7 +42,7 @@ SMS(P) has vacancy for
 **How to get there?**
 * Nearest MRT: <br>Dhoby Ghaut (CC1/NE6/NS24)
  <br>Little India (NE7/DT12)
-* Bus number: 64, 65, 131, 139, 147, 857, 166 (alight in front of Peace Centre)
+* Bus Services : 64, 65, 131, 139, 147, 857, 166 (alight at the bus stop after Parklane Shopping Mall)
 
 ***Note :** With effect from 2 Jan 2025, the school will be operating at 136 Sophia Road S(228197).*<br>
 
