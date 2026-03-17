@@ -4,9 +4,6 @@ permalink: /useful-links/resources-for-parents/
 description: ""
 variant: markdown
 ---
-
-
-
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
@@ -23,12 +20,12 @@ variant: markdown
 <td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
-		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 250px; height: 200px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/whatsAI_parents.jpg"></font></td>
+		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 200px; height: 200px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/positiveguideondigital_parents.jpg"></font></td>
 		<td><font size="4"><b>Evidence-Based Insights on the Impact of <br>Digital Devices on Child and Adolescent Wellbeing</b><br>Positive User Guide</font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 			<tr>
-		<td><font size="4">XXXXXXXXXX</font></td>
+		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 200px; height: 200px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/moe_parents.jpg"></font></td>
 		<td><font size="4"><b>Ministry of Education</b><br><a target="_blank" href="https://www.moe.gov.sg/education-in-sg">https://www.moe.gov.sg/education-in-sg</a></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
@@ -77,7 +74,7 @@ The knowledge and skills to navigate the cyberspace will help parents prepare ou
 		<td><font size="4">xxxxxxxxx</font></td>
 		<td><font size="4"><b>Active SG Circle</b><br>A Sport Singapore portal with sports news, events calendar as well as facilities and coaches directory<br><a target="_blank" href="https://www.activesgcircle.gov.sg/">https://www.activesgcircle.gov.sg/</a></font></td>
 </tr>
-	</tbody></table>
+	</tbody></table>![](/images/Resources/moe_parents.jpg)
 
 
 
