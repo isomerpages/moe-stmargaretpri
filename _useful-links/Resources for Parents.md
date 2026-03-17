@@ -4,7 +4,6 @@ permalink: /useful-links/resources-for-parents/
 description: ""
 variant: markdown
 ---
-![](/images/Resources/firstcallvideos_parents.jpg)
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
