@@ -4,14 +4,6 @@ permalink: /useful-links/resources-for-teachers/
 description: ""
 variant: markdown
 ---
-![](/images/Resources/rbs_teachers.jpg)
-![](/images/Resources/cockpit_teachers.jpg)
-![](/images/Resources/scmobile_teachers.jpg)
-![](/images/Resources/icon_students.jpg)
-![](/images/Resources/intranet_teachers.jpg)
-![](/images/Resources/opal_teachers.jpg)
-![](/images/Resources/ssoe_teachers.jpg)
-
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
