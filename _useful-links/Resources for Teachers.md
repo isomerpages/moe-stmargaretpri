@@ -4,7 +4,6 @@ permalink: /useful-links/resources-for-teachers/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Resources/rbs_teachers.jpg)
 ![](/images/Resources/cockpit_teachers.jpg)
 ![](/images/Resources/scmobile_teachers.jpg)
