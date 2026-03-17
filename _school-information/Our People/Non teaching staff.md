@@ -31,6 +31,10 @@ third_nav_title: Our People
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Corporate Support Officer (CSO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Mdm Nalayeni D/O M Supramaniam</td>
   </tr>
+			<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Corporate Support Officer (CSO)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Satwant Kaur</td>
+  </tr>
 </tbody></table>
 
 ##### **Operation**
@@ -81,6 +85,10 @@ third_nav_title: Our People
 		  <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Siti Aishah Binte Suhaimi</td>
+  </tr>
+				  <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Chua Zi Shuang</td>
   </tr>
 </tbody></table> 
 
