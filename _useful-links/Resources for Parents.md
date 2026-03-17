@@ -68,7 +68,7 @@ The knowledge and skills to navigate the cyberspace will help parents prepare ou
 </tr>
 		<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 120px; height: 120px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/firstcallvideos_parents.jpg"></font></td>
-		<td><font size="4"><b>Cyberwellness</b><br>
+		<td><font size="4"><b>Cyberwellness with Parents</b><br>
 These 3 videos shows the common situations that parents face - when to 
 give their child a handphone, how to manage the family device use, how to create a safe space for conversation about their child's online world.<br><br>
 			<b>Their First Phone : A Big Call for Parents</b><br><a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">https://www.youtube.com/watch?v=yPqDEIWz7xI&amp;t=16s</a><br><br>
