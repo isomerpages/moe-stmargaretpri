@@ -59,7 +59,7 @@ variant: markdown
 		<td><font size="4"><b>Tamil Murasu Online</b><br><a target="_blank" href="https://www.tamilmurasu.com.sg/">https://www.tamilmurasu.com.sg/</a></font></td>
 </tr>
 	<tr>
-		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 150px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/opac_students.jpg"></font></td>
+		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 180px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/opac_students.jpg"></font></td>
 		<td><font size="4"><b>OPAC</b><br>Online Library System (OPAC)<br><a target="_blank" href="https://schoolibrary.moe.edu.sg/stmargaretspri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">https://schoolibrary.moe.edu.sg/stmargaretspri/cgi-bin/spydus.exe</a></font></td>
 </tr>
 	</tbody></table>
