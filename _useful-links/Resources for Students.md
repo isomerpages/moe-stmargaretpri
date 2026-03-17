@@ -26,58 +26,40 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 80px; height: 80px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/pg_parents.jpg"></font></td>
-		<td><font size="4"><b>Parents Gateway</b><br>Parents Gateway is a mobile application that supports parents <br>and schools on administrative matters. <br>This app is available in mobile application.<br><a target="_blank" href="https://www.stmargaretspri.moe.edu.sg/learning-at-sms/home-based-learning/">https://www.stmargaretspri.moe.edu.sg/learning-at-sms/home-based-learning/</a></font></td>
+		<td><font size="4"><b>Home Based Learning Resources (HBL)</b><br><a target="_blank" href="https://www.stmargaretspri.moe.edu.sg/learning-at-sms/home-based-learning/">https://www.stmargaretspri.moe.edu.sg/learning-at-sms/home-based-learning/</a></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/seab_parents.jpg"></font></td>
-		<td><font size="4"><b>SEAB</b><br>Singapore Examination and Assessment Board (SEAB) is a <br>website to view the national exam dates.<br><a target="_blank" href="https://www.seab.gov.sg/">https://www.seab.gov.sg/</a></font></td>
+		<td><font size="4"><b>Oxford English Dictionary</b><br><a target="_blank" href="https://www.seab.gov.sg/">https://www.seab.gov.sg/</a></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 70px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/govsg_parents.jpg"></font></td>
-		<td><font size="4"><b>Singapore government agency</b><br><a target="_blank" href="https://www.gov.sg/">https://www.gov.sg/</a></font></td>
+		<td><font size="4"><b>Koobits</b><br>Koobits is a fun way to learn Maths!<br><a target="_blank" href="https://www.gov.sg/">https://www.gov.sg/</a></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 130px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/holiday_parents.jpg"></font></td>
-		<td><font size="4"><b>School Terms and Holidays 2026</b><br><a target="_blank" href="https://www.stmargaretspri.moe.edu.sg/school-information/school-terms-n-holidays/">https://www.stmargaretspri.moe.edu.sg/school-information/school-terms-n-holidays/</a></font></td>
+		<td><font size="4"><b>Ezhish</b><br>Ezhishi is online learning platform for Chinese language.<br><a target="_blank" href="https://www.stmargaretspri.moe.edu.sg/school-information/school-terms-n-holidays/">https://www.stmargaretspri.moe.edu.sg/school-information/school-terms-n-holidays/</a></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 70px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/skillsfuture_parents.jpg"></font></td>
-		<td><font size="4"><b>My Skills Future</b><br>My Skills Future is an online portal that facilitates education and career development among students. This portal aims to help students discover their identity through awareness, exploration and planning.<br><a target="_blank" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">https://www.myskillsfuture.gov.sg/</a></font></td>
+		<td><font size="4"><b>Zaobao</b><br>Zaobao is Chinese online news.<br><a target="_blank" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">https://www.myskillsfuture.gov.sg/</a></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 70px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/schbag_parents.jpg"></font></td>
-		<td><font size="4"><b>SchoolBag</b> 
-<br>Introduce your child to the six key values of Respect, Responsibility, Resilience, Integrity, Care and Harmony, and encourage them to live by  
-these values in his/her actions.<br><a target="_blank" href="https://www.schoolbag.edu.sg/">https://www.schoolbag.edu.sg/</a></font></td>
+		<td><font size="4"><b>Pusat Rujukan Persuratan Melayu (PRPM)</b> 
+<br>Pusat Rujukan Persuratan Melayu (PRPM) is a Malay online dictionary.<br><a target="_blank" href="https://www.schoolbag.edu.sg/">https://www.schoolbag.edu.sg/</a></font></td>
 </tr>
 		<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 70px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/schbag_parents.jpg"></font></td>
-		<td><font size="4"><b>Education and Career Guidance</b> 
-<br>Education and Career Guidance (ECG) is about equipping students as well as adults with the necessary knowledge, skills and values to make informed education and career decisions.<br><a target="_blank" href="https://www.schoolbag.edu.sg/post-secondary/">https://www.schoolbag.edu.sg/post-secondary/</a></font></td>
+		<td><font size="4"><b>Berita Harian</b> <br><a target="_blank" href="https://www.schoolbag.edu.sg/post-secondary/">https://www.schoolbag.edu.sg/post-secondary/</a></font></td>
 </tr>
 		<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 120px; height: 120px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/cyberwellness_parents.jpg"></font></td>
-		<td><font size="4"><b>Cyberwellness</b><br>
-The knowledge and skills to navigate the cyberspace will help parents prepare our children for cyberspace.<br><a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a></font></td>
-</tr>
-		<tr>
-		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 120px; height: 120px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/firstcallvideos_parents.jpg"></font></td>
-		<td><font size="4"><b>Cyberwellness with Parents</b><br>
-These 3 videos shows the common situations that parents face - when to 
-give their child a handphone, how to manage the family device use, how to create a safe space for conversation about their child's online world.<br><br>
-			<b>Their First Phone : A Big Call for Parents</b><br><a target="_blank" href="https://www.youtube.com/watch?v=yPqDEIWz7xI&amp;t=16s">https://www.youtube.com/watch?v=yPqDEIWz7xI&amp;t=16s</a><br><br>
-			<b>Ctrl + Alt + Disconnect : Press Pause Together</b><br><a target="_blank" href="https://www.youtube.com/watch?v=sTLPFRs2tac&amp;t=2s">https://www.youtube.com/watch?v=sTLPFRs2tac&amp;t=2s</a><br><br>
-				<b>Timing Matters : It's Not Just What You Say</b><br>	<a target="_blank" href="https://www.youtube.com/watch?v=JfIMBgZxZ4s&amp;t=16s">https://www.youtube.com/watch?v=JfIMBgZxZ4s&amp;t=16s</a><br>
-			</font></td>
+		<td><font size="4"><b>Tamil Murasu Online</b><br><a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/moe_parents.jpg"></font></td>
-		<td><font size="4"><b>Family Time</b><br>Family Time Activities in FTGP &amp; CCE<br><a target="_blank" href="https://www.youtube.com/watch?v=NmKsx-MZn3Q">https://www.youtube.com/watch?v=NmKsx-MZn3Q</a></font></td>
-</tr>
-	<tr>
-		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 120px; height: 80px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/activeSG_parents.jpg"></font></td>
-		<td><font size="4"><b>Active SG Circle</b><br>A Sport Singapore portal with sports news, events calendar as well as facilities and coaches directory<br><a target="_blank" href="https://www.activesgcircle.gov.sg/">https://www.activesgcircle.gov.sg/</a></font></td>
+		<td><font size="4"><b>OPAC</b><br>Online Library System (OPAC)<br><a target="_blank" href="https://www.youtube.com/watch?v=NmKsx-MZn3Q">https://www.youtube.com/watch?v=NmKsx-MZn3Q</a></font></td>
 </tr>
 	</tbody></table>
-
