@@ -10,7 +10,7 @@ variant: markdown
  </font></th>
 </tr>
 <tr>
-		<td><font size="4"><b>Logo</b></font></td>
+		<td><font size="4"><b>Logo </b></font></td>
 		<td><font size="4"><b>Description &amp; Link</b></font></td>
 	<td><font size="4"><b></b></font></td>
 </tr>
