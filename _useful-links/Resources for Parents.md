@@ -30,7 +30,7 @@ variant: markdown
 <td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
-		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/pg_parents.jpg"></font></td>
+		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 80px; height: 80px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/pg_parents.jpg"></font></td>
 		<td><font size="4"><b>Parents Gateway</b><br>Parents Gateway is a mobile application that supports parents <br>and schools on administrative matters. <br>This app is available in mobile application.<br><a target="_blank" href="https://pg.moe.edu.sg/">https://pg.moe.edu.sg/</a></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
