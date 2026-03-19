@@ -67,5 +67,3 @@ variant: markdown
 </center>
 
 Please contact the PTA at [greendotpta@gmail.com](mailto:greendotpta@gmail.com) to find out more.
-
-[greendotpta@gmail.com](mailto:greendotpta@gmail.com)
