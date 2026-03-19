@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Selamat Hari Raya Puasa 2026.md
       - Inspiring Teacher of English Award 2026.md
       - MOE Sexuality Education Programme 2026.md
       - MOE Schoolbag.md
