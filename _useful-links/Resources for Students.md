@@ -31,7 +31,11 @@ variant: markdown
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/oxford_students.jpg"></font></td>
-		<td><font size="4"><b>Oxford English Dictionary</b><br><a target="_blank" href="https://www.oed.com/">https://www.oed.com/</a></font></td>
+		<td><font size="4"><b>Oxford English Dictionary</b><br><a target="_blank" href="https://www.straitstimes.com/">https://www.straitstimes.com/</a></font></td>
+</tr>
+		<tr>
+		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/st_students.jpg"></font></td>
+		<td><font size="4"><b>Strait Times</b><br><a target="_blank" href="https://www.oed.com/">https://www.oed.com/</a></font></td>
 </tr>
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/koobits_students.jpg"></font></td>
