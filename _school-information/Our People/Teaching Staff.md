@@ -5,10 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Our People
 ---
-### Primary 1 Teachers
+### Year 2026
 
-
-#### **Year 2026**
+#### Primary 1 Teachers
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
@@ -63,9 +62,7 @@ third_nav_title: Our People
 
 
 
-### Primary 2 Teachers
-
-#### **Year 2026**
+#### Primary 2 Teachers
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
@@ -118,10 +115,7 @@ third_nav_title: Our People
 </tbody></table>
 
 
-### Primary 3 Teachers
-
-
-#### **Year 2026**
+#### Primary 3 Teachers
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
@@ -170,9 +164,7 @@ third_nav_title: Our People
 </tbody></table>
 
 
-### Primary 4 Teachers
-
-#### **Year 2026**
+#### Primary 4 Teachers
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
@@ -220,9 +212,7 @@ third_nav_title: Our People
 </tbody></table>
 
 
-### Primary 5 Teachers
-
-#### **Year 2026**
+#### Primary 5 Teachers
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
@@ -271,9 +261,7 @@ third_nav_title: Our People
 </tbody></table>
 
 
-### Primary 6 Teachers
-
-#### **Year 2026**
+#### Primary 6 Teachers
 
 <table style="border-collapse: collapse; width: 50%;">
   <tbody>
