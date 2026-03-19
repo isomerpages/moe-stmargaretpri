@@ -47,10 +47,6 @@ variant: markdown
 		<td><font size="4"><b>School Terms and Holidays 2026</b><br><a target="_blank" href="https://www.stmargaretspri.moe.edu.sg/school-information/school-terms-n-holidays/">https://www.stmargaretspri.moe.edu.sg/school-information/school-terms-n-holidays/</a></font></td>
 </tr>
 	<tr>
-		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 70px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/skillsfuture_parents.jpg"></font></td>
-		<td><font size="4"><b>My Skills Future</b><br>My Skills Future is an online portal that facilitates education and career development among students. This portal aims to help students discover their identity through awareness, exploration and planning.<br><a target="_blank" href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html">https://www.myskillsfuture.gov.sg/</a></font></td>
-</tr>
-	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 70px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/schbag_parents.jpg"></font></td>
 		<td><font size="4"><b>SchoolBag</b> 
 <br>Introduce your child to the six key values of Respect, Responsibility, Resilience, Integrity, Care and Harmony, and encourage them to live by  
@@ -79,9 +75,5 @@ give their child a handphone, how to manage the family device use, how to create
 	<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 100px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/moe_parents.jpg"></font></td>
 		<td><font size="4"><b>Family Time</b><br>Family Time Activities in FTGP &amp; CCE<br><a target="_blank" href="https://www.youtube.com/watch?v=NmKsx-MZn3Q">https://www.youtube.com/watch?v=NmKsx-MZn3Q</a></font></td>
-</tr>
-	<tr>
-		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 120px; height: 80px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/activeSG_parents.jpg"></font></td>
-		<td><font size="4"><b>Active SG Circle</b><br>A Sport Singapore portal with sports news, events calendar as well as facilities and coaches directory<br><a target="_blank" href="https://www.activesgcircle.gov.sg/">https://www.activesgcircle.gov.sg/</a></font></td>
 </tr>
 	</tbody></table>
