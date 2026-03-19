@@ -66,6 +66,4 @@ variant: markdown
 	</tbody></table>
 </center>
 
-
-<font size="4">Please click <b><a target="_blank" href="https://www.greendotpta.sg/">here</a></b> to know more about the PTA.
-</font>
+Please contact the PTA at [greendotpta@gmail.com](mailto:greendotpta@gmail.com) to find out more.
