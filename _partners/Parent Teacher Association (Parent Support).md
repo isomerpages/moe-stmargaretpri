@@ -66,4 +66,4 @@ variant: markdown
 	</tbody></table>
 </center>
 
-<font size="4">Please contact the PTA at <b>[greendotpta@gmail.com](greendotpta@gmail.com)</b> to find out more.</font>
+Please contact the PTA at [greendotpta@gmail.com](greendotpta@gmail.com) to find out more.
