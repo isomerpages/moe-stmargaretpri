@@ -45,16 +45,12 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px;">Year Head (P1 &amp; P2)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Sara George</td>
   </tr>
-		<tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px;">Year Head (P3 &amp; P4)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mdm Sharon Simon</td>
-  </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">Year Head (P3 &amp; P5)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Michelle Kok Meixia</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px;">Year Head (P4 &amp; P6)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Assistant Year Head (P4 &amp; P6)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Christina Yong Yuen Fang</td>
   </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
@@ -71,7 +67,7 @@ third_nav_title: Our People
   </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">LH English Language</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Angel Soh Siu Ling</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Angel Chan Siu Ling</td>
   </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">ST English Language</td>
