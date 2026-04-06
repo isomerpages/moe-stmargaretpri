@@ -44,18 +44,18 @@ variant: markdown
 	<td><img src="/images/Parent%20Volunteers/hari_raya_2025.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/el_week_2025.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
 </tr>
-			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Hari Raya<br>()</b></font></center></td> 
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Hari Raya<br>(Apr 2025)</b></font></center></td> 
 		<td><center>
-		<font size="4"><b>English Week<br>()</b></font>
+		<font size="4"><b>English Week</b></font>
 </center></td>
 </tr>
 <tr>
 	<td><img src="/images/Parent%20Volunteers/IFD_2025.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
 <td><img src="/images/Parent%20Volunteers/tdd_2025.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
 </tr>
-			<tr width="10 px" height="10 px"><td><center><font size="4"><b>International Friendship Day<br>()</b></font></center></td> 
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>International Friendship Day<br>(11 Apr 2025)</b></font></center></td> 
 		<td><center>
-		<font size="4"><b>Total Defence Day<br>()</b></font>
+		<font size="4"><b>Total Defence Day<br>(14 Feb 2025)</b></font>
 </center></td>
 </tr>
 	</tbody></table>
