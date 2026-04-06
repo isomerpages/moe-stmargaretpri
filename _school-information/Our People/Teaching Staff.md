@@ -148,7 +148,7 @@ third_nav_title: Our People
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 HUMILITY</td>
 		<td>Ms Chan Mei Sze (Mrs Lim)</td>
-	<td>Mdm Sharon Simon</td>
+	<td>Ms Wei Xinyu</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 INTEGRITY</td>
