@@ -35,7 +35,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-f4yw"> School Bookshop<br></td>
-    <td class="tg-zr06">Pacific Bookstores Pte Ltd<br>Tel/Fax: 6338 2278<br><br>Open Monday to Friday<br>7.30 am to 2.30 pm<br></td>
+    <td class="tg-zr06">Pacific Bookstores Pte Ltd<br>Tel/Fax: 6338 2278<br><br>Open Monday to Friday<br><i>(Closed during school holidays)</i><br>7.30 am to 2.30 pm<br></td>
   </tr>
   <tr>
     <td class="tg-f4yw"> School Bus<br></td>
