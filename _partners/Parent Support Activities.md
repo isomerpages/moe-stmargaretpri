@@ -28,7 +28,7 @@ variant: markdown
 </tr>
 			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Pongal 2026<br>(Jan 2026)</b></font></center></td> 
 		<td><center>
-		<font size="4"><b>Total Defence Day<br>(13 Feb 2026)</b></font>
+		<font size="4"><b>Total Defence Day<br>(11 - 12 Feb 2026)</b></font>
 </center></td>
 </tr>
 	</tbody></table>
