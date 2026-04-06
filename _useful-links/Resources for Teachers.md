@@ -20,7 +20,7 @@ variant: markdown
 </tr>
 			<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 150px; height: 100px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/cockpit_teachers.jpg"></font></td>
-		<td><font size="4"><b>School Cockpit</b><br>School Cockpit to view student details, generate report and view results.<br><a target="_blank" href="https://schoolcockpit.moe.gov.sg/academic">https://schoolcockpit.moe.gov.sg/academic</a></font></td>
+		<td><font size="4"><b>School Cockpit</b><br>School Cockpit to view student details, generate report and view results.<br><a target="_blank" href="https://schoolcockpit.moe.gov.sg/">https://schoolcockpit.moe.gov.sg/</a></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 	<tr>

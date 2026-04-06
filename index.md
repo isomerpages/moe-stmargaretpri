@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/selamat-hari-raya-puasa-2026/
+          url: /announcements/moe-sexuality-edu-2026/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/

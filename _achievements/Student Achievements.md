@@ -4,6 +4,28 @@ permalink: /achievements/student-achievements/
 description: ""
 variant: markdown
 ---
+### 2026 Achievements
+
+<table>
+	<tbody><tr>
+		<th><font color="maroon" size="5">
+    MTL Department
+ </font></th>
+</tr>
+<tr>
+		<td><font size="4"><b>Competition Name</b></font></td>
+		<td><font size="4"><b>Award / Position</b></font></td>
+	<td><font size="4"><b></b></font></td>
+</tr>
+	<tr>
+		<td><font size="4">National Chinese Calligraphy
+Competition 2026</font></td>
+		<td><font size="4">1 student from 6 Charity<br>receives Outstanding Award<br></font></td>
+<td><font size="4"><b></b></font></td>
+</tr>
+	</tbody></table>
+<br>
+
 ### 2025 Achievements
 
 <table>
