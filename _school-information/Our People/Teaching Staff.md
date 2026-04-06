@@ -121,7 +121,7 @@ third_nav_title: Our People
   <tbody>
   <tr style="border: 0px solid #000; padding: 8px;">
     <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
-    <td style="border: 0px solid #000; padding: 8px;">Mdm Sharon Simon<br>Ms Michelle Kok Meixia (Mrs Ng)</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Michelle Kok Meixia (Mrs Ng)</td>
   </tr>
 <tr style="border: 0px solid #000; padding: 8px;">
         <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
@@ -170,7 +170,7 @@ third_nav_title: Our People
   <tbody>
   <tr style="border: 0px solid #000; padding: 8px;">
     <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Year Head :</td>
-    <td style="border: 0px solid #000; padding: 8px;">Mdm Sharon Simon<br>Ms Christina Yong Yuen Fang</td>
+    <td style="border: 0px solid #000; padding: 8px;">Ms Christina Yong Yuen Fang</td>
   </tr>
 <tr style="border: 0px solid #000; padding: 8px;">
         <td style="border: 0px solid #000; padding: 8px; background-color: white; color: darkgreen">Level Manager :</td>
