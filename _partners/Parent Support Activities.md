@@ -33,12 +33,6 @@ variant: markdown
 </tr>
 	</tbody></table>
 
-![](/images/Parent%20Volunteers/el_week_2025.gif)
-![](/images/Parent%20Volunteers/hari_raya_2025.gif)
-![](/images/Parent%20Volunteers/IFD_2025.gif)
-
-
-
 <table>
 	<tbody><tr>
 		<th><center><font color="maroon" size="6">
@@ -47,21 +41,21 @@ variant: markdown
 <table>
 	<tbody>
 		<tr>
-	<td><img src="/images/Parent%20Volunteers/el_week_2026.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
-<td><img src="/images/Parent%20Volunteers/Math_Week_2026.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
+	<td><img src="/images/Parent%20Volunteers/hari_raya_2025.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/el_week_2025.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
 </tr>
-			<tr width="10 px" height="10 px"><td><center><font size="4"><b>English Week<br>(11 - 13 March 2026)</b></font></center></td> 
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Hari Raya<br>()</b></font></center></td> 
 		<td><center>
-		<font size="4"><b>Math Week<br>(13 March 2026)</b></font>
+		<font size="4"><b>English Week<br>()</b></font>
 </center></td>
 </tr>
 <tr>
-	<td><img src="/images/Parent%20Volunteers/Pongal_2026.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
-<td><img src="/images/Parent%20Volunteers/tdd_2026.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
+	<td><img src="/images/Parent%20Volunteers/IFD_2025.gif" alt="volunteer recess ministry pv" style="width:400px;height:280px;"></td>
+<td><img src="/images/Parent%20Volunteers/tdd_2025.gif" alt="ifd pv" style="width:400px;height:280px;"></td>
 </tr>
-			<tr width="10 px" height="10 px"><td><center><font size="4"><b>Pongal 2026<br>(27 Jan 2026)</b></font></center></td> 
+			<tr width="10 px" height="10 px"><td><center><font size="4"><b>International Friendship Day<br>()</b></font></center></td> 
 		<td><center>
-		<font size="4"><b>Total Defence Day<br>(11 - 12 Feb 2026)</b></font>
+		<font size="4"><b>Total Defence Day<br>()</b></font>
 </center></td>
 </tr>
 	</tbody></table>
