@@ -28,18 +28,48 @@ variant: markdown
 ___________________________________________________________
 
 
-
 International Dance aims to nurture and groom students to excel in the area of dance. International Dance CCA strives to spark the passion for dance in our many young talents, and for high standards of achievements in all performances and competitions we take part in. Our dance members are exposed to different dance genres and a variety of dance moves and techniques. International Dance CCA hopes to inspire young dancers to express themselves in this Art form and to be a cornerstone to the development of future talents in SMS(P).  
 
-  
+<table>
+	<tbody>
+		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_01.jpg" alt="student in action" style="width:500px;height:380px;"></font></center></td>
+</tr>
+			<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_02.jpg" alt="student in action" style="width:500px;height:380px;"><b></b></font></center></td>
+</tr>
+				<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_03.jpg" alt="student in action" style="width:500px;height:380px;"><b>Weekly practice in the PAL room</b></font></center></td>
+</tr>
+</tbody></table>  
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 871px; height: 225px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img src="/images/Dance%202.jpeg" width="100%" alt="Dance 2.jpeg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 412px; height: 287px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img src="/images/Dance%204.jpeg" width="100%" alt="Dance 4.jpeg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 379px; height: 285px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img src="/images/Dance%201.jpeg" width="100%" alt="Dance 1.jpeg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 287px; height: 397px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img src="/images/Dance%205.jpeg" width="100%" alt="Dance 5.jpeg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 402px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/Dance%204.jpeg" width="100%" alt="Dance 4.jpeg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 304px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021ID01.jpg" width="100%" alt="2021_ID01.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 505px; height: 284px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021ID02.jpg" width="100%" alt="2021ID02.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 618px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/2021ID03.jpg" width="100%" alt="2021_ID03.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 407px; height: 282px;"></td></tr></tbody></table>
+<table>
+	<tbody>
+		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_04.jpg" alt="student in action" style="width:500px;height:380px;"><b>CCA Showcasing</b></font></center></td></tr>
+</tbody></table>  
 
-  
+<table>
+	<tbody>
+		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_05.jpg" alt="student in action" style="width:500px;height:380px;"><b>Donor’s Tea 2025</b></font></center></td></tr>
+</tbody></table>  
 
-### Objectives
+<table>
+	<tbody>
+		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_06.jpg" alt="student in action" style="width:500px;height:380px;"><b>National Day picnic performance at the Hills</b></font></center></td></tr>
+</tbody></table> 
+
+<center><b>Spotlight 2024</b></center>
+<table><tbody>
+			<tr><td><center><font size="3">
+		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_14.jpg"><b>
+</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_13.jpg"></font>
+</center></td></tr>
+		<tr><td><center><font size="3">
+		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_12.jpg"></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_15.jpg"></font>
+</center></td></tr>
+</tbody></table>
+
+#### Objectives
 ___________________________________________________________
-
 
 1.  To nurture pupils’ aesthetic talents, each to their fullest potential.
 2.  To instill discipline, build confidence and resilience in our young dancers and develop an appreciation for dance
@@ -48,13 +78,11 @@ ___________________________________________________________
 ### Target
 ___________________________________________________________
 
-
 *   To improve on members' dance movements and techniques.
 *   To participate in school and external performances
 
 ### Highlights &amp; Achievements
 ___________________________________________________________
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -75,6 +103,26 @@ ___________________________________________________________
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2026</span></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2026<br>Chinese New Year Performance</td>
+    <td class="tg-ktyi"><span style="background-color:initial"></span><br><span style="color:#000;background-color:#FFF"> </span></td>
+  </tr>
+	 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2025</span></td>
+    <td class="tg-ktyi">National Day Celebration: Picnic &amp; Movie Night dance performance <br>Donor’s Tea</td>
+    <td class="tg-ktyi"><span style="background-color:initial">Nil</span><br><span style="color:#000;background-color:#FFF"> </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2024<br>Spotlight 2024<br>Teachers’ Day celebration<br>Founders’ Day 2024  </td>
+    <td class="tg-ktyi"><span style="background-color:initial">Distinction</span><br><span style="color:#000;background-color:#FFF"> </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2020</span></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2020</td>
+    <td class="tg-ktyi"><span style="background-color:initial">Distinction</span><br><span style="color:#000;background-color:#FFF"> </span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
     <td class="tg-ktyi">Chinese New Year celebration<br><br>Chingay Parade 2019</td>
