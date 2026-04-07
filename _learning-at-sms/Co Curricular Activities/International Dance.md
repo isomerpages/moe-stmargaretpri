@@ -55,7 +55,7 @@ International Dance aims to nurture and groom students to excel in the area of d
 		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_06.jpg" alt="student in action" style="width:500px;height:380px;"><b>National Day picnic performance at the Hills</b></font></center></td></tr>
 </tbody></table> 
 
-<center><b>Spotlight 2024</b>
+<center><b>Spotlight 2024</b></center>
 <table><tbody>
 			<tr><td><center><font size="3">
 		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_14.jpg"><b>
@@ -64,15 +64,12 @@ International Dance aims to nurture and groom students to excel in the area of d
 </center></td></tr>
 		<tr><td><center><font size="3">
 		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_12.jpg"></font></center></td>
-		<td><center><font size="3"><img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_15.jpg"></font>
+		<td><center><font size="3"><img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_15.jpg"></font>
 </center></td></tr>
 </tbody></table>
 
-
-
-### Objectives
+#### Objectives
 ___________________________________________________________
-
 
 1.  To nurture pupils’ aesthetic talents, each to their fullest potential.
 2.  To instill discipline, build confidence and resilience in our young dancers and develop an appreciation for dance
@@ -81,13 +78,11 @@ ___________________________________________________________
 ### Target
 ___________________________________________________________
 
-
 *   To improve on members' dance movements and techniques.
 *   To participate in school and external performances
 
 ### Highlights &amp; Achievements
 ___________________________________________________________
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -149,4 +144,4 @@ ___________________________________________________________
     <td class="tg-ktyi"><span style="background-color:initial">Distinction</span><span style="color:#000;background-color:#FFF"> </span> <span style="background-color:initial"> </span></td>
   </tr>
 </tbody>
-</table></center>
+</table>
