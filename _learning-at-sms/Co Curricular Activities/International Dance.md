@@ -28,13 +28,55 @@ variant: markdown
 ___________________________________________________________
 
 
-
 International Dance aims to nurture and groom students to excel in the area of dance. International Dance CCA strives to spark the passion for dance in our many young talents, and for high standards of achievements in all performances and competitions we take part in. Our dance members are exposed to different dance genres and a variety of dance moves and techniques. International Dance CCA hopes to inspire young dancers to express themselves in this Art form and to be a cornerstone to the development of future talents in SMS(P).  
 
-  
+<table>
+	<tbody>
+		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_01.jpg" alt="student in action" style="width:500px;height:380px;"></font></center></td>
+</tr>
+			<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_02.jpg" alt="student in action" style="width:500px;height:380px;"><b></b></font></center></td>
+</tr>
+				<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_03.jpg" alt="student in action" style="width:500px;height:380px;"><b>Weekly practice in the PAL room</b></font></center></td>
+</tr>
+</tbody></table>  
+
+<table>
+	<tbody>
+		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_04.jpg" alt="student in action" style="width:500px;height:380px;"><b>CCA Showcasing</b></font></center></td></tr>
+</tbody></table>  
+
+<table>
+	<tbody>
+		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_05.jpg" alt="student in action" style="width:500px;height:380px;"><b>Donor’s Tea 2025</b></font></center></td></tr>
+</tbody></table>  
+
+<table>
+	<tbody>
+		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_06.jpg" alt="student in action" style="width:500px;height:380px;"><b>National Day picnic performance at the Hills</b></font></center></td></tr>
+</tbody></table> 
+
+![](/images/CCAs/International%20Dance/ifd_07.jpg)
+![](/images/CCAs/International%20Dance/ifd_08.jpg)
+
+![](/images/CCAs/International%20Dance/ifd_12.jpg)
+![](/images/CCAs/International%20Dance/ifd_13.jpg)
+![](/images/CCAs/International%20Dance/ifd_14.jpg)
 
 
-  
+
+<table><tbody>
+			<tr><td><center><font size="3">
+		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_14.jpg"><b>
+</b></font></center></td>
+		<td><center><font size="3"><img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_13.jpg"></font>
+</center></td></tr>
+		<tr><td><center><font size="3">
+		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_12.jpg"></font></center></td>
+		<td><center><font size="3"><img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_04.jpg"></font>
+</center></td></tr>
+</tbody></table>
+
+
 
 ### Objectives
 ___________________________________________________________
