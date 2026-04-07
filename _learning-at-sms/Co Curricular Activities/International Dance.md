@@ -55,15 +55,7 @@ International Dance aims to nurture and groom students to excel in the area of d
 		<tr><td><center><font size="3"><img src="/images/CCAs/International%20Dance/ifd_06.jpg" alt="student in action" style="width:500px;height:380px;"><b>National Day picnic performance at the Hills</b></font></center></td></tr>
 </tbody></table> 
 
-![](/images/CCAs/International%20Dance/ifd_07.jpg)
-![](/images/CCAs/International%20Dance/ifd_08.jpg)
-
-![](/images/CCAs/International%20Dance/ifd_12.jpg)
-![](/images/CCAs/International%20Dance/ifd_13.jpg)
-![](/images/CCAs/International%20Dance/ifd_14.jpg)
-
-
-
+<center><b>Spotlight 2024</b>
 <table><tbody>
 			<tr><td><center><font size="3">
 		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_14.jpg"><b>
@@ -72,7 +64,7 @@ International Dance aims to nurture and groom students to excel in the area of d
 </center></td></tr>
 		<tr><td><center><font size="3">
 		<img style="width:400px;height:280px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_12.jpg"></font></center></td>
-		<td><center><font size="3"><img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/Infocomm%20Club/infocomm24_04.jpg"></font>
+		<td><center><font size="3"><img style="width:280px;height:350px;" alt="volunteer recess ministry pv" src="/images/CCAs/International%20Dance/ifd_15.jpg"></font>
 </center></td></tr>
 </tbody></table>
 
@@ -137,4 +129,4 @@ ___________________________________________________________
     <td class="tg-ktyi"><span style="background-color:initial">Distinction</span><span style="color:#000;background-color:#FFF"> </span> <span style="background-color:initial"> </span></td>
   </tr>
 </tbody>
-</table>
+</table></center>
