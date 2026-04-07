@@ -108,6 +108,16 @@ ___________________________________________________________
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2024<br>Spotlight 2024<br>Teachers’ Day celebration<br>Founders’ Day 2024  </td>
+    <td class="tg-ktyi"><span style="background-color:initial">Distinction</span><br><span style="color:#000;background-color:#FFF"> </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2020</span></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2020</td>
+    <td class="tg-ktyi"><span style="background-color:initial">Distinction</span><br><span style="color:#000;background-color:#FFF"> </span></td>
+  </tr>
   <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2019</span></td>
     <td class="tg-ktyi">Chinese New Year celebration<br><br>Chingay Parade 2019</td>
