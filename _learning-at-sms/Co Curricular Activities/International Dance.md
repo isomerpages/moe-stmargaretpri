@@ -108,6 +108,16 @@ ___________________________________________________________
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2026</span></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2026<br>Chinese New Year Performance</td>
+    <td class="tg-ktyi"><span style="background-color:initial"></span><br><span style="color:#000;background-color:#FFF"> </span></td>
+  </tr>
+	 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2025</span></td>
+    <td class="tg-ktyi">National Day Celebration: Picnic &amp; Movie Night dance performance <br>Donor’s Tea</td>
+    <td class="tg-ktyi"><span style="background-color:initial">Nil</span><br><span style="color:#000;background-color:#FFF"> </span></td>
+  </tr>
 	  <tr>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
     <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2024<br>Spotlight 2024<br>Teachers’ Day celebration<br>Founders’ Day 2024  </td>
