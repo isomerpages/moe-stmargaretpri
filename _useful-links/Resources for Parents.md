@@ -4,8 +4,6 @@ permalink: /useful-links/resources-for-parents/
 description: ""
 variant: markdown
 ---
-
-![](/images/Resources/EdTech_Parenting_p1_to_6.jpg)
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
@@ -18,12 +16,12 @@ variant: markdown
 </tr>
 				<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 160px; height: 130px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/EdTech_Parenting_p1_to_6.jpg"></font></td>
-		<td><font size="4"><a href="/files/ai_parent_info_c.pdf" target="_blank"><b>EdTech Parenting with Confidence (P1 - P3)</b></a><br>A Quick Guide for Parents<br></font></td>
+		<td><font size="4"><a href="Primary_1___3__EdTech_Parenting_with_Confidence_Engagement_Deck" target="_blank"><b>EdTech Parenting with Confidence (P1 - P3)</b></a><br>A Quick Guide for Parents<br></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 		<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 160px; height: 130px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/EdTech_Parenting_p1_to_6.jpg"></font></td>
-		<td><font size="4"><a href="/files/ai_parent_info_c.pdf" target="_blank"><b>EdTech Parenting with Confidence (P4 - P6)</b></a><br>A Quick Guide for Parents<br></font></td>
+		<td><font size="4"><a href="Primary_4___6__EdTech_Parenting_with_Confidence_Engagement_Deck" target="_blank"><b>EdTech Parenting with Confidence (P4 - P6)</b></a><br>A Quick Guide for Parents<br></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 	<tr>
