@@ -45,6 +45,10 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Manager (OM)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Sally Tan Bee Lian</td>
   </tr>
+		<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Manager (OM)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mr Rajan Sathimurthy</td>
+  </tr>
 <tr style="border: 1px solid #000; padding: 8px;">
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Support Officer (OSO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Mr Jamaludin Bin A Rahman</td>
