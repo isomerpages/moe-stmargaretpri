@@ -1,0 +1,7 @@
+collections:
+  featured-events-2026:
+    output: true
+    order:
+      - Total Defence Day 2026.md
+      - Pongal 2026.md
+      - Chinese New Year 2026.md
