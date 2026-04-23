@@ -1,4 +1,5 @@
 collections:
   featured-events-2026:
     output: true
-    order: []
+    order:
+      - Chinese New Year 2026.md
