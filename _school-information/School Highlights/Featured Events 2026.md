@@ -18,9 +18,9 @@ third_nav_title: School Highlights
 	<td><a href="/school-information/school-highlights/p6-hcl-learning-journey-to-scc-centre-2026/"><img src="/images/Thumbnails/thumbp6hcl2026.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
-			<th><center>P3 P4 HCL Learning Journey to Chinatown Heritage Centre 2026</center></th> 
-		<th><center>P5 HCL Learning Journey to SPH 2026</center></th> 
-		<th><center>P6 HCL Learning Journey to Singapore Chinese Cultural Centre 2026</center></th> 			
+			<th><center>P3 P4 HCL Learning Journey to<br>Chinatown Heritage<br>Centre 2026</center></th> 
+		<th><center>P5 HCL Learning Journey to<br> SPH 2026</center></th> 
+		<th><center>P6 HCL Learning Journey to<br>Singapore Chinese<br> Cultural Centre 2026</center></th> 			
 			</tr>
 			<tr>
 <td><a href="/school-information/school-highlights/chinese-new-year-2026/"><img src="/images/Thumbnails/cny_thumbnail.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
