@@ -143,7 +143,7 @@ third_nav_title: Our People
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 GRACIOUSNESS</td>
 		<td>Ms Charissa Chan Soek Yee</td>
-	<td>Ms Alice Toh Peck Hoon</td>
+	<td>Mr Low Yong Ming<br>Ms Shirley Seah</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 HUMILITY</td>
