@@ -100,7 +100,7 @@ An online portal that facilitates education and career development among student
     <td style="border: 1px solid black;"><ul><li><a href="https://www.schoolbag.edu.sg/primary/" target="_blank">Articles on Schoolbag</a></li></ul></td></tr>
 	<tr style="border: 1px solid black;">
      <td style="border: 1px solid black; font-size: 18px;"><b>Sexuality Education</b></td>
-    <td style="border: 1px solid black;"><ul><li>Please click <a href="/learning-at-sms/student-development/2025-moe-sexuality-education-programme/" target="_blank">here</a> to find out more</li></ul></td>
+    <td style="border: 1px solid black;"><ul><li>Please click <a href="/learning-at-sms/student-development/2026-moe-sexuality-education-programme/" target="_blank">here</a> to find out more</li></ul></td>
 		</tr>
 </tbody></table>
 
