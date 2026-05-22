@@ -27,10 +27,6 @@ third_nav_title: Our People
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Corporate Support Officer (CSO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Mdm Nur Hidayah Bte Johari</td>
   </tr>
-				<tr style="border: 1px solid #000; padding: 8px;">
-        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Corporate Support Officer (CSO)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mdm Nalayeni D/O M Supramaniam</td>
-  </tr>
 			<tr style="border: 1px solid #000; padding: 8px;">
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Corporate Support Officer (CSO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Satwant Kaur</td>
