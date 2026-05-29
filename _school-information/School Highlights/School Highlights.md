@@ -34,8 +34,8 @@ These are the activities that the students participated for holistic learning.
 </tr>
 		<tr>
 			<th><center>P3 Learning Journey to<br>Geylang Serai 2026</center></th> 
-		<th><center>P5 HCL Learning Journey to<br> SPH 2026</center></th> 
-		<th><center>P6 HCL Learning Journey to<br>Singapore Chinese<br> Cultural Centre 2026</center></th> 			
+		<th><center>P5 Camp 2026</center></th> 
+		<th><center>P6 Learning Journey to<br> Sungei Buloh 2026</center></th> 			
 			</tr>
 					<tr>
 <td><a href="/school-information/school-highlights/hcl-lj-p3-p4-2026/"><img src="/images/Thumbnails/thumbp3p4hcl2026.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
