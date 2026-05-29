@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Vesak Day 2026.md
       - MOE Sexuality Education Programme 2026.md
       - MOE Schoolbag.md
       - Invitation to Parents Gateway.md
