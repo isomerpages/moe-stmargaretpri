@@ -45,11 +45,11 @@ English Reimagined
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:400px;height:380px;"><b></b><center><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:500px;height:380px;"><b></b><center><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).
 </b></center></td>
 </tr>
 	<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_02.jpg" style="width:400px;height:380px;"><b></b><center><b>A mini-theatre programme was put together by our<br>in-house actress, Ms George.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_02.jpg" style="width:500px;height:380px;"><b></b><center><b>A mini-theatre programme was put together by our<br>in-house actress, Ms George.</b></center></td>
 </tr>
 	</tbody></table>
  
