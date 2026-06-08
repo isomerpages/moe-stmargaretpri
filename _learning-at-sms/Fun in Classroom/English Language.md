@@ -166,17 +166,12 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 
 #### **Read for Books**
 
-Read for Books is a charity book drive organised by NLB and we are proud to support this meaningful movement as a whole school.
+Read for Books is a yearly charity book drive organised by NLB and we are proud to support this meaningful movement as a whole school.
 
 Let us continue to nurture the love for reading among our girls! Remember, reading is not just a pastime; it’s a lifelong habit that enriches our lives in countless ways.
 
-![](/images/Announcement/Read_for_Books_2023_Certificate.jpg)<center><b>School have received a token of appreciation from the NLB (National Library Board) for our participation in Read for Books 2023!</b>
+![](/images/Announcement/Read_for_Books_2023_Certificate.jpg)<center><b>The school participated in the meaningful Read for Books activity on 30 July 2025. </b>
 
-We would like to extend a special appreciation to the students and teachers of STAR who went above and beyond by providing emcees and having students dress up as book characters to read on stage. Your creative contributions added a unique and engaging dimension to the event.
-
-![](/images/Read%20for%20Books%202023/readforbooks01.jpg)
-
-![](/images/Read%20for%20Books%202023/readforbooks02.jpg)
 
   <table>
 	<tbody><tr>
