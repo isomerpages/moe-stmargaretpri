@@ -146,13 +146,13 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_01.jpg" style="width:500px;height:380px;"><b></b><center><b>P2s and P5s sharing stories during English Week, an authentic opportunity for students to communicate and collaborate meaningfully.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_01.jpg" style="width:500px;height:400px;"><b></b><center><b>P2s and P5s sharing stories during English Week, an authentic opportunity for students to communicate and collaborate meaningfully.</b></center></td>
 </tr>
 <tr>
 		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_02.jpg" style="width:300px;height:380px;"><b></b><center><b>A Big Bad Wolf, with a full tummy for sure!    </b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_03.jpg" style="width:500px;height:380px;"><b></b><center><b>Not one but four Mrs Wishy Washies!!!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_03.jpg" style="width:500px;height:400px;"><b></b><center><b>Not one but four Mrs Wishy Washies!!!</b></center></td>
 </tr>
 <tr>
 		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_04.jpg" style="width:400px;height:380px;"><b></b><center><b>Three Blind Mice and the Farmer’s Wife also came to the school!</b></center></td>
@@ -161,7 +161,7 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_05.jpg" style="width:400px;height:380px;"><b></b><center><b>Dancing to learn Tenses at one of the booths during recess play!</b></center></td>
 </tr>
 	<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_06.jpg" style="width:500px;height:380px;"><b></b><center><b>Students fully immersed in the story told by our Vice Principal (Admin) Ms Tan!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_06.jpg" style="width:500px;height:400px;"><b></b><center><b>Students fully immersed in the story told by our Vice Principal (Admin) Ms Tan!</b></center></td>
 </tr>
 	</tbody></table>
 
