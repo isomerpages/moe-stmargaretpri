@@ -172,7 +172,7 @@ Read for Books is a yearly charity book drive organised by NLB and we are proud 
 
 Let us continue to nurture the love for reading among our girls! Remember, reading is not just a pastime; it’s a lifelong habit that enriches our lives in countless ways.
 
-![](/images/Announcement/Read_for_Books_2023_Certificate.jpg)<center><b>The school participated in the meaningful Read for Books activity on 30 July 2025. </b>
+![](/images/Department/EL%20Department/el_read_2026.jpg)<center><b>The school participated in the meaningful Read for Books activity on 30 July 2025. </b>
 
 
   <table>
