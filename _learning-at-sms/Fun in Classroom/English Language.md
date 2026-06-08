@@ -41,17 +41,6 @@ English Reimagined
 #### **1\. Let’s have TEA! (Theatre Exposure and Appreciation)**
 
 *  Students attend at least 1 theatrical performance throughout their journey with us at SMS(P).
-
-<table>
-<tbody>
-<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:500px;height:380px;"><b></b><center><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).
-</b></center></td>
-</tr>
-	<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_02.jpg" style="width:500px;height:380px;"><b></b><center><b>A mini-theatre programme was put together by our<br>in-house actress, Ms George.</b></center></td>
-</tr>
-	</tbody></table>
 	
 <table>
 <tbody>
