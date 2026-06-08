@@ -17,23 +17,21 @@ variant: markdown
 
 #### **Vision**
 
-English Rocks@SMS(P)!
-
-Creating a vibrant atmosphere for the teaching and learning of the English Language.
+English Reimagined
 
 #### **Goals**
 
-* Engagement in class
+**Students:** Become confident, digitally literate communicators who think critically, inquire creatively, and express themselves empathetically across various platforms and contexts.
 
-* Experiences in authentic learning
+**Teachers:** Develop expertise in dynamic teaching and learning whilst serving as exemplary English language role models who inspire and guide students through innovative, authentic learning experiences.
 
-* Exposure to competitions and challenges&nbsp;
+**Parents:** Partner with the school to support their children's English language development, understanding how technology enhances learning and reinforcing quality language use at home.
 
   
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
-     Programmes
+     Learning Experiences
  </font></th>
 </tr>
 	<tr>
@@ -42,21 +40,23 @@ Creating a vibrant atmosphere for the teaching and learning of the English Langu
 
 #### **1\. Let’s have TEA! (Theatre Exposure and Appreciation)**
 
-*  Students get to attend at least 1 theatrical performance throughout their journey with us at SMS(P).
-
+*  Students attend at least 1 theatrical performance throughout their journey with us at SMS(P).
+	
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:500px;height:350px;"><b></b><center><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).</b></center></td>
+	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_02.jpg" style="width:500px;height:350px;"><b></b><center><b>A mini-theatre programme was put together<br>by our in-house actress, Ms George.</b></center></td>
 </tr>
 	</tbody></table>
+	
+	
  
 #### **2. Extensive Reading Programme (ERP)**
 
 To encourage a love for reading in the girls:
 
-<table style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; width: 780px; height: 108px;" class="iveo_table ives_tab_dark ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(42, 42, 42); color: rgb(238, 238, 238); border: 1px solid rgb(42, 42, 42); width: 185px;">Activities</th><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 87px;"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;P1</b></td><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(42, 42, 42); color: rgb(238, 238, 238); border: 1px solid rgb(42, 42, 42); width: 73px;">P2</th><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 85px;"><b style="margin: 0px; outline: 0px; padding: 0px;">P3&nbsp;</b></td><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(42, 42, 42); color: rgb(238, 238, 238); border: 1px solid rgb(42, 42, 42); width: 74px;">P4</th><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 85px;"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;P5</b></td><th style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(42, 42, 42); color: rgb(238, 238, 238); border: 1px solid rgb(42, 42, 42); width: 74px;">P6</th></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Little Red Dot Newspaper</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 60px;"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;No</b></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">No</b></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">No</b><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Yes</b></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></p></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 17px; font-weight: 400; color: rgb(0, 0, 0);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(42, 42, 42);">&nbsp;<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;">Whole School Reading Programme<br>- Morning Reading on Mon, Tues and Weds<br>
--	Library Period </b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Yes</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Yes</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">Yes&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><b style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;Yes</b></td></tr></tbody></table>
+![](/images/Department/EL%20Department/erp2026.jpg)
 
 <table>
 <tbody>
@@ -65,16 +65,26 @@ To encourage a love for reading in the girls:
 	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_03.jpg" style="width:480px;height:400px;"><b></b><center><b>Staying connected with the world through <br>reading the newspapers.</b></center></td>
 </tr>
 	</tbody></table>
+	
+	
+#### **3. Learning Journeys**
 
+Learning journeys immerse students in real-world contexts where English becomes a natural communication tool through authentic interactions, meaningful inquiry, and purposeful documentation of experiences.
+	
 <table>
-	<tbody><tr>
-		<th><font size="6" color="maroon">
-   Author's Talk
- </font></th>
+<tbody>
+<tr>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_01.jpg" style="width:500px;height:380px;"><b></b><center><b>P4 students visited the Presidential Library at Plaza Singapura that was hosted by<br>National Library Board (NLB).
+</b></center></td>
 </tr>
-</tbody></table>
-
-We invite authors to our school to share their passion for writing and their stories with our students. This way, we get our students excited about reading and inspired for writing! 
+	<tr>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_02.jpg" style="width:500px;height:380px;"><b></b><center><b>After learning more about animals in the Stellar Unit ‘Amazing Friends’, P5 students fed some goats at Hay Dairy Farm and gained insights to modern farming in Singapore. </b></center></td>
+</tr>
+		<tr>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_03.jpg" style="width:500px;height:380px;"><b></b><center><b>P2 students began the year with a learning journey to Science Centre to learn more about insects, closely related to what they learnt in the Stellar Unit ‘A Butterfly is Born’.</b></center></td>
+</tr>
+	</tbody></table>
+	
 
 <table>
 	<tbody><tr>
@@ -131,40 +141,38 @@ We invite authors to our school to share their passion for writing and their sto
 #### **EL Week - Book Character Day**
    
 
-EL Week is an annual school event in St Margaret’s School (Primary) planned by the English Language Department for our students and teachers. Activities during the week aim to promote a love for English Language, and to celebrate creativity in the use of the medium through enriched experiences beyond the textbooks.
+EL Week is an annual school event in St Margaret’s School (Primary) planned by the English Language Department for our students and teachers. Activities during the week aim to promote a love for the English language and celebrate creativity in its use through enriched experiences beyond the textbooks.
 
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:350px;height:380px;"><b></b><center><b>Extended recess play featuring a myriad of English language related  games.<br>Thankful for our Parent Support that manned the booths!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_01.jpg" style="width:500px;height:400px;"><b></b><center><b>P2s and P5s sharing stories during English Week, an authentic opportunity for students to communicate and collaborate meaningfully.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:400px;height:380px;"><b></b><center><b>Our students got into the characters in the books and presented with poise<br>and confidence to their peers!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_02.jpg" style="width:300px;height:380px;"><b></b><center><b>A Big Bad Wolf, with a full tummy for sure!    </b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:400px;height:380px;"><b></b><center><b>Class time set aside for the students to collaborate and have fun <br>through English language related games!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_03.jpg" style="width:500px;height:400px;"><b></b><center><b>Not one but four Mrs Wishy Washies!!!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:600px;height:380px;"><b></b><center><b>An interactive story-telling session conducted by our Vice Principal Mrs See!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_04.jpg" style="width:400px;height:380px;"><b></b><center><b>Three Blind Mice and the Farmer’s Wife also came to the school!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:400px;height:380px;"><b></b><center><b>Our Vice Principal Mrs Tan shared with our student the story of<br>James and the Giant Peach. </b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_05.jpg" style="width:400px;height:380px;"><b></b><center><b>Dancing to learn Tenses at one of the booths during recess play!</b></center></td>
+</tr>
+	<tr>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_06.jpg" style="width:500px;height:400px;"><b></b><center><b>Students fully immersed in the story told by our Vice Principal (Admin) Ms Tan!</b></center></td>
 </tr>
 	</tbody></table>
 
 #### **Read for Books**
 
-Read for Books is a charity book drive organised by NLB and we are proud to support this meaningful movement as a whole school.
+Read for Books is a yearly charity book drive organised by NLB and we are proud to support this meaningful movement as a whole school.
 
 Let us continue to nurture the love for reading among our girls! Remember, reading is not just a pastime; it’s a lifelong habit that enriches our lives in countless ways.
 
-![](/images/Announcement/Read_for_Books_2023_Certificate.jpg)<center><b>School have received a token of appreciation from the NLB (National Library Board) for our participation in Read for Books 2023!</b>
+![](/images/Department/EL%20Department/el_read_2026.jpg)<center><b>The school participated in the meaningful Read for Books activity on 30 July 2025. </b>
 
-We would like to extend a special appreciation to the students and teachers of STAR who went above and beyond by providing emcees and having students dress up as book characters to read on stage. Your creative contributions added a unique and engaging dimension to the event.
-
-![](/images/Read%20for%20Books%202023/readforbooks01.jpg)
-
-![](/images/Read%20for%20Books%202023/readforbooks02.jpg)
 
   <table>
 	<tbody><tr>
@@ -229,4 +237,4 @@ Bronze ⚜️ 16 winners
     <td class="tg-ktyi"> 1 student from 6 Integrity won 1st place<br> 1 student from 5 Integrity won 3rd place <br></td>
   </tr>
 </tbody>
-	</table></center>
+</table></center>
