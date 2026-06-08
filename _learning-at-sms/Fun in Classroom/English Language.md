@@ -64,6 +64,26 @@ To encourage a love for reading in the girls:
 	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_03.jpg" style="width:480px;height:400px;"><b></b><center><b>Staying connected with the world through <br>reading the newspapers.</b></center></td>
 </tr>
 	</tbody></table>
+	
+	
+#### **3. Learning Journeys**
+
+Learning journeys immerse students in real-world contexts where English becomes a natural communication tool through authentic interactions, meaningful inquiry, and purposeful documentation of experiences.
+	
+<table>
+<tbody>
+<tr>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>P4 students visited the Presidential Library at Plaza Singapura that was hosted by National Library Board (NLB).
+</b></center></td>
+</tr>
+	<tr>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>After learning more about animals in the Stellar Unit ‘Amazing Friends’, P5 students fed some goats at Hay Dairy Farm and gained insights to modern farming in Singapore. </b></center></td>
+</tr>
+		<tr>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>P2 students began the year with a learning journey to Science Centre to learn more about insects, closely related to what they learnt in the Stellar Unit ‘A Butterfly is Born’.</b></center></td>
+</tr>
+	</tbody></table>
+	
 
 <table>
 	<tbody><tr>
