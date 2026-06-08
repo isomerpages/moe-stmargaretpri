@@ -29,7 +29,7 @@ third_nav_title: Our People
   </tr>
 			<tr style="border: 1px solid #000; padding: 8px;">
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Corporate Support Officer (CSO)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Satwant Kaur</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Arstiah Sulaiman</td>
   </tr>
 </tbody></table>
 
@@ -51,15 +51,15 @@ third_nav_title: Our People
   </tr>
 		<tr style="border: 1px solid #000; padding: 8px;">
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Support Officer (OSO)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mr Lee Siong Kit</td>
-  </tr>
-		<tr style="border: 1px solid #000; padding: 8px;">
-        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Support Officer (OSO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Mr Johar Bin Jaffar</td>
   </tr>
 		<tr style="border: 1px solid #000; padding: 8px;">
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Support Officer (OSO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Mdm Mya Win</td>
+  </tr>
+				<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Support Officer (OSO)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Jesslyn Choo Kuan Hong</td>
   </tr>
 </tbody></table> 
 
@@ -81,10 +81,6 @@ third_nav_title: Our People
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Nur Fadhilah Binte Loakman</td>
-  </tr>
-		  <tr style="border: 1px solid #000; padding: 8px;">
-    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Ms Siti Aishah Binte Suhaimi</td>
   </tr>
 				  <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
