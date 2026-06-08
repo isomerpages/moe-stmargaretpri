@@ -75,7 +75,7 @@ Learning journeys immerse students in real-world contexts where English becomes 
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_01.jpg" style="width:400px;height:380px;"><b></b><center><b>P4 students visited the Presidential Library at Plaza Singapura that was hosted by National Library Board (NLB).
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_01.jpg" style="width:400px;height:380px;"><b></b><center><b>P4 students visited the Presidential Library at Plaza Singapura that was hosted by<br>National Library Board (NLB).
 </b></center></td>
 </tr>
 	<tr>
