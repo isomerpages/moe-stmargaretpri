@@ -17,23 +17,21 @@ variant: markdown
 
 #### **Vision**
 
-English Rocks@SMS(P)!
-
-Creating a vibrant atmosphere for the teaching and learning of the English Language.
+English Reimagined
 
 #### **Goals**
 
-* Engagement in class
+**Students:** Become confident, digitally literate communicators who think critically, inquire creatively, and express themselves empathetically across various platforms and contexts.
 
-* Experiences in authentic learning
+**Teachers:** Develop expertise in dynamic teaching and learning whilst serving as exemplary English language role models who inspire and guide students through innovative, authentic learning experiences.
 
-* Exposure to competitions and challenges&nbsp;
+**Parents:** Partner with the school to support their children's English language development, understanding how technology enhances learning and reinforcing quality language use at home.
 
   
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
-     Programmes
+     Learning Experiences
  </font></th>
 </tr>
 	<tr>
@@ -42,12 +40,16 @@ Creating a vibrant atmosphere for the teaching and learning of the English Langu
 
 #### **1\. Let’s have TEA! (Theatre Exposure and Appreciation)**
 
-*  Students get to attend at least 1 theatrical performance throughout their journey with us at SMS(P).
+*  Students attend at least 1 theatrical performance throughout their journey with us at SMS(P).
 
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>Our P1 students interacted with the actress after the performance.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>Our P4 girls caught Charlotte’s Web presented by Singapore Repertory Theatre (SRT).
+</b></center></td>
+</tr>
+	<tr>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>A mini-theatre programme was put together by our in-house actress, Ms George.</b></center></td>
 </tr>
 	</tbody></table>
  
