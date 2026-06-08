@@ -88,16 +88,6 @@ Learning journeys immerse students in real-world contexts where English becomes 
 <table>
 	<tbody><tr>
 		<th><font size="6" color="maroon">
-   Author's Talk
- </font></th>
-</tr>
-</tbody></table>
-
-We invite authors to our school to share their passion for writing and their stories with our students. This way, we get our students excited about reading and inspired for writing! 
-
-<table>
-	<tbody><tr>
-		<th><font size="6" color="maroon">
    Media Resource Library (MRL)
  </font>
 </th></tr>
@@ -150,24 +140,27 @@ We invite authors to our school to share their passion for writing and their sto
 #### **EL Week - Book Character Day**
    
 
-EL Week is an annual school event in St Margaret’s School (Primary) planned by the English Language Department for our students and teachers. Activities during the week aim to promote a love for English Language, and to celebrate creativity in the use of the medium through enriched experiences beyond the textbooks.
+EL Week is an annual school event in St Margaret’s School (Primary) planned by the English Language Department for our students and teachers. Activities during the week aim to promote a love for the English language and celebrate creativity in its use through enriched experiences beyond the textbooks.
 
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:350px;height:380px;"><b></b><center><b>Extended recess play featuring a myriad of English language related  games.<br>Thankful for our Parent Support that manned the booths!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_04.jpg" style="width:350px;height:380px;"><b></b><center><b>P2s and P5s sharing stories during English Week, an authentic opportunity for students to communicate and collaborate meaningfully.</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:400px;height:380px;"><b></b><center><b>Our students got into the characters in the books and presented with poise<br>and confidence to their peers!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_05.jpg" style="width:400px;height:380px;"><b></b><center><b>A Big Bad Wolf, with a full tummy for sure!    </b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:400px;height:380px;"><b></b><center><b>Class time set aside for the students to collaborate and have fun <br>through English language related games!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_06.jpg" style="width:400px;height:380px;"><b></b><center><b>Not one but four Mrs Wishy Washies!!!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:600px;height:380px;"><b></b><center><b>An interactive story-telling session conducted by our Vice Principal Mrs See!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_07.jpg" style="width:600px;height:380px;"><b></b><center><b>Three Blind Mice and the Farmer’s Wife also came to the school!</b></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:400px;height:380px;"><b></b><center><b>Our Vice Principal Mrs Tan shared with our student the story of<br>James and the Giant Peach. </b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:400px;height:380px;"><b></b><center><b>Dancing to learn Tenses at one of the booths during recess play!</b></center></td>
+</tr>
+	<tr>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_08.jpg" style="width:400px;height:380px;"><b></b><center><b>Students fully immersed in the story told by our Vice Principal (Admin) Ms Tan!</b></center></td>
 </tr>
 	</tbody></table>
 
