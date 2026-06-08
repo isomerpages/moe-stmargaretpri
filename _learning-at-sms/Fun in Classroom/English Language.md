@@ -57,6 +57,7 @@ English Reimagined
 
 To encourage a love for reading in the girls:
 
+![](/images/Department/EL%20Department/erp2026.jpg)
 
 <table>
 <tbody>
@@ -74,14 +75,14 @@ Learning journeys immerse students in real-world contexts where English becomes 
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>P4 students visited the Presidential Library at Plaza Singapura that was hosted by National Library Board (NLB).
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_01.jpg" style="width:400px;height:380px;"><b></b><center><b>P4 students visited the Presidential Library at Plaza Singapura that was hosted by National Library Board (NLB).
 </b></center></td>
 </tr>
 	<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>After learning more about animals in the Stellar Unit ‘Amazing Friends’, P5 students fed some goats at Hay Dairy Farm and gained insights to modern farming in Singapore. </b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_02.jpg" style="width:400px;height:380px;"><b></b><center><b>After learning more about animals in the Stellar Unit ‘Amazing Friends’, P5 students fed some goats at Hay Dairy Farm and gained insights to modern farming in Singapore. </b></center></td>
 </tr>
 		<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_01.jpg" style="width:400px;height:380px;"><b></b><center><b>P2 students began the year with a learning journey to Science Centre to learn more about insects, closely related to what they learnt in the Stellar Unit ‘A Butterfly is Born’.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_03.jpg" style="width:400px;height:380px;"><b></b><center><b>P2 students began the year with a learning journey to Science Centre to learn more about insects, closely related to what they learnt in the Stellar Unit ‘A Butterfly is Born’.</b></center></td>
 </tr>
 	</tbody></table>
 	
