@@ -226,25 +226,17 @@ The celebrations extended beyond the classroom during recess, where students par
 
 The highlight of the celebration was a vibrant concert featuring interactive games and a lively fashion show, where students showcased festive outfits and joined in the celebratory atmosphere. Through these shared experiences, students came together to celebrate Chinese New Year in a meaningful and joyful way, strengthening their appreciation of cultural traditions.
 
-Students preparing for Snap game
-
-Teachers and Students joining the dance
-
-Fashion Parade
-
-Dance by P3 students
-
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/p3_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students preparing for Snap game</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Students_preparing_for_Snap_game.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students preparing for Snap game</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/3d_cards.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Teachers and Students joining the dance</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Teachers_and_Students_joining_the_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Teachers and Students joining the dance</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/mattar_mrt.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Fashion Parade</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Fashion_Parade.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Fashion Parade</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/cny_gifts.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Dance by P3 students</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dance_by_P3_students.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Dance by P3 students</b></font></center>
 </td>
 </tr>
 </tbody></table>
