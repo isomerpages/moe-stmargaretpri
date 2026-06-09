@@ -42,8 +42,6 @@ English Reimagined
 
 Students attend at least 1 theatrical performance throughout their journey with us at SMS(P).
 	
-	<center><font size="3">
-	
 <table>
 <tbody>
 <tr>
@@ -239,4 +237,4 @@ Bronze ⚜️ 16 winners
     <td class="tg-ktyi"> 1 student from 6 Integrity won 1st place<br> 1 student from 5 Integrity won 3rd place <br></td>
   </tr>
 </tbody>
-</table></font></font></center>
+</table></font>
