@@ -168,15 +168,15 @@ Through these meaningful experiences, students not only acquired knowledge but a
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/recess_activity.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Recess Activity : Spice Exploration</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/recess_activity.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Guessing the spices through the sense of touch</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/indian_drum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning to play the Indian drum</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/indian_drum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Murukku Making</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/bunga_rampai.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Bunga Rampai (Mixture of flowers) activity</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/bunga_rampai.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Playing Congkak</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/design_kites.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Designing traditional kites</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/design_kites.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Learning Kompang</b></font></center>
 </td>
 </tr>
 </tbody></table>
