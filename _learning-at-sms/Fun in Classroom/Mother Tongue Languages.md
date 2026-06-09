@@ -142,15 +142,15 @@ The celebration continued in the school hall with a meaningful performance that 
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya exhibition in the school library</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students sharing about the festival</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student ambassadors explaining about the Malay culture</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Completing activities on iPad</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/students_participation.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in interactive exhibition<br>using iPads</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/students_participation.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Looking at the exhibits</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya performance in the Hall</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Enjoying the assembly together</b></font></center>
 </td>
 </tr>
 </tbody></table>
