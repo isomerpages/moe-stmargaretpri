@@ -75,7 +75,7 @@ Our Primary 5 students served as buddies to the visiting students, supporting th
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Principal_of_Wenhua_Elementary.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Principal of Wenhua Elementary looking at Hari Raya Exhibition</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Principal_of_Wenhua_Elementary.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Principal of Wenhua Elementary looking at<br>Hari Raya Exhibition</b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/Introducing_themselves_to_each_other.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Introducing themselves to each other</b></font></center>
 </td>
@@ -83,7 +83,7 @@ Our Primary 5 students served as buddies to the visiting students, supporting th
 	<tr>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/Students_playing_games_in_class.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Students playing games in class</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Wenhua_Elementary_students_introducing_the_area_around_their_school.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Wenhua Elementary students introducing the area around their school</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Wenhua_Elementary_students_introducing_the_area_around_their_school.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Wenhua Elementary students introducing the area<br>around their school</b></font></center>
 </td>
 </tr>
 </tbody></table>
