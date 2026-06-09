@@ -74,6 +74,10 @@ Our school welcomed students and teachers from Taipei Municipal Wenhua Elementar
 
 Our Primary 5 students served as buddies to the visiting students, supporting them in lessons and Co-Curricular Activities. Through these shared experiences, students built new friendships, practised communication skills, and gained a deeper appreciation of cultural diversity. The programme also enabled our students to step forward as confident ambassadors of the school, sharing aspects of our culture, values, and learning environment with their overseas peers.
 
+
+
+
+
 <table>
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_away_with_Umbrellas.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Principal of Wenhua Elementary looking at Hari Raya Exhibition</b></font></center>
