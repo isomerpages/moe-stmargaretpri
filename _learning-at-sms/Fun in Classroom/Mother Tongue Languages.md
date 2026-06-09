@@ -157,11 +157,14 @@ The celebration continued in the school hall with a meaningful performance that 
 
 #### **6) Mother Tongue Language Fortnight**
 
-During MT Fortnight, students learnt about how cultures and values are tied in together. For example, P6 students learnt about a historical figure and engaged in a hands-on activity to design their own kite. They not only learnt about the importance of perseverance but also had the opportunity to demonstrate their creativity.
+During Mother Tongue Fortnight, students explored how culture and values are closely intertwined through a range of engaging and hands-on learning experiences across different levels.
 
-Additionally, students also delved into the fascinating world of spices, exploring the diverse array of flavors and aromas used in different cultures. Utilizing their five senses, they embarked on a sensory journey to discover the unique characteristics of various spices. This immersive approach encouraged students to appreciate the richness of cultural diversity.
+Students were immersed in cultural enrichment activities that deepened their appreciation of traditions across different communities. Primary 2 students were introduced to the kompang, experiencing its rhythms and learning about its role in Malay cultural celebrations. Primary 3 students explored the agal villakku, the traditional Indian oil lamp, gaining insights into its cultural and religious significance. Primary 4 students engaged in bamboo slip making, discovering how traditional writing materials were used in the past.
 
-Through these activities, students not only gained valuable knowledge but also developed a greater appreciation for the values and different cultures that shape our world.
+During recess, upper primary students took on the role of station masters, facilitating various activity stations for their peers and lower primary students. They shared and demonstrated traditional cultural activities across Malay, Tamil, and Chinese communities, creating meaningful opportunities for interaction, peer learning, and cultural appreciation.
+Through these meaningful experiences, students not only acquired knowledge but also developed a greater appreciation of the values, traditions, and cultural diversity that shape our world.
+
+
 
 <table>
 <tbody><tr>
