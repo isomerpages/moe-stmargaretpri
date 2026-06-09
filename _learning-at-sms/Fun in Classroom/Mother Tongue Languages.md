@@ -184,11 +184,9 @@ Through these meaningful experiences, students not only acquired knowledge but a
 
 We are delighted to announce that two of our girls have been appointed as Rakan Bahasa (Malay Language Ambassadors) for 2026. They will represent our school in this prestigious role.
 
-
-
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Rakan_Bahasa_2025.jpg" alt="volunteer recess ministry pv" style="width:400px;height:550px;"><b>Two of our girls have been appointed as Rakan Bahasa 2026</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/7__Rakan_Bahasa.jpg" alt="volunteer recess ministry pv" style="width:400px;height:550px;"><b>Two of our girls have been appointed as Rakan Bahasa 2026</b></font></center>
 </td></tr>
 </tbody></table>
 
