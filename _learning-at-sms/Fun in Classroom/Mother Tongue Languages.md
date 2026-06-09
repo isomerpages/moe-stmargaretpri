@@ -169,13 +169,13 @@ Through these meaningful experiences, students not only acquired knowledge but a
 <tbody><tr>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/Guessing_the_spices_through_the_sense_of_touch.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Guessing the spices through the sense of touch</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Murukku_Making.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Murukku Making</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Murukku_Making.jpg" alt="volunteer recess ministry pv" style="width:350px;height:500px;"><b>Murukku Making</b></font></center>
 </td>
 </tr>
 	<tr>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/Playing_Congkak.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Playing Congkak</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Learning_Kompang.jpg" alt="volunteer recess ministry pv" style="width:300px;height:300px;"><b>Learning Kompang</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Learning_Kompang.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning Kompang</b></font></center>
 </td>
 </tr>
 </tbody></table>
