@@ -220,21 +220,31 @@ Both experiences sparked curiosity and expanded horizons, enriching their educat
 
 #### **9) Chinese New Year Celebrations**
 
-Amidst the festive spirit, the school welcomed Chinese New Year, commencing celebrations with recess activities, including engaging iPad games and lively card-matching challenges. The day's highlight unfolded in a vibrant concert, where students joyously sang and danced to the lively tunes of Chinese New Year songs. As the festivities peaked, students concluded the day with Chinese New Year decorations and craft hands-on activities.
+The school came alive with festive cheer as Chinese New Year was celebrated through a series of engaging and meaningful learning experiences across all levels. In the classrooms, Primary 1 and 2 students created their own “Snap” card games featuring the 12 Chinese zodiac animals, while Primary 3 and 4 students designed festive red packets showcasing their creativity. Primary 5 and 6 students took on a more intricate craft, creating horse origami that reflected patience and precision.
 
-In alignment with our school theme, "A Heart of Thanksgiving to Love and Serve," a group of P5 students embraced the role of gratitude ambassadors. Venturing beyond the school walls, they generously gifted oranges and Chinese New Year cards to our neighbours. Public bus drivers who serve the bus-stops outside SMS(P), were also surprised to receive tokens of appreciation from teachers. Their joy was evident as they accepted these thoughtful gifts. The act of extending warm wishes for the festive season left a lasting impact not only within the school community, but also with the school's partners. This heartwarming gesture strengthened the bond between the school and its extended community, fostering a spirit of appreciation and goodwill.
+The celebrations extended beyond the classroom during recess, where students participated in interactive iPad games and hands-on festive activities, immersing themselves in the joy of the occasion.
+
+The highlight of the celebration was a vibrant concert featuring interactive games and a lively fashion show, where students showcased festive outfits and joined in the celebratory atmosphere. Through these shared experiences, students came together to celebrate Chinese New Year in a meaningful and joyful way, strengthening their appreciation of cultural traditions.
+
+Students preparing for Snap game
+
+Teachers and Students joining the dance
+
+Fashion Parade
+
+Dance by P3 students
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/p3_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Performance by the P3 students</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/p3_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students preparing for Snap game</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/3d_cards.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students crafted own CNY 3D cards</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/3d_cards.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Teachers and Students joining the dance</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/mattar_mrt.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students wishing Mattar MRT staff Happy CNY</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/mattar_mrt.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Fashion Parade</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/cny_gifts.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students presenting CNY gifts to our neighbours!</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/cny_gifts.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Dance by P3 students</b></font></center>
 </td>
 </tr>
 </tbody></table>
