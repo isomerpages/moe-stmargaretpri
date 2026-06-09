@@ -182,7 +182,9 @@ Through these meaningful experiences, students not only acquired knowledge but a
 
 #### **7) Rakan Bahasa**
 
-We are delighted to announce that two of our girls have been appointed as Rakan Bahasa (Malay Language Ambassadors) for 2025. They will represent our school in this prestigious role.
+We are delighted to announce that two of our girls have been appointed as Rakan Bahasa (Malay Language Ambassadors) for 2026. They will represent our school in this prestigious role.
+
+
 
 <table>
 <tbody><tr>
