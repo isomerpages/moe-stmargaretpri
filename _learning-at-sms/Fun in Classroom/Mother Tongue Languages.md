@@ -123,9 +123,9 @@ This immersive experience sparked curiosity and deepened students’ appreciatio
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Show_is_starting_soon_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Ready to watch performance in the theatre</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Learning_about_CL_theatre_show_and_phrases.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning about CL theatre show and phrases</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Being_part_of_the_flames.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in the theatre activities</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Students_participating_in_the_theatre_activities.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in the theatre activities</b></font></center>
 </td>
 </tr>
 </tbody></table>
