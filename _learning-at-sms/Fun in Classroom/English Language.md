@@ -45,7 +45,7 @@ Students attend at least 1 theatrical performance throughout their journey with 
 <table>
 <tbody>
 <tr>
-		<td><center><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:500px;height:350px;"><b></b><center><font size="3"><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).</b></font></center></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:500px;height:350px;"><b></b><center><font size="3"><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).</b></font></center></td>
 	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_02.jpg" style="width:500px;height:350px;"><b></b><center><font size="3"><b>A mini-theatre programme was put together<br>by our in-house actress, Ms George.</b></font></center></td>
 </tr>
 	</tbody></table>
