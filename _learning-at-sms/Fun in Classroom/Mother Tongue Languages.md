@@ -47,42 +47,43 @@ On 3 September, students from SMS(S) shared with us with their self-created MTL 
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__1_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__1_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__2_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__2_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__3_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__3_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__4_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__4_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
 </tr>
 <tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__6_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__6_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__5_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__5_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
 </tr>
 </tbody></table>
 
 
+#### **2) Overseas Exchange Programme with Taipei Municipal Wenhua Elementary School**
 
-#### **2) P4 Level Camp**
+Our school welcomed students and teachers from Taipei Municipal Wenhua Elementary School on 7 and 8 April 2026 for a meaningful overseas exchange programme. This visit provided enriching opportunities for students from both schools to engage in cross-cultural interaction, broaden their perspectives, and develop global awareness in an authentic school setting.
 
-The P4 level camp integrates Physical Education (focusing on skill-related fitness components such as coordination, balance, varying speed, pace, power, and agility) with Mother Tongue lessons by introducing students to various traditional ethnic dances. The approach enhances cultural learning and physical fitness simultaneously, as we value diverse ethnic cultures through their traditional dances. Students learn about the artistic expressions of different cultural aspects, including various dance moves, music, and props used in each dance. Each culture has its unique artistic traditions that reflect its rich heritage and values.
+Our Primary 5 students served as buddies to the visiting students, supporting them in lessons and Co-Curricular Activities. Through these shared experiences, students built new friendships, practised communication skills, and gained a deeper appreciation of cultural diversity. The programme also enabled our students to step forward as confident ambassadors of the school, sharing aspects of our culture, values, and learning environment with their overseas peers.
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_away_with_Umbrellas.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Dancing away with umbrellas</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Principal_of_Wenhua_Elementary.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Principal of Wenhua Elementary looking at<br>Hari Raya Exhibition</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_gracefully.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Instructor demonstrating<br>some dance moves</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Introducing_themselves_to_each_other.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Introducing themselves to each other</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/How_much_do_you_know_about_Chinese_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Learning about the types of<br>traditional dances</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Students_playing_games_in_class.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Students playing games in class</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Jumping with joy</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Wenhua_Elementary_students_introducing_the_area_around_their_school.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Wenhua Elementary students introducing the area<br>around their school</b></font></center>
 </td>
 </tr>
 </tbody></table>
@@ -113,32 +114,42 @@ SMS (P) students also visited Hong Wen School. They were engaged in a variety of
 
 #### **4) P4 CL Learning Journey to Singapore Hokkien Huay Kuan Arts &amp; Cultural Troupe**
 
-The Primary 4 CL students embarked on a learning journey to the theatre under the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划). This scheme aims to expose students to Chinese language-related cultural performances by local and foreign performing arts groups. The students watched a performance on one of the famous scenarios in the story of “Journey to the west”.  It was an enriching and engaging learning journey for the students as the performance was customised to include aspects of local culture. 
+
+Our Primary 4 Chinese Language students had the opportunity to experience a live cultural performance as part of the Cultural Performance Exposure Scheme (CPES), an initiative designed to bring Chinese language learning to life through exposure to performances by local and international arts groups.
+
+Students watched a lively stage adaptation of Journey to the West. Through engaging storytelling, vibrant staging, and interactive elements, the performance brought this classic tale to life in an accessible and captivating way.
+
+This immersive experience sparked curiosity and deepened students’ appreciation of Chinese performing arts, allowing them to connect traditional literature with meaningful cultural learning in an enjoyable and memorable way.
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Show_is_starting_soon_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Ready to watch performance in the theatre</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Learning_about_CL_theatre_show_and_phrases.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning about CL theatre show and phrases</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Being_part_of_the_flames.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in the theatre activities</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Students_participating_in_the_theatre_activities.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in the theatre activities</b></font></center>
 </td>
 </tr>
 </tbody></table>
 
 #### **5) Hari Raya Celebrations**
 
-The 2024 Hari Raya celebration began with a stunning exhibition in the school library, featuring beautiful pop-up displays loaned from the Malay Heritage Centre. These exhibitions provided students with an opportunity to learn more about the Hari Raya celebration in Singapore. Malay Language students from P3 to P6 played a crucial role as Malay Language Culture Ambassadors, explaining Malay culture and the significance of Hari Raya to their peers. Additionally, students interacted with the exhibits through interactive questions on iPads. The Hari Raya celebration in the school hall featured a skit titled "Awakening Traditions". Students learnt about the cultural and religious significance of Hari Raya. 
+In celebration of Hari Raya, the school organised a series of enriching learning experiences designed to deepen students’ understanding of the festival and its significance in Singapore’s multicultural context.
+
+The school library was transformed with an engaging exhibition featuring pop-up displays on loan from the Malay Heritage Centre. Students explored the displays and responded to interactive iPad-based questions, allowing them to discover key aspects of Hari Raya in an active and engaging manner. This hands-on experience encouraged curiosity and personal reflection on cultural traditions.
+
+The celebration continued in the school hall with a meaningful performance that illustrated the importance of Hari Raya. Through the storyline and enactment, students gained insights into the values and practices associated with the festival, bringing their learning to life in an impactful and memorable way.
+
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya exhibition in the school library</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Students_sharing_about_the_festival.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students sharing about the festival</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Student ambassadors explaining about the Malay culture</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Completing_activities_on_iPad.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Completing activities on iPad</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/students_participation.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students participating in interactive exhibition<br>using iPads</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Looking_at_the_exhibits.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Looking at the exhibits</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Hari Raya performance in the Hall</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Enjoying_the_assembly_together.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Enjoying the assembly together</b></font></center>
 </td>
 </tr>
 </tbody></table>
@@ -146,34 +157,36 @@ The 2024 Hari Raya celebration began with a stunning exhibition in the school li
 
 #### **6) Mother Tongue Language Fortnight**
 
-During MT Fortnight, students learnt about how cultures and values are tied in together. For example, P6 students learnt about a historical figure and engaged in a hands-on activity to design their own kite. They not only learnt about the importance of perseverance but also had the opportunity to demonstrate their creativity.
+During Mother Tongue Fortnight, students explored how culture and values are closely intertwined through a range of engaging and hands-on learning experiences across different levels.
 
-Additionally, students also delved into the fascinating world of spices, exploring the diverse array of flavors and aromas used in different cultures. Utilizing their five senses, they embarked on a sensory journey to discover the unique characteristics of various spices. This immersive approach encouraged students to appreciate the richness of cultural diversity.
+Students were immersed in cultural enrichment activities that deepened their appreciation of traditions across different communities. Primary 2 students were introduced to the kompang, experiencing its rhythms and learning about its role in Malay cultural celebrations. Primary 3 students explored the agal villakku, the traditional Indian oil lamp, gaining insights into its cultural and religious significance. Primary 4 students engaged in bamboo slip making, discovering how traditional writing materials were used in the past.
 
-Through these activities, students not only gained valuable knowledge but also developed a greater appreciation for the values and different cultures that shape our world.
+During recess, upper primary students took on the role of station masters, facilitating various activity stations for their peers and lower primary students. They shared and demonstrated traditional cultural activities across Malay, Tamil, and Chinese communities, creating meaningful opportunities for interaction, peer learning, and cultural appreciation.
+Through these meaningful experiences, students not only acquired knowledge but also developed a greater appreciation of the values, traditions, and cultural diversity that shape our world.
+
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/recess_activity.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Recess Activity : Spice Exploration</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Guessing_the_spices_through_the_sense_of_touch.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Guessing the spices through the sense of touch</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/indian_drum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning to play the Indian drum</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Murukku_Making.jpg" alt="volunteer recess ministry pv" style="width:350px;height:450px;"><b>Murukku Making</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/bunga_rampai.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Bunga Rampai (Mixture of flowers) activity</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Playing_Congkak.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Playing Congkak</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/design_kites.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Designing traditional kites</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Learning_Kompang.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Learning Kompang</b></font></center>
 </td>
 </tr>
 </tbody></table>
 
 #### **7) Rakan Bahasa**
 
-We are delighted to announce that two of our girls have been appointed as Rakan Bahasa (Malay Language Ambassadors) for 2025. They will represent our school in this prestigious role.
+We are delighted to announce that two of our girls have been appointed as Rakan Bahasa (Malay Language Ambassadors) for 2026. They will represent our school in this prestigious role.
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Rakan_Bahasa_2025.jpg" alt="volunteer recess ministry pv" style="width:400px;height:550px;"><b>Two of our girls have been appointed as Rakan Bahasa 2025</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/7__Rakan_Bahasa.jpg" alt="volunteer recess ministry pv" style="width:400px;height:550px;"><b>Two of our girls have been appointed as Rakan Bahasa 2026</b></font></center>
 </td></tr>
 </tbody></table>
 
@@ -190,36 +203,38 @@ Both experiences sparked curiosity and expanded horizons, enriching their educat
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/walk_at_museum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P3 and P4 HCL students taking a walk around<br>the museum</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Observing_the_old_houses_in_the_past.jpg" alt="volunteer recess ministry pv" style="width:400px;height:500px;"><b>Observing the old houses in the past</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/opera_costume.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>P3 and P4 HCL students trying out<br>Chinese Opera Costumes</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Going_on_live_at_FM100_3.jpg" alt="volunteer recess ministry pv" style="width:400px;height:400px;"><b>Going on live at FM100.3</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/watch_live.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P5 HCL students watching a live radio broadcast</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Watching_the_interactive_exhibitions.jpg" alt="volunteer recess ministry pv" style="width:400px;height:500px;"><b>Watching the interactive exhibitions</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/p5_hcl.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P5 HCL students’ learning journey at SPH</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/A_glimpse_into_the_small_living_spaces_of_the_past.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>A glimpse into the small living spaces of the past</b></font></center>
 </td>
 </tr>
 </tbody></table>
 
 #### **9) Chinese New Year Celebrations**
 
-Amidst the festive spirit, the school welcomed Chinese New Year, commencing celebrations with recess activities, including engaging iPad games and lively card-matching challenges. The day's highlight unfolded in a vibrant concert, where students joyously sang and danced to the lively tunes of Chinese New Year songs. As the festivities peaked, students concluded the day with Chinese New Year decorations and craft hands-on activities.
+The school came alive with festive cheer as Chinese New Year was celebrated through a series of engaging and meaningful learning experiences across all levels. In the classrooms, Primary 1 and 2 students created their own “Snap” card games featuring the 12 Chinese zodiac animals, while Primary 3 and 4 students designed festive red packets showcasing their creativity. Primary 5 and 6 students took on a more intricate craft, creating horse origami that reflected patience and precision.
 
-In alignment with our school theme, "A Heart of Thanksgiving to Love and Serve," a group of P5 students embraced the role of gratitude ambassadors. Venturing beyond the school walls, they generously gifted oranges and Chinese New Year cards to our neighbours. Public bus drivers who serve the bus-stops outside SMS(P), were also surprised to receive tokens of appreciation from teachers. Their joy was evident as they accepted these thoughtful gifts. The act of extending warm wishes for the festive season left a lasting impact not only within the school community, but also with the school's partners. This heartwarming gesture strengthened the bond between the school and its extended community, fostering a spirit of appreciation and goodwill.
+The celebrations extended beyond the classroom during recess, where students participated in interactive iPad games and hands-on festive activities, immersing themselves in the joy of the occasion.
+
+The highlight of the celebration was a vibrant concert featuring interactive games and a lively fashion show, where students showcased festive outfits and joined in the celebratory atmosphere. Through these shared experiences, students came together to celebrate Chinese New Year in a meaningful and joyful way, strengthening their appreciation of cultural traditions.
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/p3_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Performance by the P3 students</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Students_preparing_for_Snap_game.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students preparing for Snap game</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/3d_cards.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students crafted own CNY 3D cards</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Teachers_and_Students_joining_the_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Teachers and Students joining the dance</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/mattar_mrt.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students wishing Mattar MRT staff Happy CNY</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Fashion_Parade.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Fashion Parade</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/cny_gifts.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students presenting CNY gifts to our neighbours!</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dance_by_P3_students.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Dance by P3 students</b></font></center>
 </td>
 </tr>
 </tbody></table>

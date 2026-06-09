@@ -40,13 +40,13 @@ English Reimagined
 
 #### **1\. Let’s have TEA! (Theatre Exposure and Appreciation)**
 
-*  Students attend at least 1 theatrical performance throughout their journey with us at SMS(P).
+Students attend at least 1 theatrical performance throughout their journey with us at SMS(P).
 	
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:500px;height:350px;"><b></b><center><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).</b></center></td>
-	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_02.jpg" style="width:500px;height:350px;"><b></b><center><b>A mini-theatre programme was put together<br>by our in-house actress, Ms George.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:500px;height:350px;"><b></b><center><font size="3"><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).</b></font></center></td>
+	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_02.jpg" style="width:500px;height:350px;"><b></b><center><font size="3"><b>A mini-theatre programme was put together<br>by our in-house actress, Ms George.</b></font></center></td>
 </tr>
 	</tbody></table>
 	
@@ -61,8 +61,8 @@ To encourage a love for reading in the girls:
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_02.jpg" style="width:340px;height:400px;"><b></b><center><b>Eager readers waiting to borrow <br>their books!</b></center></td>
-	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_03.jpg" style="width:480px;height:400px;"><b></b><center><b>Staying connected with the world through <br>reading the newspapers.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_02.jpg" style="width:340px;height:400px;"><b></b><center><font size="3"><b>Eager readers waiting to borrow <br>their books!</b></font></center></td>
+	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_2025_03.jpg" style="width:480px;height:400px;"><b></b><center><font size="3"><b>Staying connected with the world through <br>reading the newspapers.</b></font></center></td>
 </tr>
 	</tbody></table>
 	
@@ -74,14 +74,14 @@ Learning journeys immerse students in real-world contexts where English becomes 
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_01.jpg" style="width:500px;height:380px;"><b></b><center><b>P4 students visited the Presidential Library at Plaza Singapura that was hosted by<br>National Library Board (NLB).
-</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_01.jpg" style="width:500px;height:380px;"><b></b><center><font size="3"><b>P4 students visited the Presidential Library at Plaza Singapura that was hosted by<br>National Library Board (NLB).
+</b></font></center></td>
 </tr>
 	<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_02.jpg" style="width:500px;height:380px;"><b></b><center><b>After learning more about animals in the Stellar Unit ‘Amazing Friends’, P5 students fed some goats at Hay Dairy Farm and gained insights to modern farming in Singapore. </b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_02.jpg" style="width:500px;height:380px;"><b></b><center><font size="3"><b>After learning more about animals in the Stellar Unit ‘Amazing Friends’, P5 students fed some goats at Hay Dairy Farm and gained insights to modern farming in Singapore. </b></font></center></td>
 </tr>
 		<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_03.jpg" style="width:500px;height:380px;"><b></b><center><b>P2 students began the year with a learning journey to Science Centre to learn more about insects, closely related to what they learnt in the Stellar Unit ‘A Butterfly is Born’.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_lj_2026_03.jpg" style="width:500px;height:380px;"><b></b><center><font size="3"><b>P2 students began the year with a learning journey to Science Centre to learn more about insects, closely related to what they learnt in the Stellar Unit ‘A Butterfly is Born’.</b></font></center></td>
 </tr>
 	</tbody></table>
 	
@@ -146,22 +146,22 @@ EL Week is an annual school event in St Margaret’s School (Primary) planned by
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_01.jpg" style="width:500px;height:400px;"><b></b><center><b>P2s and P5s sharing stories during English Week, an authentic opportunity for students to communicate and collaborate meaningfully.</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_01.jpg" style="width:500px;height:400px;"><b></b><center><font size="3"><b>P2s and P5s sharing stories during English Week, an authentic opportunity for students to communicate and collaborate meaningfully.</b></font></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_02.jpg" style="width:300px;height:380px;"><b></b><center><b>A Big Bad Wolf, with a full tummy for sure!    </b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_02.jpg" style="width:300px;height:380px;"><b></b><center><font size="3"><b>A Big Bad Wolf, with a full tummy for sure!    </b></font></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_03.jpg" style="width:500px;height:400px;"><b></b><center><b>Not one but four Mrs Wishy Washies!!!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_03.jpg" style="width:500px;height:400px;"><b></b><center><font size="3"><b>Not one but four Mrs Wishy Washies!!!</b></font></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_04.jpg" style="width:400px;height:380px;"><b></b><center><b>Three Blind Mice and the Farmer’s Wife also came to the school!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_04.jpg" style="width:400px;height:380px;"><b></b><center><font size="3"><b>Three Blind Mice and the Farmer’s Wife also came to the school!</b></font></center></td>
 </tr>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_05.jpg" style="width:400px;height:380px;"><b></b><center><b>Dancing to learn Tenses at one of the booths during recess play!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_05.jpg" style="width:400px;height:380px;"><b></b><center><font size="3"><b>Dancing to learn Tenses at one of the booths during recess play!</b></font></center></td>
 </tr>
 	<tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_06.jpg" style="width:500px;height:400px;"><b></b><center><b>Students fully immersed in the story told by our Vice Principal (Admin) Ms Tan!</b></center></td>
+		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_elweek_2026_06.jpg" style="width:500px;height:400px;"><b></b><center><font size="3"><b>Students fully immersed in the story told by our Vice Principal (Admin) Ms Tan!</b></font></center></td>
 </tr>
 	</tbody></table>
 
@@ -171,7 +171,7 @@ Read for Books is a yearly charity book drive organised by NLB and we are proud 
 
 Let us continue to nurture the love for reading among our girls! Remember, reading is not just a pastime; it’s a lifelong habit that enriches our lives in countless ways.
 
-![](/images/Department/EL%20Department/el_read_2026.jpg)<center><b>The school participated in the meaningful Read for Books activity on 30 July 2025. </b>
+![](/images/Department/EL%20Department/el_read_2026.jpg)<center><b><font size="3">The school participated in the meaningful Read for Books activity on 30 July 2025. </font></b></center><font size="3">
 
 
   <table>
@@ -237,4 +237,4 @@ Bronze ⚜️ 16 winners
     <td class="tg-ktyi"> 1 student from 6 Integrity won 1st place<br> 1 student from 5 Integrity won 3rd place <br></td>
   </tr>
 </tbody>
-</table></center>
+</table></font>
