@@ -114,7 +114,12 @@ SMS (P) students also visited Hong Wen School. They were engaged in a variety of
 
 #### **4) P4 CL Learning Journey to Singapore Hokkien Huay Kuan Arts &amp; Cultural Troupe**
 
-The Primary 4 CL students embarked on a learning journey to the theatre under the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划). This scheme aims to expose students to Chinese language-related cultural performances by local and foreign performing arts groups. The students watched a performance on one of the famous scenarios in the story of “Journey to the west”.  It was an enriching and engaging learning journey for the students as the performance was customised to include aspects of local culture. 
+
+Our Primary 4 Chinese Language students had the opportunity to experience a live cultural performance as part of the Cultural Performance Exposure Scheme (CPES), an initiative designed to bring Chinese language learning to life through exposure to performances by local and international arts groups.
+
+Students watched a lively stage adaptation of Journey to the West. Through engaging storytelling, vibrant staging, and interactive elements, the performance brought this classic tale to life in an accessible and captivating way.
+
+This immersive experience sparked curiosity and deepened students’ appreciation of Chinese performing arts, allowing them to connect traditional literature with meaningful cultural learning in an enjoyable and memorable way.
 
 <table>
 <tbody><tr>
