@@ -139,18 +139,17 @@ The school library was transformed with an engaging exhibition featuring pop-up 
 The celebration continued in the school hall with a meaningful performance that illustrated the importance of Hari Raya. Through the storyline and enactment, students gained insights into the values and practices associated with the festival, bringing their learning to life in an impactful and memorable way.
 
 
-
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_exhibition.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students sharing about the festival</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Students_sharing_about_the_festival.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Students sharing about the festival</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/student_embassador.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Completing activities on iPad</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Completing_activities_on_iPad.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Completing activities on iPad</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/students_participation.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Looking at the exhibits</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Looking_at_the_exhibits.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Looking at the exhibits</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/hari_raya_performance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Enjoying the assembly together</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Enjoying_the_assembly_together.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Enjoying the assembly together</b></font></center>
 </td>
 </tr>
 </tbody></table>
