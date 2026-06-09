@@ -47,7 +47,7 @@ On 3 September, students from SMS(S) shared with us with their self-created MTL 
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__1_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="5"><img src="/images/Department/MT%20Language/ReadingPrg__1_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
 <td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__2_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
