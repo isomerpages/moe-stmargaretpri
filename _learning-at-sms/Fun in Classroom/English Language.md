@@ -40,12 +40,14 @@ English Reimagined
 
 #### **1\. Let’s have TEA! (Theatre Exposure and Appreciation)**
 
-*  Students attend at least 1 theatrical performance throughout their journey with us at SMS(P).
+Students attend at least 1 theatrical performance throughout their journey with us at SMS(P).
+	
+	<center><font size="5">
 	
 <table>
 <tbody>
 <tr>
-		<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:500px;height:350px;"><b></b><center><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).</b></center></td>
+		<td><center><font size="4"><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_01.jpg" style="width:500px;height:350px;"><b></b><center><b>Our P4 girls caught Charlotte’s Web presented by<br>Singapore Repertory Theatre (SRT).</b></center></font></center></td>
 	<td><img alt="modsports03" src="/images/Department/EL%20Department/el_tea_2026_02.jpg" style="width:500px;height:350px;"><b></b><center><b>A mini-theatre programme was put together<br>by our in-house actress, Ms George.</b></center></td>
 </tr>
 	</tbody></table>
@@ -237,4 +239,4 @@ Bronze ⚜️ 16 winners
     <td class="tg-ktyi"> 1 student from 6 Integrity won 1st place<br> 1 student from 5 Integrity won 3rd place <br></td>
   </tr>
 </tbody>
-</table>
+</table></font></center>
