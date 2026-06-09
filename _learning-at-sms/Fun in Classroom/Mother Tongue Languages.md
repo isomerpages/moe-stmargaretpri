@@ -132,7 +132,13 @@ This immersive experience sparked curiosity and deepened students’ appreciatio
 
 #### **5) Hari Raya Celebrations**
 
-The 2024 Hari Raya celebration began with a stunning exhibition in the school library, featuring beautiful pop-up displays loaned from the Malay Heritage Centre. These exhibitions provided students with an opportunity to learn more about the Hari Raya celebration in Singapore. Malay Language students from P3 to P6 played a crucial role as Malay Language Culture Ambassadors, explaining Malay culture and the significance of Hari Raya to their peers. Additionally, students interacted with the exhibits through interactive questions on iPads. The Hari Raya celebration in the school hall featured a skit titled "Awakening Traditions". Students learnt about the cultural and religious significance of Hari Raya. 
+In celebration of Hari Raya, the school organised a series of enriching learning experiences designed to deepen students’ understanding of the festival and its significance in Singapore’s multicultural context.
+
+The school library was transformed with an engaging exhibition featuring pop-up displays on loan from the Malay Heritage Centre. Students explored the displays and responded to interactive iPad-based questions, allowing them to discover key aspects of Hari Raya in an active and engaging manner. This hands-on experience encouraged curiosity and personal reflection on cultural traditions.
+
+The celebration continued in the school hall with a meaningful performance that illustrated the importance of Hari Raya. Through the storyline and enactment, students gained insights into the values and practices associated with the festival, bringing their learning to life in an impactful and memorable way.
+
+
 
 <table>
 <tbody><tr>
