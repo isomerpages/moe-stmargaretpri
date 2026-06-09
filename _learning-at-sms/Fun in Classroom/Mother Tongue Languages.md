@@ -68,21 +68,23 @@ On 3 September, students from SMS(S) shared with us with their self-created MTL 
 
 
 
-#### **2) P4 Level Camp**
+#### **2) Overseas Exchange Programme with Taipei Municipal Wenhua Elementary School**
 
-The P4 level camp integrates Physical Education (focusing on skill-related fitness components such as coordination, balance, varying speed, pace, power, and agility) with Mother Tongue lessons by introducing students to various traditional ethnic dances. The approach enhances cultural learning and physical fitness simultaneously, as we value diverse ethnic cultures through their traditional dances. Students learn about the artistic expressions of different cultural aspects, including various dance moves, music, and props used in each dance. Each culture has its unique artistic traditions that reflect its rich heritage and values.
+Our school welcomed students and teachers from Taipei Municipal Wenhua Elementary School on 7 and 8 April 2026 for a meaningful overseas exchange programme. This visit provided enriching opportunities for students from both schools to engage in cross-cultural interaction, broaden their perspectives, and develop global awareness in an authentic school setting.
+
+Our Primary 5 students served as buddies to the visiting students, supporting them in lessons and Co-Curricular Activities. Through these shared experiences, students built new friendships, practised communication skills, and gained a deeper appreciation of cultural diversity. The programme also enabled our students to step forward as confident ambassadors of the school, sharing aspects of our culture, values, and learning environment with their overseas peers.
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_away_with_Umbrellas.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Dancing away with umbrellas</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_away_with_Umbrellas.jpg" alt="volunteer recess ministry pv" style="width:400px;height:250px;"><b>Principal of Wenhua Elementary looking at Hari Raya Exhibition</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_gracefully.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Instructor demonstrating<br>some dance moves</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Dancing_gracefully.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Introducing themselves to each other</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/How_much_do_you_know_about_Chinese_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Learning about the types of<br>traditional dances</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/How_much_do_you_know_about_Chinese_dance.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Students playing games in class</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Jumping with joy</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/Jumping_with_joy.jpg" alt="volunteer recess ministry pv" style="width:400px;height:480px;"><b>Wenhua Elementary students introducing the area around their school</b></font></center>
 </td>
 </tr>
 </tbody></table>
