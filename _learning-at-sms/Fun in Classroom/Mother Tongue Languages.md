@@ -47,21 +47,21 @@ On 3 September, students from SMS(S) shared with us with their self-created MTL 
 
 <table>
 <tbody><tr>
-<td><center><font size="5"><img src="/images/Department/MT%20Language/ReadingPrg__1_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__1_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__2_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__2_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__3_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__3_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__4_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__4_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
 </tr>
 <tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__6_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__6_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/ReadingPrg__5_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/ReadingPrg__5_.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b></b></font></center>
 </td>
 </tr>
 </tbody></table>
@@ -75,9 +75,9 @@ Our Primary 5 students served as buddies to the visiting students, supporting th
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Principal_of_Wenhua_Elementary.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Principal of Wenhua Elementary looking at<br>Hari Raya Exhibition</b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/Principal_of_Wenhua_Elementary.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Principal of Wenhua Elementary looking at<br>Hari Raya Exhibition</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/Introducing_themselves_to_each_other.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Introducing themselves to each other</b></font></center>
+<td><center><font size="4"><img src="/images/Department/MT%20Language/Introducing_themselves_to_each_other.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Introducing themselves to each other</b></font></center>
 </td>
 </tr>
 	<tr>
