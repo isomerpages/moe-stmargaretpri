@@ -205,15 +205,15 @@ Both experiences sparked curiosity and expanded horizons, enriching their educat
 
 <table>
 <tbody><tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/walk_at_museum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P3 and P4 HCL students taking a walk around<br>the museum</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/walk_at_museum.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Observing the old houses in the past</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/opera_costume.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>P3 and P4 HCL students trying out<br>Chinese Opera Costumes</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/opera_costume.jpg" alt="volunteer recess ministry pv" style="width:300px;height:350px;"><b>Going on live at FM100.3</b></font></center>
 </td>
 </tr>
 	<tr>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/watch_live.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P5 HCL students watching a live radio broadcast</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/watch_live.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>Watching the interactive exhibitions</b></font></center>
 </td>
-<td><center><font size="3"><img src="/images/Department/MT%20Language/p5_hcl.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>P5 HCL students’ learning journey at SPH</b></font></center>
+<td><center><font size="3"><img src="/images/Department/MT%20Language/p5_hcl.jpg" alt="volunteer recess ministry pv" style="width:400px;height:300px;"><b>A glimpse into the small living spaces of the past</b></font></center>
 </td>
 </tr>
 </tbody></table>
