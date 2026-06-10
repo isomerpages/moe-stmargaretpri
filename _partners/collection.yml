@@ -1,0 +1,9 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Anglican Schools.md
+      - Chaplaincy Contacts.md
+      - Parent Teacher Association (Parent Support).md
+      - St Margaret's Ex Students Association.md
+      - Parent Support Activities.md

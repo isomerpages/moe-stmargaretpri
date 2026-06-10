@@ -1,0 +1,12 @@
+logo: /images/smss_logo.gif
+links:
+  - title: About Us
+    collection: about-us
+  - title: School Information
+    collection: school-information
+  - title: Learning @SMS(P)
+    collection: learning-at-sms
+  - title: Achievements
+    collection: achievements
+  - title: Partners
+    collection: partners
