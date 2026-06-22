@@ -13,7 +13,7 @@ variant: markdown
 	<td><b>Time</b></td>
 	<td><b>Venue</b></td>
 	<td><b>Teachers-In-Charge</b></td>
-	<td><b>Pupils Involved</b></td>
+	<td><b>Students Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Mondays &amp; Wednesdays </td>
@@ -26,7 +26,7 @@ variant: markdown
 
 ### Introduction
 
-Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from P3 - P6 taking part in this sport.  
+Bowling in St. Margaret's School (Primary) started in 2003. We have students from P3 - P6 taking part in this sport.  
   
 
 ### Objectives
