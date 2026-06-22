@@ -25,11 +25,11 @@ variant: markdown
 ### Introduction
 ___________________________________________________________
 
-The Modular Sports CCA provides students with a chance to improve their athletic abilities and refine their skills in sports movement and manipulation, focusing on football this year.
+The Modular Sports CCA provides students with an opportunity to develop their athletic abilities and enhance their skills in sports movement and manipulation, with a focus on floorball this year.
 
-Through these recreational sports sessions, students not only acquire physical skills and theoretical understanding but also actively engage in team-based activities. They delve into fundamental football techniques like mastering athletic stances and footwork while gaining insight into the game's rules and dynamics.
+Through these engaging recreational sessions, students gain both practical skills and a foundational understanding of the sport while actively participating in team-based activities. They explore essential floorball techniques such as proper grip, stick handling, passing, shooting, and positioning, while also learning the rules and flow of the game.
 
-Alongside refining their athletic skills, students learn school values through both individual and collective efforts, emphasizing sportsmanship. The program aims to instill a lasting enthusiasm for sports participation in students' lives.
+In addition to building their physical competencies, students embody school values through individual responsibility and teamwork, with a strong emphasis on sportsmanship and fair play. The program aims to nurture a lifelong interest in sports and encourage active, healthy lifestyles among students.
 
 ### Objectives  
 __________________________________________________________
