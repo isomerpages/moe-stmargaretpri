@@ -4,7 +4,7 @@ permalink: /school-information/school-highlights/p1-orientation-2026/
 variant: markdown
 description: ""
 ---
-### **P1 Orientation 2026**
+### **P1 Orientation &amp; Big Sister Programme 2026**
 
 ##### 2 Jan 2026
 
