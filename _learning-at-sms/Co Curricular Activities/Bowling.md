@@ -53,7 +53,7 @@ P3 students learning bowling for the first time</b></font></center></td>
 		<img style="width:300px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Learning_from_the_coach.jpg"><b>
 Learning from the coach</b></font>
 </center></td>
-		<td><center><font size="3"><img style="width:500px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Staying_united_before_the_competition.jpg"><b>Staying united before the competition </b></font></center></td></tr>
+		<td><center><font size="3"><img style="width:300px;height:500px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Staying_united_before_the_competition.jpg"><b>Staying united before the competition </b></font></center></td></tr>
 </tbody></table>
 
 
