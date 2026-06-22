@@ -26,6 +26,11 @@ These are the activities that the students participated for holistic learning.
 <table>
 	<tbody>
 							<tr>
+<td><a href="/school-information/school-highlights/p1-orientation-2026/"><img src="/images/Thumbnails/thumbp12026.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p3-tea-2026/"><img src="/images/Thumbnails/thumbp3tea2026.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+	<td><a href="/school-information/school-highlights/international-friendship-day-2026/"><img src="/images/Thumbnails/thumbifd2026.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
+</tr>
+							<tr>
 <td><a href="/school-information/school-highlights/p3-learning-journey-to-geylang-serai/"><img src="/images/Thumbnails/thumbp3ljgeylangserai2026.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
 			<td><a href="/school-information/school-highlights/p5-camp-2026/"><img src="/images/Thumbnails/thumbp5camp2026.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/p6-science-learning-journey-to-sungei-buloh/"><img src="/images/Thumbnails/thumbp6ljsungeibuloh2026.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
