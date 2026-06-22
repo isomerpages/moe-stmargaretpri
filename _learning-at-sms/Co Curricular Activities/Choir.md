@@ -105,8 +105,13 @@ ___________________________________________________________
   </tr>
 </thead>
 <tbody>
+		<tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2026</span></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation</td>
+    <td class="tg-ktyi">Distinction</td>
+  </tr>
 	<tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2023</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2024</span></td>
     <td class="tg-ktyi">Singapore Youth Festival Arts Presentation</td>
     <td class="tg-ktyi">Accomplishment</td>
   </tr>
