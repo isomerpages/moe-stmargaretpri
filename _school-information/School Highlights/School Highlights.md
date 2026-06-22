@@ -10,7 +10,6 @@ variant: markdown
 These are the activities that the students participated for holistic learning.
 
 
-
 1. #### To Learn and Grow : 
 * ##### [Term 1 Montage 2026](/school-highlights/to-learn-and-grow/) <font size="3" color="red"> (NEW) </font>
 * ##### [Term 4 Montage 2025](/school-highlights/to-learn-and-grow/) <font size="3" color="red"></font>
