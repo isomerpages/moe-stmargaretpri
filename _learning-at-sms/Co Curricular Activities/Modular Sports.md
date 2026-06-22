@@ -47,11 +47,11 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/CCAs/Modular%20Sports/Agility_skills.jpg" style="width:300px;height:380px;"><b></b><center><b>Individual agility and dribbling drills to improve ball control</b></center></td></tr>
+		<td><img alt="modsports01" src="/images/CCAs/Modular%20Sports/Practising_the_passing_drill.jpg" style="width:300px;height:380px;"><b></b><center><b>Practising the passing drill</b></center></td></tr>
 	<tr>
-		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/Teamwork.jpg" style="width:500px;height:340px;"><b></b><center><b>Working together to achieve success in a team game</b></center></td>
+		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/Cheering_on_our_peers_as_they_compete_in_The_Last_Girl_Standing_game_.jpg" style="width:500px;height:340px;"><b></b><center><b>Practising left-right dribbling skills  🏑</b></center></td>
 </tr>
 		<tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Tenacity.jpg" style="width:300px;height:380px;"><b></b><center><b>Displaying school values like tenacity during a <br>modified football game</b></center></td>
+		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Practising_left_right_dribble.jpg" style="width:300px;height:380px;"><b></b><center><b>Cheering on our peers as they compete in<br> The Last Girl Standing game 💪</b></center></td>
 </tr>
 	</tbody></table>
