@@ -41,7 +41,7 @@ Bowling in St. Margaret's School (Primary) started in 2003. We have students fro
 ### Activities Outline
 
 
-1.	Students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train with the school team in preparation for the National School Games (NSG) Bowling Championship.
+Students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train with the school team in preparation for the National School Games (NSG) Bowling Championship.
 
 <table><tbody>
 	<tr><td><center><font size="3">
@@ -50,19 +50,17 @@ P3 students learning bowling for the first time</b></font></center></td>
 		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Practise Makes Perfect!</b></font>
 </center></td></tr>
 	<tr><td><center><font size="3">
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Try_my_Best.jpg"><b>
+		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Learning_from_the_coach.jpg"><b>
 Learning from the coach</b></font>
 </center></td>
-		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Go_Go_Go.jpg"><b>Staying united before the competition </b></font></center></td></tr>
+		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Staying_united_before_the_competition.jpg"><b>Staying united before the competition </b></font></center></td></tr>
 </tbody></table>
-
-
 
 
 ### Target
 
-1.	To emerge as the Top 4 in the National School Games (NSG) Bowling Championship  for both Junior and Senior Division.
-Highlights &amp; Achievements
+To emerge as the Top 4 in the National School Games (NSG) Bowling Championship  for both Junior and Senior Division.
+
 
 ### Highlights &amp; Achievements
 
