@@ -52,6 +52,6 @@ ___________________________________________________________
 		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/Cheering_on_our_peers_as_they_compete_in_The_Last_Girl_Standing_game_.jpg" style="width:500px;height:340px;"><b></b><center><b>Practising left-right dribbling skills  🏑</b></center></td>
 </tr>
 		<tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Practising_left_right_dribble.jpg" style="width:300px;height:380px;"><b></b><center><b>Cheering on our peers as they compete in<br> The Last Girl Standing game 💪</b></center></td>
+		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Practising_left_right_dribble.jpg" style="width:380px;height:300px;"><b></b><center><b>Cheering on our peers as they compete in<br> The Last Girl Standing game 💪</b></center></td>
 </tr>
 	</tbody></table>
