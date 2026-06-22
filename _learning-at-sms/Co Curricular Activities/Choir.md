@@ -62,7 +62,7 @@ They are exposed to a wide repertoire of songs. Interpretation of songs is also 
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/SYF_journey.jpg">Reflecting on their SYF journey</font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:500px;height:400px; alt=" src="/images/CCAs/Choir/choir_rehearsal_2026.jpg">Rehearsing before a Performance </font></p></th>
 </tr>
 </tbody></table>
 
@@ -75,7 +75,7 @@ __________________________________________________________
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2024_01.jpg"></font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/SYF_Arts_Presentation_2026.jpg">SYF Arts Presentation 2026 </font></p></th>
 </tr>
 	 <tr><td>
 	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/Spotlight_2024_02.jpg">Spotlight 2024</font></p></th>
