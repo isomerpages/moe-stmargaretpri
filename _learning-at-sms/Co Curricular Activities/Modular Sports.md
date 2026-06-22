@@ -36,7 +36,6 @@ __________________________________________________________
 
 <font size="4">
 1. To provide opportunities for students to develop their skills and appreciation for Floorball, while discovering their sporting strengths and passion.</font>
-<br><br>
 <font size="4">
 2. To nurture girls of character through Floorball, anchored on the values of Life-long Learning, Integrity, Graciousness, Humility and Tenacity (LIGHT).
 </font>
@@ -47,11 +46,11 @@ ___________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/CCAs/Modular%20Sports/Practising_the_passing_drill.jpg" style="width:300px;height:380px;"><b></b><center><b>Practising the passing drill</b></center></td></tr>
+		<td><img alt="modsports01" src="/images/CCAs/Modular%20Sports/Practising_the_passing_drill.jpg" style="width:350px;height:380px;"><b></b><center><font size="3"><b>Practising the passing drill</b></font></center></td></tr>
 	<tr>
-		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/Cheering_on_our_peers_as_they_compete_in_The_Last_Girl_Standing_game_.jpg" style="width:500px;height:340px;"><b></b><center><b>Practising left-right dribbling skills  🏑</b></center></td>
+		<td><img alt="modsports02" src="/images/CCAs/Modular%20Sports/Cheering_on_our_peers_as_they_compete_in_The_Last_Girl_Standing_game_.jpg" style="width:500px;height:340px;"><b></b><center><font size="3"><b>Practising left-right dribbling skills  🏑</b></font></center></td>
 </tr>
 		<tr>
-		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Practising_left_right_dribble.jpg" style="width:380px;height:300px;"><b></b><center><b>Cheering on our peers as they compete in<br> The Last Girl Standing game 💪</b></center></td>
+		<td><img alt="modsports03" src="/images/CCAs/Modular%20Sports/Practising_left_right_dribble.jpg" style="width:380px;height:300px;"><b></b><center><font size="3"><b>Cheering on our peers as they compete in<br> The Last Girl Standing game 💪</b></font></center></td>
 </tr>
 	</tbody></table>
