@@ -61,7 +61,7 @@ They are exposed to a wide repertoire of songs. Interpretation of songs is also 
 
 <p></p><table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:500px;height:400px; alt=" src="/images/CCAs/Choir/choir_rehearsal_2026.jpg">Rehearsing before a Performance </font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:600px;height:400px; alt=" src="/images/CCAs/Choir/choir_rehearsal_2026.jpg">Rehearsing before a Performance </font></p></th>
 </tr>
 </tbody></table>
 
