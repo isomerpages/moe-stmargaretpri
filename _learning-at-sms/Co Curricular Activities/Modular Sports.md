@@ -34,10 +34,12 @@ In addition to building their physical competencies, students embody school valu
 ### Objectives  
 __________________________________________________________
 
-1.&nbsp;To provide opportunities for students to discover their sporting strength and passion.
-
-2.&nbsp;To nurture girls of the character anchored on the values of&nbsp;**L**ife-long learner,&nbsp;**I**ntegrity,&nbsp;**G**raciousness,&nbsp;**H**umility and&nbsp;**T**enacity (LIGHT)
-
+<font size="4">
+1. To provide opportunities for students to develop their skills and appreciation for Floorball, while discovering their sporting strengths and passion.</font>
+<br><br>
+<font size="4">
+2. To nurture girls of character through Floorball, anchored on the values of Life-long Learning, Integrity, Graciousness, Humility and Tenacity (LIGHT).
+</font>
   
 
 ### Students in Action
