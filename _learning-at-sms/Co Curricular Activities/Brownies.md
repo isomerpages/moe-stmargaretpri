@@ -16,7 +16,7 @@ variant: markdown
 	<td><b>Pupils Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Mondays </td>
+		<td>Wednesdays</td>
 		<td>2 - 4 pm</td>
 	<td>5 CH<br>5 GR<br>5 HU classrooms </td>
 	<td>Mdm Ngoh Moon Geok(OIC)<br>Ms Ng Xing Hwee<br>Ms Shiem Shan Shan<br>Ms Jiang Yanni</td>
