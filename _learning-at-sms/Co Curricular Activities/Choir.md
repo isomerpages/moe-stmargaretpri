@@ -32,11 +32,10 @@ In the choir, members sing as a group and learn to blend with one another. As a 
 
 <table>
  <tbody><tr><td>
-	 </td><th><p style="text-align:center"><font size="3"><img style="width:300px;height:300px; alt=" src="/images/CCAs/Choir/choir_masterclass_01.jpg"></font></p></th>
-	 <td></td><th><p style="text-align:center"><font size="3"><img style="width:300px;height:300px; alt=" src="/images/CCAs/Choir/choir_masterclass_02.jpg"></font></p></th>
+	 </td><th><p style="text-align:center"><font size="3"><img style="width:500px;height:300px; alt=" src="/images/CCAs/Choir/choir_masterclass_01.jpg"></font></p></th>
+	 <td></td><th><p style="text-align:center"><font size="3"><img style="width:500px;height:300px; alt=" src="/images/CCAs/Choir/choir_masterclass_02.jpg"></font></p></th>
 </tr>
 </tbody></table>
-
 <center><font size="3"><b>Attended a Combined Masterclass under Ms Lauren Van Kempen <br>in 2025</b></font></center>
 
 #### Objectives
