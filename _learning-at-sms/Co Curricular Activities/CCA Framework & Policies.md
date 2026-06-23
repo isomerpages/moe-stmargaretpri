@@ -92,7 +92,7 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/bowling/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Bowling</span></a></td>
     <td class="tg-7yig"><span style="color:#000;background-color:#FFF">Mondays </span><br><span style="color:#000;background-color:#FFF">&amp; Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Mr Eddie Chong</span><br><span style="color:#000;background-color:#FFF">Mdm Abigail Inbam Henry<br>Mr Low Yong Ming</span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Low Pei Lin*</span><br><span style="color:#000;background-color:#FFF">Mr Eddie Chong</span><br><span style="color:#000;background-color:#FFF">Mdm Abigail Inbam Henry</span><br></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Out of school</span><br></td>
   </tr>
   <tr>
@@ -176,8 +176,8 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/girls-brigade/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Girls' Brigade</span></a><span style="color:#000;background-color:#FFF"> </span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Daphne Cheng*</span><br><span style="color:#000;background-color:#FFF">Mrs Chua Seow Wee<br><span style="color:#000;background-color:#FFF">Ms Chua Sue Ann<br>Mr Wu Shao Hai</span></span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Chapel<br>TRR</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Ms Daphne Cheng*</span><br><span style="color:#000;background-color:#FFF">Mrs Chua Seow Wee*<br><span style="color:#000;background-color:#FFF">Ms Chua Sue Ann<br>Mr Wu Shao Hai</span></span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Chapel<br>5 IN</span></td>
   </tr>
 </tbody>
 </table>

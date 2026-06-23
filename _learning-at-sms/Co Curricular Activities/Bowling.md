@@ -13,52 +13,54 @@ variant: markdown
 	<td><b>Time</b></td>
 	<td><b>Venue</b></td>
 	<td><b>Teachers-In-Charge</b></td>
-	<td><b>Pupils Involved</b></td>
+	<td><b>Students Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
 		<td>Mondays &amp; Wednesdays </td>
 		<td>1.50 pm -<br>4 pm</td>
 	<td>Out of School</td>
-	<td>Ms Low Pei Lin (OIC)<br>Mr Eddie Chong<br>Mdm Abigail Inbam Henry<br>Mr Low Yong Ming</td>
+	<td>Ms Low Pei Lin (OIC)<br>Mr Eddie Chong<br>Mdm Abigail Inbam Henry</td>
 	<td>P3 - P6</td>
 </tr>
 </tbody></table>
 
 ### Introduction
 
-Bowling in St. Margaret's School (Primary) started in 2003, we have pupils from P3 - P6 taking part in this sport.  
+Bowling in St. Margaret's School (Primary) started in 2003. We have students from P3 - P6 taking part in this sport.  
   
 
 ### Objectives
 
+1.	To introduce basic bowling techniques and skills drills. Training aims to improve grips, stance, basic 4-steps approach, release, follow-through and targeting. 
+2.	To build a competitive school bowling team capable of challenging for top honours in the National School Games (NSG) Bowling Championship.
+3.	To build leadership and sportsmanship among the bowlers.
+4.	To nurture girls of character anchored on the values of Life-long learning, Integrity, Graciousness, Humility and   Tenacity (LIGHT)
 
-1.  To introduce basic bowling techniques and skills drills so to improve the bowling, grips, stance, basic 4-steps approach, release, follow-through and targeting. Following that, is to build a competitive school bowling team capable of challenging for top honours in the Inter-School Bowling Championship.
-2.  To build leadership and sportsmanship among the bowlers.
-3.  To nurture girls of the character anchored on the values of&nbsp;**L**&nbsp;ife-long learner,&nbsp;**I**&nbsp;ntegrity,&nbsp;**G**&nbsp;raciousness,&nbsp;**H**&nbsp;umility and&nbsp; &nbsp;**T**&nbsp;enacity (LIGHT)
 
-  
 
 ### Activities Outline
 
-The students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train in the school team in preparation for the National Inter-Primary Schools Bowling Championships.
+
+Students train once or twice a week. They are taught the basic skills and rules of the game. They will be able to play the game independently and some of the members will be selected to train with the school team in preparation for the National School Games (NSG) Bowling Championship.
 
 <table><tbody>
 	<tr><td><center><font size="3">
 		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/First_Time_at_Bowling.jpg"><b>
-P3s, Trying Their First Time at Bowling!</b></font></center></td>
+P3 students learning bowling for the first time</b></font></center></td>
 		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Practise_Makes_Perfect.jpg"><b>Practise Makes Perfect!</b></font>
 </center></td></tr>
 	<tr><td><center><font size="3">
-		<img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Try_my_Best.jpg"><b>Trying my Best!</b></font>
+		<img style="width:300px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Learning_from_the_coach.jpg"><b>
+Learning from the coach</b></font>
 </center></td>
-		<td><center><font size="3"><img style="width:400px;height:300px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Go_Go_Go.jpg"><b>SMS(P) Go! Go! Go!</b></font></center></td></tr>
+		<td><center><font size="3"><img style="width:300px;height:500px;" alt="volunteer recess ministry pv" src="/images/CCAs/Bowling/Staying_united_before_the_competition.jpg"><b>Staying united before the competition </b></font></center></td></tr>
 </tbody></table>
 
 
 ### Target
 
+To emerge as the Top 4 in the National School Games (NSG) Bowling Championship  for both Junior and Senior Division.
 
-To emerge as the Top 4 in the National Primary Schools Championships for both Junior and Senior Division.
 
 ### Highlights &amp; Achievements
 
@@ -81,6 +83,22 @@ To emerge as the Top 4 in the National Primary Schools Championships for both Ju
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-f4yw"> 2026</td>
+    <td class="tg-f4yw"> Junior Division<br>
+Singles – 8th<br>
+Doubles – 1st and 2nd<br>
+Quartets – 1st and 7th<br></td>
+    <td class="tg-f4yw"> Nil</td>
+  </tr>
+		 <tr>
+    <td class="tg-f4yw"> 2025</td>
+    <td class="tg-f4yw"> Junior Division<br>
+Singles – 8th<br>
+Doubles – 2nd<br>
+Quartets – 4th<br></td>
+    <td class="tg-f4yw"> Nil</td>
+  </tr>
 	 <tr>
     <td class="tg-f4yw"> 2024</td>
     <td class="tg-f4yw"> National Junior Achievement<br></td>

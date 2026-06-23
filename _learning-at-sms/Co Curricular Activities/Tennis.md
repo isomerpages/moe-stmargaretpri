@@ -20,7 +20,7 @@ variant: markdown
 		<td>2 - 4 pm</td>
 	<td>Out of school</td>
 	<td>Mr Huang Wenshan Eric (OIC)<br>Mrs Angela Tew<br>Ms Jun Qing<br>Mdm Dinah Chan</td>
-	<td>Out of school</td>
+	<td>P3 - P5</td>
 </tr>
 </tbody></table>
 
