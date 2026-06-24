@@ -17,7 +17,7 @@ variant: markdown
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
 <td>P3 &amp; P6 Developmental Team<br><br>Junior Training Team<br>Senior Training Team</td>
-		<td>Mondays &amp; Wednesdays</td>
+		<td>Mondays &amp; <br>Wednesdays</td>
 		<td>2 - 4 pm</td>
 	<td>School Hall <br><br><br>Indoor Sports Hall</td>
 	<td>Ms Tiffany Goh (OIC)<br>Mrs Gerry Ong<br>Mdm Dinah Chan</td>
