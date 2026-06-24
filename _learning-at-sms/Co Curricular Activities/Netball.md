@@ -70,7 +70,7 @@ The Junior and Senior Training Teams train twice a week in preparation for the a
 
  <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/CCAs/Netball/Senior_Team_focused__fired_up__and_ready_to_fight_.jpg" style="width:700px;height:480px;"><b></b><center><b>Senior Team focused, fired up, and ready to fight.</b></center></td></tr>
+		<td><img alt="modsports01" src="/images/CCAs/Netball/Senior_Team_focused__fired_up__and_ready_to_fight_.jpg" style="width:700px;height:400px;"><b></b><center><b>Senior Team focused, fired up, and ready to fight.</b></center></td></tr>
 		<tr>
 	</tr></tbody></table>
 
