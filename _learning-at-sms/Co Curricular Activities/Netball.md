@@ -33,9 +33,7 @@ variant: markdown
 </tr>
 </tbody></table>
 
-
 ### Vision
-
 
 To inspire and nurture netball players to become sportswomen who shine for God through their character, teamwork and excellence.
 
