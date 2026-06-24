@@ -16,11 +16,11 @@ variant: markdown
 	<td><b>Teachers-In-Charge</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-<td>Overall-In-Charge<br>P3 &amp; P4 Developmental Team<br>P5 &amp; P6 Developmental Team<br>Junior Training Team<br>Senior Training Team</td>
+<td>P3 &amp; P6 Developmental Team<br><br>Junior Training Team<br>Senior Training Team</td>
 		<td>Mondays &amp; Wednesdays</td>
 		<td>2 - 4 pm</td>
-	<td>School Hall / Indoor Sports Hall</td>
-	<td>Mdm Madeline Koo (OIC)<br>Ms Tiffany Goh (2IC) (P3 &amp; P6 developmental team)<br>Mrs Gerry Ong (P5 &amp; P6 development)<br>(P5 &amp; P6 school training team)<br>Mdm Dinah Chan</td>
+	<td>School Hall <br><br><br>Indoor Sports Hall</td>
+	<td>Ms Tiffany Goh (OIC)<br>Mrs Gerry Ong<br>Mdm Dinah Chan</td>
 </tr>
 </tbody></table>
 
