@@ -16,7 +16,7 @@ variant: markdown
 	<td><b>Students Involved</b></td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:18px">
-		<td>Mondays &amp; Wednesdays </td>
+		<td>Mondays &amp; <br>Wednesdays </td>
 		<td>1.50 pm -<br>4 pm</td>
 	<td>Out of School</td>
 	<td>Ms Low Pei Lin (OIC)<br>Mr Eddie Chong<br>Mdm Abigail Inbam Henry</td>
