@@ -96,20 +96,18 @@ The aim of the Primary 3 modular programme is to expose students to the breadth 
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Out of school</span><br></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (School Team)</span></td>
-    <td class="tg-dgl5"><br><span style="color:#000;background-color:#FFF">Mondays &amp; Wednesdays </span><br><br></td>
-    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000">Mdm Madeline Koo*</span><br><span style="font-weight:400;color:#000">Ms Tiffany Goh*<br>(P3 and P6 developmental team)</span><br><span style="font-weight:400;color:#000">Mrs Gerry Ong<br>(P5 and P6 development)<br>(P5 and P6 school training team)<br>Mdm Dinah Chan</span></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P3 – P6 Developmental Team)</span></td>
+    <td class="tg-dgl5"><br><span style="color:#000;background-color:#FFF">Mondays</span><br><br></td>
+    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;color:#000"><span style="font-weight:400;color:#000">Ms Tiffany Goh*</span><br><span style="font-weight:400;color:#000">Mrs Gerry Ong<br>Mdm Dinah Chan</span></span></td>
     <td class="tg-zr06"><span style="color:#000;background-color:#FFF">School Hall</span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P5/P6) Developmental</span></td>
+    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF">(Junior &amp; 
+Senior Training Team)</span></td>
     <td class="tg-f4yw"><span style="color:#000;background-color:#FFF">Mondays &amp; Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">School Hall </span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Indoor Sports Hall </span></td>
   </tr>
   <tr>
-    <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/netball/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Netball</span></a><span style="color:#000;background-color:#FFF"> (P3/P4) Developmental</span></td>
-    <td class="tg-f4yw"><span style="color:#000;background-color:#FFF"> Mondays &amp; Wednesdays </span></td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">ISH </span></td>
   </tr>
   <tr>
     <td class="tg-7fhq"><a href="/learning-at-sms/co-curricular-activities/tennis/"><span style="font-weight:500;text-decoration:underline;color:#2A5629">Tennis</span></a></td>
