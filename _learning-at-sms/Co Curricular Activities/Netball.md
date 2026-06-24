@@ -39,70 +39,50 @@ variant: markdown
 ### Vision
 
 
-To nurture netball players who will eventually become sportswomen to shine for the God.  
+To inspire and nurture netball players to become sportswomen who shine for God through their character, teamwork and excellence.
 
   
 
 ### Mission
 
-Every Netball Player, An Active Thinker and Problem-Solver
+
+To empower every netball player to be an active thinker, confident problem-solver and committed team player.
 
 <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/CCAs/Netball/Senior_Team.jpg" style="width:730px;height:550px;"><b></b><center><b>Our Senior team at the Singapore Sports School after the prize-presentation</b></center></td></tr>
-	<tr>
-		<td><img alt="modsports02" src="/images/CCAs/Netball/Warming_up_before_the_game.jpg" style="width:600px;height:400px;"><b></b><center><b>Warming up before the game</b></center></td>
-</tr>
+		<td><img alt="modsports01" src="/images/CCAs/Netball/Senior_Team.jpg" style="width:730px;height:550px;"><b></b><center><b>Bittersweet smiles as the Senior Team closed their final game <br>at CHIJ OLN with grit, heart and a valiant fight.
+</b></center></td></tr>
 		<tr>
 	</tr></tbody></table>
 
 ### Objectives
 
 
-*   To encourage and promote the game of netball through the teaching of skills and concepts in netball
-*   To instill discipline and develop each player to her fullest potential in netball
-*   To nurture players of character anchored on the values of Life-long learner, Integrity, Graciousness, Humility and Tenacity (LIGHT)
+
+* To promote the game of netball by equipping pupils with the necessary skills, knowledge and understanding of the game. 
+* To instill discipline and develop each player to her fullest potential. 
+* To nurture players of character who are anchored in the school values of Life-long Learning, Integrity, Graciousness, Humility and Tenacity (LIGHT).
 
   
-
-### Targets
-
-
-#### 1. Junior &amp; Senior Training TEAMS:
-
-*   To achieve Top 4 in the South Zone Primary Schools Netball Championships for both Junior and Senior Division
-
-  
-
-#### 2. Developmental TEAMS:
-
-*   To acquire the skills, concepts and attitudes to play a game of Netball confidently
-*   To be able to play at least 2 positions recreationally
-
-  
-
 ### Activities&nbsp;
 
 
-#### &nbsp;1. Junior &amp; Senior Training TEAMs
+#### 1. Junior &amp; Senior Training Teams
 
-The junior and senior training teams train twice a week to prepare for the annual South Zone and National Primary Schools Netball Championships. The teams undergo rigorous physical training which develops competent netball skills, fine strategy planning and keen mental skills. Through the training sessions, the players' character is also strengthened with sound values aligned to our school's vision and motto.
+
+The Junior and Senior Training Teams train twice a week in preparation for the annual National Primary Schools Netball Championships. Through structured and progressive training, players develop strong netball fundamentals, tactical awareness, physical fitness and mental resilience. The training programme also provides opportunities for players to grow in discipline, teamwork and sportsmanship, while strengthening their character in alignment with the school’s vision and values.
 
   <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/South%20Zone%20NSG%20Championship%20Senior%202022%204th%20in%20Position.jpg" style="width:7800px;height:530px;"><b></b><center><b>South Zone NSG Championship (Senior) 2022 : 4th in Position</b></center></td></tr>
+		<td><img alt="modsports01" src="/images/South%20Zone%20NSG%20Championship%20Senior%202022%204th%20in%20Position.jpg" style="width:7800px;height:530px;"><b></b><center><b>Senior Team focused, fired up, and ready to fight.</b></center></td></tr>
 		<tr>
 	</tr></tbody></table>
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 768.53px; height: 452px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 264px;"><br><img src="/images/IMG6494.jpg" alt="IMG_6494 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 258px; height: 369px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 254px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/IMG6478.jpg" alt="IMG_6478 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 258px; height: 405px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 250px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img src="/images/IMG6514.jpg" alt="IMG_6514 JPEG.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 245px; height: 321px;"></td></tr></tbody></table>
 
   
+#### 2\. Developmental Teams
 
-
-#### 2\. NETBALL Developmental TEAMS
-
-The development teams train once a week. During the trainings, members are taught the concepts and rules of netball. They also fine-tune their fundamental skills and strategies through drills and modified games.
-
+The Netball Developmental Teams train once a week to build a strong foundation in the sport. During these sessions, pupils are introduced to the rules, concepts and skills of netball, and are given opportunities to refine their techniques through drills, activities and modified games. The programme aims to nurture confidence, teamwork and a love for the game in a supportive and enjoyable environment.
   
 
 ### Highlights &amp; Achievements
@@ -125,28 +105,41 @@ The development teams train once a week. During the trainings, members are taugh
   </tr>
 </thead>
 <tbody>
+			 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2026</span></td>
+    <td class="tg-ktyi">SPSSC NSG Senior Division Championships 2025, League 1</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">4th position</span></td>
+  </tr>
+			 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2025</span></td>
+    <td class="tg-ktyi">SPSSC NSG Junior Division Championships 2025</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Top 62</span></td>
+  </tr>
+		 <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2025</span></td>
+    <td class="tg-ktyi">SPSSC NSG Senior Division Championships 2025</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Top 55</span></td>
+  </tr>
 	 <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2023</span></td>
-    <td class="tg-ktyi">Junior Netball Competition 2023 Classifying Round</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Entered Tier 2</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2024</span></td>
+    <td class="tg-ktyi">SPSSC NSG Junior Division Championships 2024, Tier 2</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">1st position</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2023</span></td>
-    <td class="tg-ktyi">South Zone Primary Schools Netball Championships 2023</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">NIL</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2024</span></td>
+    <td class="tg-ktyi">SPSSC NSG Senior Division Championships 2024, League 2</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">4th position</span></td>
   </tr>
 	<tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2022</span></td>
-    <td class="tg-ktyi">South Zone Primary Schools Netball Championships 2022</td>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Senior Team - 4th position</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 2023</span></td>
+    <td class="tg-ktyi">SPSSC NSG Junior Division Championships 2023, Tier 2</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> 1st position</span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2020</span></td>
-    <td class="tg-ktyi">South Zone Netball Championships 2020<br>Nationals Netball Championships 2020</td>
-    <td class="tg-ktyi"><span style="font-weight:400;color:#000">NIL</span><br></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">2022</span></td>
+    <td class="tg-ktyi">South Zone Netball Championships 2020<br>
+SPSSC NSG South Zone Netball Championships 2022, Senior Division</td>
+    <td class="tg-ktyi"><span style="font-weight:400;color:#000">4th position</span><br></td>
 	</tr>
 </tbody>
 </table>
-
-<center>
-<iframe width="700" height="415" src="https://www.youtube.com/embed/wqqZFSwGBB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
