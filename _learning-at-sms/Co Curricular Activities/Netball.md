@@ -26,10 +26,12 @@ variant: markdown
 
 ### Introduction
 
+Netball is a popular sporting CCA in St. Margaret’s School (Primary), providing pupils with opportunities to develop their skills, teamwork and love for the game. Through training and competition, we seek to nurture players who can play confidently and competently, while embodying the school values of Life-long Learning, Integrity, Graciousness, Humility and Tenacity (LIGHT).
+
 <table>
 	<tbody>
-			<tr><td></td><th style="width: 400px;"><font size="3">Netball is a popular sporting CCA in St. Margaret’s School (Primary), providing pupils with opportunities to develop their skills, teamwork and love for the game. Through training and competition, we seek to nurture players who can play confidently and competently, while embodying the school values of Life-long Learning, Integrity, Graciousness, Humility and Tenacity (LIGHT).</font>
-		</th><td><center><font size="3"><img src="/images/CCAs/Netball/Game_faces_on__Let_s_go__Senior_Team_.jpg" alt="bacalah adikku 2022" style="width:800px;height:350px;"><b>Game faces on. Let’s go, Senior Team!</b></font></center></td>
+			<tr>
+		<td><center><font size="3"><img src="/images/CCAs/Netball/Game_faces_on__Let_s_go__Senior_Team_.jpg" alt="bacalah adikku 2022" style="width:700px;height:400px;"><b>Game faces on. Let’s go, Senior Team!</b></font></center></td>
 </tr>
 </tbody></table>
 
