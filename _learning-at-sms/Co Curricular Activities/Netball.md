@@ -48,7 +48,7 @@ To empower every netball player to be an active thinker, confident problem-solve
 
 <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/CCAs/Netball/Senior_Team.jpg" style="width:730px;height:550px;"><b></b><center><b>Bittersweet smiles as the Senior Team closed their final game <br>at CHIJ OLN with grit, heart and a valiant fight.
+		<td><img alt="modsports01" src="/images/CCAs/Netball/Bittersweet_smiles_as_the_Senior_Team.jpg" style="width:700px;height:480px;"><b></b><center><b>Bittersweet smiles as the Senior Team closed their final game <br>at CHIJ OLN with grit, heart and a valiant fight.
 </b></center></td></tr>
 		<tr>
 	</tr></tbody></table>
@@ -70,9 +70,9 @@ To empower every netball player to be an active thinker, confident problem-solve
 
 The Junior and Senior Training Teams train twice a week in preparation for the annual National Primary Schools Netball Championships. Through structured and progressive training, players develop strong netball fundamentals, tactical awareness, physical fitness and mental resilience. The training programme also provides opportunities for players to grow in discipline, teamwork and sportsmanship, while strengthening their character in alignment with the school’s vision and values.
 
-  <table>
+ <table>
 <tbody><tr>
-		<td><img alt="modsports01" src="/images/South%20Zone%20NSG%20Championship%20Senior%202022%204th%20in%20Position.jpg" style="width:7800px;height:530px;"><b></b><center><b>Senior Team focused, fired up, and ready to fight.</b></center></td></tr>
+		<td><img alt="modsports01" src="/images/CCAs/Netball/Senior_Team_focused__fired_up__and_ready_to_fight_.jpg" style="width:7000px;height:480px;"><b></b><center><b>Senior Team focused, fired up, and ready to fight.</b></center></td></tr>
 		<tr>
 	</tr></tbody></table>
 
