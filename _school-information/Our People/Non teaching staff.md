@@ -86,12 +86,21 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Chua Zi Shuang</td>
   </tr>
+		  
+			<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mrs Nathalie Wong Huili</td>
+  </tr>
 </tbody></table> 
 
 ##### **Info-Communication Technology**
 
 <table style="border-collapse: collapse; width: 70%;">
   <tbody>
+		 <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">ICT Manager</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mr Chua Soon Hua</td>
+  </tr>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">ICT Associate</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Siti Nur Hidayah</td>
