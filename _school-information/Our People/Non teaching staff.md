@@ -92,6 +92,10 @@ third_nav_title: Our People
 
 <table style="border-collapse: collapse; width: 70%;">
   <tbody>
+		 <tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">ICT Manager</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mr Chua Soon Hua</td>
+  </tr>
   <tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">ICT Associate</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Siti Nur Hidayah</td>
