@@ -14,6 +14,8 @@ variant: markdown
 </tr>
 </tbody></table>
 
+![](/images/Calendar%202026/term3_2026_01.jpg)
+![](/images/Calendar%202026/term3_2026_02.jpg)
 
 		
 <font size="3">  
