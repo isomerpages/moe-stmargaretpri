@@ -20,6 +20,7 @@ sections:
       subtitle: Join us!
       id: infopic
       alt: Image alt text
+      image: /images/SPOTLIGHT 2026/school_website_popup.jpg
   - infopic:
       title: School Highlights
       button: find out more
