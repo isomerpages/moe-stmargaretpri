@@ -16,6 +16,11 @@ sections:
           description: ""
           url: /useful-links/calendar2024/
   - infopic:
+      title: Spotlight 3.0
+      subtitle: Join us!
+      id: infopic
+      alt: Image alt text
+  - infopic:
       title: School Highlights
       button: find out more
       url: /school-information/school-highlights/permalink/
@@ -36,9 +41,4 @@ sections:
       url: /useful-links/resources-for-teachers/
       image: /images/Homepage/masterhead_for_resources_2025.jpg
       alt: masterhead for resources
-  - infopic:
-      title: Spotlight 3.0
-      subtitle: Join us!
-      id: infopic
-      alt: Image alt text
 ---
