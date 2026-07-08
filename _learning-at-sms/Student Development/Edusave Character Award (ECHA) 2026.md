@@ -1,6 +1,6 @@
 ---
-title: Edusave Character Award (ECHA) 2025
-permalink: /learning-at-sms/student-development/2025-echa-nomination/
+title: Edusave Character Award (ECHA) 2026
+permalink: /learning-at-sms/student-development/2026-echa-nomination/
 description: ""
 third_nav_title: Student Development
 variant: markdown
@@ -49,7 +49,7 @@ The objectives of the ECHA are:
 
 #### Nomination
 
-Students can be nominated by staff or parents via the link shared on Parent Gateway by <br>**1 Aug 2025**. In addition, they can be nominated by their peers (P3-6) via hardcopy in school. Incomplete forms will be rejected.
+Students can be nominated by staff or parents via the link shared on Parent Gateway by <br>**31 July 2026**. In addition, they can be nominated by their peers (P3-6) via hardcopy in school. Incomplete forms will be rejected.
 
 
 

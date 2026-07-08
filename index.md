@@ -16,6 +16,13 @@ sections:
           description: ""
           url: /useful-links/calendar2024/
   - infopic:
+      title: Spotlight 3.0
+      id: infopic
+      alt: Image alt text
+      image: /images/SPOTLIGHT 2026/school_website_popup.jpg
+      description: ✨Ignite Light, Spark Possibilities ✨    Scan the QR code to book
+        your ticket now!
+  - infopic:
       title: School Highlights
       button: find out more
       url: /school-information/school-highlights/permalink/
