@@ -14,7 +14,7 @@ third_nav_title: School Highlights
 	<tbody>
 					<tr>
 <td><a href="/school-information/school-highlights/p1-orientation-2026/"><img src="/images/Thumbnails/thumbp12026.jpg" alt="p3campifly2024" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/p3-tea-2026/"><img src="/images/Thumbnails/thumbp3tea2026.jpg" alt="p6gamesday2023" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/p3-tea-2026/"><img src="/images/Thumbnails/thumbp3tea2026.jpg" alt="p3tea2026" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/international-friendship-day-2026/"><img src="/images/Thumbnails/thumbifd2026.jpg" alt="p6sep2023" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
