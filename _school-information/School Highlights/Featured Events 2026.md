@@ -44,7 +44,7 @@ third_nav_title: School Highlights
 			</tr>
 			<tr>
 <td><a href="/school-information/school-highlights/chinese-new-year-2026/"><img src="/images/Thumbnails/cny_thumbnail.jpg" alt="cny2026" style="width:250px;height:170px;"></a></td>
-			<td><a href="/school-information/school-highlights/pongal-2026/"><img src="/images/Thumbnails/pongal_thumbnail.jpg" alt="ponggal2026" style="width:250px;height:170px;"></a></td>
+			<td><a href="/school-information/school-highlights/pongal-2026/"><img src="/images/Thumbnails/pongal_thumbnail.jpg" alt="pongal2026" style="width:250px;height:170px;"></a></td>
 	<td><a href="/school-information/school-highlights/total-defence-day-2026/"><img src="/images/Thumbnails/tdd_thumbnail.jpg" alt="tdd2026" style="width:250px;height:170px;"> </a></td>
 </tr>
 		<tr>
