@@ -20,8 +20,8 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/SPOTLIGHT 2026/school_website_popup.jpg
-      description: ✨Celebrate Talent. Honour Resilience. Inspire Passion ✨  Scan the
-        QR code to book your ticket now!
+      description: ✨Ignite Light, Spark Possibilities ✨  Scan the QR code to book your
+        ticket now!
   - infopic:
       title: School Highlights
       button: find out more
