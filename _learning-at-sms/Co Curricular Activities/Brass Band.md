@@ -50,7 +50,7 @@ ____________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/Band_performance_at_National_Day_concert.jpg" style="width:750px;height:350px;"><b>Performance in school for National Day concert 2025</b> </font></center></td>
+		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/Band_performance_at_National_Day_concert.jpg" style="width:750px;height:380px;"><b>Performance in school for National Day concert 2025</b> </font></center></td>
 </tr></tbody></table>
 <table>
 <tbody><tr>
