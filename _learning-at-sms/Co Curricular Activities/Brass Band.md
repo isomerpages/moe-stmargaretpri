@@ -54,5 +54,5 @@ ____________________________________________________________
 </tr></tbody></table>
 <table>
 <tbody><tr>
-		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/Band_performance_at_SYF.jpg" style="width:750px;height:350px;"><b>Performance in Singapore Conference Hall for<br> SYF Arts Presentation 2026</b> </font></center></td>
+		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/Band_performance_at_SYF.jpg" style="width:750px;height:500px;"><b>Performance in Singapore Conference Hall for<br> SYF Arts Presentation 2026</b> </font></center></td>
 </tr></tbody></table>
