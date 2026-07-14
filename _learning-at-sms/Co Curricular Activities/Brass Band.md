@@ -45,7 +45,7 @@ ____________________________________________________________
 </tr></tbody></table>
 <table>
 <tbody><tr>
-		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/spotlight_2024.jpg" style="width:750px;height:450px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b> </font></center></td>
+		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/spotlight_2024.jpg" style="width:750px;height:480px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b> </font></center></td>
 </tr></tbody></table>
 
 <table>
