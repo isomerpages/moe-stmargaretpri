@@ -27,28 +27,34 @@ variant: markdown
 ### Overview
 ____________________________________________________________
 
+The SMS(P) Brass Band provides students with opportunities to develop musicianship, discipline, teamwork and confidence through music-making. Members learn a variety of percussion instruments while building resilience, responsibility and collaboration through regular rehearsals and performances.
 
-SMS(P) Brass Band plays music of different genres including classical and pop music. In the recent Spotlight concert, they played ***Music*** from Frozen arranged by Johnnie Vinson and ⁠***Shake It Off*** arranged by Michael Brown. The band seeks to inspire students to appreciate music through resilience and performance opportunities. Students also learn to encourage one another through games and practices. We aim to offer a holistic experience which encompasses music performance, breathing technique and peer mentoring.
+In 2025, the ensemble performed at the school's National Day Concert, presenting a lively repertoire that celebrated Singapore's multicultural heritage and brought the school community together through music. 
+
+In 2026, the band participated in the Singapore Youth Festival (SYF) Arts Presentation and was awarded a Certificate of Accomplishment, recognising the students' dedication, musical growth and teamwork after months of committed preparation.
+
+Through these enriching experiences, members develop a passion for music while embodying the school values of Charity, Patience and Devotion, growing into confident performers and gracious team players.
+
 
 ### Activities
 ____________________________________________________________
 
 <table>
 <tbody><tr>
-		<td><center><font size="3"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/balloon_exercise_2.jpg" style="width:500px;height:280px;"><b>Blowing balloon is an interesting way to learn how to blow into wind instruments.</b></font></center></td>
-		<td><center><font size="3"><img alt="dancersspotlight" src="/images/CCAs/Brass%20Band/breathing_exercise_1.jpg" style="width:400px;height:280px;"><b>Breathing exercise (from the nose, mouth)</b> </font></center></td>
-</tr></tbody></table>
-
-
-
-##### Collaboration with SMS(S) Band for SPOTLIGHT 2024
-
-<table>
-<tbody><tr>
-		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/spotlight_2024.jpg" style="width:800px;height:500px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b> </font></center></td>
-</tr></tbody></table>
-
-<table>
-<tbody><tr>
 		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/collab_with_SMSS.jpg" style="width:700px;height:350px;"><b>Collaboration with SMS(S) Band for SPOTLIGHT 2024</b> </font></center></td>
 </tr></tbody></table>
+<table>
+<tbody><tr>
+		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/spotlight_2024.jpg" style="width:750px;height:350px;"><b>All ready for SPOTLIGHT 2024 with SMS(S) Band</b> </font></center></td>
+</tr></tbody></table>
+
+<table>
+<tbody><tr>
+		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/Band_performance_at_National_Day_concert.jpg" style="width:750px;height:350px;"><b>Performance in school for National Day concert 2025</b> </font></center></td>
+</tr></tbody></table>
+<table>
+<tbody><tr>
+		<td><center><font size="4"><img alt="choirspotlight" src="/images/CCAs/Brass%20Band/Band_performance_at_SYF.jpg" style="width:750px;height:350px;"><b>Performance in Singapore Conference Hall for<br> SYF Arts Presentation 2026</b> </font></center></td>
+</tr></tbody></table>
+
+
