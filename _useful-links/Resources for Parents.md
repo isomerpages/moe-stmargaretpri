@@ -26,7 +26,7 @@ variant: markdown
 </tr>
 		<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 160px; height: 130px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/cyberwellness_for_parents_p5_p6.jpg"></font></td>
-		<td><font size="4"><a href="/files/P5___P6__Cyber_Wellness_Parenting_with_Confidence_Engagement_Deck(1).pdf" target="_blank"><b>Cyber Wellness Parenting with Confidence (P5 - P6)</b></a><br>A Quick Guide for Parents on cyberwellness.<br></font></td>
+		<td><font size="4"><a href="/files/P5___P6__Cyber_Wellness_Parenting_with_Confidence_Engagement_Deck__1_.pdf" target="_blank"><b>Cyber Wellness Parenting with Confidence (P5 - P6)</b></a><br>A Quick Guide for Parents on cyberwellness.<br></font></td>
 <td><font size="4"><b></b></font></td>
 </tr>
 		<tr>
