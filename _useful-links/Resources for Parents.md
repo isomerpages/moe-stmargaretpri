@@ -4,7 +4,6 @@ permalink: /useful-links/resources-for-parents/
 description: ""
 variant: markdown
 ---
-![](/images/Resources/cyberwellness_for_parents_p5_p6.jpg)
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
