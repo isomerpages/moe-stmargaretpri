@@ -4,6 +4,8 @@ permalink: /useful-links/resources-for-parents/
 description: ""
 variant: markdown
 ---
+
+![](/images/Resources/cyberwellness_for_parents_p5_p6.jpg)
 <table>
 	<tbody><tr>
 		<th><font color="maroon" size="5">
@@ -14,7 +16,22 @@ variant: markdown
 		<td><font size="4"><b>Description &amp; Link</b></font></td>
 	<td><font size="4"><b></b></font></td>
 </tr>
-				<tr>
+			<tr>
+		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 160px; height: 130px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/cyberwellness_for_parents_p1_p2.jpg"></font></td>
+		<td><font size="4"><a href="/files/Primary_1___3__EdTech_Parenting_with_Confidence_Engagement_Deck.pdf" target="_blank"><b>Cyber Wellness Parenting with Confidence (P1 - P2)</b></a><br>A Quick Guide for Parents on cyberwellness.<br></font></td>
+<td><font size="4"><b></b></font></td>
+</tr>
+			<tr>
+		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 160px; height: 130px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/cyberwellness_for_parents_p3_p4.jpg"></font></td>
+		<td><font size="4"><a href="/files/Primary_1___3__EdTech_Parenting_with_Confidence_Engagement_Deck.pdf" target="_blank"><b>Cyber Wellness Parenting with Confidence (P3 - P4)</b></a><br>A Quick Guide for Parents on cyberwellness.<br></font></td>
+<td><font size="4"><b></b></font></td>
+</tr>
+		<tr>
+		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 160px; height: 130px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/cyberwellness_for_parents_p5_p6.jpg"></font></td>
+		<td><font size="4"><a href="/files/Primary_1___3__EdTech_Parenting_with_Confidence_Engagement_Deck.pdf" target="_blank"><b>Cyber Wellness Parenting with Confidence (P5 - P6)</b></a><br>A Quick Guide for Parents on cyberwellness.<br></font></td>
+<td><font size="4"><b></b></font></td>
+</tr>
+		<tr>
 		<td><font size="4"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 160px; height: 130px;" class="ive_eobj_center" alt="1.png" src="/images/Resources/EdTech_Parenting_p1_to_6.jpg"></font></td>
 		<td><font size="4"><a href="/files/Primary_1___3__EdTech_Parenting_with_Confidence_Engagement_Deck.pdf" target="_blank"><b>EdTech Parenting with Confidence (P1 - P3)</b></a><br>A Quick Guide for Parents on GenAI<br></font></td>
 <td><font size="4"><b></b></font></td>
