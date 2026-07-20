@@ -35,7 +35,7 @@ At the end of Primary 2, students will attend the CCA Open House. They will be i
 
 The aim of the Primary 3 modular programme is to expose students to the breadth of CCA choices and encourage them to explore their interests. The students will experience 2 different CCAs within the year so as to allow them to make a more informed decision on their CCA choice when they are in Primary 4.
 
-### Co-Curricular Schedule for 2025
+### Co-Curricular Schedule for 2026
 
 <style type="text/rolandcss">
 .tg  {border-collapse:collapse;border-spacing:0;}
