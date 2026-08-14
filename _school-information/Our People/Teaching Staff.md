@@ -143,7 +143,7 @@ third_nav_title: Our People
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 GRACIOUSNESS</td>
 		<td>Ms Charissa Chan Soek Yee</td>
-	<td>Mr Low Yong Ming<br>Ms Shirley Seah<br>Mr Pradipdatta S/O Puvanendran</td>
+	<td>Ms Shirley Seah<br>Mr Pradipdatta S/O Puvanendran</td>
 </tr>
 	<tr style="background-color:white;color:black;font-size:15px">
 		<td>3 HUMILITY</td>
