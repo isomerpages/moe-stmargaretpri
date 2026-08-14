@@ -31,6 +31,10 @@ third_nav_title: Our People
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Corporate Support Officer (CSO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Arstiah Sulaiman</td>
   </tr>
+					<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Corporate Support Officer (CSO)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mdm Hazlin Nirwati Bte Abu</td>
+  </tr>
 </tbody></table>
 
 ##### **Operation**
@@ -86,7 +90,6 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Chua Zi Shuang</td>
   </tr>
-		  
 			<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Mrs Nathalie Wong Huili</td>
