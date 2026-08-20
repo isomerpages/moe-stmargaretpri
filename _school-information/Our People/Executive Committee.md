@@ -41,6 +41,10 @@ third_nav_title: Our People
     <td style="border: 1px solid #000; padding: 8px;">Operations Manager</td>
     <td style="border: 1px solid #000; padding: 8px;">Mr Rajan Sathimurthy</td>
   </tr>
+			<tr style="border: 1px solid #000; padding: 8px;">
+    <td style="border: 1px solid #000; padding: 8px;">ICT Manager</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mr Chua Soon Hua</td>
+  </tr>
 	<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px;">School Staff Developer</td>
     <td style="border: 1px solid #000; padding: 8px;">Mrs Teo Wai Yee</td>
