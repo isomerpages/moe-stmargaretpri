@@ -96,7 +96,7 @@ third_nav_title: Our People
   </tr>
 			<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Nathalie Wong Huili</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Nathalie Wee Huili (Mrs Wong)</td>
   </tr>
 </tbody></table> 
 
