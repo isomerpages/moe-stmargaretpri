@@ -65,6 +65,10 @@ third_nav_title: Our People
         <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Support Officer (OSO)</td>
     <td style="border: 1px solid #000; padding: 8px;">Ms Jesslyn Choo Kuan Hong</td>
   </tr>
+			<tr style="border: 1px solid #000; padding: 8px;">
+        <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Operations Support Officer (OSO)</td>
+    <td style="border: 1px solid #000; padding: 8px;">Mdm Mary Heah</td>
+  </tr>
 </tbody></table> 
 
 
@@ -92,7 +96,7 @@ third_nav_title: Our People
   </tr>
 			<tr style="border: 1px solid #000; padding: 8px;">
     <td style="border: 1px solid #000; padding: 8px; background-color: darkgreen; color: white">Special Educational Needs Officer (SENO)</td>
-    <td style="border: 1px solid #000; padding: 8px;">Mrs Nathalie Wong Huili</td>
+    <td style="border: 1px solid #000; padding: 8px;">Ms Nathalie Wee Huili (Mrs Wong)</td>
   </tr>
 </tbody></table> 
 

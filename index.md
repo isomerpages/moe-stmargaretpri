@@ -11,17 +11,10 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/moe-sexuality-edu-2026/
+          url: /announcements/teachers-day-visiting-smsp-2026/
         - title: Calendar
           description: ""
           url: /useful-links/calendar2024/
-  - infopic:
-      title: Spotlight 3.0
-      id: infopic
-      alt: Image alt text
-      image: /images/SPOTLIGHT 2026/school_website_popup.jpg
-      description: ✨Ignite Light, Spark Possibilities ✨    Scan the QR code to book
-        your ticket now!
   - infopic:
       title: School Highlights
       button: find out more
