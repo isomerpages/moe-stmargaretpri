@@ -15,7 +15,7 @@ SMS(P) has vacancy for
 </tr>
 	<tr>
 		<td>Halal Cuisine (Noodle/Rice)</td>
-		<td>30 June 2026</td>
+		<td>30 Nov 2026</td>
 	  <td>Rice or noodle stalls are acceptable</td>
 </tr>
 	</tbody></table>
